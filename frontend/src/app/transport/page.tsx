@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useMemo } from "react"
+import { useTranslations } from 'next-intl'
 import { useQuery } from "@tanstack/react-query"
 import {
     Truck,
@@ -94,6 +95,8 @@ const VEHICLE_LABELS: Record<string, string> = {
 }
 
 export default function TransportPage() {
+    const t = useTranslations('transport')
+    const tc = useTranslations('common')
     const [loading, setLoading] = useState(false)
     const [results, setResults] = useState<TransportResult[] | null>(null)
     const [commoditySearch, setCommoditySearch] = useState("")
@@ -110,22 +113,24 @@ export default function TransportPage() {
 
     const [costSettings, setCostSettings] = useState({
         freightRates: {
-            tataAce: 18,  // Updated for 2026 diesel prices
-            miniTruck: 22,
-            lcv: 28,
-            truck: 32,
-            tenWheeler: 42,
-            multiAxle: 60
+            tataAce: 18,       // Tata Ace / Mini Truck: ₹10-25/km range
+            miniTruck: 22,     // Larger mini trucks
+            lcv: 28,           // Eicher Pro / Tata 407: ₹15-40/km range
+            truck: 32,         // Medium trucks
+            tenWheeler: 42,    // 10-wheeler HCV
+            multiAxle: 60      // Multi-axle heavy
         },
-        loadingPerQuintal: 3.5,  // Realistic hamali rates
-        loadingPerTrip: 120,
-        unloadingPerQuintal: 3.0,
-        unloadingPerTrip: 100,
-        weighbridge: 80,
-        parking: 50,
-        misc: 70,  // Documentation fees
-        tollPerPlaza: { light: 110, medium: 210, heavy: 360 },  // 2026 NHAI rates
-        tollPlazaSpacing: 60,
+        loadingPerQuintal: 15,   // APMC hamali rates: ₹10-25/quintal avg
+        loadingPerTrip: 0,       // Per-trip loading (optional, most charge per quintal)
+        unloadingPerQuintal: 12, // Slightly lower than loading
+        unloadingPerTrip: 0,     // Per-trip unloading (optional)
+        driverAllowance: 800,    // Driver daily wage + food: ₹800-1200/day
+        maintenance: 2,          // Vehicle wear & tear: ₹2-3/km
+        weighbridge: 80,         // ₹50-100 range
+        parking: 50,             // Mandi parking
+        misc: 70,                // Documentation fees (bilty, permits, receipts)
+        tollPerPlaza: { light: 110, medium: 200, heavy: 350 },  // NHAI 2025-26 rates
+        tollPlazaSpacing: 60,    // NHAI standard ~60km between plazas
     })
 
     const { data: allCommodities } = useQuery({
@@ -232,10 +237,10 @@ export default function TransportPage() {
                     <div className="space-y-2">
                         <h1 className="text-3xl font-bold tracking-tight text-foreground flex items-center gap-2">
                             <Truck className="h-8 w-8 text-primary" />
-                            Transport Cost Calculator
+                            {t('title')}
                         </h1>
                         <p className="text-muted-foreground">
-                            Calculate transport costs and find the most profitable mandi for your produce
+                            {t('subtitle')}
                         </p>
                     </div>
 
@@ -244,19 +249,19 @@ export default function TransportPage() {
                         <CardHeader>
                             <CardTitle className="flex items-center gap-2">
                                 <Truck className="h-5 w-5 text-orange-600" />
-                                Transport Cost Calculator
+                                {t('title')}
                             </CardTitle>
-                            <CardDescription>Calculate transport costs and find the most profitable mandi for your produce</CardDescription>
+                            <CardDescription>{t('subtitle')}</CardDescription>
                         </CardHeader>
                         <CardContent>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
                                 {/* Searchable Commodity */}
                                 <div className="relative">
-                                    <Label>Commodity *</Label>
+                                    <Label>{tc('commodity')} *</Label>
                                     <div className="relative mt-1">
                                         <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400" />
                                         <Input
-                                            placeholder="Search commodity..."
+                                            placeholder={t('selectCommodity')}
                                             value={form.commodity || commoditySearch}
                                             onChange={(e) => {
                                                 setCommoditySearch(e.target.value)
@@ -271,7 +276,7 @@ export default function TransportPage() {
                                             <div className="fixed inset-0 z-40" onClick={() => setIsCommodityDropdownOpen(false)} />
                                             <div className="absolute z-50 w-full mt-1 bg-popover border border-border rounded-md shadow-md max-h-52 overflow-y-auto">
                                                 {filteredCommodities.length === 0 ? (
-                                                    <div className="px-3 py-2 text-sm text-muted-foreground">No commodities found</div>
+                                                    <div className="px-3 py-2 text-sm text-muted-foreground">{tc('noResults')}</div>
                                                 ) : (
                                                     filteredCommodities.map((c: string) => (
                                                         <div
@@ -294,28 +299,28 @@ export default function TransportPage() {
 
                                 {/* Quantity */}
                                 <div>
-                                    <Label>Quantity *</Label>
+                                    <Label>{tc('quantity')} *</Label>
                                     <div className="flex gap-2 mt-1">
                                         <Input
                                             type="number"
-                                            placeholder="Enter amount"
+                                            placeholder={tc('amount')}
                                             value={form.quantity}
                                             onChange={(e) => setForm({ ...form, quantity: e.target.value })}
                                         />
                                         <Select value={form.unit} onValueChange={(v) => setForm({ ...form, unit: v })}>
                                             <SelectTrigger className="w-24"><SelectValue /></SelectTrigger>
                                             <SelectContent>
-                                                <SelectItem value="kg">kg</SelectItem>
-                                                <SelectItem value="quintal">Quintal</SelectItem>
+                                                <SelectItem value="kg">{tc('kg')}</SelectItem>
+                                                <SelectItem value="quintal">{tc('quintal')}</SelectItem>
                                                 <SelectItem value="ton">Ton</SelectItem>
                                             </SelectContent>
                                         </Select>
                                     </div>
                                 </div>
 
-                                {/* State */}
+                                {/* Origin State */}
                                 <div>
-                                    <Label>State</Label>
+                                    <Label>{t('origin')} *</Label>
                                     <Select value={form.source_state} onValueChange={(v) => setForm({ ...form, source_state: v, source_district: "" })}>
                                         <SelectTrigger className="mt-1"><SelectValue /></SelectTrigger>
                                         <SelectContent>
@@ -324,11 +329,11 @@ export default function TransportPage() {
                                     </Select>
                                 </div>
 
-                                {/* District */}
+                                {/* District (within origin state) */}
                                 <div>
-                                    <Label>District *</Label>
+                                    <Label>{t('district')} *</Label>
                                     <Select value={form.source_district} onValueChange={(v) => setForm({ ...form, source_district: v })}>
-                                        <SelectTrigger className="mt-1"><SelectValue placeholder="Select district" /></SelectTrigger>
+                                        <SelectTrigger className="mt-1"><SelectValue placeholder={t('selectDistrict')} /></SelectTrigger>
                                         <SelectContent>
                                             {currentDistricts.map((d) => <SelectItem key={d} value={d}>{d}</SelectItem>)}
                                         </SelectContent>
@@ -340,7 +345,7 @@ export default function TransportPage() {
                                     <Label>&nbsp;</Label>
                                     <Button onClick={handleCalculate} disabled={loading} className="w-full mt-1 bg-orange-600 hover:bg-orange-700">
                                         {loading ? <Loader2 className="h-4 w-4 animate-spin mr-2" /> : <Truck className="h-4 w-4 mr-2" />}
-                                        Calculate
+                                        {loading ? t('calculating') : t('calculate')}
                                     </Button>
                                 </div>
                             </div>
@@ -352,7 +357,7 @@ export default function TransportPage() {
                         <Card className="border-orange-300 bg-orange-50/50">
                             <CardContent className="py-8 text-center">
                                 <Truck className="h-12 w-12 mx-auto text-orange-400 mb-3" />
-                                <h3 className="text-lg font-semibold text-orange-700 mb-1">No Mandis Found</h3>
+                                <h3 className="text-lg font-semibold text-orange-700 mb-1">{t('noResults')}</h3>
                                 <p className="text-sm text-muted-foreground max-w-md mx-auto">
                                     No mandis with recent price data were found for <strong>{form.commodity}</strong> near <strong>{form.source_district}, {form.source_state}</strong>.
                                     Try a different commodity, district, or check if price data is available.
@@ -369,26 +374,26 @@ export default function TransportPage() {
                                     <CardHeader>
                                         <CardTitle className="flex items-center gap-2 text-green-700">
                                             <TrendingUp className="h-5 w-5" />
-                                            Why {results[0].mandi_name} is the Best Option
+                                            {t('bestMandi')}: {results[0].mandi_name}
                                         </CardTitle>
                                     </CardHeader>
                                     <CardContent>
                                         <div className="space-y-4">
                                             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                                                 <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Highest Net Profit</p>
+                                                    <p className="text-sm text-muted-foreground mb-1">{t('netProfit')}</p>
                                                     <p className="text-2xl font-bold text-green-600">₹{results[0].net_profit.toLocaleString()}</p>
                                                     <p className="text-xs text-muted-foreground mt-1">
                                                         ₹{(results[0].net_profit / parseFloat(form.quantity || "1")).toFixed(0)} per {form.unit}
                                                     </p>
                                                 </div>
                                                 <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Best ROI</p>
+                                                    <p className="text-sm text-muted-foreground mb-1">{t('recommendation')}</p>
                                                     <p className="text-2xl font-bold text-blue-600">{results[0].roi_percentage.toFixed(1)}%</p>
                                                     <p className="text-xs text-muted-foreground mt-1">Return on investment</p>
                                                 </div>
                                                 <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Optimal Distance</p>
+                                                    <p className="text-sm text-muted-foreground mb-1">{t('distance')}</p>
                                                     <p className="text-2xl font-bold text-orange-600">{results[0].distance_km} km</p>
                                                     <p className="text-xs text-muted-foreground mt-1">Est. {results[0].arrival_time} travel time</p>
                                                 </div>
@@ -424,7 +429,7 @@ export default function TransportPage() {
                         <Card>
                             <CardHeader>
                                 <CardTitle className="flex items-center justify-between">
-                                    <span>Transport Comparison Results</span>
+                                    <span>{t('results')}</span>
                                     <Badge variant="outline">{form.commodity} - {form.quantity} {form.unit}</Badge>
                                 </CardTitle>
                                 <CardDescription>All mandis ranked by profitability (highest profit first)</CardDescription>
@@ -434,14 +439,14 @@ export default function TransportPage() {
                                     <Table>
                                         <TableHeader>
                                             <TableRow>
-                                                <TableHead>Mandi</TableHead>
-                                                <TableHead className="text-right">Distance</TableHead>
-                                                <TableHead className="text-right">Price/quintal</TableHead>
-                                                <TableHead className="text-right">Transport Cost</TableHead>
-                                                <TableHead>Vehicle</TableHead>
-                                                <TableHead>Est. Time</TableHead>
+                                                <TableHead>{tc('mandi')}</TableHead>
+                                                <TableHead className="text-right">{t('distance')}</TableHead>
+                                                <TableHead className="text-right">{tc('price')}/{tc('quintal')}</TableHead>
+                                                <TableHead className="text-right">{t('totalCost')}</TableHead>
+                                                <TableHead>{t('vehicleType')}</TableHead>
+                                                <TableHead>{t('estimatedTime')}</TableHead>
                                                 <TableHead className="text-right">ROI</TableHead>
-                                                <TableHead className="text-right">Net Profit</TableHead>
+                                                <TableHead className="text-right">{t('netProfit')}</TableHead>
                                             </TableRow>
                                         </TableHeader>
                                         <TableBody>
@@ -450,7 +455,7 @@ export default function TransportPage() {
                                                     <TableCell className="font-medium">
                                                         <div>{r.mandi_name}</div>
                                                         {r.district && <div className="text-xs text-muted-foreground">{r.district}, {r.state}</div>}
-                                                        {i === 0 && <Badge className="mt-1 bg-green-600">Best Option</Badge>}
+                                                        {i === 0 && <Badge className="mt-1 bg-green-600">{t('bestMandi')}</Badge>}
                                                     </TableCell>
                                                     <TableCell className="text-right">{r.distance_km} km</TableCell>
                                                     <TableCell className="text-right">₹{(r.price_per_kg * 100).toFixed(2)}</TableCell>
@@ -473,28 +478,28 @@ export default function TransportPage() {
                                 {results.length > 0 && (
                                     <div className="mt-6 p-4 bg-muted/50 rounded-lg">
                                         <h4 className="font-semibold mb-3 flex items-center gap-2">
-                                            <TrendingUp className="h-4 w-4" /> Detailed Cost Breakdown (Best Option: {results[0].mandi_name})
+                                            <TrendingUp className="h-4 w-4" /> {t('totalCost')} ({t('bestMandi')}: {results[0].mandi_name})
                                         </h4>
                                         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-sm">
                                             <div className="space-y-1">
-                                                <p className="text-muted-foreground">Freight Cost (Round-trip)</p>
+                                                <p className="text-muted-foreground">{t('fuelCost')}</p>
                                                 <p className="font-medium">₹{results[0].costs.freight.toLocaleString()}</p>
                                                 <p className="text-xs text-muted-foreground">{VEHICLE_LABELS[results[0].vehicle_type] || results[0].vehicle_type} × {results[0].trips} trip(s)</p>
                                             </div>
                                             <div className="space-y-1">
-                                                <p className="text-muted-foreground">Toll Charges</p>
+                                                <p className="text-muted-foreground">{t('tollCost')}</p>
                                                 <p className="font-medium">₹{results[0].costs.toll.toLocaleString()}</p>
                                                 <p className="text-xs text-muted-foreground">Highway tolls (both ways)</p>
                                             </div>
                                             <div className="space-y-1">
-                                                <p className="text-muted-foreground">Loading (Hamali)</p>
+                                                <p className="text-muted-foreground">{t('loadingCost')}</p>
                                                 <p className="font-medium">₹{results[0].costs.loading.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">@₹3.5/quintal</p>
+                                                <p className="text-xs text-muted-foreground">Hamali @₹15/quintal</p>
                                             </div>
                                             <div className="space-y-1">
-                                                <p className="text-muted-foreground">Unloading</p>
+                                                <p className="text-muted-foreground">{t('unloadingCost')}</p>
                                                 <p className="font-medium">₹{results[0].costs.unloading.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">@₹3/quintal</p>
+                                                <p className="text-xs text-muted-foreground">Hamali @₹12/quintal</p>
                                             </div>
                                             <div className="space-y-1">
                                                 <p className="text-muted-foreground">Mandi Fee (1.5%)</p>
@@ -509,15 +514,15 @@ export default function TransportPage() {
                                             <div className="space-y-1">
                                                 <p className="text-muted-foreground">Additional Charges</p>
                                                 <p className="font-medium">₹{results[0].costs.additional.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">Weighbridge, Parking, Docs</p>
+                                                <p className="text-xs text-muted-foreground">Driver, Maintenance, Weighbridge, Parking, Docs</p>
                                             </div>
                                             <div className="space-y-1 col-span-2 md:col-span-3 lg:col-span-4 border-t pt-2 mt-2">
                                                 <div className="flex justify-between items-center">
-                                                    <p className="font-semibold">Total Transport Cost</p>
+                                                    <p className="font-semibold">{t('totalCost')}</p>
                                                     <p className="font-bold text-red-600 text-lg">₹{results[0].costs.total.toLocaleString()}</p>
                                                 </div>
                                                 <div className="flex justify-between items-center text-xs text-muted-foreground mt-1">
-                                                    <span>Includes mandi fee (1.5%) and commission (2.5%)</span>
+                                                    <span>Includes freight, tolls, hamali, mandi fee (1.5%), commission (2.5%), driver, maintenance</span>
                                                     <span>ROI: {results[0].roi_percentage.toFixed(1)}%</span>
                                                 </div>
                                             </div>
@@ -533,7 +538,7 @@ export default function TransportPage() {
                     <Card>
                         <CardHeader className="cursor-pointer hover:bg-muted/50 transition-colors" onClick={() => setShowCostSettings(!showCostSettings)}>
                             <CardTitle className="flex items-center justify-between text-base">
-                                <span className="flex items-center gap-2"><Settings className="h-4 w-4" /> Customize Cost Parameters</span>
+                                <span className="flex items-center gap-2"><Settings className="h-4 w-4" /> {t('costPerKm')}</span>
                                 <Badge variant="outline" className="font-normal">{showCostSettings ? "Hide" : "Show"} Settings</Badge>
                             </CardTitle>
                             <p className="text-sm text-muted-foreground mt-1">
@@ -607,8 +612,8 @@ export default function TransportPage() {
 
                                     {/* Labor Costs */}
                                     <div>
-                                        <h4 className="font-semibold mb-3 text-sm">Labor Costs (Hamali)</h4>
-                                        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                                        <h4 className="font-semibold mb-3 text-sm">Labor Costs (Hamali - APMC notified rates)</h4>
+                                        <div className="grid grid-cols-2 md:grid-cols-2 gap-3">
                                             <div>
                                                 <Label className="text-xs">Loading (₹ per quintal)</Label>
                                                 <Input
@@ -617,15 +622,7 @@ export default function TransportPage() {
                                                     onChange={(e) => setCostSettings({ ...costSettings, loadingPerQuintal: parseFloat(e.target.value) || 0 })}
                                                     className="mt-1 h-8"
                                                 />
-                                            </div>
-                                            <div>
-                                                <Label className="text-xs">Loading (₹ per trip)</Label>
-                                                <Input
-                                                    type="number"
-                                                    value={costSettings.loadingPerTrip}
-                                                    onChange={(e) => setCostSettings({ ...costSettings, loadingPerTrip: parseFloat(e.target.value) || 0 })}
-                                                    className="mt-1 h-8"
-                                                />
+                                                <p className="text-xs text-muted-foreground mt-0.5">Range: ₹10-25/quintal across India</p>
                                             </div>
                                             <div>
                                                 <Label className="text-xs">Unloading (₹ per quintal)</Label>
@@ -635,15 +632,34 @@ export default function TransportPage() {
                                                     onChange={(e) => setCostSettings({ ...costSettings, unloadingPerQuintal: parseFloat(e.target.value) || 0 })}
                                                     className="mt-1 h-8"
                                                 />
+                                                <p className="text-xs text-muted-foreground mt-0.5">Range: ₹8-20/quintal across India</p>
                                             </div>
+                                        </div>
+                                    </div>
+
+                                    {/* Driver & Maintenance */}
+                                    <div>
+                                        <h4 className="font-semibold mb-3 text-sm">Driver & Vehicle Maintenance</h4>
+                                        <div className="grid grid-cols-2 md:grid-cols-2 gap-3">
                                             <div>
-                                                <Label className="text-xs">Unloading (₹ per trip)</Label>
+                                                <Label className="text-xs">Driver Allowance (₹ per trip)</Label>
                                                 <Input
                                                     type="number"
-                                                    value={costSettings.unloadingPerTrip}
-                                                    onChange={(e) => setCostSettings({ ...costSettings, unloadingPerTrip: parseFloat(e.target.value) || 0 })}
+                                                    value={costSettings.driverAllowance}
+                                                    onChange={(e) => setCostSettings({ ...costSettings, driverAllowance: parseFloat(e.target.value) || 0 })}
                                                     className="mt-1 h-8"
                                                 />
+                                                <p className="text-xs text-muted-foreground mt-0.5">Daily wage + food: ₹800-1200</p>
+                                            </div>
+                                            <div>
+                                                <Label className="text-xs">Maintenance (₹ per km)</Label>
+                                                <Input
+                                                    type="number"
+                                                    value={costSettings.maintenance}
+                                                    onChange={(e) => setCostSettings({ ...costSettings, maintenance: parseFloat(e.target.value) || 0 })}
+                                                    className="mt-1 h-8"
+                                                />
+                                                <p className="text-xs text-muted-foreground mt-0.5">Tyres, servicing, wear: ₹2-3/km</p>
                                             </div>
                                         </div>
                                     </div>
@@ -671,7 +687,7 @@ export default function TransportPage() {
                                                 />
                                             </div>
                                             <div>
-                                                <Label className="text-xs">Miscellaneous (Documentation, etc.)</Label>
+                                                <Label className="text-xs">Miscellaneous (Bilty, Permits, Docs)</Label>
                                                 <Input
                                                     type="number"
                                                     value={costSettings.misc}
@@ -686,9 +702,10 @@ export default function TransportPage() {
                                     <div className="flex justify-end pt-2 border-t">
                                         <Button variant="outline" size="sm" onClick={() => setCostSettings({
                                             freightRates: { tataAce: 18, miniTruck: 22, lcv: 28, truck: 32, tenWheeler: 42, multiAxle: 60 },
-                                            loadingPerQuintal: 3.5, loadingPerTrip: 120, unloadingPerQuintal: 3.0, unloadingPerTrip: 100,
+                                            loadingPerQuintal: 15, loadingPerTrip: 0, unloadingPerQuintal: 12, unloadingPerTrip: 0,
+                                            driverAllowance: 800, maintenance: 2,
                                             weighbridge: 80, parking: 50, misc: 70,
-                                            tollPerPlaza: { light: 110, medium: 210, heavy: 360 },
+                                            tollPerPlaza: { light: 110, medium: 200, heavy: 350 },
                                             tollPlazaSpacing: 60,
                                         })}>Reset to Default Rates (2026)</Button>
                                     </div>

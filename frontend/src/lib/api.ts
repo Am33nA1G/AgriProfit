@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { perfMonitor } from '@/utils/performance-monitor';
 
-const baseURL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:8000/api/v1';
+const baseURL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
 const api = axios.create({
     baseURL,

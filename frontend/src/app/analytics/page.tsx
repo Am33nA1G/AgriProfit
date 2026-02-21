@@ -129,31 +129,42 @@ function PriceTrendsTab({ dashboardData, pricesData, isLoading }: { dashboardDat
   const priceTrendsData = useMemo(() => {
     if (!historicalData) return [];
 
-    // Build a date -> commodity prices map
-    const dateMap: Record<string, Record<string, number>> = {};
+    // Build a date -> commodity prices map from raw data
+    const priceMap: Record<string, Record<string, number>> = {};
+    let minDate: string | null = null;
+    let maxDate: string | null = null;
+
     for (const { commodity, data } of historicalData) {
       for (const point of data) {
-        const dateStr = new Date(point.date).toLocaleDateString("en-IN", { month: "short", day: "numeric" });
-        if (!dateMap[point.date]) dateMap[point.date] = { _raw: 0 } as any;
-        (dateMap[point.date] as any)._raw = point.date;
-        dateMap[point.date][commodity] = point.price;
+        const dateStr = point.date; // ISO date string e.g. "2026-01-20"
+        if (!priceMap[dateStr]) priceMap[dateStr] = {};
+        priceMap[dateStr][commodity] = point.price;
+
+        if (!minDate || dateStr < minDate) minDate = dateStr;
+        if (!maxDate || dateStr > maxDate) maxDate = dateStr;
       }
     }
 
-    // Sort by raw date and format
-    return Object.entries(dateMap)
-      .sort(([a], [b]) => a.localeCompare(b))
-      .map(([rawDate, values]) => {
-        const entry: Record<string, string | number> = {
-          date: new Date(rawDate).toLocaleDateString("en-IN", { month: "short", day: "numeric" }),
-        };
-        for (const commodity of selectedCommodities) {
-          if (values[commodity] !== undefined) {
-            entry[commodity] = values[commodity];
-          }
-        }
-        return entry;
-      });
+    if (!minDate || !maxDate) return [];
+
+    // Generate continuous date range from min to max
+    const result: Record<string, string | number | undefined>[] = [];
+    const current = new Date(minDate + "T00:00:00");
+    const end = new Date(maxDate + "T00:00:00");
+
+    while (current <= end) {
+      const isoDate = current.toISOString().slice(0, 10);
+      const entry: Record<string, string | number | undefined> = {
+        date: current.toLocaleDateString("en-IN", { month: "short", day: "numeric" }),
+      };
+      for (const commodity of selectedCommodities) {
+        entry[commodity] = priceMap[isoDate]?.[commodity];
+      }
+      result.push(entry);
+      current.setDate(current.getDate() + 1);
+    }
+
+    return result;
   }, [historicalData, selectedCommodities]);
 
   // Fetch real current prices for the price table
@@ -270,7 +281,7 @@ function PriceTrendsTab({ dashboardData, pricesData, isLoading }: { dashboardDat
                 <YAxis tick={{ fontSize: 11 }} tickFormatter={(v: number) => `₹${v.toFixed(0)}`} />
                 <Tooltip formatter={(value) => value != null ? [`₹${Number(value).toFixed(2)}`, ""] : ["", ""]} />
                 <Legend />
-                {selectedCommodities.map((c, i) => <Line key={c} type="monotone" dataKey={c} stroke={CHART_COLORS[i]} strokeWidth={2} dot={timeRange !== "90"} />)}
+                {selectedCommodities.map((c, i) => <Line key={c} type="monotone" dataKey={c} stroke={CHART_COLORS[i]} strokeWidth={2} dot={timeRange !== "90"} connectNulls />)}
               </LineChart>
             </ResponsiveContainer>
           </div>

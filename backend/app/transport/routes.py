@@ -14,7 +14,13 @@ from app.transport.schemas import (
     TransportCompareResponse,
     VehicleType,
 )
-from app.transport.service import compare_mandis, VEHICLES, DISTRICT_COORDINATES
+from app.transport.service import (
+    compare_mandis, VEHICLES, DISTRICT_COORDINATES,
+    LOADING_COST_PER_KG, UNLOADING_COST_PER_KG,
+    MANDI_FEE_RATE, COMMISSION_RATE,
+    DRIVER_ALLOWANCE_PER_TRIP, MAINTENANCE_COST_PER_KM,
+    WEIGHBRIDGE_FEE, PARKING_FEE, DOCUMENTATION_FEE,
+)
 from pydantic import BaseModel, Field
 
 
@@ -87,11 +93,13 @@ async def calculate_transport_cost(
             detail=f"{vehicle_type} can only carry up to {vehicle_capacity} kg. Use a larger vehicle."
         )
     
-    # Calculate costs
-    transport_cost = distance_km * VEHICLES[vehicle]["cost_per_km"] * 2  # Round trip
-    loading_cost = quantity_kg * 0.40
-    unloading_cost = quantity_kg * 0.40
-    total_cost = transport_cost + loading_cost + unloading_cost
+    # Calculate costs (one-way freight; transporter rates factor in return)
+    transport_cost = distance_km * VEHICLES[vehicle]["cost_per_km"]
+    loading_cost = quantity_kg * LOADING_COST_PER_KG
+    unloading_cost = quantity_kg * UNLOADING_COST_PER_KG
+    driver_and_misc = DRIVER_ALLOWANCE_PER_TRIP + WEIGHBRIDGE_FEE + PARKING_FEE + DOCUMENTATION_FEE
+    maintenance = MAINTENANCE_COST_PER_KM * distance_km
+    total_cost = transport_cost + loading_cost + unloading_cost + driver_and_misc + maintenance
     
     return {
         "commodity": commodity,
@@ -168,17 +176,21 @@ async def compare_transport_options(
     analyzes all available mandis and returns a ranked list based
     on net profit after transport and market costs.
 
-    **Vehicle Selection:**
-    - Tempo: Up to 2,000 kg (₹12/km)
-    - Small Truck: Up to 5,000 kg (₹18/km)
-    - Large Truck: Up to 10,000 kg (₹25/km)
+    **Vehicle Selection (Feb 2026 rates):**
+    - Tempo: Up to 2,000 kg (₹18/km)
+    - LCV: Up to 7,000 kg (₹28/km)
+    - HCV: Up to 15,000 kg (₹35/km)
 
     **Cost Components:**
-    - Transport: Round-trip vehicle cost
-    - Loading: ₹0.40/kg at source
-    - Unloading: ₹0.40/kg at destination
-    - Mandi Fee: 2% of gross revenue
+    - Freight: One-way vehicle cost (transporter rates factor in return)
+    - Toll: NHAI toll both ways (₹110-350/plaza by vehicle)
+    - Loading: ₹15/quintal (hamali)
+    - Unloading: ₹12/quintal (hamali)
+    - Mandi Fee: 1.5% of gross revenue
     - Commission: 2.5% of gross revenue
+    - Driver: ₹800/trip allowance
+    - Maintenance: ₹2/km vehicle wear
+    - Additional: Weighbridge ₹80 + Parking ₹50 + Docs ₹70
 
     Args:
         request: TransportCompareRequest with commodity, quantity, source
@@ -266,26 +278,23 @@ async def get_vehicle_options() -> dict:
     """
     return {
         "vehicles": {
-            VehicleType.TEMPO.value: {
-                "capacity_kg": VEHICLES[VehicleType.TEMPO]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TEMPO]["cost_per_km"],
-                "description": "Small vehicle for loads up to 2000 kg",
-            },
-            VehicleType.TRUCK_SMALL.value: {
-                "capacity_kg": VEHICLES[VehicleType.TRUCK_SMALL]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TRUCK_SMALL]["cost_per_km"],
-                "description": "Medium truck for loads up to 5000 kg",
-            },
-            VehicleType.TRUCK_LARGE.value: {
-                "capacity_kg": VEHICLES[VehicleType.TRUCK_LARGE]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TRUCK_LARGE]["cost_per_km"],
-                "description": "Large truck for loads up to 10000 kg",
-            },
+            v_type.value: {
+                "capacity_kg": v_spec["capacity_kg"],
+                "cost_per_km": v_spec["cost_per_km"],
+                "toll_per_plaza": v_spec["toll_per_plaza"],
+                "description": v_spec["description"],
+            }
+            for v_type, v_spec in VEHICLES.items()
         },
-        "loading_cost_per_kg": 0.40,
-        "unloading_cost_per_kg": 0.40,
-        "mandi_fee_rate": 0.02,
-        "commission_rate": 0.025,
+        "loading_cost_per_kg": LOADING_COST_PER_KG,
+        "unloading_cost_per_kg": UNLOADING_COST_PER_KG,
+        "mandi_fee_rate": MANDI_FEE_RATE,
+        "commission_rate": COMMISSION_RATE,
+        "driver_allowance_per_trip": DRIVER_ALLOWANCE_PER_TRIP,
+        "maintenance_cost_per_km": MAINTENANCE_COST_PER_KM,
+        "weighbridge_fee": WEIGHBRIDGE_FEE,
+        "parking_fee": PARKING_FEE,
+        "documentation_fee": DOCUMENTATION_FEE,
     }
 
 

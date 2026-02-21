@@ -1,4 +1,5 @@
 import pytest
+from unittest.mock import MagicMock
 from app.transport.service import (
     haversine_distance,
     select_vehicle,
@@ -49,8 +50,13 @@ class TestSelectVehicle:
         vehicle = select_vehicle(5000)
         assert vehicle == VehicleType.TRUCK_SMALL
     
-    def test_5001kg_selects_large_truck(self):
+    def test_5001kg_selects_small_truck(self):
+        # TRUCK_SMALL capacity is 7000 kg
         vehicle = select_vehicle(5001)
+        assert vehicle == VehicleType.TRUCK_SMALL
+
+    def test_7001kg_selects_large_truck(self):
+        vehicle = select_vehicle(7001)
         assert vehicle == VehicleType.TRUCK_LARGE
     
     def test_very_large_quantity_selects_large_truck(self):
@@ -59,64 +65,71 @@ class TestSelectVehicle:
 
 class TestCalculateTransportCost:
     def test_tempo_100km(self):
-        # TEMPO: ₹12/km
+        # TEMPO: ₹18/km
         cost = calculate_transport_cost(100, VehicleType.TEMPO)
-        assert cost == 1200
-    
+        assert cost == 1800
+
     def test_small_truck_250km(self):
-        # TRUCK_SMALL: ₹18/km
+        # TRUCK_SMALL: ₹28/km
         cost = calculate_transport_cost(250, VehicleType.TRUCK_SMALL)
-        assert cost == 4500
-    
+        assert cost == 7000
+
     def test_large_truck_500km(self):
-        # TRUCK_LARGE: ₹25/km
+        # TRUCK_LARGE: ₹35/km
         cost = calculate_transport_cost(500, VehicleType.TRUCK_LARGE)
-        assert cost == 12500
-    
+        assert cost == 17500
+
     def test_zero_distance(self):
         cost = calculate_transport_cost(0, VehicleType.TEMPO)
         assert cost == 0
-    
+
     def test_fractional_distance(self):
+        # TRUCK_SMALL: ₹28/km → 123.45 * 28 = 3456.6
         cost = calculate_transport_cost(123.45, VehicleType.TRUCK_SMALL)
-        assert cost == pytest.approx(2222.1, rel=0.01)
+        assert cost == pytest.approx(3456.6, rel=0.01)
 
 class TestCalculateNetProfit:
     def test_complete_calculation(self):
-        # 5000 kg Wheat, ₹30/kg, 250km, TRUCK_SMALL
+        # 5000 kg Wheat, ₹30/kg, 250km, TRUCK_SMALL (capacity 7000 kg → 1 trip)
         result = calculate_net_profit(
             price_per_kg=30.0,
             quantity_kg=5000,
             distance_km=250,
             vehicle_type=VehicleType.TRUCK_SMALL
         )
-        
+
         # Gross revenue: 5000 * 30 = 150,000
         assert result['gross_revenue'] == 150000
-        
-        # Transport: 250 * 18 = 4,500
-        assert result['transport_cost'] == 4500
-        
-        # Loading: 5000 * 0.40 = 2,000
-        assert result['loading_cost'] == 2000
-        
-        # Unloading: 5000 * 0.40 = 2,000
-        assert result['unloading_cost'] == 2000
-        
-        # Mandi fee: 150,000 * 0.02 = 3,000
-        assert result['mandi_fee'] == 3000
-        
+
+        # Transport: 250 * 28 = 7,000 (one-way, 1 trip)
+        assert result['transport_cost'] == 7000
+
+        # Toll: round(250/60) = 4 plazas × ₹200/plaza × 2 ways × 1 trip = 1,600
+        assert result['toll_cost'] == 1600
+
+        # Loading: 5000 * 0.15 = 750
+        assert result['loading_cost'] == 750
+
+        # Unloading: 5000 * 0.12 = 600
+        assert result['unloading_cost'] == 600
+
+        # Mandi fee: 150,000 * 0.015 = 2,250
+        assert result['mandi_fee'] == 2250
+
         # Commission: 150,000 * 0.025 = 3,750
         assert result['commission'] == 3750
-        
-        # Total cost: 4500 + 2000 + 2000 + 3000 + 3750 = 15,250
-        assert result['total_cost'] == 15250
-        
-        # Net profit: 150,000 - 15,250 = 134,750
-        assert result['net_profit'] == 134750
-        
-        # Profit per kg: 134,750 / 5000 = 26.95
-        assert result['profit_per_kg'] == pytest.approx(26.95, rel=0.01)
+
+        # Additional: (800 + 80 + 50 + 70 + 2*250) × 1 = 1500
+        assert result['additional_cost'] == 1500
+
+        # Total cost: 7000 + 1600 + 750 + 600 + 2250 + 3750 + 1500 = 17,450
+        assert result['total_cost'] == 17450
+
+        # Net profit: 150,000 - 17,450 = 132,550
+        assert result['net_profit'] == 132550
+
+        # Profit per kg: 132,550 / 5000 = 26.51
+        assert result['profit_per_kg'] == pytest.approx(26.51, rel=0.01)
     
     def test_zero_distance_minimal_costs(self):
         # Same mandi, no transport
@@ -184,35 +197,45 @@ class TestCompareMandis:
         ]
     
     def test_compare_multiple_mandis(self, sample_request, sample_mandis, monkeypatch):
-        # Mock database query for mandis
+        # Mock database query for mandis and commodity lookup
         def mock_get_mandis(*args, **kwargs):
             return sample_mandis
-        
+
+        mock_commodity = MagicMock()
+        mock_commodity.id = "test-commodity-id"
+        mock_db = MagicMock()
+        mock_db.query.return_value.filter.return_value.first.return_value = mock_commodity
+
         monkeypatch.setattr("app.transport.service.get_mandis_for_commodity", mock_get_mandis)
-        
-        result = compare_mandis(sample_request)
-        
+
+        result = compare_mandis(sample_request, db=mock_db)
+
         # Should return 3 comparisons
         assert len(result) == 3
-        
-        # All should have vehicle_type
+
+        # All should have vehicle_type TRUCK_SMALL (5000 kg < 7000 capacity)
         for comparison in result:
             assert comparison.vehicle_type is not None
             assert comparison.vehicle_type == VehicleType.TRUCK_SMALL
-        
+
         # Should be sorted by net_profit descending
         profits = [c.net_profit for c in result]
         assert profits == sorted(profits, reverse=True)
-    
+
     def test_empty_mandi_list(self, sample_request, monkeypatch):
         def mock_get_mandis(*args, **kwargs):
             return []
-        
+
+        mock_commodity = MagicMock()
+        mock_commodity.id = "test-commodity-id"
+        mock_db = MagicMock()
+        mock_db.query.return_value.filter.return_value.first.return_value = mock_commodity
+
         monkeypatch.setattr("app.transport.service.get_mandis_for_commodity", mock_get_mandis)
-        
-        result = compare_mandis(sample_request)
+
+        result = compare_mandis(sample_request, db=mock_db)
         assert result == []
-    
+
     def test_single_mandi(self, sample_request, monkeypatch):
         def mock_get_mandis(*args, **kwargs):
             return [{
@@ -223,9 +246,14 @@ class TestCompareMandis:
                 "latitude": 30.9010,
                 "longitude": 75.8573
             }]
-        
+
+        mock_commodity = MagicMock()
+        mock_commodity.id = "test-commodity-id"
+        mock_db = MagicMock()
+        mock_db.query.return_value.filter.return_value.first.return_value = mock_commodity
+
         monkeypatch.setattr("app.transport.service.get_mandis_for_commodity", mock_get_mandis)
-        
-        result = compare_mandis(sample_request)
+
+        result = compare_mandis(sample_request, db=mock_db)
         assert len(result) == 1
         assert result[0].mandi_name == "Test Mandi"

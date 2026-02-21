@@ -40,12 +40,18 @@ def create_sqlite_tables(engine):
             id TEXT PRIMARY KEY,
             phone_number VARCHAR(10) NOT NULL UNIQUE,
             role VARCHAR(20) NOT NULL,
+            name VARCHAR(100),
+            age INTEGER,
+            state VARCHAR(50),
             district TEXT,
             language VARCHAR(10) NOT NULL DEFAULT 'en',
+            is_profile_complete BOOLEAN NOT NULL DEFAULT 0,
             created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
             updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
             deleted_at TIMESTAMP,
-            last_login TIMESTAMP
+            last_login TIMESTAMP,
+            is_banned BOOLEAN NOT NULL DEFAULT 0,
+            ban_reason TEXT
         )
         """,
         # OTP requests table
@@ -70,6 +76,21 @@ def create_sqlite_tables(engine):
             market_code VARCHAR(50) NOT NULL UNIQUE,
             latitude FLOAT,
             longitude FLOAT,
+            pincode VARCHAR(10),
+            phone VARCHAR(20),
+            email VARCHAR(100),
+            website VARCHAR(200),
+            opening_time TEXT,
+            closing_time TEXT,
+            operating_days TEXT,
+            has_weighbridge BOOLEAN NOT NULL DEFAULT 0,
+            has_storage BOOLEAN NOT NULL DEFAULT 0,
+            has_loading_dock BOOLEAN NOT NULL DEFAULT 0,
+            has_cold_storage BOOLEAN NOT NULL DEFAULT 0,
+            payment_methods TEXT,
+            commodities_accepted TEXT,
+            rating FLOAT,
+            total_reviews INTEGER NOT NULL DEFAULT 0,
             is_active BOOLEAN NOT NULL DEFAULT 1,
             created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
             updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
@@ -83,6 +104,13 @@ def create_sqlite_tables(engine):
             name_local VARCHAR(100),
             category VARCHAR(50),
             unit VARCHAR(20),
+            description TEXT,
+            growing_months TEXT,
+            harvest_months TEXT,
+            peak_season_start INTEGER,
+            peak_season_end INTEGER,
+            major_producing_states TEXT,
+            is_active BOOLEAN NOT NULL DEFAULT 1,
             created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
             updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
         )
@@ -226,6 +254,35 @@ def create_sqlite_tables(engine):
             UNIQUE (post_id, user_id)
         )
         """,
+        # Uploaded files table
+        """
+        CREATE TABLE IF NOT EXISTS uploaded_files (
+            id TEXT PRIMARY KEY,
+            filename VARCHAR(255) NOT NULL UNIQUE,
+            original_filename VARCHAR(255),
+            content_type VARCHAR(100),
+            file_size VARCHAR(50),
+            user_id TEXT NOT NULL,
+            created_at TIMESTAMP,
+            FOREIGN KEY (user_id) REFERENCES users(id)
+        )
+        """,
+        # Refresh tokens table
+        """
+        CREATE TABLE IF NOT EXISTS refresh_tokens (
+            id TEXT PRIMARY KEY,
+            token_hash VARCHAR(64) NOT NULL UNIQUE,
+            user_id TEXT NOT NULL,
+            expires_at TIMESTAMP NOT NULL,
+            revoked BOOLEAN DEFAULT 0,
+            revoked_at TIMESTAMP,
+            device_info VARCHAR(255),
+            ip_address VARCHAR(45),
+            created_at TIMESTAMP,
+            last_used_at TIMESTAMP,
+            FOREIGN KEY (user_id) REFERENCES users(id)
+        )
+        """,
     ]
 
     with engine.connect() as conn:
@@ -237,6 +294,8 @@ def create_sqlite_tables(engine):
 def drop_sqlite_tables(engine):
     """Drop all tables in reverse order to handle foreign keys."""
     tables = [
+        "refresh_tokens",
+        "uploaded_files",
         "community_likes",
         "community_replies",
         "sales",

@@ -157,8 +157,8 @@ export function CurrentPricesTab() {
                                 </TableRow>
                             ) : (
                                 prices.slice(0, displayCount).map((price, index) => {
-                                    const isPriceAboveAvg = price.avg_7d && price.price_per_kg > price.avg_7d;
-                                    const isPriceBelowAvg = price.avg_7d && price.price_per_kg < price.avg_7d;
+                                    const isPriceAboveAvg = price.avg_7d && price.price_per_quintal > price.avg_7d;
+                                    const isPriceBelowAvg = price.avg_7d && price.price_per_quintal < price.avg_7d;
                                     
                                     return (
                                         <TableRow key={index}>

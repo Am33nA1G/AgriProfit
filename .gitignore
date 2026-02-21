@@ -22,6 +22,7 @@ logs/
 .coverage
 htmlcov/
 .pytest_cache/
+coverage/
 test.db
 test_migration.db
 *.db
@@ -53,3 +54,9 @@ uploads/
 # Node modules
 node_modules/
 
+# Next.js build cache
+.next/
+
+# Frontend build artifacts
+tsconfig.tsbuildinfo
+*.tsbuildinfo

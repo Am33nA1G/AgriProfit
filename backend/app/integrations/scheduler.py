@@ -2,15 +2,18 @@
 Background Job Scheduler
 
 Handles periodic tasks like:
-- Syncing mandi prices from data.gov.in
+- Syncing mandi prices from data.gov.in (every N hours)
+- Reconciling data gaps from historical source (daily)
 - Cleaning up old OTPs (future)
 - Generating daily reports (future)
 """
 import logging
 import threading
+from datetime import date, timedelta
 
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
+from apscheduler.triggers.cron import CronTrigger
 
 from app.core.config import settings
 from app.integrations.data_sync import get_sync_service
@@ -81,9 +84,50 @@ def start_scheduler() -> BackgroundScheduler:
         replace_existing=True,
     )
 
+    # Daily reconciliation job (runs at 3 AM, after overnight sync)
+    scheduler.add_job(
+        reconcile_gaps_job,
+        trigger=CronTrigger(hour=3, minute=0),
+        id="reconcile_gaps",
+        name="Reconcile Data Gaps",
+        replace_existing=True,
+    )
+
     scheduler.start()
     logger.info(
-        f"Scheduler started. Price sync every {interval_hours} hours."
+        f"Scheduler started. Price sync every {interval_hours} hours. "
+        f"Reconciliation daily at 03:00."
     )
 
     return scheduler
+
+
+def reconcile_gaps_job() -> None:
+    """
+    Daily job to detect and fill data gaps from the historical
+    Agmarknet resource.  Runs AFTER the regular sync pipeline.
+    """
+    logger.info("Starting scheduled data reconciliation...")
+    try:
+        from app.database.session import SessionLocal
+        from app.integrations.reconciler import DataReconciler
+
+        end_date = date.today()
+        start_date = end_date - timedelta(days=7)
+
+        db = SessionLocal()
+        try:
+            reconciler = DataReconciler(db)
+            stats = reconciler.reconcile(
+                start_date=start_date,
+                end_date=end_date,
+                dry_run=False,
+            )
+            logger.info(
+                "Scheduled reconciliation finished: %s", stats
+            )
+        finally:
+            db.close()
+
+    except Exception as e:
+        logger.error("Reconciliation job failed: %s", e, exc_info=True)

@@ -4,7 +4,7 @@ from sqlalchemy.orm import Session
 from app.database.session import get_db
 from app.auth.security import get_current_user
 from app.models.user import User
-from app.sales.schemas import SaleCreate, SaleResponse, SalesAnalytics
+from app.sales.schemas import SaleCreate, SaleUpdate, SaleResponse, SalesAnalytics
 from app.sales.service import SalesService
 
 router = APIRouter(prefix="/sales", tags=["Sales"])
@@ -21,12 +21,41 @@ def get_sales(
 
 @router.post("/", response_model=SaleResponse)
 def record_sale(
-    sale_in: SaleCreate, 
-    db: Session = Depends(get_db), 
+    sale_in: SaleCreate,
+    db: Session = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
     service = SalesService(db)
-    return service.create_sale(current_user.id, sale_in)
+    try:
+        return service.create_sale(current_user.id, sale_in)
+    except ValueError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+
+@router.put("/{sale_id}", response_model=SaleResponse)
+def update_sale(
+    sale_id: UUID,
+    update_data: SaleUpdate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
+    """Update a sale record (quantity, unit, price, buyer, date)."""
+    service = SalesService(db)
+    try:
+        updated = service.update_sale(current_user.id, sale_id, update_data)
+    except ValueError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+    if not updated:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Sale not found",
+        )
+    return updated
 
 @router.delete("/{sale_id}", status_code=status.HTTP_204_NO_CONTENT)
 def delete_sale(

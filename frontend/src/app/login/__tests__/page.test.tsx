@@ -40,7 +40,7 @@ describe('LoginPage', () => {
 
     it('renders login form initially', () => {
         render(<LoginPage />)
-        expect(screen.getByText('AgriProfit Login')).toBeInTheDocument()
+        expect(screen.getByText('Welcome Back')).toBeInTheDocument()
         expect(screen.getByPlaceholderText('9876543210')).toBeInTheDocument()
         expect(screen.getByText('Send OTP')).toBeInTheDocument()
     })
@@ -79,7 +79,7 @@ describe('LoginPage', () => {
         })
 
         // Should switch to OTP step
-        expect(await screen.findByPlaceholderText('123456')).toBeInTheDocument()
+        expect(await screen.findByPlaceholderText('000000')).toBeInTheDocument()
     })
 
     it('verifies OTP and logs in', async () => {
@@ -91,10 +91,10 @@ describe('LoginPage', () => {
         vi.mocked(authService.requestOtp).mockResolvedValue({ message: 'OTP sent', expires_in_seconds: 300 })
         fireEvent.click(screen.getByText('Send OTP'))
 
-        await waitFor(() => screen.getByPlaceholderText('123456'))
+        await waitFor(() => screen.getByPlaceholderText('000000'))
 
-        const inputOtp = screen.getByPlaceholderText('123456')
-        const verifyButton = screen.getByText('Verify OTP')
+        const inputOtp = screen.getByPlaceholderText('000000')
+        const verifyButton = screen.getByText('Verify & Login')
 
         fireEvent.change(inputOtp, { target: { value: '123456' } })
 

@@ -362,8 +362,74 @@ def audit_database():
         if len(states) > 15:
             print(f"      ... and {len(states) - 15} more state(s)")
 
-        # ---- 7. Data Freshness -------------------------------------------
-        print("\n7. DATA FRESHNESS")
+        # ---- 7. Per-Commodity Coverage (Last 30 Days) ---------------------
+        print("\n7. PER-COMMODITY COVERAGE (Last 30 Days)")
+        print("-" * 80)
+
+        if date_max:
+            check_start = date_max - timedelta(days=30)
+            check_end = date_max
+            check_days = 30
+
+            # Get top 20 commodities by record count
+            top_commodities = (
+                db.query(
+                    Commodity.id,
+                    Commodity.name,
+                    func.count(PriceHistory.id).label("cnt"),
+                )
+                .join(PriceHistory, PriceHistory.commodity_id == Commodity.id)
+                .filter(PriceHistory.price_date >= check_start)
+                .group_by(Commodity.id, Commodity.name)
+                .order_by(func.count(PriceHistory.id).desc())
+                .limit(20)
+                .all()
+            )
+
+            if top_commodities:
+                print(f"   Checking {len(top_commodities)} top commodities "
+                      f"({check_start} to {check_end}):\n")
+                print(f"   {'Commodity':<30} {'Days':>6} / {check_days:>3}  {'Coverage':>10}  Status")
+                print(f"   {'-' * 65}")
+
+                low_coverage_commodities = []
+                for cid, cname, _ in top_commodities:
+                    day_count = (
+                        db.query(func.count(distinct(PriceHistory.price_date)))
+                        .filter(
+                            PriceHistory.commodity_id == cid,
+                            PriceHistory.price_date >= check_start,
+                            PriceHistory.price_date <= check_end,
+                        )
+                        .scalar()
+                    )
+                    pct = (day_count / check_days * 100) if check_days > 0 else 0
+
+                    if pct < 80:
+                        status = "LOW"
+                        low_coverage_commodities.append((cname, pct))
+                        issues.append(
+                            f"Commodity '{cname}' has only {pct:.0f}% "
+                            f"coverage in last 30 days"
+                        )
+                    else:
+                        status = "OK"
+
+                    print(f"   {cname:<30} {day_count:>6} / {check_days:>3}  "
+                          f"{pct:>8.1f}%  [{status}]")
+
+                if low_coverage_commodities:
+                    print(f"\n   WARNING: {len(low_coverage_commodities)} commodities "
+                          f"have <80% coverage in last 30 days")
+                else:
+                    print(f"\n   OK: All top commodities have >=80% coverage")
+            else:
+                print("   No commodities with recent data found")
+        else:
+            print("   SKIPPED: No data available")
+
+        # ---- 8. Data Freshness -------------------------------------------
+        print("\n8. DATA FRESHNESS")
         print("-" * 80)
 
         if date_max:
@@ -377,8 +443,8 @@ def audit_database():
             else:
                 print(f"   OK: Data is current")
 
-        # ---- 8. Generate gap report JSON ----------------------------------
-        print("\n8. GENERATING GAP REPORT")
+        # ---- 9. Generate gap report JSON ----------------------------------
+        print("\n9. GENERATING GAP REPORT")
         print("-" * 80)
 
         report = generate_gap_report(db, date_min, date_max)

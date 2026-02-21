@@ -3,6 +3,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
+import { useTranslations } from "next-intl";
 import {
   Menu,
   X,
@@ -26,22 +27,25 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { cn } from "@/lib/utils";
 import { commoditiesService } from "@/services/commodities";
 import { mandisService } from "@/services/mandis";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 
 const mobileMenuItems = [
-  { icon: LayoutDashboard, label: "Dashboard", href: "/dashboard" },
-  { icon: ShoppingCart, label: "Commodities", href: "/commodities" },
-  { icon: MapPin, label: "Mandis", href: "/mandis" },
-  { icon: Package, label: "Inventory", href: "/inventory" },
-  { icon: IndianRupee, label: "Sales", href: "/sales" },
-  { icon: Truck, label: "Transport", href: "/transport" },
-  { icon: BarChart3, label: "Analytics", href: "/analytics" },
-  { icon: MessageSquare, label: "Community", href: "/community" },
-  { icon: Bell, label: "Notifications", href: "/notifications" },
+  { icon: LayoutDashboard, labelKey: "dashboard" as const, href: "/dashboard" },
+  { icon: ShoppingCart, labelKey: "commodities" as const, href: "/commodities" },
+  { icon: MapPin, labelKey: "mandis" as const, href: "/mandis" },
+  { icon: Package, labelKey: "inventory" as const, href: "/inventory" },
+  { icon: IndianRupee, labelKey: "sales" as const, href: "/sales" },
+  { icon: Truck, labelKey: "transport" as const, href: "/transport" },
+  { icon: BarChart3, labelKey: "analytics" as const, href: "/analytics" },
+  { icon: MessageSquare, labelKey: "community" as const, href: "/community" },
+  { icon: Bell, labelKey: "notifications" as const, href: "/notifications" },
 ];
 
 export function Navbar() {
   const pathname = usePathname();
   const router = useRouter();
+  const tn = useTranslations('nav');
+  const tc = useTranslations('common');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchResults, setSearchResults] = useState<{ commodities: any[], mandis: any[] }>({ commodities: [], mandis: [] });
@@ -108,7 +112,7 @@ export function Navbar() {
           {/* Mobile Logo */}
           <Link href="/dashboard" className="lg:hidden flex items-center gap-2">
             <Leaf className="h-6 w-6 text-green-600" />
-            <span className="font-bold">AgriProfit</span>
+            <span className="font-bold">{tc('appName')}</span>
           </Link>
 
           {/* Search */}
@@ -117,7 +121,7 @@ export function Navbar() {
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
               <input
                 type="text"
-                placeholder="Search commodities, mandis..."
+                placeholder={tn('searchPlaceholder')}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 onFocus={() => searchQuery.trim().length > 1 && setShowResults(true)}
@@ -126,7 +130,7 @@ export function Navbar() {
               {isSearching && (
                 <Loader2 className="absolute right-3 top-1/2 transform -translate-y-1/2 h-4 w-4 animate-spin text-muted-foreground" />
               )}
-              
+
               {/* Search Results Dropdown */}
               {showResults && (searchResults.commodities.length > 0 || searchResults.mandis.length > 0) && (
                 <div className="absolute top-full mt-2 w-full bg-card border border-border rounded-lg shadow-lg max-h-96 overflow-y-auto z-50">
@@ -134,7 +138,7 @@ export function Navbar() {
                   {searchResults.commodities.length > 0 && (
                     <div className="border-b border-border">
                       <div className="px-3 py-2 text-xs font-semibold text-muted-foreground bg-muted/30">
-                        Commodities
+                        {tc('commodities')}
                       </div>
                       {searchResults.commodities.map((commodity: any) => (
                         <Link
@@ -150,19 +154,19 @@ export function Navbar() {
                           <div className="flex-1 min-w-0">
                             <p className="font-medium text-sm truncate">{commodity.name}</p>
                             <p className="text-xs text-muted-foreground truncate">
-                              {commodity.category || "Commodity"}
+                              {commodity.category || tc('commodity')}
                             </p>
                           </div>
                         </Link>
                       ))}
                     </div>
                   )}
-                  
+
                   {/* Mandis Section */}
                   {searchResults.mandis.length > 0 && (
                     <div>
                       <div className="px-3 py-2 text-xs font-semibold text-muted-foreground bg-muted/30">
-                        Mandis
+                        {tc('mandis')}
                       </div>
                       {searchResults.mandis.map((mandi: any) => (
                         <Link
@@ -187,12 +191,12 @@ export function Navbar() {
                   )}
                 </div>
               )}
-              
+
               {/* No Results Message */}
-              {showResults && searchQuery.trim().length > 1 && !isSearching && 
+              {showResults && searchQuery.trim().length > 1 && !isSearching &&
                searchResults.commodities.length === 0 && searchResults.mandis.length === 0 && (
                 <div className="absolute top-full mt-2 w-full bg-card border border-border rounded-lg shadow-lg p-4 text-center text-sm text-muted-foreground z-50">
-                  No results found for "{searchQuery}"
+                  {tc('noResultsFor', { query: searchQuery })}
                 </div>
               )}
             </div>
@@ -200,6 +204,9 @@ export function Navbar() {
 
           {/* Right Actions */}
           <div className="flex items-center gap-2">
+            <div className="hidden sm:block">
+              <LanguageSwitcher />
+            </div>
             <Link href="/profile">
               <Avatar className="h-8 w-8 cursor-pointer hover:ring-2 hover:ring-green-500 transition-all">
                 <AvatarFallback className="bg-green-600 text-white">
@@ -213,13 +220,13 @@ export function Navbar() {
                 <span className="absolute top-1 right-1 w-2 h-2 bg-red-500 rounded-full" />
               </Button>
             </Link>
-            <Button 
+            <Button
               variant="ghost"
               onClick={handleLogout}
               className="gap-2"
             >
               <LogOut className="h-5 w-5" />
-              <span className="hidden sm:inline">Log out</span>
+              <span className="hidden sm:inline">{tn('logout')}</span>
             </Button>
           </div>
         </div>
@@ -238,11 +245,14 @@ export function Navbar() {
             <div className="p-4 border-b border-border flex items-center justify-between">
               <Link href="/dashboard" className="flex items-center gap-2">
                 <Leaf className="h-6 w-6 text-green-600" />
-                <span className="font-bold">AgriProfit</span>
+                <span className="font-bold">{tc('appName')}</span>
               </Link>
               <button onClick={() => setMobileMenuOpen(false)}>
                 <X className="h-5 w-5" />
               </button>
+            </div>
+            <div className="px-4 pt-3 pb-2 border-b border-border">
+              <LanguageSwitcher />
             </div>
             <nav className="p-4 space-y-1">
               {mobileMenuItems.map((item) => {
@@ -261,7 +271,7 @@ export function Navbar() {
                     )}
                   >
                     <Icon className="h-5 w-5" />
-                    {item.label}
+                    {tn(item.labelKey)}
                   </Link>
                 );
               })}

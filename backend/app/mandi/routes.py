@@ -314,11 +314,11 @@ async def get_mandi_details(
     
     # If user_district and user_state are provided but no coordinates, geocode them
     if user_district and user_state and not (user_lat and user_lon):
-        from app.core.geocoding import geocoding_service
-        coords = geocoding_service.get_district_coordinates(user_district, user_state)
+        from app.integrations.district_geocodes import get_district_geocode
+        coords = get_district_geocode(user_district, user_state)
         if coords:
             user_lat, user_lon = coords
-    
+
     details = service.get_details(mandi_id, user_lat, user_lon)
     if not details:
         raise HTTPException(

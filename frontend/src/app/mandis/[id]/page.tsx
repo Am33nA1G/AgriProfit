@@ -20,6 +20,7 @@ import {
     TrendingUp,
     Loader2
 } from "lucide-react"
+import { useTranslations } from 'next-intl'
 import { AppLayout } from "@/components/layout/AppLayout"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
@@ -29,6 +30,8 @@ import { authService } from "@/services/auth"
 import { useState, useEffect } from "react"
 
 export default function MandiDetailPage() {
+    const t = useTranslations('mandis')
+    const tc = useTranslations('common')
     const params = useParams()
     const router = useRouter()
     const mandiId = params.id as string
@@ -66,7 +69,7 @@ export default function MandiDetailPage() {
                 <div className="min-h-screen bg-background flex items-center justify-center">
                     <div className="text-center">
                         <Loader2 className="h-12 w-12 animate-spin text-primary mx-auto mb-4" />
-                        <p className="text-muted-foreground">Loading mandi details...</p>
+                        <p className="text-muted-foreground">{tc('loading')}</p>
                     </div>
                 </div>
             </AppLayout>
@@ -79,13 +82,13 @@ export default function MandiDetailPage() {
                 <div className="min-h-screen bg-background flex items-center justify-center">
                     <div className="text-center max-w-md">
                         <MapPin className="h-12 w-12 text-destructive mx-auto mb-4" />
-                        <h2 className="text-xl font-semibold mb-2">Mandi Not Found</h2>
+                        <h2 className="text-xl font-semibold mb-2">{t('noResults')}</h2>
                         <p className="text-muted-foreground mb-4">
-                            The mandi you're looking for doesn't exist or has been removed.
+                            {tc('noResults')}
                         </p>
                         <Button onClick={() => router.back()}>
                             <ArrowLeft className="h-4 w-4 mr-2" />
-                            Go Back
+                            {tc('back')}
                         </Button>
                     </div>
                 </div>
@@ -105,7 +108,7 @@ export default function MandiDetailPage() {
                             className="mb-4"
                         >
                             <ArrowLeft className="h-4 w-4 mr-2" />
-                            Back to Mandis
+                            {tc('back')}
                         </Button>
 
                         <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
@@ -134,7 +137,7 @@ export default function MandiDetailPage() {
                                     {mandi.rating && (
                                         <Badge variant="outline" className="text-sm">
                                             <Star className="h-3 w-3 mr-1 text-yellow-500 fill-yellow-500" />
-                                            {mandi.rating.toFixed(1)} ({mandi.total_reviews} reviews)
+                                            {mandi.rating.toFixed(1)} ({mandi.total_reviews} {t('reviews')})
                                         </Badge>
                                     )}
                                     {mandi.distance_km != null && (
@@ -157,8 +160,8 @@ export default function MandiDetailPage() {
                             {/* Contact Information */}
                             <Card>
                                 <CardHeader>
-                                    <CardTitle>Contact Information</CardTitle>
-                                    <CardDescription>Get in touch with this mandi</CardDescription>
+                                    <CardTitle>{t('contact')}</CardTitle>
+                                    <CardDescription>{t('details')}</CardDescription>
                                 </CardHeader>
                                 <CardContent className="space-y-4">
                                     {mandi.address && (
@@ -212,7 +215,7 @@ export default function MandiDetailPage() {
                                         </div>
                                     )}
                                     {!mandi.contact.phone && !mandi.contact.email && !mandi.contact.website && !mandi.address && (
-                                        <p className="text-muted-foreground text-sm">No contact information available</p>
+                                        <p className="text-muted-foreground text-sm">{tc('noData')}</p>
                                     )}
                                 </CardContent>
                             </Card>
@@ -221,8 +224,8 @@ export default function MandiDetailPage() {
                             {(mandi.operating_hours.opening_time || mandi.operating_hours.operating_days?.length) && (
                                 <Card>
                                     <CardHeader>
-                                        <CardTitle>Operating Hours</CardTitle>
-                                        <CardDescription>Market timing and days</CardDescription>
+                                        <CardTitle>{t('operatingHours')}</CardTitle>
+                                        <CardDescription>{t('details')}</CardDescription>
                                     </CardHeader>
                                     <CardContent className="space-y-4">
                                         {mandi.operating_hours.opening_time && mandi.operating_hours.closing_time && (
@@ -259,8 +262,8 @@ export default function MandiDetailPage() {
                             {mandi.current_prices && mandi.current_prices.length > 0 && (
                                 <Card>
                                     <CardHeader>
-                                        <CardTitle>Current Prices</CardTitle>
-                                        <CardDescription>Latest commodity prices at this mandi</CardDescription>
+                                        <CardTitle>{t('recentPrices')}</CardTitle>
+                                        <CardDescription>{t('prices')}</CardDescription>
                                     </CardHeader>
                                     <CardContent>
                                         <div className="space-y-3">
@@ -279,7 +282,7 @@ export default function MandiDetailPage() {
                                                         <p className="font-bold text-lg text-green-600">
                                                             ₹{price.modal_price.toFixed(2)}
                                                         </p>
-                                                        <p className="text-xs text-muted-foreground">per quintal</p>
+                                                        <p className="text-xs text-muted-foreground">{tc('perQuintal')}</p>
                                                     </div>
                                                 </div>
                                             ))}
@@ -292,8 +295,8 @@ export default function MandiDetailPage() {
                             {mandi.commodities_accepted && mandi.commodities_accepted.length > 0 && (
                                 <Card>
                                     <CardHeader>
-                                        <CardTitle>Accepted Commodities</CardTitle>
-                                        <CardDescription>Commodities traded at this market</CardDescription>
+                                        <CardTitle>{t('commoditiesTraded')}</CardTitle>
+                                        <CardDescription>{tc('commodities')}</CardDescription>
                                     </CardHeader>
                                     <CardContent>
                                         <div className="flex flex-wrap gap-2">
@@ -314,45 +317,45 @@ export default function MandiDetailPage() {
                             {/* Facilities */}
                             <Card>
                                 <CardHeader>
-                                    <CardTitle>Facilities</CardTitle>
-                                    <CardDescription>Available amenities</CardDescription>
+                                    <CardTitle>{t('facilities')}</CardTitle>
+                                    <CardDescription>{t('details')}</CardDescription>
                                 </CardHeader>
                                 <CardContent>
                                     <div className="space-y-3">
                                         <div className={`flex items-center gap-3 p-3 rounded-lg ${mandi.facilities.weighbridge ? 'bg-green-50 dark:bg-green-950/20' : 'bg-muted/50'}`}>
                                             <Scale className={`h-5 w-5 ${mandi.facilities.weighbridge ? 'text-green-600' : 'text-muted-foreground'}`} />
                                             <span className={mandi.facilities.weighbridge ? 'font-medium' : 'text-muted-foreground'}>
-                                                Weighbridge
+                                                {t('weighbridge')}
                                             </span>
                                             {mandi.facilities.weighbridge && (
-                                                <Badge variant="secondary" className="ml-auto text-xs">Available</Badge>
+                                                <Badge variant="secondary" className="ml-auto text-xs">{tc('active')}</Badge>
                                             )}
                                         </div>
                                         <div className={`flex items-center gap-3 p-3 rounded-lg ${mandi.facilities.storage ? 'bg-green-50 dark:bg-green-950/20' : 'bg-muted/50'}`}>
                                             <Warehouse className={`h-5 w-5 ${mandi.facilities.storage ? 'text-green-600' : 'text-muted-foreground'}`} />
                                             <span className={mandi.facilities.storage ? 'font-medium' : 'text-muted-foreground'}>
-                                                Storage
+                                                {t('storage')}
                                             </span>
                                             {mandi.facilities.storage && (
-                                                <Badge variant="secondary" className="ml-auto text-xs">Available</Badge>
+                                                <Badge variant="secondary" className="ml-auto text-xs">{tc('active')}</Badge>
                                             )}
                                         </div>
                                         <div className={`flex items-center gap-3 p-3 rounded-lg ${mandi.facilities.loading_dock ? 'bg-green-50 dark:bg-green-950/20' : 'bg-muted/50'}`}>
                                             <Truck className={`h-5 w-5 ${mandi.facilities.loading_dock ? 'text-green-600' : 'text-muted-foreground'}`} />
                                             <span className={mandi.facilities.loading_dock ? 'font-medium' : 'text-muted-foreground'}>
-                                                Loading Dock
+                                                {t('loadingDock')}
                                             </span>
                                             {mandi.facilities.loading_dock && (
-                                                <Badge variant="secondary" className="ml-auto text-xs">Available</Badge>
+                                                <Badge variant="secondary" className="ml-auto text-xs">{tc('active')}</Badge>
                                             )}
                                         </div>
                                         <div className={`flex items-center gap-3 p-3 rounded-lg ${mandi.facilities.cold_storage ? 'bg-green-50 dark:bg-green-950/20' : 'bg-muted/50'}`}>
                                             <Snowflake className={`h-5 w-5 ${mandi.facilities.cold_storage ? 'text-green-600' : 'text-muted-foreground'}`} />
                                             <span className={mandi.facilities.cold_storage ? 'font-medium' : 'text-muted-foreground'}>
-                                                Cold Storage
+                                                {t('coldStorage')}
                                             </span>
                                             {mandi.facilities.cold_storage && (
-                                                <Badge variant="secondary" className="ml-auto text-xs">Available</Badge>
+                                                <Badge variant="secondary" className="ml-auto text-xs">{tc('active')}</Badge>
                                             )}
                                         </div>
                                     </div>
@@ -364,7 +367,7 @@ export default function MandiDetailPage() {
                                 <Card>
                                     <CardHeader>
                                         <CardTitle>Payment Methods</CardTitle>
-                                        <CardDescription>Accepted payment options</CardDescription>
+                                        <CardDescription>{t('details')}</CardDescription>
                                     </CardHeader>
                                     <CardContent>
                                         <div className="space-y-2">
@@ -383,8 +386,8 @@ export default function MandiDetailPage() {
                             {mandi.location.latitude && mandi.location.longitude && (
                                 <Card>
                                     <CardHeader>
-                                        <CardTitle>Location</CardTitle>
-                                        <CardDescription>Geographic coordinates</CardDescription>
+                                        <CardTitle>{t('location')}</CardTitle>
+                                        <CardDescription>{t('details')}</CardDescription>
                                     </CardHeader>
                                     <CardContent>
                                         <div className="space-y-2 text-sm">

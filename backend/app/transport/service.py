@@ -17,46 +17,66 @@ from app.transport.schemas import (
 )
 
 # =============================================================================
-# CONSTANTS (Updated with 2026 Indian Market Rates)
+# CONSTANTS (February 2026 Indian Market Rates)
+#
+# Sources:
+#   - Freight: Industry FTL rates (OkaraRoadways, GoodSeva, ShipZip 2025-26)
+#   - Toll: NHAI notified rates effective April 2025 (TollGuru, CoveringIndia)
+#   - Hamali: APMC notified rates + field estimates (HSAMB, APMC Vadodara)
+#   - Mandi fees: State APMC fee schedules (avg across states)
+#   - Diesel: ₹87-97/L range (GoodReturns, CardDekho Feb 2026)
+#   - Driver/maintenance: 91Trucks, LogixMindz trucking cost breakdowns
 # =============================================================================
 
 VEHICLES = {
     VehicleType.TEMPO: {
         "capacity_kg": 2000,
-        "cost_per_km": 18.0,  # Increased for diesel ~₹98/L
-        "toll_per_plaza": 100,
+        "cost_per_km": 18.0,   # Tata Ace / Mahindra Bolero Pickup; ₹10-25/km range, ~18 avg
+        "toll_per_plaza": 110,  # NHAI Cat-2 (LCV) single journey avg
         "description": "Tata Ace / Mini Truck (up to 2 tons)"
     },
     VehicleType.TRUCK_SMALL: {
-        "capacity_kg": 7000,  # Increased capacity (LCV)
-        "cost_per_km": 28.0,
-        "toll_per_plaza": 200,
+        "capacity_kg": 7000,
+        "cost_per_km": 28.0,   # Eicher Pro 2049 / Tata 407; ₹15-40/km range, ~28 avg
+        "toll_per_plaza": 200,  # NHAI Cat-2/3 single journey avg for LCV
         "description": "Light Commercial Vehicle (3-7 tons)"
     },
     VehicleType.TRUCK_LARGE: {
-        "capacity_kg": 15000,  # Increased capacity (HCV)
-        "cost_per_km": 38.0,
-        "toll_per_plaza": 350,
+        "capacity_kg": 15000,
+        "cost_per_km": 35.0,   # HCV 2-axle (Ashok Leyland, Tata); ₹25-40/km, ~35 avg
+        "toll_per_plaza": 350,  # NHAI Cat-3 (truck/bus 2-axle) single journey
         "description": "Heavy Commercial Vehicle (10-15 tons)"
     },
 }
 
 # Loading/unloading costs (Hamali charges)
-LOADING_COST_PER_KG = 0.035  # ₹3.5 per quintal
-UNLOADING_COST_PER_KG = 0.030  # ₹3.0 per quintal
+# Real-world: APMC notified rates ₹10-25/quintal; using ₹15/quintal avg for loading,
+# ₹12/quintal for unloading (unloading slightly cheaper as destination mandis often
+# have better infrastructure). These are pan-India averages; actual rates vary by state.
+LOADING_COST_PER_KG = 0.15   # ₹15 per quintal (100 kg)
+UNLOADING_COST_PER_KG = 0.12  # ₹12 per quintal (100 kg)
 
-# Mandi fees (varies by state, using average)
-MANDI_FEE_RATE = 0.015  # 1.5%
+# Mandi fees (varies by state: Punjab 8.5%, Karnataka ~3.5%, avg ~4-5%)
+# Market fee only (not including commission). Range: 0.7% (Gujarat) to 3% (Punjab).
+# Using 1.5% as conservative pan-India average for market fee component.
+MANDI_FEE_RATE = 0.015  # 1.5% market fee (state APMC levy)
+# Commission agent (arthiya/dalal) charges: 2-2.5% across most states
 COMMISSION_RATE = 0.025  # 2.5% agent commission
 
+# Driver & maintenance costs (included in per-trip charges)
+# Driver: ₹800-1200/day avg (LogixMindz 2025); for short trips ~₹800
+# Maintenance: ₹2-3/km wear & tear (91Trucks 2025 operating cost breakdown)
+DRIVER_ALLOWANCE_PER_TRIP = 800.0   # ₹ per trip (driver daily wage + food allowance)
+MAINTENANCE_COST_PER_KM = 2.0       # ₹ per km (tyres, servicing, wear)
+
 # Additional charges per trip
-WEIGHBRIDGE_FEE = 80.0  # ₹ per weighing
-PARKING_FEE = 50.0      # ₹ per trip
-DOCUMENTATION_FEE = 70.0  # ₹ per trip (receipts, permits)
+WEIGHBRIDGE_FEE = 80.0    # ₹ per weighing (₹50-100 range)
+PARKING_FEE = 50.0        # ₹ per trip at destination mandi
+DOCUMENTATION_FEE = 70.0  # ₹ per trip (receipts, permits, bilty)
 
 # Distance calculations
-ROAD_DISTANCE_MULTIPLIER = 1.4  # Haversine to actual road distance
-TOLL_PLAZA_SPACING_KM = 60  # Average spacing on highways
+ROAD_DISTANCE_MULTIPLIER = 1.4  # Haversine to actual road distance (1.3-1.5 typical)
+TOLL_PLAZA_SPACING_KM = 60  # NHAI standard ~60 km between toll plazas
 
 DISTRICT_COORDINATES = {
     # =========================================================================
@@ -1059,7 +1079,16 @@ def calculate_net_profit(
     Calculate detailed cost breakdown and net profit.
 
     Includes: freight, toll, loading, unloading, mandi fees, commission,
-    weighbridge, parking, and documentation charges.
+    driver allowance, vehicle maintenance, weighbridge, parking, and
+    documentation charges.
+
+    Note on freight: The per-km rate already includes fuel and basic vehicle
+    operating cost (this is what transporters charge). We add driver allowance
+    and maintenance separately since these vary independently.
+    Toll is charged both ways (vehicle must return).
+    Freight is one-way only: transporters quote one-way rates; the return
+    trip cost is built into the per-km rate (accounting for ~35-40% empty
+    return trips industry-wide).
     """
     gross_revenue = price_per_kg * quantity_kg
 
@@ -1067,16 +1096,16 @@ def calculate_net_profit(
     capacity = VEHICLES[vehicle_type]["capacity_kg"]
     trips = math.ceil(quantity_kg / capacity)
 
-    # 1. Freight Cost (round-trip)
+    # 1. Freight Cost (one-way: transporter rates already factor in return)
     one_way_freight = calculate_transport_cost(distance_km, vehicle_type)
-    total_transport_cost = one_way_freight * trips * 2  # Round trip
+    total_transport_cost = one_way_freight * trips
 
-    # 2. Toll Charges (both ways)
+    # 2. Toll Charges (both ways - vehicle must physically return)
     toll_plazas = max(1, round(distance_km / TOLL_PLAZA_SPACING_KM))
     toll_cost_per_trip = toll_plazas * VEHICLES[vehicle_type]["toll_per_plaza"] * 2
     total_toll_cost = toll_cost_per_trip * trips
 
-    # 3. Loading & Unloading
+    # 3. Loading & Unloading (hamali charges)
     loading_cost = quantity_kg * LOADING_COST_PER_KG
     unloading_cost = quantity_kg * UNLOADING_COST_PER_KG
 
@@ -1084,8 +1113,10 @@ def calculate_net_profit(
     mandi_fee = gross_revenue * MANDI_FEE_RATE
     commission = gross_revenue * COMMISSION_RATE
 
-    # 5. Additional Charges (per trip)
-    additional_cost = (WEIGHBRIDGE_FEE + PARKING_FEE + DOCUMENTATION_FEE) * trips
+    # 5. Additional Charges (per trip: driver + maintenance + weighbridge + parking + docs)
+    additional_cost = (DRIVER_ALLOWANCE_PER_TRIP + WEIGHBRIDGE_FEE +
+                       PARKING_FEE + DOCUMENTATION_FEE +
+                       MAINTENANCE_COST_PER_KM * distance_km) * trips
 
     # Total Cost
     total_cost = (total_transport_cost + total_toll_cost + loading_cost +

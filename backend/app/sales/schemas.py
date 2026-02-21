@@ -13,6 +13,13 @@ class SaleBase(BaseModel):
 class SaleCreate(SaleBase):
     pass
 
+class SaleUpdate(BaseModel):
+    quantity: float | None = Field(None, gt=0, description="Quantity sold")
+    unit: str | None = Field(None, min_length=1, max_length=20)
+    price_per_unit: float | None = Field(None, gt=0, description="Price per kg (Rs.)")
+    buyer_name: str | None = Field(None, max_length=100)
+    sale_date: date | None = None
+
 class SaleResponse(SaleBase):
     id: UUID
     user_id: UUID

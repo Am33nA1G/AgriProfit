@@ -108,43 +108,43 @@ class CostBreakdown(BaseModel):
     """Detailed breakdown of transport costs."""
     transport_cost: float = Field(
         ...,
-        description="Vehicle freight cost (round-trip)",
-        json_schema_extra={"example": 2160.0}
+        description="Vehicle freight cost (one-way; transporter rates include return)",
+        json_schema_extra={"example": 2400.0}
     )
     toll_cost: float = Field(
         ...,
-        description="Highway toll charges (both ways)",
+        description="Highway toll charges (both ways, NHAI rates)",
         json_schema_extra={"example": 400.0}
     )
     loading_cost: float = Field(
         ...,
-        description="Loading charges at source (Hamali)",
-        json_schema_extra={"example": 35.0}
+        description="Hamali loading charges at source (₹15/quintal)",
+        json_schema_extra={"example": 150.0}
     )
     unloading_cost: float = Field(
         ...,
-        description="Unloading charges at destination",
-        json_schema_extra={"example": 30.0}
+        description="Hamali unloading charges at destination (₹12/quintal)",
+        json_schema_extra={"example": 120.0}
     )
     mandi_fee: float = Field(
         ...,
-        description="Mandi market fee (1.5% of gross)",
+        description="Mandi market fee (1.5% of gross revenue)",
         json_schema_extra={"example": 450.0}
     )
     commission: float = Field(
         ...,
-        description="Agent commission (2.5% of gross)",
+        description="Agent/arthiya commission (2.5% of gross revenue)",
         json_schema_extra={"example": 750.0}
     )
     additional_cost: float = Field(
         ...,
-        description="Fixed costs per trip (weighbridge, parking, docs)",
-        json_schema_extra={"example": 200.0}
+        description="Per-trip costs: driver allowance (₹800), maintenance (₹2/km), weighbridge (₹80), parking (₹50), docs (₹70)",
+        json_schema_extra={"example": 1200.0}
     )
     total_cost: float = Field(
         ...,
         description="Sum of all costs",
-        json_schema_extra={"example": 4025.0}
+        json_schema_extra={"example": 5470.0}
     )
 
     model_config = ConfigDict(from_attributes=True)

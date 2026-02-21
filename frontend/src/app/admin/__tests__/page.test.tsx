@@ -180,7 +180,7 @@ describe('AdminPage', () => {
     expect(mockPush).not.toHaveBeenCalled()
     expect(screen.getByText('Admin Dashboard')).toBeInTheDocument()
     expect(screen.getByText('Admin Access')).toBeInTheDocument()
-    expect(screen.getByText('Manage users, moderate content, and monitor system')).toBeInTheDocument()
+    expect(screen.getByText('Platform management and user moderation')).toBeInTheDocument()
   })
 
   // ============ Stats ============
@@ -191,7 +191,7 @@ describe('AdminPage', () => {
     expect(screen.getByText('120')).toBeInTheDocument()
     expect(screen.getByText('Total Users')).toBeInTheDocument()
     expect(screen.getByText('45')).toBeInTheDocument()
-    expect(screen.getByText('Total Posts')).toBeInTheDocument()
+    expect(screen.getAllByText('Posts')[0]).toBeInTheDocument()
     expect(screen.getByText('117')).toBeInTheDocument()
     expect(screen.getByText('Active Users')).toBeInTheDocument()
     expect(screen.getByText('3')).toBeInTheDocument()
@@ -251,8 +251,8 @@ describe('AdminPage', () => {
   it('shows Active and Banned badges', () => {
     setAdmin()
     render(<AdminPage />)
-    expect(screen.getByText('Active')).toBeInTheDocument()
-    expect(screen.getByText('Banned')).toBeInTheDocument()
+    expect(screen.getAllByText('Active').length).toBeGreaterThanOrEqual(1)
+    expect(screen.getAllByText('Banned').length).toBeGreaterThanOrEqual(1)
   })
 
   it('shows user count', () => {

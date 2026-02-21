@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useMemo, useState } from 'react'
+import { useTranslations } from 'next-intl'
 import { useParams, useRouter } from 'next/navigation'
 import dynamic from 'next/dynamic'
 import {
@@ -40,6 +41,8 @@ function formatMonthList(months?: number[]) {
 }
 
 export default function CommodityDetailPage() {
+    const t = useTranslations('commodities')
+    const tc = useTranslations('common')
     const { id } = useParams<{ id: string }>()
     const router = useRouter()
     const [detail, setDetail] = useState<CommodityDetail | null>(null)
@@ -80,7 +83,7 @@ export default function CommodityDetailPage() {
         return (
             <AppLayout>
                 <div className="p-6 md:p-8">
-                    <div className="text-muted-foreground">Loading commodity details...</div>
+                    <div className="text-muted-foreground">{tc('loading')}</div>
                 </div>
             </AppLayout>
         )
@@ -90,7 +93,7 @@ export default function CommodityDetailPage() {
         return (
             <AppLayout>
                 <div className="p-6 md:p-8">
-                    <div className="text-destructive">{error || 'Not found'}</div>
+                    <div className="text-destructive">{error || tc('noData')}</div>
                 </div>
             </AppLayout>
         )
@@ -104,7 +107,7 @@ export default function CommodityDetailPage() {
                 <div className="flex items-center gap-3">
                     <Button variant="ghost" size="sm" onClick={() => router.push('/commodities')}>
                         <ArrowLeft className="h-4 w-4 mr-2" />
-                        Back
+                        {tc('back')}
                     </Button>
                     <div>
                         <h1 className="text-2xl md:text-3xl font-bold">{detail.name}</h1>
@@ -117,7 +120,7 @@ export default function CommodityDetailPage() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <Card>
                         <CardHeader>
-                            <CardTitle>Current Price</CardTitle>
+                            <CardTitle>{t('currentPrice')}</CardTitle>
                             <CardDescription>Average across all mandis</CardDescription>
                         </CardHeader>
                         <CardContent className="flex items-center justify-between">
@@ -131,7 +134,7 @@ export default function CommodityDetailPage() {
 
                     <Card>
                         <CardHeader>
-                            <CardTitle>Seasonality</CardTitle>
+                            <CardTitle>{t('seasonal')}</CardTitle>
                             <CardDescription>Growing & harvest months</CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-2">
@@ -145,7 +148,7 @@ export default function CommodityDetailPage() {
                                 </>
                             ) : (
                                 <div className="text-sm text-muted-foreground">
-                                    Seasonality data not available for this commodity
+                                    {tc('noData')}
                                 </div>
                             )}
                         </CardContent>
@@ -153,7 +156,7 @@ export default function CommodityDetailPage() {
 
                     <Card>
                         <CardHeader>
-                            <CardTitle>Unit</CardTitle>
+                            <CardTitle>{tc('unit')}</CardTitle>
                             <CardDescription>Trading unit</CardDescription>
                         </CardHeader>
                         <CardContent className="text-xl font-semibold">{detail.unit || 'N/A'}</CardContent>
@@ -162,14 +165,14 @@ export default function CommodityDetailPage() {
 
                 <Card>
                     <CardHeader>
-                        <CardTitle>Historical Prices & Trends</CardTitle>
+                        <CardTitle>{t('priceHistory')}</CardTitle>
                         <CardDescription>
-                            {chartData.length > 0 ? `Last ${chartData.length} data points (Historical + Current)` : 'No data available'}
+                            {chartData.length > 0 ? `Last ${chartData.length} data points` : tc('noData')}
                         </CardDescription>
                     </CardHeader>
                     <CardContent>
                         {chartData.length === 0 ? (
-                            <p className="text-muted-foreground">No historical data available.</p>
+                            <p className="text-muted-foreground">{tc('noData')}</p>
                         ) : (
                             <div className="h-[320px]">
                                 <ResponsiveContainer width="100%" height="100%">
@@ -196,7 +199,7 @@ export default function CommodityDetailPage() {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
                     <Card>
                         <CardHeader>
-                            <CardTitle>Top Mandis</CardTitle>
+                            <CardTitle>{t('mandiPrices')}</CardTitle>
                             <CardDescription>Best prices currently</CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-3">
@@ -213,15 +216,15 @@ export default function CommodityDetailPage() {
                                 </div>
                             ))}
                             {(!detail.top_mandis || detail.top_mandis.length === 0) && (
-                                <p className="text-muted-foreground">No mandi data available.</p>
+                                <p className="text-muted-foreground">{tc('noData')}</p>
                             )}
                         </CardContent>
                     </Card>
 
                     <Card>
                         <CardHeader>
-                            <CardTitle>Recent History</CardTitle>
-                            <CardDescription>Daily average prices (all mandis)</CardDescription>
+                            <CardTitle>{t('history')}</CardTitle>
+                            <CardDescription>{t('pricePerQuintal')}</CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-2">
                             {(detail.price_history || []).slice(-10).reverse().map((point, idx) => {
@@ -253,7 +256,7 @@ export default function CommodityDetailPage() {
                                 );
                             })}
                             {(!detail.price_history || detail.price_history.length === 0) && (
-                                <p className="text-muted-foreground text-sm">No historical data available.</p>
+                                <p className="text-muted-foreground text-sm">{tc('noData')}</p>
                             )}
                         </CardContent>
                     </Card>

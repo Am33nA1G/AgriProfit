@@ -32,6 +32,9 @@ from app.models import Commodity, Mandi, PriceHistory
 from app.integrations.data_gov_client import DataGovClient
 from app.integrations.seeder import DatabaseSeeder
 
+# Import the historical API client for backfilling (can fetch per-date data)
+from scripts.backfill_prices import BackfillClient, BackfillSeeder
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s  %(levelname)-8s  %(message)s",
@@ -52,8 +55,11 @@ class RateLimitedDataFiller:
 
     def __init__(self):
         self.client = DataGovClient()          # reads key from settings / env
+        self.historical_client = BackfillClient()  # historical API for backfilling
         self.db     = SessionLocal()
         self.seeder = DatabaseSeeder(self.db, self.client)
+        self.backfill_seeder = BackfillSeeder(self.db)
+        self.backfill_seeder.load_caches()
         self._last_request_ts: float = 0.0
 
         self.stats = {
@@ -78,38 +84,40 @@ class RateLimitedDataFiller:
     # ----- fetch a date batch ---------------------------------------------
 
     def _fetch_batch(self, from_date: date, to_date: date) -> list[dict]:
-        """Fetch all pages for a date range, returning raw API records."""
-        self._wait_for_rate_limit()
-        self.stats["api_requests"] += 1
+        """Fetch records for a date range using the historical API resource.
 
+        Uses BackfillClient which accesses the historical resource
+        (35985678-0d79-46b4-9ed6-6f13308a1d24) with filters[Arrival_Date]
+        for per-day fetching. This is the correct approach for backfilling
+        gaps, as the daily resource only returns today's snapshot.
+        """
         all_records: list[dict] = []
-        offset = 0
-        batch_size = 1000
+        current = from_date
 
-        try:
-            # First page
-            data = self.client.fetch_prices(limit=batch_size, offset=0)
-            total = int(data.get("total", 0))
-            records = data.get("records", [])
+        while current <= to_date:
+            self._wait_for_rate_limit()
+            self.stats["api_requests"] += 1
+            date_str = current.strftime("%d/%m/%Y")
 
-            # Filter by date locally (API doesn't support date-range filter)
-            filtered = self._filter_by_date(records, from_date, to_date)
-            all_records.extend(filtered)
-            self._last_request_ts = time.time()
+            try:
+                records = self.historical_client.fetch_all_for_date(date_str)
+                all_records.extend(records)
+                self.stats["api_successes"] += 1
+                self.stats["records_fetched"] += len(records)
+                logger.info(
+                    f"  Fetched {len(records)} records for {current} "
+                    f"from historical API"
+                )
+                self._last_request_ts = time.time()
+            except Exception as exc:
+                self.stats["api_failures"] += 1
+                logger.warning(f"  API request failed for {current}: {exc}")
+                self._last_request_ts = time.time()
 
-            # If total > batch_size we *could* paginate, but for typical
-            # daily fetches the default dataset is already the "current" day.
-            # For backfills we rely on the seeder's existing fetch_all_prices.
-            self.stats["api_successes"] += 1
-            self.stats["records_fetched"] += len(filtered)
-            logger.info(
-                f"  Fetched {len(filtered)} records matching "
-                f"{from_date} -> {to_date}  (out of {len(records)} returned)"
-            )
-        except Exception as exc:
-            self.stats["api_failures"] += 1
-            logger.warning(f"  API request failed: {exc}")
-            self._last_request_ts = time.time()
+            current += timedelta(days=1)
+            # Rate limit between days
+            if current <= to_date:
+                time.sleep(5.0)
 
         return all_records
 
@@ -130,18 +138,36 @@ class RateLimitedDataFiller:
     # ----- seed a batch into the DB via the existing seeder ---------------
 
     def _seed_records(self, records: list[dict]):
-        """Re-use the DatabaseSeeder to upsert records."""
+        """Seed records using BackfillSeeder for historical data (per-date).
+
+        Groups records by date and uses BackfillSeeder.seed_day() which
+        handles bulk INSERT with ON CONFLICT for efficient deduplication.
+        """
         if not records:
             return
-        # The seeder's _seed_* methods handle dedup + upsert already
-        self.seeder._seed_commodities(records)
-        self.seeder._seed_mandis(records)
-        before = self.db.query(func.count(PriceHistory.id)).scalar()
-        self.seeder._seed_prices(records)
-        after = self.db.query(func.count(PriceHistory.id)).scalar()
-        created = after - before
-        self.stats["records_created"] += created
-        self.stats["records_skipped"] += len(records) - created
+
+        # Group records by date for BackfillSeeder
+        from collections import defaultdict
+        from datetime import datetime as dt
+
+        records_by_date = defaultdict(list)
+        for r in records:
+            date_str = str(r.get("Arrival_Date", r.get("arrival_date", ""))).strip()
+            if not date_str:
+                continue
+            try:
+                record_date = dt.strptime(date_str, "%d/%m/%Y").date()
+                records_by_date[record_date].append(r)
+            except (ValueError, TypeError):
+                continue
+
+        total_created = 0
+        for target_date, day_records in sorted(records_by_date.items()):
+            created = self.backfill_seeder.seed_day(day_records, target_date)
+            total_created += created
+
+        self.stats["records_created"] += total_created
+        self.stats["records_skipped"] += len(records) - total_created
 
     # ----- main public methods --------------------------------------------
 
@@ -213,6 +239,7 @@ class RateLimitedDataFiller:
 
     def close(self):
         self.client.close()
+        self.historical_client.close()
         self.db.close()
 
 

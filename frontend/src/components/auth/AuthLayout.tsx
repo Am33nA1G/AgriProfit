@@ -3,6 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Sprout, Shield, Users, TrendingUp, Leaf } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
 interface AuthLayoutProps {
     children: React.ReactNode;
@@ -11,6 +12,8 @@ interface AuthLayoutProps {
 }
 
 export default function AuthLayout({ children, title, subtitle }: AuthLayoutProps) {
+    const tc = useTranslations('common');
+
     return (
         <div className="min-h-screen bg-gradient-to-br from-green-50 via-white to-amber-50/30 flex">
             {/* Skip to content (accessibility) */}
@@ -18,7 +21,7 @@ export default function AuthLayout({ children, title, subtitle }: AuthLayoutProp
                 href="#auth-form"
                 className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-green-600 text-white px-4 py-2 rounded-lg z-50 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
             >
-                Skip to form
+                {tc('skipToForm')}
             </a>
 
             {/* Left Side - Branding & Benefits (desktop only) */}
@@ -35,22 +38,21 @@ export default function AuthLayout({ children, title, subtitle }: AuthLayoutProp
                             <Sprout className="w-8 h-8 text-green-700" />
                         </div>
                         <div>
-                            <h1 className="text-2xl xl:text-3xl font-bold text-white tracking-tight">AgriProfit</h1>
-                            <p className="text-green-200/80 text-sm">Smart Farming, Better Returns</p>
+                            <h1 className="text-2xl xl:text-3xl font-bold text-white tracking-tight">{tc('appName')}</h1>
+                            <p className="text-green-200/80 text-sm">{tc('tagline')}</p>
                         </div>
                     </div>
 
                     <div className="bg-white/[0.07] backdrop-blur-sm rounded-2xl p-8 xl:p-10 border border-white/10">
                         <div className="flex items-center gap-2 mb-4">
                             <Leaf className="w-6 h-6 text-yellow-400" />
-                            <span className="text-yellow-300/90 text-sm font-medium uppercase tracking-wider">For Indian Farmers</span>
+                            <span className="text-yellow-300/90 text-sm font-medium uppercase tracking-wider">{tc('forIndianFarmers')}</span>
                         </div>
-                        <h2 className="text-3xl xl:text-4xl font-bold text-white leading-tight mb-4">
-                            Empowering Farmers<br />with Market Data
+                        <h2 className="text-3xl xl:text-4xl font-bold text-white leading-tight mb-4 whitespace-pre-line">
+                            {tc('empoweringFarmers')}
                         </h2>
                         <p className="text-green-100/70 text-base xl:text-lg leading-relaxed">
-                            Track real-time commodity prices, calculate transport costs,
-                            and connect with farmers across India — all in one platform.
+                            {tc('heroDescription')}
                         </p>
                     </div>
                 </div>
@@ -58,10 +60,10 @@ export default function AuthLayout({ children, title, subtitle }: AuthLayoutProp
                 {/* Feature grid */}
                 <div className="relative z-10 grid grid-cols-2 gap-4 mt-8">
                     {[
-                        { icon: Shield, title: '100% Secure', desc: 'Your data is protected', color: 'text-yellow-300' },
-                        { icon: Users, title: '10,000+ Farmers', desc: 'Growing community', color: 'text-yellow-300' },
-                        { icon: TrendingUp, title: 'Live Prices', desc: '500+ mandis tracked', color: 'text-yellow-300' },
-                        { icon: Sprout, title: 'Free Forever', desc: 'No hidden charges', color: 'text-yellow-300' },
+                        { icon: Shield, title: tc('featureSecure'), desc: tc('featureSecureDesc'), color: 'text-yellow-300' },
+                        { icon: Users, title: tc('featureFarmers'), desc: tc('featureFarmersDesc'), color: 'text-yellow-300' },
+                        { icon: TrendingUp, title: tc('featureLivePrices'), desc: tc('featureLivePricesDesc'), color: 'text-yellow-300' },
+                        { icon: Sprout, title: tc('featureFree'), desc: tc('featureFreeDesc'), color: 'text-yellow-300' },
                     ].map(({ icon: Icon, title: t, desc, color }) => (
                         <div
                             key={t}
@@ -82,7 +84,7 @@ export default function AuthLayout({ children, title, subtitle }: AuthLayoutProp
                     <div className="lg:hidden mb-8 text-center">
                         <Link href="/" className="inline-flex items-center gap-2.5 bg-white rounded-full pl-4 pr-6 py-2.5 shadow-lg shadow-green-900/5 border border-green-100">
                             <Sprout className="w-6 h-6 text-green-700" />
-                            <span className="text-lg font-bold text-gray-900 tracking-tight">AgriProfit</span>
+                            <span className="text-lg font-bold text-gray-900 tracking-tight">{tc('appName')}</span>
                         </Link>
                     </div>
 
@@ -105,15 +107,8 @@ export default function AuthLayout({ children, title, subtitle }: AuthLayoutProp
                         {children}
                     </div>
 
-                    {/* Footer */}
-                    <div className="mt-6 text-center text-xs text-gray-400">
-                        <p>
-                            By continuing, you agree to our{' '}
-                            <span className="text-gray-500 hover:text-green-700 cursor-pointer">Terms</span>
-                            {' & '}
-                            <span className="text-gray-500 hover:text-green-700 cursor-pointer">Privacy Policy</span>
-                        </p>
-                    </div>
+                    {/* Footer spacer */}
+                    <div className="mt-6" />
                 </div>
             </div>
         </div>

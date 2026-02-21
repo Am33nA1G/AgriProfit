@@ -20,6 +20,7 @@ import {
   CheckCircle2,
   AlertCircle,
 } from "lucide-react"
+import { useTranslations } from "next-intl"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Sidebar } from "@/components/layout/Sidebar"
@@ -65,6 +66,9 @@ interface ActivityItem {
 }
 
 export default function Dashboard() {
+  const t = useTranslations('dashboard')
+  const tc = useTranslations('common')
+
   // Fix hydration: only render time on client
   const [currentTime, setCurrentTime] = useState('')
   const [mounted, setMounted] = useState(false)
@@ -165,20 +169,20 @@ export default function Dashboard() {
   const statsData: StatCard[] = dashboardData ? [
     {
       value: dashboardData.market_summary.total_commodities.toString(),
-      label: "Total Commodities",
+      label: t('totalCommodities'),
       trend: `↗ ${dashboardData.top_commodities.length} tracked`,
       isHighlighted: true,
       icon: <Wheat className="h-5 w-5" />,
     },
     {
       value: dashboardData.market_summary.total_mandis.toString(),
-      label: "Active Mandis",
+      label: t('activeMandis'),
       trend: `↗ ${dashboardData.top_mandis.length} most active`,
       icon: <Store className="h-5 w-5" />,
     },
     {
       value: dashboardData.market_summary.total_price_records.toLocaleString(),
-      label: "Price Records",
+      label: t('priceRecords'),
       trend: dashboardData.market_summary.data_is_stale 
         ? `⚠️ ${Math.round(dashboardData.market_summary.hours_since_update)}h old` 
         : `Updated ${new Date(dashboardData.market_summary.last_updated).toLocaleDateString()}`,
@@ -186,15 +190,15 @@ export default function Dashboard() {
     },
     {
       value: dashboardData.market_summary.total_forecasts.toString(),
-      label: "Price Forecasts",
-      trend: "Upcoming forecasts",
+      label: t('priceForecasts'),
+      trend: t('priceForecast'),
       icon: <TrendingUp className="h-5 w-5" />,
     },
   ] : [
-    { value: "-", label: "Total Commodities", trend: "Loading...", isHighlighted: true, icon: <Wheat className="h-5 w-5" /> },
-    { value: "-", label: "Active Mandis", trend: "Loading...", icon: <Store className="h-5 w-5" /> },
-    { value: "-", label: "Price Records", trend: "Loading...", icon: <Activity className="h-5 w-5" /> },
-    { value: "-", label: "Price Forecasts", trend: "Loading...", icon: <TrendingUp className="h-5 w-5" /> },
+    { value: "-", label: t('totalCommodities'), trend: tc('loading'), isHighlighted: true, icon: <Wheat className="h-5 w-5" /> },
+    { value: "-", label: t('activeMandis'), trend: tc('loading'), icon: <Store className="h-5 w-5" /> },
+    { value: "-", label: t('priceRecords'), trend: tc('loading'), icon: <Activity className="h-5 w-5" /> },
+    { value: "-", label: t('priceForecasts'), trend: tc('loading'), icon: <TrendingUp className="h-5 w-5" /> },
   ]
 
   return (
@@ -206,28 +210,28 @@ export default function Dashboard() {
           {/* Page Header */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
             <div>
-              <h1 className="text-2xl lg:text-3xl font-bold text-foreground">Dashboard</h1>
+              <h1 className="text-2xl lg:text-3xl font-bold text-foreground">{t('title')}</h1>
               <p className="text-muted-foreground mt-1">
-                Monitor commodity prices across India mandis
+                {t('subtitle')}
               </p>
             </div>
             <div className="flex items-center gap-3">
               <Link href="/dashboard/analyze">
                 <Button className="bg-green-600 text-white hover:bg-green-700">
                   <BarChart3 className="h-4 w-4 mr-2" />
-                  Analyze Inventory
+                  {t('analyzeInventory')}
                 </Button>
               </Link>
               <Link href="/inventory">
                 <Button variant="outline" className="border-primary text-primary hover:bg-primary/10">
                   <Package className="h-4 w-4 mr-2" />
-                  My Inventory
+                  {t('myInventory')}
                 </Button>
               </Link>
               <Link href="/sales">
                 <Button variant="outline" className="border-green-600 text-green-600 hover:bg-green-50">
                   <ShoppingCart className="h-4 w-4 mr-2" />
-                  Log Sale
+                  {t('logSale')}
                 </Button>
               </Link>
             </div>
@@ -296,10 +300,10 @@ export default function Dashboard() {
             {/* Top Commodities */}
             <Card>
               <CardHeader className="flex flex-row items-center justify-between pb-2">
-                <CardTitle className="text-lg font-semibold">Highest Priced Commodities</CardTitle>
+                <CardTitle className="text-lg font-semibold">{t('highestPricedCommodities')}</CardTitle>
                 <Link href="/commodities?sortBy=price&sortOrder=desc">
                   <Button variant="ghost" size="sm" className="text-primary">
-                    View All
+                    {tc('viewAll')}
                   </Button>
                 </Link>
               </CardHeader>
@@ -347,7 +351,7 @@ export default function Dashboard() {
                       </Link>
                     ))
                   ) : (
-                    <p className="text-center text-muted-foreground py-4">No commodities found</p>
+                    <p className="text-center text-muted-foreground py-4">{t('noCommoditiesFound')}</p>
                   )}
                 </div>
               </CardContent>
@@ -356,10 +360,10 @@ export default function Dashboard() {
             {/* Top Mandis */}
             <Card>
               <CardHeader className="flex flex-row items-center justify-between pb-2">
-                <CardTitle className="text-lg font-semibold">Most Active Mandis</CardTitle>
+                <CardTitle className="text-lg font-semibold">{t('mostActiveMandis')}</CardTitle>
                 <Link href="/mandis">
                   <Button variant="ghost" size="sm" className="text-primary">
-                    View All
+                    {tc('viewAll')}
                   </Button>
                 </Link>
               </CardHeader>
@@ -391,7 +395,7 @@ export default function Dashboard() {
                       </Link>
                     ))
                   ) : (
-                    <p className="text-center text-muted-foreground py-4">No mandis data</p>
+                    <p className="text-center text-muted-foreground py-4">{t('noMandisData')}</p>
                   )}
                 </div>
               </CardContent>
@@ -403,7 +407,7 @@ export default function Dashboard() {
             {/* Recent Activity */}
             <Card>
               <CardHeader className="pb-2">
-                <CardTitle className="text-lg font-semibold">Recent Activity</CardTitle>
+                <CardTitle className="text-lg font-semibold">{t('recentActivity')}</CardTitle>
               </CardHeader>
               <CardContent className="pt-2">
                 <div className="space-y-3">
@@ -448,7 +452,7 @@ export default function Dashboard() {
                     ))
                   ) : (
                     <p className="text-center text-muted-foreground py-4">
-                      No recent activity. Login to see your notifications.
+                      {t('noRecentActivity')}
                     </p>
                   )}
                 </div>
@@ -458,7 +462,7 @@ export default function Dashboard() {
             {/* Quick Actions */}
             <Card>
               <CardHeader className="pb-2">
-                <CardTitle className="text-lg font-semibold">Quick Actions</CardTitle>
+                <CardTitle className="text-lg font-semibold">{t('quickActions')}</CardTitle>
               </CardHeader>
               <CardContent className="pt-2">
                 <div className="grid grid-cols-2 gap-3">
@@ -466,29 +470,29 @@ export default function Dashboard() {
                     <div className="p-3 rounded-lg bg-card text-primary mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                       <Wheat className="h-6 w-6" />
                     </div>
-                    <p className="font-medium text-sm">View Commodities</p>
-                    <p className="text-xs text-muted-foreground mt-0.5">Browse all products</p>
+                    <p className="font-medium text-sm">{t('viewCommodities')}</p>
+                    <p className="text-xs text-muted-foreground mt-0.5">{t('browseAllProducts')}</p>
                   </Link>
                   <Link href="/mandis" className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted hover:bg-accent transition-colors text-center group">
                     <div className="p-3 rounded-lg bg-card text-primary mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                       <IndianRupee className="h-6 w-6" />
                     </div>
-                    <p className="font-medium text-sm">Check Prices</p>
-                    <p className="text-xs text-muted-foreground mt-0.5">Latest market prices</p>
+                    <p className="font-medium text-sm">{t('checkPrices')}</p>
+                    <p className="text-xs text-muted-foreground mt-0.5">{t('latestMarketPrices')}</p>
                   </Link>
                   <Link href="/mandis" className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted hover:bg-accent transition-colors text-center group">
                     <div className="p-3 rounded-lg bg-card text-primary mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                       <Store className="h-6 w-6" />
                     </div>
-                    <p className="font-medium text-sm">Browse Mandis</p>
-                    <p className="text-xs text-muted-foreground mt-0.5">Explore markets</p>
+                    <p className="font-medium text-sm">{t('browseMandis')}</p>
+                    <p className="text-xs text-muted-foreground mt-0.5">{t('exploreMarkets')}</p>
                   </Link>
                   <Link href="/community" className="flex flex-col items-center justify-center p-4 rounded-xl bg-muted hover:bg-accent transition-colors text-center group">
                     <div className="p-3 rounded-lg bg-card text-primary mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                       <MessageSquare className="h-6 w-6" />
                     </div>
-                    <p className="font-medium text-sm">Community Posts</p>
-                    <p className="text-xs text-muted-foreground mt-0.5">Join discussions</p>
+                    <p className="font-medium text-sm">{t('communityPosts')}</p>
+                    <p className="text-xs text-muted-foreground mt-0.5">{t('joinDiscussions')}</p>
                   </Link>
                 </div>
               </CardContent>
@@ -497,7 +501,7 @@ export default function Dashboard() {
             {/* Data Freshness */}
             <Card className="lg:col-span-2 xl:col-span-1">
               <CardHeader className="pb-2">
-                <CardTitle className="text-lg font-semibold">Data Freshness</CardTitle>
+                <CardTitle className="text-lg font-semibold">{t('dataFreshness')}</CardTitle>
               </CardHeader>
               <CardContent className="pt-2">
                 {loading ? (
@@ -519,12 +523,12 @@ export default function Dashboard() {
                     {/* Last Update */}
                     <div className="text-center mb-4">
                       <p className="text-sm text-muted-foreground mb-1">
-                        Last price update
+                        {t('lastPriceUpdate')}
                       </p>
                       <p className="text-xl font-bold">
-                        {dataFreshness.hoursOld < 1 
-                          ? 'Just now' 
-                          : `${dataFreshness.hoursOld}h ago`
+                        {dataFreshness.hoursOld < 1
+                          ? t('justNow')
+                          : t('hoursAgo', { hours: dataFreshness.hoursOld })
                         }
                       </p>
                       <div className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium mt-2 ${
@@ -532,7 +536,7 @@ export default function Dashboard() {
                           ? 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400'
                           : 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400'
                       }`}>
-                        {dataFreshness.isStale ? 'Sync Recommended' : 'Up to Date'}
+                        {dataFreshness.isStale ? t('syncRecommended') : t('upToDate')}
                       </div>
                     </div>
                     
@@ -542,7 +546,7 @@ export default function Dashboard() {
                       return (
                         <div className="text-center pt-4 border-t w-full">
                           <p className="text-sm text-muted-foreground mb-1">
-                            Next auto-sync in
+                            {t('nextAutoSyncIn')}
                           </p>
                           <p className="text-lg font-semibold text-primary">
                             {syncInfo.hoursUntilSync}h {syncInfo.minutesUntilSync}m
@@ -555,7 +559,7 @@ export default function Dashboard() {
                     })()}
                   </div>
                 ) : (
-                  <p className="text-center text-muted-foreground py-16">No data</p>
+                  <p className="text-center text-muted-foreground py-16">{t('noData')}</p>
                 )}
               </CardContent>
             </Card>
@@ -565,16 +569,16 @@ export default function Dashboard() {
               <CardContent className="p-6">
                 <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
-                    <h3 className="text-lg font-semibold mb-1">Market Session Active</h3>
+                    <h3 className="text-lg font-semibold mb-1">{t('marketSessionActive')}</h3>
                     <p className="text-sm text-primary-foreground/70">
-                      Track live prices during trading hours
+                      {t('trackLivePrices')}
                     </p>
                   </div>
                   <div className="flex items-center gap-4">
                     <div className="flex items-center gap-3">
                       <Clock className="h-8 w-8 opacity-70" />
                       <div>
-                        <p className="text-sm text-primary-foreground/70">Current Time</p>
+                        <p className="text-sm text-primary-foreground/70">{t('currentTime')}</p>
                         <p className="text-2xl lg:text-3xl font-mono font-bold">
                           {mounted ? currentTime : '--:--'}
                         </p>
@@ -582,10 +586,10 @@ export default function Dashboard() {
                     </div>
                     <div className="h-12 w-px bg-primary-foreground/20" />
                     <div>
-                      <p className="text-sm text-primary-foreground/70">Status</p>
+                      <p className="text-sm text-primary-foreground/70">{tc('status')}</p>
                       <div className="flex items-center gap-2">
                         <span className="h-2 w-2 bg-green-400 rounded-full animate-pulse" />
-                        <span className="font-semibold">Live</span>
+                        <span className="font-semibold">{t('live')}</span>
                       </div>
                     </div>
                   </div>

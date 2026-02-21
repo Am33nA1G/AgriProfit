@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Phone, KeyRound, Sparkles, Loader2, ArrowRight, ShieldCheck } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 import { authService } from '@/services/auth';
 import { useAuthStore } from '@/store/authStore';
 import { toast } from 'sonner';
@@ -12,6 +13,9 @@ import AuthLayout from '@/components/auth/AuthLayout';
 export default function LoginPage() {
     const router = useRouter();
     const setAuth = useAuthStore((state) => state.setAuth);
+    const t = useTranslations('auth');
+    const tc = useTranslations('common');
+    const tv = useTranslations('validation');
 
     // Form state
     const [step, setStep] = useState<'phone' | 'otp'>('phone');
@@ -37,7 +41,7 @@ export default function LoginPage() {
             return false;
         }
         if (!/^[6-9]\d{9}$/.test(value)) {
-            setPhoneError('Must start with 6-9 and be 10 digits');
+            setPhoneError(tv('invalidPhone'));
             return false;
         }
         setPhoneError('');
@@ -63,7 +67,7 @@ export default function LoginPage() {
 
         if (!validatePhone(phoneNumber)) {
             if (phoneNumber.length !== 10) {
-                setPhoneError('Please enter a valid 10-digit mobile number');
+                setPhoneError(tv('invalidPhoneGeneric'));
             }
             return;
         }
@@ -71,11 +75,11 @@ export default function LoginPage() {
         setLoading(true);
         try {
             await authService.requestOtp(phoneNumber);
-            toast.success('OTP sent to your phone!');
+            toast.success(t('otpSentToPhone'));
             setStep('otp');
             startResendTimer();
         } catch (error: any) {
-            const message = error.response?.data?.detail || 'Failed to send OTP. Please try again.';
+            const message = error.response?.data?.detail || t('failedToSendOtp');
             setPhoneError(message);
             toast.error(message);
         } finally {
@@ -88,11 +92,11 @@ export default function LoginPage() {
         e.preventDefault();
 
         if (otp.length !== 6) {
-            setOtpError('Please enter the 6-digit OTP');
+            setOtpError(tv('invalidOtp'));
             return;
         }
         if (!/^\d+$/.test(otp)) {
-            setOtpError('OTP must contain only digits');
+            setOtpError(tv('otpDigitsOnly'));
             return;
         }
         setOtpError('');
@@ -103,7 +107,7 @@ export default function LoginPage() {
             localStorage.setItem('token', response.access_token);
 
             if (response.is_new_user) {
-                toast.success('Phone verified! Please complete your profile.');
+                toast.success(t('phoneVerified'));
                 router.push(`/register?step=profile&token=${response.access_token}`);
                 return;
             }
@@ -111,24 +115,24 @@ export default function LoginPage() {
             const user = await authService.getCurrentUser();
 
             if (!user.is_profile_complete) {
-                toast.info('Please complete your profile to continue.');
+                toast.info(t('completeProfilePrompt'));
                 router.push('/register?step=profile');
                 return;
             }
 
             setAuth(user, response.access_token);
-            toast.success('Login successful!');
+            toast.success(t('loginSuccess'));
             router.push('/dashboard');
         } catch (error: any) {
             if (error.response?.status === 403) {
-                const message = error.response?.data?.detail || 'Your account has been banned. Please contact support.';
+                const message = error.response?.data?.detail || t('accountBanned');
                 toast.error(message, { duration: 6000 });
                 setStep('phone');
                 setOtp('');
                 setPhoneNumber('');
                 return;
             }
-            const message = error.response?.data?.detail || 'Invalid OTP. Please try again.';
+            const message = error.response?.data?.detail || t('invalidOtpGeneric');
             setOtpError(message);
             toast.error(message);
         } finally {
@@ -138,8 +142,8 @@ export default function LoginPage() {
 
     return (
         <AuthLayout
-            title="Welcome Back"
-            subtitle="Sign in to manage your agricultural business"
+            title={t('welcomeBack')}
+            subtitle={t('signInSubtitle')}
         >
             {/* ── Phone Step ── */}
             {step === 'phone' && (
@@ -147,7 +151,7 @@ export default function LoginPage() {
                     {/* Phone input */}
                     <div className="space-y-1.5">
                         <label htmlFor="phone" className="block text-sm font-semibold text-gray-700">
-                            Mobile Number <span className="text-red-500">*</span>
+                            {t('mobileNumber')} <span className="text-red-500">*</span>
                         </label>
                         <div className="relative">
                             <Phone className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
@@ -157,7 +161,7 @@ export default function LoginPage() {
                                 type="tel"
                                 inputMode="numeric"
                                 autoComplete="tel"
-                                placeholder="9876543210"
+                                placeholder={t('phonePlaceholder')}
                                 value={phoneNumber}
                                 onChange={(e) => {
                                     const v = e.target.value.replace(/\D/g, '').slice(0, 10);
@@ -195,7 +199,7 @@ export default function LoginPage() {
                                 {phoneError}
                             </p>
                         ) : (
-                            <p id="phone-help" className="text-xs text-gray-400">We&apos;ll send you a one-time verification code</p>
+                            <p id="phone-help" className="text-xs text-gray-400">{t('phoneHelp')}</p>
                         )}
                     </div>
 
@@ -216,11 +220,11 @@ export default function LoginPage() {
                         {loading ? (
                             <>
                                 <Loader2 className="w-5 h-5 animate-spin" />
-                                <span>Sending OTP...</span>
+                                <span>{t('sendingOtp')}</span>
                             </>
                         ) : (
                             <>
-                                <span>Send OTP</span>
+                                <span>{t('sendOtp')}</span>
                                 <ArrowRight className="w-5 h-5" />
                             </>
                         )}
@@ -232,7 +236,7 @@ export default function LoginPage() {
                             <div className="w-full border-t border-gray-200" />
                         </div>
                         <div className="relative flex justify-center text-xs">
-                            <span className="px-3 bg-white text-gray-400">New to AgriProfit?</span>
+                            <span className="px-3 bg-white text-gray-400">{t('newToAgriProfit')}</span>
                         </div>
                     </div>
 
@@ -247,7 +251,7 @@ export default function LoginPage() {
                             active:scale-[0.98] transition-all duration-200
                         "
                     >
-                        Create Free Account
+                        {t('createFreeAccount')}
                     </Link>
                 </form>
             )}
@@ -259,9 +263,9 @@ export default function LoginPage() {
                     <div className="bg-green-50 border border-green-200 rounded-xl p-4 flex items-start gap-3">
                         <Sparkles className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                         <div>
-                            <p className="text-sm font-semibold text-green-800">OTP sent successfully!</p>
+                            <p className="text-sm font-semibold text-green-800">{t('otpSentSuccess')}</p>
                             <p className="text-xs text-green-700 mt-0.5">
-                                Enter the 6-digit code sent to <span className="font-medium">+91 {phoneNumber}</span>
+                                {t('otpSentTo')} <span className="font-medium">+91 {phoneNumber}</span>
                             </p>
                         </div>
                     </div>
@@ -270,7 +274,7 @@ export default function LoginPage() {
                         {/* OTP input */}
                         <div className="space-y-1.5">
                             <label htmlFor="otp" className="block text-sm font-semibold text-gray-700">
-                                Verification Code <span className="text-red-500">*</span>
+                                {t('verificationCode')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <KeyRound className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
@@ -279,7 +283,7 @@ export default function LoginPage() {
                                     type="text"
                                     inputMode="numeric"
                                     autoComplete="one-time-code"
-                                    placeholder="000000"
+                                    placeholder={t('otpPlaceholder')}
                                     value={otp}
                                     onChange={(e) => {
                                         const v = e.target.value.replace(/\D/g, '').slice(0, 6);
@@ -324,11 +328,11 @@ export default function LoginPage() {
                             {loading ? (
                                 <>
                                     <Loader2 className="w-5 h-5 animate-spin" />
-                                    <span>Verifying...</span>
+                                    <span>{t('verifying')}</span>
                                 </>
                             ) : (
                                 <>
-                                    <span>Verify &amp; Login</span>
+                                    <span>{t('verifyLogin')}</span>
                                     <ArrowRight className="w-5 h-5" />
                                 </>
                             )}
@@ -345,11 +349,11 @@ export default function LoginPage() {
                                 }}
                                 className="text-gray-500 hover:text-gray-700 transition-colors"
                             >
-                                &larr; Change number
+                                &larr; {t('changeNumber')}
                             </button>
                             {resendTimer > 0 ? (
                                 <span className="text-gray-400">
-                                    Resend in <span className="font-semibold text-green-600">{resendTimer}s</span>
+                                    {t('resendIn')} <span className="font-semibold text-green-600">{resendTimer}s</span>
                                 </span>
                             ) : (
                                 <button
@@ -358,7 +362,7 @@ export default function LoginPage() {
                                     disabled={loading}
                                     className="text-green-600 hover:text-green-700 font-semibold transition-colors disabled:opacity-50"
                                 >
-                                    Resend OTP
+                                    {t('resendOtp')}
                                 </button>
                             )}
                         </div>
@@ -369,7 +373,7 @@ export default function LoginPage() {
             {/* Security badge */}
             <div className="mt-7 pt-5 border-t border-gray-100 flex items-center justify-center gap-2 text-xs text-gray-400">
                 <ShieldCheck className="w-4 h-4 text-green-500" />
-                <span>Your data is encrypted and secure</span>
+                <span>{tc('dataEncrypted')}</span>
             </div>
         </AuthLayout>
     );

@@ -20,14 +20,14 @@ describe('Sidebar Component', () => {
 
   it('should render all main navigation items', () => {
     render(<Sidebar />);
-    
+
     expect(screen.getByText('Dashboard')).toBeInTheDocument();
     expect(screen.getByText('Commodities')).toBeInTheDocument();
     expect(screen.getByText('Mandis')).toBeInTheDocument();
     expect(screen.getByText('Inventory')).toBeInTheDocument();
     expect(screen.getByText('Sales')).toBeInTheDocument();
     expect(screen.getByText('Transport')).toBeInTheDocument();
-    expect(screen.getByText('Market Research')).toBeInTheDocument();
+    expect(screen.getByText('Analytics')).toBeInTheDocument();
     expect(screen.getByText('Community')).toBeInTheDocument();
     expect(screen.getByText('Notifications')).toBeInTheDocument();
   });
@@ -52,19 +52,14 @@ describe('Sidebar Component', () => {
     expect(screen.queryByText('Admin')).not.toBeInTheDocument();
   });
 
-  it('should handle logout click', async () => {
-    const user = userEvent.setup();
-    localStorage.setItem('token', 'test-token');
-    localStorage.setItem('user', JSON.stringify({ role: 'farmer' }));
-    
+  it('should render navigation links with correct hrefs', () => {
     render(<Sidebar />);
-    
-    const logoutButton = screen.getByRole('button', { name: /logout/i });
-    await user.click(logoutButton);
-    
-    expect(localStorage.getItem('token')).toBeNull();
-    expect(localStorage.getItem('user')).toBeNull();
-    expect(mockPush).toHaveBeenCalledWith('/login');
+
+    const dashboardLink = screen.getByText('Dashboard').closest('a');
+    expect(dashboardLink).toHaveAttribute('href', '/dashboard');
+
+    const commoditiesLink = screen.getByText('Commodities').closest('a');
+    expect(commoditiesLink).toHaveAttribute('href', '/commodities');
   });
 
   it('should highlight active navigation item', () => {

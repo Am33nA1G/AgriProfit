@@ -104,7 +104,7 @@ describe('MandiDetailPage', () => {
     it('shows loading spinner when data is loading', () => {
       queryOverrides['mandi-detail'] = { data: undefined, isLoading: true, error: null }
       render(<MandiDetailPage />)
-      expect(screen.getByText('Loading mandi details...')).toBeInTheDocument()
+      expect(screen.getByText('Loading...')).toBeInTheDocument()
     })
 
     it('renders within AppLayout during loading', () => {
@@ -121,32 +121,32 @@ describe('MandiDetailPage', () => {
     it('shows Mandi Not Found on error', () => {
       queryOverrides['mandi-detail'] = { data: undefined, isLoading: false, error: new Error('Not found') }
       render(<MandiDetailPage />)
-      expect(screen.getByText('Mandi Not Found')).toBeInTheDocument()
+      expect(screen.getByText('No mandis found')).toBeInTheDocument()
     })
 
     it('shows error description text', () => {
       queryOverrides['mandi-detail'] = { data: undefined, isLoading: false, error: new Error('err') }
       render(<MandiDetailPage />)
-      expect(screen.getByText(/doesn't exist or has been removed/)).toBeInTheDocument()
+      expect(screen.getByText('No results found')).toBeInTheDocument()
     })
 
     it('shows Go Back button on error', () => {
       queryOverrides['mandi-detail'] = { data: undefined, isLoading: false, error: new Error('err') }
       render(<MandiDetailPage />)
-      expect(screen.getByText('Go Back')).toBeInTheDocument()
+      expect(screen.getByText('Back')).toBeInTheDocument()
     })
 
     it('calls router.back on Go Back click', () => {
       queryOverrides['mandi-detail'] = { data: undefined, isLoading: false, error: new Error('err') }
       render(<MandiDetailPage />)
-      fireEvent.click(screen.getByText('Go Back'))
+      fireEvent.click(screen.getByText('Back'))
       expect(mockBack).toHaveBeenCalled()
     })
 
     it('shows Mandi Not Found when data is null', () => {
       queryOverrides['mandi-detail'] = { data: null, isLoading: false, error: null }
       render(<MandiDetailPage />)
-      expect(screen.getByText('Mandi Not Found')).toBeInTheDocument()
+      expect(screen.getByText('No mandis found')).toBeInTheDocument()
     })
   })
 
@@ -171,7 +171,7 @@ describe('MandiDetailPage', () => {
 
     it('displays rating badge', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('4.2 (56 reviews)')).toBeInTheDocument()
+      expect(screen.getByText('4.2 (56 Reviews)')).toBeInTheDocument()
     })
 
     it('displays distance badge', () => {
@@ -181,12 +181,12 @@ describe('MandiDetailPage', () => {
 
     it('shows Back to Mandis button', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Back to Mandis')).toBeInTheDocument()
+      expect(screen.getByText('Back')).toBeInTheDocument()
     })
 
     it('calls router.back on Back to Mandis click', () => {
       render(<MandiDetailPage />)
-      fireEvent.click(screen.getByText('Back to Mandis'))
+      fireEvent.click(screen.getByText('Back'))
       expect(mockBack).toHaveBeenCalled()
     })
 
@@ -202,12 +202,12 @@ describe('MandiDetailPage', () => {
   describe('Contact Information', () => {
     it('displays Contact Information title', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Contact Information')).toBeInTheDocument()
+      expect(screen.getByText('Contact')).toBeInTheDocument()
     })
 
     it('displays contact description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Get in touch with this mandi')).toBeInTheDocument()
+      expect(screen.getAllByText('Mandi Details').length).toBeGreaterThanOrEqual(1)
     })
 
     it('displays address', () => {
@@ -244,7 +244,7 @@ describe('MandiDetailPage', () => {
       }
       queryOverrides['mandi-detail'] = { data: mandiNoContact, isLoading: false, error: null }
       render(<MandiDetailPage />)
-      expect(screen.getByText('No contact information available')).toBeInTheDocument()
+      expect(screen.getByText('No data available')).toBeInTheDocument()
     })
   })
 
@@ -285,12 +285,12 @@ describe('MandiDetailPage', () => {
   describe('Current Prices', () => {
     it('displays Current Prices title', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Current Prices')).toBeInTheDocument()
+      expect(screen.getByText('Recent Prices')).toBeInTheDocument()
     })
 
     it('displays price description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Latest commodity prices at this mandi')).toBeInTheDocument()
+      expect(screen.getByText('Prices')).toBeInTheDocument()
     })
 
     it('displays commodity names', () => {
@@ -319,7 +319,7 @@ describe('MandiDetailPage', () => {
   describe('Accepted Commodities', () => {
     it('displays Accepted Commodities title', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Accepted Commodities')).toBeInTheDocument()
+      expect(screen.getByText('Commodities Traded')).toBeInTheDocument()
     })
 
     it('displays commodity badges', () => {
@@ -330,7 +330,7 @@ describe('MandiDetailPage', () => {
 
     it('displays description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Commodities traded at this market')).toBeInTheDocument()
+      expect(screen.getByText('Commodities')).toBeInTheDocument()
     })
   })
 
@@ -351,16 +351,16 @@ describe('MandiDetailPage', () => {
       expect(screen.getByText('Cold Storage')).toBeInTheDocument()
     })
 
-    it('shows Available badges for enabled facilities', () => {
+    it('shows Active badges for enabled facilities', () => {
       render(<MandiDetailPage />)
-      // weighbridge, storage, cold_storage are true = 3 Available badges
-      const badges = screen.getAllByText('Available')
+      // weighbridge, storage, cold_storage are true = 3 Active badges
+      const badges = screen.getAllByText('Active')
       expect(badges.length).toBe(3)
     })
 
-    it('displays Available amenities description', () => {
+    it('displays facilities description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Available amenities')).toBeInTheDocument()
+      expect(screen.getAllByText('Mandi Details').length).toBeGreaterThanOrEqual(1)
     })
   })
 
@@ -382,7 +382,7 @@ describe('MandiDetailPage', () => {
 
     it('displays accepted payment options description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Accepted payment options')).toBeInTheDocument()
+      expect(screen.getAllByText('Mandi Details').length).toBeGreaterThanOrEqual(1)
     })
   })
 
@@ -422,7 +422,7 @@ describe('MandiDetailPage', () => {
 
     it('displays Geographic coordinates description', () => {
       render(<MandiDetailPage />)
-      expect(screen.getByText('Geographic coordinates')).toBeInTheDocument()
+      expect(screen.getAllByText('Mandi Details').length).toBeGreaterThanOrEqual(1)
     })
 
     it('opens Google Maps on button click', () => {
@@ -475,7 +475,7 @@ describe('MandiDetailPage', () => {
     it('does not show Current Prices section when empty', () => {
       queryOverrides['mandi-detail'] = { data: minimalMandi, isLoading: false, error: null }
       render(<MandiDetailPage />)
-      expect(screen.queryByText('Current Prices')).not.toBeInTheDocument()
+      expect(screen.queryByText('Recent Prices')).not.toBeInTheDocument()
     })
 
     it('does not show Payment Methods section when empty', () => {
@@ -487,7 +487,7 @@ describe('MandiDetailPage', () => {
     it('does not show Location section when coordinates absent', () => {
       queryOverrides['mandi-detail'] = { data: minimalMandi, isLoading: false, error: null }
       render(<MandiDetailPage />)
-      expect(screen.queryByText('Geographic coordinates')).not.toBeInTheDocument()
+      expect(screen.queryByText('Location')).not.toBeInTheDocument()
     })
   })
 })

@@ -33,7 +33,10 @@ const mockPosts: CommunityPost[] = [
         replies_count: 2,
         user_has_liked: false,
         author_name: 'John Doe',
-        image_url: 'http://example.com/image.jpg'
+        image_url: 'http://example.com/image.jpg',
+        view_count: 0,
+        is_pinned: false,
+        alert_highlight: false
     },
     {
         id: '2',
@@ -48,12 +51,21 @@ const mockPosts: CommunityPost[] = [
         likes_count: 10,
         replies_count: 0,
         user_has_liked: true,
-        author_name: 'Jane Smith'
+        author_name: 'Jane Smith',
+        image_url: null,
+        view_count: 0,
+        is_pinned: false,
+        alert_highlight: false
     }
 ]
 
 // API Handlers
 const handlers = [
+    // Notifications (unread count) - prevent 401 redirect
+    http.get('*/notifications/unread-count', () => {
+        return HttpResponse.json(0)
+    }),
+
     // Get posts
     http.get('*/community/posts/', () => {
         return HttpResponse.json({
@@ -180,8 +192,8 @@ const mockLogin = () => {
 describe('CommunityPage', () => {
     it('1. Rendering: Page title displays', async () => {
         render(<CommunityPage />)
-        expect(screen.getByText('Farmer Community Forum')).toBeInTheDocument()
-        expect(screen.getByText('Share knowledge, ask questions, and connect with fellow farmers')).toBeInTheDocument()
+        expect(screen.getByRole('heading', { name: 'Community', level: 1 })).toBeInTheDocument()
+        expect(screen.getByText('Connect with farmers across India')).toBeInTheDocument()
     })
 
     it('1. Rendering: Create Post button visible', async () => {
@@ -191,7 +203,7 @@ describe('CommunityPage', () => {
 
     it('1. Rendering: Category tabs render', async () => {
         render(<CommunityPage />)
-        expect(screen.getByRole('button', { name: 'All' })).toBeVisible()
+        expect(screen.getByRole('button', { name: 'All Posts' })).toBeVisible()
         expect(screen.getByRole('button', { name: 'General' })).toBeVisible()
         expect(screen.getByRole('button', { name: 'Question' })).toBeVisible()
         expect(screen.getByRole('button', { name: 'Tip' })).toBeVisible()
@@ -238,27 +250,28 @@ describe('CommunityPage', () => {
     it('2. Post Creation: Form opens on button click', async () => {
         render(<CommunityPage />)
         fireEvent.click(screen.getByRole('button', { name: /create post/i }))
-        expect(screen.getByText('Create New Post')).toBeInTheDocument()
+        // The CardTitle renders 'Create Post' as the form heading
+        expect(screen.getByPlaceholderText('Post Title')).toBeInTheDocument()
     })
 
     it('2. Post Creation: All fields render', async () => {
         render(<CommunityPage />)
         fireEvent.click(screen.getByRole('button', { name: /create post/i }))
 
-        expect(screen.getByPlaceholderText('Enter post title')).toBeVisible()
-        expect(screen.getByPlaceholderText('Write your post content...')).toBeVisible()
-        expect(screen.getByText('Category')).toBeVisible()
-        expect(screen.getByText('Image (optional)')).toBeVisible()
+        expect(screen.getByPlaceholderText('Post Title')).toBeVisible()
+        expect(screen.getByPlaceholderText('Post Content')).toBeVisible()
+        expect(screen.getByText('Select category')).toBeVisible()
+        expect(screen.getByText('Image')).toBeVisible()
     })
 
     it('2. Post Creation: Submit disabled when invalid', async () => {
         render(<CommunityPage />)
         fireEvent.click(screen.getByRole('button', { name: /create post/i }))
 
-        const submitBtn = screen.getByRole('button', { name: /^Post$/ })
+        const submitBtn = screen.getByRole('button', { name: /^New Post$/ })
         expect(submitBtn).toBeDisabled()
 
-        fireEvent.change(screen.getByPlaceholderText('Enter post title'), { target: { value: 'Hi' } }) // Too short
+        fireEvent.change(screen.getByPlaceholderText('Post Title'), { target: { value: 'Hi' } }) // Too short
         expect(submitBtn).toBeDisabled()
     })
 
@@ -270,17 +283,17 @@ describe('CommunityPage', () => {
         fireEvent.click(screen.getByRole('button', { name: /create post/i }))
 
         // Fill form
-        fireEvent.change(screen.getByPlaceholderText('Enter post title'), { target: { value: 'New Test Post' } })
-        fireEvent.change(screen.getByPlaceholderText('Write your post content...'), { target: { value: 'This is a test post content that is long enough.' } })
+        fireEvent.change(screen.getByPlaceholderText('Post Title'), { target: { value: 'New Test Post' } })
+        fireEvent.change(screen.getByPlaceholderText('Post Content'), { target: { value: 'This is a test post content that is long enough.' } })
 
         // Submit
-        const submitBtn = screen.getByRole('button', { name: /^Post$/ })
+        const submitBtn = screen.getByRole('button', { name: /^New Post$/ })
         await waitFor(() => expect(submitBtn).not.toBeDisabled())
         fireEvent.click(submitBtn)
 
-        // Check result
+        // Check result - form should close (no more title input)
         await waitFor(() => {
-            expect(screen.queryByText('Create New Post')).not.toBeInTheDocument()
+            expect(screen.queryByPlaceholderText('Post Title')).not.toBeInTheDocument()
         })
         // Ideally we should see the new post, but our mock returns ID 3 which mockPosts doesn't have initially.
         // But the component adds it to state.
@@ -366,7 +379,7 @@ describe('CommunityPage', () => {
         fireEvent.click(deleteBtns[0])
 
         expect(screen.getByText('Delete Post')).toBeVisible()
-        expect(screen.getByText('Are you sure you want to delete this post? This action cannot be undone.')).toBeVisible()
+        expect(screen.getByText('Confirm')).toBeVisible()
     })
 
 })

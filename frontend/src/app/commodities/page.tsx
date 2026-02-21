@@ -1,6 +1,7 @@
 "use client"
 
-import { useState, useEffect, useMemo, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
+import { useTranslations } from 'next-intl'
 import { useRouter, useSearchParams } from 'next/navigation'
 import {
     Search,
@@ -49,6 +50,8 @@ function getCommodityIcon(name: string, category: string): string {
 }
 
 export default function CommoditiesPage() {
+    const t = useTranslations('commodities')
+    const tc = useTranslations('common')
     const router = useRouter()
     const searchParams = useSearchParams()
     
@@ -72,7 +75,7 @@ export default function CommoditiesPage() {
         (searchParams.get('sortOrder') as 'asc' | 'desc') || 'asc'
     )
     const [totalCount, setTotalCount] = useState(0)
-    const [displayCount, setDisplayCount] = useState(10)
+    const [currentLimit, setCurrentLimit] = useState(50)
 
     // Fetch commodities with filters
     const fetchCommodities = useCallback(async () => {
@@ -89,7 +92,7 @@ export default function CommoditiesPage() {
                 maxPrice: maxPrice,
                 sortBy: sortBy,
                 sortOrder: sortOrder,
-                limit: 50, // Paginated - load more on demand
+                limit: currentLimit,
             }
 
             const response = await commoditiesService.getWithPrices(filters)
@@ -101,7 +104,7 @@ export default function CommoditiesPage() {
         } finally {
             setLoading(false)
         }
-    }, [searchQuery, selectedCategory, trendFilter, seasonFilter, minPrice, maxPrice, sortBy, sortOrder])
+    }, [searchQuery, selectedCategory, trendFilter, seasonFilter, minPrice, maxPrice, sortBy, sortOrder, currentLimit])
 
     // Fetch categories on mount
     useEffect(() => {
@@ -116,11 +119,15 @@ export default function CommoditiesPage() {
         fetchCategories()
     }, [])
 
-    // Fetch commodities when filters change
+    // Reset limit when filters change (not when loading more)
+    useEffect(() => {
+        setCurrentLimit(50)
+    }, [searchQuery, selectedCategory, trendFilter, seasonFilter, minPrice, maxPrice, sortBy, sortOrder])
+
+    // Fetch commodities when filters or limit change
     useEffect(() => {
         const debounce = setTimeout(() => {
             fetchCommodities()
-            setDisplayCount(10) // Reset to show 10 items when filters change
         }, 300)
         return () => clearTimeout(debounce)
     }, [fetchCommodities])
@@ -152,20 +159,11 @@ export default function CommoditiesPage() {
         setMaxPrice(undefined)
         setSortBy('name')
         setSortOrder('asc')
+        setCurrentLimit(50)
     }
 
     // Check if any filters are active
     const hasActiveFilters = selectedCategory !== null || trendFilter !== null || seasonFilter !== null || minPrice !== undefined || maxPrice !== undefined
-
-    // Filter commodities based on client-side search
-    const filteredCommodities = useMemo(() => {
-        return commodities.filter(commodity => {
-            const matchesSearch = searchQuery === '' ||
-                commodity.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                (commodity.name_local && commodity.name_local.toLowerCase().includes(searchQuery.toLowerCase()))
-            return matchesSearch
-        })
-    }, [commodities, searchQuery])
 
     return (
         <AppLayout>
@@ -177,15 +175,15 @@ export default function CommoditiesPage() {
                             <div>
                                 <h1 className="text-2xl sm:text-3xl font-bold text-foreground flex items-center gap-2">
                                     <Leaf className="h-7 w-7 text-primary" />
-                                    Commodities
+                                    {t('title')}
                                 </h1>
                                 <p className="text-muted-foreground mt-1">
-                                    Browse agricultural commodities across India
+                                    {t('subtitle')}
                                 </p>
                             </div>
                             <div className="flex items-center gap-2">
                                 <Badge variant="secondary" className="text-sm">
-                                    {filteredCommodities.length} of {totalCount} total
+                                    {t('showing', { count: commodities.length, total: totalCount })}
                                 </Badge>
                             </div>
                         </div>
@@ -197,7 +195,7 @@ export default function CommoditiesPage() {
                                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                                 <input
                                     type="text"
-                                    placeholder="Search commodities..."
+                                    placeholder={t('search')}
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     className="w-full pl-10 pr-4 py-2.5 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
@@ -233,7 +231,7 @@ export default function CommoditiesPage() {
                                 onClick={() => setSelectedCategory(null)}
                                 className="rounded-full"
                             >
-                                All
+                                {t('allCategories')}
                             </Button>
                             {categories.map(category => (
                                 <Button
@@ -248,19 +246,61 @@ export default function CommoditiesPage() {
                             ))}
                         </div>
 
+                        {/* Trend & Season Filters */}
+                        <div className="mt-4 flex flex-wrap gap-2">
+                            {/* Trend Filters */}
+                            <Button
+                                variant={trendFilter === 'rising' ? 'default' : 'outline'}
+                                size="sm"
+                                onClick={() => setTrendFilter(trendFilter === 'rising' ? null : 'rising')}
+                                className="rounded-full gap-1"
+                            >
+                                <TrendingUp className="h-3.5 w-3.5" />
+                                Rising
+                            </Button>
+                            <Button
+                                variant={trendFilter === 'falling' ? 'default' : 'outline'}
+                                size="sm"
+                                onClick={() => setTrendFilter(trendFilter === 'falling' ? null : 'falling')}
+                                className="rounded-full gap-1"
+                            >
+                                <TrendingDown className="h-3.5 w-3.5" />
+                                Falling
+                            </Button>
+                            <Button
+                                variant={trendFilter === 'stable' ? 'default' : 'outline'}
+                                size="sm"
+                                onClick={() => setTrendFilter(trendFilter === 'stable' ? null : 'stable')}
+                                className="rounded-full gap-1"
+                            >
+                                Stable
+                            </Button>
+
+                            {/* Season Filter */}
+                            <Button
+                                variant={seasonFilter === true ? 'default' : 'outline'}
+                                size="sm"
+                                onClick={() => setSeasonFilter(seasonFilter === true ? null : true)}
+                                className="rounded-full gap-1"
+                            >
+                                <Leaf className="h-3.5 w-3.5" />
+                                In Season
+                            </Button>
+                        </div>
+
                         {/* Advanced Filters */}
                         <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
                             {/* Sort By */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">Sort By</label>
+                                <label className="text-xs font-medium text-muted-foreground">{tc('sortBy')}</label>
                                 <select
                                     value={sortBy}
                                     onChange={(e) => setSortBy(e.target.value as 'name' | 'price' | 'change')}
                                     className="px-3 py-2 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
                                 >
-                                    <option value="name">Name</option>
-                                    <option value="price">Price</option>
-                                    <option value="change">Price Change</option>
+                                    <option value="name">{tc('name')}</option>
+                                    <option value="price">{tc('price')}</option>
+                                    <option value="change">{t('change')}</option>
                                 </select>
                             </div>
 
@@ -279,7 +319,7 @@ export default function CommoditiesPage() {
 
                             {/* Min Price */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">Min Price (₹)</label>
+                                <label className="text-xs font-medium text-muted-foreground">{t('minPrice')} (₹)</label>
                                 <input
                                     type="number"
                                     placeholder="0"
@@ -291,7 +331,7 @@ export default function CommoditiesPage() {
 
                             {/* Max Price */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">Max Price (₹)</label>
+                                <label className="text-xs font-medium text-muted-foreground">{t('maxPrice')} (₹)</label>
                                 <input
                                     type="number"
                                     placeholder="No limit"
@@ -311,7 +351,7 @@ export default function CommoditiesPage() {
                                     onClick={clearFilters}
                                     className="text-xs"
                                 >
-                                    Clear all filters
+                                    {tc('clearAll')}
                                 </Button>
                             </div>
                         )}
@@ -324,7 +364,7 @@ export default function CommoditiesPage() {
                     {loading && (
                         <div className="flex flex-col items-center justify-center py-20">
                             <Loader2 className="h-10 w-10 animate-spin text-primary mb-4" />
-                            <p className="text-muted-foreground">Loading commodities...</p>
+                            <p className="text-muted-foreground">{tc('loading')}</p>
                         </div>
                     )}
 
@@ -339,22 +379,22 @@ export default function CommoditiesPage() {
                                     className="mt-4"
                                     onClick={() => window.location.reload()}
                                 >
-                                    Try Again
+                                    {tc('retry')}
                                 </Button>
                             </div>
                         </div>
                     )}
 
                     {/* Empty State */}
-                    {!loading && !error && filteredCommodities.length === 0 && (
+                    {!loading && !error && commodities.length === 0 && (
                         <div className="flex flex-col items-center justify-center py-20">
                             <div className="bg-muted rounded-lg p-8 text-center max-w-md">
                                 <Search className="h-10 w-10 mx-auto mb-4 text-muted-foreground" />
-                                <p className="font-medium text-foreground">No commodities found</p>
+                                <p className="font-medium text-foreground">{t('noResults')}</p>
                                 <p className="text-sm text-muted-foreground mt-2">
                                     {searchQuery
-                                        ? `No results for "${searchQuery}"`
-                                        : 'No commodities in this category'}
+                                        ? tc('noResultsFor', { query: searchQuery })
+                                        : t('noResults')}
                                 </p>
                                 {(searchQuery || selectedCategory) && (
                                     <Button
@@ -365,7 +405,7 @@ export default function CommoditiesPage() {
                                             setSelectedCategory(null)
                                         }}
                                     >
-                                        Clear Filters
+                                        {tc('clearAll')}
                                     </Button>
                                 )}
                             </div>
@@ -373,10 +413,10 @@ export default function CommoditiesPage() {
                     )}
 
                     {/* Grid View */}
-                    {!loading && !error && filteredCommodities.length > 0 && viewMode === 'grid' && (
+                    {!loading && !error && commodities.length > 0 && viewMode === 'grid' && (
                         <>
                             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
-                                {filteredCommodities.slice(0, displayCount).map((commodity) => (
+                                {commodities.map((commodity) => (
                                 <Card
                                     key={commodity.id}
                                     className="group cursor-pointer hover:shadow-lg hover:border-primary/50 transition-all duration-200 overflow-hidden"
@@ -458,15 +498,15 @@ export default function CommoditiesPage() {
                                 </Card>
                             ))}
                         </div>
-                        {displayCount < filteredCommodities.length && (
+                        {commodities.length < totalCount && (
                             <div className="flex justify-center mt-8">
                                 <Button
-                                    onClick={() => setDisplayCount(prev => prev + 10)}
+                                    onClick={() => setCurrentLimit(prev => prev + 50)}
                                     variant="outline"
                                     className="gap-2"
                                 >
                                     <Package className="h-4 w-4" />
-                                    Load More ({filteredCommodities.length - displayCount} remaining)
+                                    {tc('showMore')} ({totalCount - commodities.length} remaining)
                                 </Button>
                             </div>
                         )}
@@ -474,10 +514,10 @@ export default function CommoditiesPage() {
                     )}
 
                     {/* List View */}
-                    {!loading && !error && filteredCommodities.length > 0 && viewMode === 'list' && (
+                    {!loading && !error && commodities.length > 0 && viewMode === 'list' && (
                         <>
                             <div className="space-y-2">
-                                {filteredCommodities.slice(0, displayCount).map((commodity) => (
+                                {commodities.map((commodity) => (
                                 <Card
                                     key={commodity.id}
                                     className="group cursor-pointer hover:shadow-md hover:border-primary/50 transition-all duration-200"
@@ -551,15 +591,15 @@ export default function CommoditiesPage() {
                                 </Card>
                             ))}
                         </div>
-                        {displayCount < filteredCommodities.length && (
+                        {commodities.length < totalCount && (
                             <div className="flex justify-center mt-8">
                                 <Button
-                                    onClick={() => setDisplayCount(prev => prev + 10)}
+                                    onClick={() => setCurrentLimit(prev => prev + 50)}
                                     variant="outline"
                                     className="gap-2"
                                 >
                                     <Package className="h-4 w-4" />
-                                    Load More ({filteredCommodities.length - displayCount} remaining)
+                                    {tc('showMore')} ({totalCount - commodities.length} remaining)
                                 </Button>
                             </div>
                         )}

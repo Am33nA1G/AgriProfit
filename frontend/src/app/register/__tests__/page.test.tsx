@@ -1,4 +1,4 @@
-import { render, screen, waitFor } from '@test/test-utils'
+import { render, screen, waitFor, act } from '@test/test-utils'
 import userEvent from '@testing-library/user-event'
 import { vi, describe, it, expect, beforeEach } from 'vitest'
 import RegisterPage from '../page'
@@ -108,30 +108,28 @@ describe('RegisterPage - Phone Validation', () => {
   it('shows error for phone number less than 10 digits', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     const phoneInput = screen.getByPlaceholderText('9876543210')
     const submitButton = screen.getByRole('button', { name: /send otp/i })
-    
+
     await user.type(phoneInput, '98765')
-    await user.click(submitButton)
-    
-    await waitFor(() => {
-      expect(toast.error).toHaveBeenCalledWith('Please enter a valid 10-digit phone number')
-    })
+
+    // Button stays disabled when phone is less than 10 digits
+    expect(submitButton).toBeDisabled()
   })
 
   it('shows error for phone number not starting with 6-9', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     const phoneInput = screen.getByPlaceholderText('9876543210')
     const submitButton = screen.getByRole('button', { name: /send otp/i })
-    
+
     await user.type(phoneInput, '5876543210')
     await user.click(submitButton)
-    
+
     await waitFor(() => {
-      expect(toast.error).toHaveBeenCalledWith('Phone number must start with 6, 7, 8, or 9')
+      expect(screen.getByRole('alert')).toHaveTextContent('Must start with 6-9 and be 10 digits')
     })
   })
 
@@ -139,13 +137,13 @@ describe('RegisterPage - Phone Validation', () => {
     vi.mocked(authService.requestOtp).mockResolvedValue(undefined)
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     const phoneInput = screen.getByPlaceholderText('9876543210')
     const submitButton = screen.getByRole('button', { name: /send otp/i })
-    
+
     await user.type(phoneInput, '9876543210')
     await user.click(submitButton)
-    
+
     await waitFor(() => {
       expect(authService.requestOtp).toHaveBeenCalledWith('9876543210')
       expect(toast.success).toHaveBeenCalledWith('OTP sent to your phone!')
@@ -189,8 +187,8 @@ describe('RegisterPage - Phone Validation', () => {
 
   it('displays login link', () => {
     render(<RegisterPage />)
-    
-    const loginLink = screen.getByText('Login here')
+
+    const loginLink = screen.getByText('Sign In Instead')
     expect(loginLink).toHaveAttribute('href', '/login')
   })
 })
@@ -214,8 +212,9 @@ describe('RegisterPage - OTP Verification', () => {
     await user.click(submitButton)
     
     await waitFor(() => {
-      expect(screen.getByPlaceholderText('123456')).toBeInTheDocument()
-      expect(screen.getByText('OTP sent to +91 9876543210')).toBeInTheDocument()
+      expect(screen.getByPlaceholderText('000000')).toBeInTheDocument()
+      expect(screen.getByText('OTP sent successfully!')).toBeInTheDocument()
+      expect(screen.getByText('+91 9876543210')).toBeInTheDocument()
     })
   })
 
@@ -227,9 +226,9 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    const otpInput = screen.getByPlaceholderText('123456')
+    const otpInput = screen.getByPlaceholderText('000000')
     await user.type(otpInput, '123456')
     
     expect(otpInput).toHaveValue('123456')
@@ -242,9 +241,9 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    const otpInput = screen.getByPlaceholderText('123456')
+    const otpInput = screen.getByPlaceholderText('000000')
     await user.type(otpInput, 'abc123def456')
     
     expect(otpInput).toHaveValue('123456')
@@ -257,9 +256,9 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    const otpInput = screen.getByPlaceholderText('123456')
+    const otpInput = screen.getByPlaceholderText('000000')
     await user.type(otpInput, '12345678901234')
     
     expect(otpInput).toHaveValue('123456')
@@ -268,18 +267,18 @@ describe('RegisterPage - OTP Verification', () => {
   it('shows error for OTP less than 6 digits', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    
-    const otpInput = screen.getByPlaceholderText('123456')
+
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+
+    const otpInput = screen.getByPlaceholderText('000000')
     await user.type(otpInput, '1234')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
-    
+
+    // Button stays disabled when OTP is less than 6 digits
     await waitFor(() => {
-      expect(toast.error).toHaveBeenCalledWith('Please enter a valid 6-digit OTP')
+      expect(screen.getByRole('button', { name: /verify & continue/i })).toBeDisabled()
     })
   })
 
@@ -294,14 +293,14 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
     await waitFor(() => {
       expect(authService.verifyOtp).toHaveBeenCalledWith('9876543210', '123456')
-      expect(toast.success).toHaveBeenCalledWith('Phone verified! Please complete your profile.')
+      expect(toast.success).toHaveBeenCalledWith('Phone verified!')
       expect(screen.getByPlaceholderText('Enter your full name')).toBeInTheDocument()
     })
   })
@@ -324,10 +323,10 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
     // Wait for both API calls to complete
     await waitFor(() => {
@@ -349,10 +348,10 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
     await waitFor(() => {
       expect(toast.error).toHaveBeenCalledWith('Invalid OTP')
@@ -366,7 +365,7 @@ describe('RegisterPage - OTP Verification', () => {
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
     
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
     const changeButton = screen.getByRole('button', { name: /change number/i })
     await user.click(changeButton)
@@ -375,23 +374,36 @@ describe('RegisterPage - OTP Verification', () => {
   })
 
   it('allows user to resend OTP', async () => {
+    vi.useFakeTimers({ shouldAdvanceTime: true })
     render(<RegisterPage />)
-    const user = userEvent.setup()
-    
+    const user = userEvent.setup({ advanceTimers: vi.advanceTimersByTime })
+
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    
+
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+
     vi.clearAllMocks()
     vi.mocked(authService.requestOtp).mockResolvedValue(undefined)
-    
-    const resendButton = screen.getByRole('button', { name: /resend otp/i })
-    await user.click(resendButton)
-    
+
+    // Advance past the 60-second resend timer one second at a time
+    // Each tick triggers a React state update that schedules the next setTimeout
+    for (let i = 0; i < 61; i++) {
+      await act(async () => {
+        vi.advanceTimersByTime(1000)
+      })
+    }
+
+    await waitFor(() => {
+      expect(screen.getByRole('button', { name: /resend otp/i })).toBeInTheDocument()
+    })
+
+    await user.click(screen.getByRole('button', { name: /resend otp/i }))
+
     await waitFor(() => {
       expect(authService.requestOtp).toHaveBeenCalled()
     })
+    vi.useRealTimers()
   })
 })
 
@@ -414,14 +426,14 @@ describe('RegisterPage - Profile Completion', () => {
     
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
     
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
     await waitFor(() => {
-      expect(screen.getByLabelText('Full Name')).toBeInTheDocument()
-      expect(screen.getByLabelText('Age')).toBeInTheDocument()
+      expect(screen.getByLabelText(/Full Name/)).toBeInTheDocument()
+      expect(screen.getByLabelText(/Age/)).toBeInTheDocument()
       expect(screen.getByText('Select your state')).toBeInTheDocument()
     })
   })
@@ -429,22 +441,19 @@ describe('RegisterPage - Profile Completion', () => {
   it('validates required name field', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     // Navigate to profile step
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
-    
-    await waitFor(() => screen.getByLabelText('Full Name'))
-    
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
+
+    await waitFor(() => screen.getByLabelText(/Full Name/))
+
+    // Submit button is disabled when name is empty
     const submitButton = screen.getByRole('button', { name: /complete registration/i })
-    await user.click(submitButton)
-    
-    await waitFor(() => {
-      expect(toast.error).toHaveBeenCalledWith('Please enter your name')
-    })
+    expect(submitButton).toBeDisabled()
   })
 
   it('validates age is at least 18', async () => {
@@ -453,14 +462,14 @@ describe('RegisterPage - Profile Completion', () => {
     
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
-    await waitFor(() => screen.getByLabelText('Full Name'))
+    await waitFor(() => screen.getByLabelText(/Full Name/))
     
-    const nameInput = screen.getByLabelText('Full Name')
-    const ageInput = screen.getByLabelText('Age')
+    const nameInput = screen.getByLabelText(/Full Name/)
+    const ageInput = screen.getByLabelText(/Age/)
     const submitButton = screen.getByRole('button', { name: /complete registration/i })
     
     await user.type(nameInput, 'Test User')
@@ -481,14 +490,14 @@ describe('RegisterPage - Profile Completion', () => {
     
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
-    await waitFor(() => screen.getByLabelText('Full Name'))
+    await waitFor(() => screen.getByLabelText(/Full Name/))
     
-    const nameInput = screen.getByLabelText('Full Name')
-    const ageInput = screen.getByLabelText('Age')
+    const nameInput = screen.getByLabelText(/Full Name/)
+    const ageInput = screen.getByLabelText(/Age/)
     const submitButton = screen.getByRole('button', { name: /complete registration/i })
     
     await user.type(nameInput, 'Test User')
@@ -506,22 +515,20 @@ describe('RegisterPage - Profile Completion', () => {
   it('validates state selection is required', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
-    
-    await waitFor(() => screen.getByLabelText('Full Name'))
-    
-    await user.type(screen.getByLabelText('Full Name'), 'Test User')
-    await user.type(screen.getByLabelText('Age'), '25')
-    await user.click(screen.getByRole('button', { name: /complete registration/i }))
-    
-    await waitFor(() => {
-      expect(toast.error).toHaveBeenCalledWith('Please select your state')
-    })
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
+
+    await waitFor(() => screen.getByLabelText(/Full Name/))
+
+    await user.type(screen.getByLabelText(/Full Name/), 'Test User')
+    await user.type(screen.getByLabelText(/Age/), '25')
+
+    // Button stays disabled without state/district selection
+    expect(screen.getByRole('button', { name: /complete registration/i })).toBeDisabled()
   })
 
   it('loads districts when state is selected', async () => {
@@ -530,11 +537,11 @@ describe('RegisterPage - Profile Completion', () => {
     
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
-    await waitFor(() => screen.getByLabelText('Full Name'))
+    await waitFor(() => screen.getByLabelText(/Full Name/))
     
     // Note: Testing Select component interaction is complex with Radix UI
     // This test verifies the service is called when state changes
@@ -546,23 +553,19 @@ describe('RegisterPage - Profile Completion', () => {
   it('validates district selection is required', async () => {
     render(<RegisterPage />)
     const user = userEvent.setup()
-    
+
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
-    
-    await waitFor(() => screen.getByLabelText('Full Name'))
-    
-    await user.type(screen.getByLabelText('Full Name'), 'Test User')
-    await user.type(screen.getByLabelText('Age'), '25')
-    // State would need to be selected but district not selected
-    await user.click(screen.getByRole('button', { name: /complete registration/i }))
-    
-    await waitFor(() => {
-      expect(toast.error).toHaveBeenCalled()
-    })
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
+
+    await waitFor(() => screen.getByLabelText(/Full Name/))
+
+    await user.type(screen.getByLabelText(/Full Name/), 'Test User')
+    await user.type(screen.getByLabelText(/Age/), '25')
+    // Button stays disabled without district selection
+    expect(screen.getByRole('button', { name: /complete registration/i })).toBeDisabled()
   })
 
   it('completes profile and redirects to dashboard', async () => {
@@ -581,14 +584,14 @@ describe('RegisterPage - Profile Completion', () => {
     
     await user.type(screen.getByPlaceholderText('9876543210'), '9876543210')
     await user.click(screen.getByRole('button', { name: /send otp/i }))
-    await waitFor(() => screen.getByPlaceholderText('123456'))
-    await user.type(screen.getByPlaceholderText('123456'), '123456')
-    await user.click(screen.getByRole('button', { name: /verify otp/i }))
+    await waitFor(() => screen.getByPlaceholderText('000000'))
+    await user.type(screen.getByPlaceholderText('000000'), '123456')
+    await user.click(screen.getByRole('button', { name: /verify & continue/i }))
     
-    await waitFor(() => screen.getByLabelText('Full Name'))
+    await waitFor(() => screen.getByLabelText(/Full Name/))
     
-    await user.type(screen.getByLabelText('Full Name'), 'Test User')
-    await user.type(screen.getByLabelText('Age'), '25')
+    await user.type(screen.getByLabelText(/Full Name/), 'Test User')
+    await user.type(screen.getByLabelText(/Age/), '25')
     
     // Complete with minimal validation for now
     // Note: Full profile submission requires Select component interaction
@@ -624,7 +627,7 @@ describe('RegisterPage - Navigation State', () => {
     
     render(<RegisterPage />)
     
-    expect(screen.getByLabelText('Full Name')).toBeInTheDocument()
+    expect(screen.getByLabelText(/Full Name/)).toBeInTheDocument()
   })
 
   it('starts at profile step with step and token parameters', () => {
@@ -637,7 +640,7 @@ describe('RegisterPage - Navigation State', () => {
     render(<RegisterPage />)
     
     // Should render profile form
-    expect(screen.getByLabelText('Full Name')).toBeInTheDocument()
+    expect(screen.getByLabelText(/Full Name/)).toBeInTheDocument()
   })
 
   it('displays correct step indicator states', () => {
@@ -665,13 +668,13 @@ describe('RegisterPage - Navigation State', () => {
     
     // OTP step - should show OTP input
     await waitFor(() => {
-      expect(screen.getByPlaceholderText('123456')).toBeInTheDocument()
+      expect(screen.getByPlaceholderText('000000')).toBeInTheDocument()
     })
   })
 
-  it('displays Join AgriProfit title', () => {
+  it('displays Create Account title', () => {
     render(<RegisterPage />)
-    
-    expect(screen.getByText('Join AgriProfit')).toBeInTheDocument()
+
+    expect(screen.getByText('Create Account')).toBeInTheDocument()
   })
 })

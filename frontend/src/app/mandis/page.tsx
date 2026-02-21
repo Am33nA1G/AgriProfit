@@ -1,54 +1,89 @@
 "use client"
 
-import { useState, useEffect, useMemo, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
+import { useTranslations } from 'next-intl'
 import { useRouter } from 'next/navigation'
 import {
     Search,
     Loader2,
     Store,
     MapPin,
-    Building2,
     Grid3X3,
     List,
     ChevronRight,
     Navigation,
-    X,
-    Star,
     Scale,
     Warehouse,
     Truck,
     Snowflake,
-    Clock
+    Filter,
+    ArrowUpDown
 } from 'lucide-react'
 import { AppLayout } from "@/components/layout/AppLayout"
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { mandisService, MandiFilters } from '@/services/mandis'
 import { authService } from '@/services/auth'
-import { MandiWithDistance, MandiDetail, MandisWithFiltersResponse } from '@/types'
+import { MandiWithDistance } from '@/types'
 
-// District colors for visual distinction
-const districtColors: { [key: string]: string } = {
-    'Thiruvananthapuram': 'bg-blue-100 text-blue-800',
-    'Ernakulam': 'bg-green-100 text-green-800',
-    'Kozhikode': 'bg-purple-100 text-purple-800',
-    'Thrissur': 'bg-orange-100 text-orange-800',
-    'Palakkad': 'bg-pink-100 text-pink-800',
-    'Kannur': 'bg-yellow-100 text-yellow-800',
-    'Kollam': 'bg-indigo-100 text-indigo-800',
-    'Alappuzha': 'bg-cyan-100 text-cyan-800',
-    'Kottayam': 'bg-teal-100 text-teal-800',
-    'Idukki': 'bg-emerald-100 text-emerald-800',
-    'Wayanad': 'bg-lime-100 text-lime-800',
-    'Malappuram': 'bg-amber-100 text-amber-800',
+// Generate distinct colors from district name hash for visual variety
+function getDistrictColor(district: string): string {
+    const colors = [
+        'bg-blue-100 text-blue-800',
+        'bg-green-100 text-green-800',
+        'bg-purple-100 text-purple-800',
+        'bg-orange-100 text-orange-800',
+        'bg-pink-100 text-pink-800',
+        'bg-yellow-100 text-yellow-800',
+        'bg-indigo-100 text-indigo-800',
+        'bg-cyan-100 text-cyan-800',
+        'bg-teal-100 text-teal-800',
+        'bg-emerald-100 text-emerald-800',
+        'bg-lime-100 text-lime-800',
+        'bg-amber-100 text-amber-800',
+    ]
+    let hash = 0
+    for (let i = 0; i < district.length; i++) {
+        hash = district.charCodeAt(i) + ((hash << 5) - hash)
+    }
+    return colors[Math.abs(hash) % colors.length]
 }
 
-function getDistrictColor(district: string): string {
-    return districtColors[district] || 'bg-gray-100 text-gray-800'
+function FacilityBadges({ facilities }: { facilities: MandiWithDistance['facilities'] }) {
+    if (!facilities) return null
+    const hasSome = facilities.weighbridge || facilities.storage || facilities.loading_dock || facilities.cold_storage
+    if (!hasSome) return null
+
+    return (
+        <div className="flex flex-wrap gap-1">
+            {facilities.weighbridge && (
+                <Badge variant="outline" className="text-[10px] py-0 bg-blue-50 text-blue-700 border-blue-200">
+                    <Scale className="h-2.5 w-2.5 mr-0.5" /> Weighbridge
+                </Badge>
+            )}
+            {facilities.storage && (
+                <Badge variant="outline" className="text-[10px] py-0 bg-amber-50 text-amber-700 border-amber-200">
+                    <Warehouse className="h-2.5 w-2.5 mr-0.5" /> Storage
+                </Badge>
+            )}
+            {facilities.loading_dock && (
+                <Badge variant="outline" className="text-[10px] py-0 bg-green-50 text-green-700 border-green-200">
+                    <Truck className="h-2.5 w-2.5 mr-0.5" /> Loading
+                </Badge>
+            )}
+            {facilities.cold_storage && (
+                <Badge variant="outline" className="text-[10px] py-0 bg-cyan-50 text-cyan-700 border-cyan-200">
+                    <Snowflake className="h-2.5 w-2.5 mr-0.5" /> Cold
+                </Badge>
+            )}
+        </div>
+    )
 }
 
 export default function MandisPage() {
+    const t = useTranslations('mandis')
+    const tc = useTranslations('common')
     const router = useRouter()
     const [mandis, setMandis] = useState<MandiWithDistance[]>([])
     const [states, setStates] = useState<string[]>([])
@@ -64,11 +99,11 @@ export default function MandisPage() {
     const [facilityFilter, setFacilityFilter] = useState<'weighbridge' | 'storage' | 'loading_dock' | 'cold_storage' | null>(null)
     const [totalCount, setTotalCount] = useState(0)
     const [maxDistanceKm, setMaxDistanceKm] = useState<number | undefined>(undefined)
-    const [sortBy, setSortBy] = useState<'name' | 'distance' | 'rating'>('name')
+    const [sortBy, setSortBy] = useState<'name' | 'distance'>('name')
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc')
     const [currentLimit, setCurrentLimit] = useState(50)
 
-    // Fetch mandis with filters
+    // Fetch mandis with filters (search is server-side)
     const fetchMandis = useCallback(async () => {
         try {
             setLoading(true)
@@ -116,7 +151,7 @@ export default function MandisPage() {
                 const user = await authService.getCurrentUser()
                 if (user?.district) {
                     setUserDistrict(user.district)
-                    setUserState(user.state || 'Kerala') // Default to Kerala if state not set
+                    setUserState(user.state || null)
                 }
             } catch (err) {
                 // User not logged in - show mandis without distance
@@ -169,18 +204,8 @@ export default function MandisPage() {
     }
 
     // Check if any filters are active
-    const hasActiveFilters = selectedState !== null || selectedDistrict !== null || facilityFilter !== null || maxDistanceKm !== undefined
-
-    // Filter mandis based on client-side search
-    const filteredMandis = useMemo(() => {
-        return mandis.filter(mandi => {
-            const matchesSearch = searchQuery === '' ||
-                mandi.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                mandi.district.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                (mandi.address && mandi.address.toLowerCase().includes(searchQuery.toLowerCase()))
-            return matchesSearch
-        })
-    }, [mandis, searchQuery])
+    const hasActiveFilters = selectedState !== null || selectedDistrict !== null ||
+        facilityFilter !== null || maxDistanceKm !== undefined || searchQuery !== ''
 
     return (
         <AppLayout>
@@ -192,27 +217,27 @@ export default function MandisPage() {
                             <div>
                                 <h1 className="text-2xl sm:text-3xl font-bold text-foreground flex items-center gap-2">
                                     <Store className="h-7 w-7 text-primary" />
-                                    Mandis
+                                    {t('title')}
                                 </h1>
                                 <p className="text-muted-foreground mt-1">
-                                    Agricultural markets across India
+                                    {t('subtitle')}
                                 </p>
                             </div>
                             <div className="flex items-center gap-2">
                                 <Badge variant="secondary" className="text-sm">
-                                    {filteredMandis.length} of {totalCount} total
+                                    {t('showing', { count: mandis.length, total: totalCount })}
                                 </Badge>
                             </div>
                         </div>
 
-                        {/* Search and Filters */}
+                        {/* Search and View Toggle */}
                         <div className="mt-6 flex flex-col sm:flex-row gap-4">
                             {/* Search */}
                             <div className="relative flex-1">
                                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                                 <input
                                     type="text"
-                                    placeholder="Search mandis by name, district..."
+                                    placeholder={t('search')}
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     className="w-full pl-10 pr-4 py-2.5 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
@@ -248,7 +273,7 @@ export default function MandisPage() {
                                 onClick={() => setSelectedState(null)}
                                 className="rounded-full"
                             >
-                                All States
+                                {t('allStates')}
                             </Button>
                             {states.map(state => (
                                 <Button
@@ -272,7 +297,7 @@ export default function MandisPage() {
                                     onClick={() => setSelectedDistrict(null)}
                                     className="rounded-full"
                                 >
-                                    All Districts
+                                    {t('districts')}
                                 </Button>
                                 {districts.map(district => (
                                     <Button
@@ -292,15 +317,16 @@ export default function MandisPage() {
                         <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
                             {/* Sort By */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">Sort By</label>
+                                <label className="text-xs font-medium text-muted-foreground flex items-center gap-1">
+                                    <ArrowUpDown className="h-3 w-3" /> {tc('sortBy')}
+                                </label>
                                 <select
                                     value={sortBy}
-                                    onChange={(e) => setSortBy(e.target.value as 'name' | 'distance' | 'rating')}
+                                    onChange={(e) => setSortBy(e.target.value as 'name' | 'distance')}
                                     className="px-3 py-2 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
                                 >
-                                    <option value="name">Name</option>
-                                    <option value="distance" disabled={!userDistrict}>Distance {!userDistrict ? '(Login required)' : ''}</option>
-                                    <option value="rating">Rating</option>
+                                    <option value="name">{tc('name')}</option>
+                                    <option value="distance" disabled={!userDistrict}>{t('distance')} {!userDistrict ? '(Login required)' : ''}</option>
                                 </select>
                             </div>
 
@@ -312,15 +338,15 @@ export default function MandisPage() {
                                     onChange={(e) => setSortOrder(e.target.value as 'asc' | 'desc')}
                                     className="px-3 py-2 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
                                 >
-                                    <option value="asc">{sortBy === 'name' ? 'A to Z' : sortBy === 'distance' ? 'Nearest First' : 'Lowest First'}</option>
-                                    <option value="desc">{sortBy === 'name' ? 'Z to A' : sortBy === 'distance' ? 'Farthest First' : 'Highest First'}</option>
+                                    <option value="asc">{sortBy === 'name' ? 'A to Z' : 'Nearest First'}</option>
+                                    <option value="desc">{sortBy === 'name' ? 'Z to A' : 'Farthest First'}</option>
                                 </select>
                             </div>
 
                             {/* Max Distance */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">
-                                    Max Distance (km) {!userDistrict && '⚠️'}
+                                <label className="text-xs font-medium text-muted-foreground flex items-center gap-1">
+                                    <Navigation className="h-3 w-3" /> {t('distance')} ({tc('km')})
                                 </label>
                                 <input
                                     type="number"
@@ -328,52 +354,43 @@ export default function MandisPage() {
                                     value={maxDistanceKm ?? ''}
                                     onChange={(e) => setMaxDistanceKm(e.target.value ? Number(e.target.value) : undefined)}
                                     disabled={!userDistrict}
+                                    min={0}
                                     className="px-3 py-2 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm disabled:opacity-50 disabled:cursor-not-allowed"
                                 />
                             </div>
 
                             {/* Facility Filter */}
                             <div className="flex flex-col gap-1">
-                                <label className="text-xs font-medium text-muted-foreground">Facility</label>
+                                <label className="text-xs font-medium text-muted-foreground flex items-center gap-1">
+                                    <Filter className="h-3 w-3" /> {t('facilities')}
+                                </label>
                                 <select
                                     value={facilityFilter || ''}
                                     onChange={(e) => setFacilityFilter(e.target.value as any || null)}
                                     className="px-3 py-2 bg-muted rounded-lg border-0 outline-none focus:ring-2 focus:ring-primary/50 text-sm"
                                 >
-                                    <option value="">All Facilities</option>
-                                    <option value="weighbridge">⚖️ Weighbridge</option>
-                                    <option value="storage">🏪 Storage</option>
-                                    <option value="loading_dock">🚚 Loading Dock</option>
-                                    <option value="cold_storage">❄️ Cold Storage</option>
+                                    <option value="">{tc('all')} {t('facilities')}</option>
+                                    <option value="weighbridge">{t('weighbridge')}</option>
+                                    <option value="storage">{t('storage')}</option>
+                                    <option value="loading_dock">{t('loadingDock')}</option>
+                                    <option value="cold_storage">{t('coldStorage')}</option>
                                 </select>
                             </div>
                         </div>
 
-                        {/* Location Status & Clear Filters */}
-                        <div className="mt-3 flex items-center justify-between flex-wrap gap-2">
-                            <div className="flex items-center gap-2">
-                                {userDistrict && (
-                                    <Badge variant="outline" className="text-xs bg-green-50 text-green-700 border-green-300">
-                                        <MapPin className="h-3 w-3 mr-1" /> Distance from {userDistrict}
-                                    </Badge>
-                                )}
-                                {!userDistrict && (
-                                    <Badge variant="outline" className="text-xs bg-blue-50 text-blue-700 border-blue-300">
-                                        💡 Login to see distances
-                                    </Badge>
-                                )}
-                            </div>
-                            {hasActiveFilters && (
+                        {/* Clear Filters */}
+                        {hasActiveFilters && (
+                            <div className="mt-3">
                                 <Button
                                     variant="ghost"
                                     size="sm"
                                     onClick={clearFilters}
                                     className="text-xs"
                                 >
-                                    Clear all filters
+                                    {tc('clearAll')}
                                 </Button>
-                            )}
-                        </div>
+                            </div>
+                        )}
                     </div>
                 </div>
 
@@ -383,7 +400,7 @@ export default function MandisPage() {
                     {loading && (
                         <div className="flex flex-col items-center justify-center py-20">
                             <Loader2 className="h-10 w-10 animate-spin text-primary mb-4" />
-                            <p className="text-muted-foreground">Loading mandis...</p>
+                            <p className="text-muted-foreground">{tc('loading')}</p>
                         </div>
                     )}
 
@@ -398,33 +415,32 @@ export default function MandisPage() {
                                     className="mt-4"
                                     onClick={() => window.location.reload()}
                                 >
-                                    Try Again
+                                    {tc('retry')}
                                 </Button>
                             </div>
                         </div>
                     )}
 
                     {/* Empty State */}
-                    {!loading && !error && filteredMandis.length === 0 && (
+                    {!loading && !error && mandis.length === 0 && (
                         <div className="flex flex-col items-center justify-center py-20">
                             <div className="bg-muted rounded-lg p-8 text-center max-w-md">
                                 <Search className="h-10 w-10 mx-auto mb-4 text-muted-foreground" />
-                                <p className="font-medium text-foreground">No mandis found</p>
+                                <p className="font-medium text-foreground">{t('noResults')}</p>
                                 <p className="text-sm text-muted-foreground mt-2">
                                     {searchQuery
-                                        ? `No results for "${searchQuery}"`
-                                        : 'No mandis in this district'}
+                                        ? tc('noResultsFor', { query: searchQuery })
+                                        : facilityFilter
+                                            ? `No mandis found with ${facilityFilter.replace('_', ' ')} facility. Try a different filter.`
+                                            : t('noResults')}
                                 </p>
-                                {(searchQuery || selectedDistrict) && (
+                                {hasActiveFilters && (
                                     <Button
                                         variant="outline"
                                         className="mt-4"
-                                        onClick={() => {
-                                            setSearchQuery('')
-                                            setSelectedDistrict(null)
-                                        }}
+                                        onClick={clearFilters}
                                     >
-                                        Clear Filters
+                                        {tc('clearAll')}
                                     </Button>
                                 )}
                             </div>
@@ -432,10 +448,10 @@ export default function MandisPage() {
                     )}
 
                     {/* Grid View */}
-                    {!loading && !error && filteredMandis.length > 0 && viewMode === 'grid' && (
+                    {!loading && !error && mandis.length > 0 && viewMode === 'grid' && (
                         <>
                             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
-                                {filteredMandis.map((mandi) => (
+                                {mandis.map((mandi) => (
                                 <Card
                                     key={mandi.id}
                                     className="group cursor-pointer hover:shadow-lg hover:border-primary/50 transition-all duration-200 overflow-hidden"
@@ -443,72 +459,54 @@ export default function MandisPage() {
                                 >
                                     <CardContent className="p-0">
                                         {/* Icon Section */}
-                                        <div className="bg-gradient-to-br from-primary/10 to-primary/5 p-6 text-center">
+                                        <div className="bg-gradient-to-br from-primary/10 to-primary/5 p-6 text-center relative">
                                             <Store className="h-12 w-12 mx-auto text-primary" />
+                                            {/* Distance overlay */}
+                                            {mandi.distance_km != null && (
+                                                <div className="absolute top-2 left-2">
+                                                    <Badge variant="secondary" className="text-xs bg-green-100 text-green-800">
+                                                        <Navigation className="h-3 w-3 mr-0.5" />
+                                                        {mandi.distance_km.toFixed(0)} km
+                                                    </Badge>
+                                                </div>
+                                            )}
                                         </div>
 
                                         {/* Info Section */}
                                         <div className="p-4">
-                                            <div className="flex items-start justify-between gap-2">
-                                                <div className="min-w-0">
-                                                    <h3 className="font-semibold text-foreground truncate group-hover:text-primary transition-colors">
-                                                        {mandi.name}
-                                                    </h3>
-                                                    {mandi.market_code && (
-                                                        <p className="text-xs text-muted-foreground">
-                                                            Code: {mandi.market_code}
-                                                        </p>
-                                                    )}
-                                                    {mandi.top_prices && mandi.top_prices.some(p => p.as_of === new Date().toISOString().split('T')[0]) && (
-                                                        <Badge variant="outline" className="text-[10px] h-5 px-1.5 text-green-600 border-green-600 bg-green-50 shrink-0">
-                                                            Live
-                                                        </Badge>
-                                                    )}
-                                                </div>
-                                            </div>
+                                            <h3 className="font-semibold text-foreground truncate group-hover:text-primary transition-colors">
+                                                {mandi.name}
+                                            </h3>
 
-                                            <div className="mt-3 flex flex-wrap items-center gap-2">
+                                            <div className="mt-2 flex flex-wrap items-center gap-1.5">
                                                 <Badge className={`text-xs ${getDistrictColor(mandi.district)}`}>
-                                                    <MapPin className="h-3 w-3 mr-1" />
+                                                    <MapPin className="h-3 w-3 mr-0.5" />
                                                     {mandi.district}
                                                 </Badge>
                                                 <Badge variant="outline" className="text-xs">
                                                     {mandi.state}
                                                 </Badge>
-                                                {mandi.rating && (
-                                                    <Badge variant="secondary" className="text-xs">
-                                                        <Star className="h-3 w-3 mr-1 text-yellow-500" />
-                                                        {mandi.rating.toFixed(1)}
-                                                    </Badge>
-                                                )}
                                             </div>
-
-                                            {/* Distance if available */}
-                                            {mandi.distance_km != null && (
-                                                <div className="mt-2 flex items-center gap-1 text-xs text-green-600">
-                                                    <Navigation className="h-3 w-3" />
-                                                    <span>{mandi.distance_km.toFixed(1)} km away</span>
-                                                </div>
-                                            )}
 
                                             {/* Facilities */}
-                                            <div className="mt-2 flex flex-wrap gap-1">
-                                                {mandi.facilities?.weighbridge && (
-                                                    <Badge variant="outline" className="text-[10px] py-0">
-                                                        <Scale className="h-2.5 w-2.5 mr-0.5" /> Scale
-                                                    </Badge>
-                                                )}
-                                                {mandi.facilities?.storage && (
-                                                    <Badge variant="outline" className="text-[10px] py-0">
-                                                        <Warehouse className="h-2.5 w-2.5 mr-0.5" /> Storage
-                                                    </Badge>
-                                                )}
-                                                {mandi.facilities?.cold_storage && (
-                                                    <Badge variant="outline" className="text-[10px] py-0">
-                                                        <Snowflake className="h-2.5 w-2.5 mr-0.5" /> Cold
-                                                    </Badge>
-                                                )}
+                                            <div className="mt-2">
+                                                <FacilityBadges facilities={mandi.facilities} />
                                             </div>
+
+                                            {/* Top prices */}
+                                            {mandi.top_prices && mandi.top_prices.length > 0 && (
+                                                <div className="mt-2 pt-2 border-t border-border">
+                                                    <p className="text-[10px] text-muted-foreground uppercase tracking-wide mb-1">Top Prices</p>
+                                                    {mandi.top_prices.slice(0, 2).map((price, idx) => (
+                                                        <div key={idx} className="flex items-center justify-between text-xs">
+                                                            <span className="text-muted-foreground truncate mr-2">{price.commodity_name}</span>
+                                                            <span className="font-medium text-foreground whitespace-nowrap">
+                                                                ₹{price.modal_price.toLocaleString()}
+                                                            </span>
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                            )}
                                         </div>
                                     </CardContent>
                                 </Card>
@@ -524,7 +522,7 @@ export default function MandisPage() {
                                         size="lg"
                                         className="min-w-[200px]"
                                     >
-                                        Load More ({mandis.length} of {totalCount})
+                                        {tc('showMore')} ({mandis.length} / {totalCount})
                                     </Button>
                                 </div>
                             )}
@@ -532,10 +530,10 @@ export default function MandisPage() {
                     )}
 
                     {/* List View */}
-                    {!loading && !error && filteredMandis.length > 0 && viewMode === 'list' && (
+                    {!loading && !error && mandis.length > 0 && viewMode === 'list' && (
                         <>
                             <div className="space-y-2">
-                                {filteredMandis.map((mandi) => (
+                                {mandis.map((mandi) => (
                                 <Card
                                     key={mandi.id}
                                     className="group cursor-pointer hover:shadow-md hover:border-primary/50 transition-all duration-200"
@@ -550,43 +548,36 @@ export default function MandisPage() {
 
                                             {/* Info */}
                                             <div className="flex-1 min-w-0">
-                                                <div className="flex items-center gap-2 flex-wrap">
-                                                    <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
-                                                        {mandi.name}
-                                                    </h3>
-                                                    {mandi.market_code && (
-                                                        <Badge variant="outline" className="text-xs">
-                                                            {mandi.market_code}
-                                                        </Badge>
-                                                    )}
-                                                    {mandi.top_prices && mandi.top_prices.some(p => p.as_of === new Date().toISOString().split('T')[0]) && (
-                                                        <Badge variant="outline" className="text-[10px] h-5 px-1.5 text-green-600 border-green-600 bg-green-50">
-                                                            Live
-                                                        </Badge>
-                                                    )}
-                                                </div>
+                                                <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
+                                                    {mandi.name}
+                                                </h3>
                                                 <div className="flex items-center gap-2 mt-1 flex-wrap">
                                                     <Badge className={`text-xs ${getDistrictColor(mandi.district)}`}>
-                                                        <MapPin className="h-3 w-3 mr-1" />
+                                                        <MapPin className="h-3 w-3 mr-0.5" />
                                                         {mandi.district}
                                                     </Badge>
                                                     <span className="text-xs text-muted-foreground">
                                                         {mandi.state}
                                                     </span>
                                                     {mandi.distance_km != null && (
-                                                        <span className="text-xs text-green-600 flex items-center gap-1">
+                                                        <span className="text-xs text-green-600 flex items-center gap-0.5">
                                                             <Navigation className="h-3 w-3" />
-                                                            {mandi.distance_km.toFixed(1)} km away
+                                                            {mandi.distance_km.toFixed(1)} km
                                                         </span>
                                                     )}
                                                 </div>
+                                                {/* Facilities inline */}
+                                                <div className="mt-1">
+                                                    <FacilityBadges facilities={mandi.facilities} />
+                                                </div>
                                             </div>
 
-                                            {/* Address */}
-                                            {mandi.address && (
-                                                <div className="hidden md:block text-right shrink-0 max-w-xs">
-                                                    <p className="text-xs text-muted-foreground truncate">
-                                                        {mandi.address}
+                                            {/* Top price */}
+                                            {mandi.top_prices && mandi.top_prices.length > 0 && (
+                                                <div className="hidden md:block text-right shrink-0">
+                                                    <p className="text-xs text-muted-foreground">{mandi.top_prices[0].commodity_name}</p>
+                                                    <p className="text-sm font-semibold text-foreground">
+                                                        ₹{mandi.top_prices[0].modal_price.toLocaleString()}
                                                     </p>
                                                 </div>
                                             )}
@@ -608,7 +599,7 @@ export default function MandisPage() {
                                         size="lg"
                                         className="min-w-[200px]"
                                     >
-                                        Load More ({mandis.length} of {totalCount})
+                                        {tc('showMore')} ({mandis.length} / {totalCount})
                                     </Button>
                                 </div>
                             )}

@@ -1,9 +1,10 @@
 import pytest
 from uuid import uuid4
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 
 from app.prices.service import PriceHistoryService
 from app.prices.schemas import PriceHistoryCreate, PriceHistoryUpdate
+from app.models.price_history import PriceHistory
 from tests.utils import create_test_commodity, create_test_mandi
 
 
@@ -478,3 +479,180 @@ class TestPricesServiceEdgeCases:
 
         results = service.get_by_mandi(mandi.id, limit=3)
         assert len(results) == 3
+
+
+class TestHistoricalPricesContinuity:
+    """Tests verifying historical price data continuity and gap handling."""
+
+    def test_get_historical_returns_all_dates_in_range(self, test_db):
+        """When data exists for 30 consecutive days, all 30 days appear in response."""
+        commodity = create_test_commodity(test_db, name="Rice", category="Grains")
+        mandi = create_test_mandi(test_db, name="HistMandi1")
+        service = PriceHistoryService(test_db)
+
+        # Create 30 consecutive days of data
+        base_date = date(2026, 1, 1)
+        for i in range(30):
+            service.create(PriceHistoryCreate(
+                commodity_id=commodity.id,
+                mandi_id=mandi.id,
+                price_date=base_date + timedelta(days=i),
+                modal_price=2000.00 + i * 10,
+                min_price=1900.00 + i * 10,
+                max_price=2100.00 + i * 10,
+            ))
+
+        # get_historical_prices returns date-averaged data
+        result = service.get_historical_prices(
+            commodity="Rice",
+            mandi_id=str(mandi.id),
+            days=30,
+        )
+
+        # Should have data for all 30 days
+        assert len(result) == 30, (
+            f"Expected 30 days of data, got {len(result)}"
+        )
+
+        # Verify dates are in ascending order
+        dates = [r["date"] for r in result]
+        for i in range(1, len(dates)):
+            assert dates[i] > dates[i - 1], "Dates should be ascending"
+
+    def test_get_historical_uses_max_date_as_reference(self, test_db):
+        """Historical prices use MAX(price_date) as reference, not today."""
+        commodity = create_test_commodity(test_db, name="Wheat", category="Grains")
+        mandi = create_test_mandi(test_db, name="HistMandi2")
+        service = PriceHistoryService(test_db)
+
+        # Create data for a period in the past (e.g., ending 10 days ago)
+        end_date = date.today() - timedelta(days=10)
+        for i in range(15):
+            service.create(PriceHistoryCreate(
+                commodity_id=commodity.id,
+                mandi_id=mandi.id,
+                price_date=end_date - timedelta(days=i),
+                modal_price=3000.00 + i * 5,
+            ))
+
+        # Query for 15 days of history
+        result = service.get_historical_prices(
+            commodity="Wheat",
+            mandi_id=str(mandi.id),
+            days=15,
+        )
+
+        # Should get data, NOT empty (which would happen if reference was today
+        # and data is 10+ days old beyond the 15-day window)
+        assert len(result) > 0, (
+            "Should return data even when latest data is not today"
+        )
+
+        # The last date in results should be close to end_date
+        last_date = result[-1]["date"]
+        assert last_date == end_date, (
+            f"Last date should be {end_date}, got {last_date}"
+        )
+
+    def test_get_historical_with_gaps_returns_only_existing_dates(self, test_db):
+        """When there are gaps in data, only dates with data are returned."""
+        commodity = create_test_commodity(test_db, name="Tomato", category="Vegetables")
+        mandi = create_test_mandi(test_db, name="HistMandi3")
+        service = PriceHistoryService(test_db)
+
+        # Create data with a 3-day gap in the middle
+        base_date = date(2026, 1, 1)
+        dates_with_data = [0, 1, 2, 6, 7, 8, 9]  # gap at days 3-5
+        for i in dates_with_data:
+            service.create(PriceHistoryCreate(
+                commodity_id=commodity.id,
+                mandi_id=mandi.id,
+                price_date=base_date + timedelta(days=i),
+                modal_price=1500.00 + i * 20,
+            ))
+
+        result = service.get_historical_prices(
+            commodity="Tomato",
+            mandi_id=str(mandi.id),
+            days=10,
+        )
+
+        # Should only return dates that have data (7 dates, not 10)
+        assert len(result) == len(dates_with_data), (
+            f"Expected {len(dates_with_data)} dates with data, got {len(result)}"
+        )
+
+    def test_get_historical_multiple_mandis_averaged(self, test_db):
+        """When mandi_id is 'all', prices from multiple mandis are averaged."""
+        commodity = create_test_commodity(test_db, name="Onion", category="Vegetables")
+        mandi1 = create_test_mandi(test_db, name="HistMandi4a")
+        mandi2 = create_test_mandi(test_db, name="HistMandi4b")
+        service = PriceHistoryService(test_db)
+
+        target_date = date(2026, 1, 15)
+
+        # Create prices at two mandis for the same commodity and date
+        service.create(PriceHistoryCreate(
+            commodity_id=commodity.id,
+            mandi_id=mandi1.id,
+            price_date=target_date,
+            modal_price=1000.00,
+        ))
+        service.create(PriceHistoryCreate(
+            commodity_id=commodity.id,
+            mandi_id=mandi2.id,
+            price_date=target_date,
+            modal_price=2000.00,
+        ))
+
+        result = service.get_historical_prices(
+            commodity="Onion",
+            mandi_id="all",
+            days=5,
+        )
+
+        # Should have 1 date with averaged price
+        assert len(result) == 1
+        # Average of 1000 and 2000 = 1500
+        assert result[0]["price"] == 1500.00
+
+    def test_get_historical_empty_commodity(self, test_db):
+        """Querying a commodity with no data returns empty list."""
+        service = PriceHistoryService(test_db)
+
+        result = service.get_historical_prices(
+            commodity="NonExistentCrop",
+            mandi_id="all",
+            days=30,
+        )
+
+        assert result == []
+
+    def test_get_historical_price_date_ordering(self, test_db):
+        """Results should always be ordered by date ascending."""
+        commodity = create_test_commodity(test_db, name="Potato", category="Vegetables")
+        mandi = create_test_mandi(test_db, name="HistMandi5")
+        service = PriceHistoryService(test_db)
+
+        base_date = date(2026, 1, 1)
+        # Create in reverse order
+        for i in [9, 3, 7, 1, 5]:
+            service.create(PriceHistoryCreate(
+                commodity_id=commodity.id,
+                mandi_id=mandi.id,
+                price_date=base_date + timedelta(days=i),
+                modal_price=1000.00 + i * 100,
+            ))
+
+        result = service.get_historical_prices(
+            commodity="Potato",
+            mandi_id=str(mandi.id),
+            days=15,
+        )
+
+        # Verify ascending order
+        assert len(result) == 5
+        for i in range(1, len(result)):
+            assert result[i]["date"] >= result[i - 1]["date"], (
+                "Dates should be in ascending order"
+            )

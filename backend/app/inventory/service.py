@@ -35,7 +35,10 @@ class InventoryService:
     def get_user_inventory(self, user_id: UUID, skip: int = 0, limit: int = 100) -> list[Inventory]:
         return self.db.query(Inventory).options(
             joinedload(Inventory.commodity)
-        ).filter(Inventory.user_id == user_id).offset(skip).limit(limit).all()
+        ).filter(
+            Inventory.user_id == user_id,
+            Inventory.quantity > 0
+        ).offset(skip).limit(limit).all()
 
     def get_inventory_item(self, inventory_id: UUID, user_id: UUID) -> Inventory | None:
         return self.db.query(Inventory).options(
@@ -96,6 +99,38 @@ class InventoryService:
     def delete_inventory(self, item: Inventory) -> None:
         self.db.delete(item)
         self.db.commit()
+
+    def get_available_stock(self, user_id: UUID) -> list[dict]:
+        """
+        Get aggregated available stock per commodity (summing across units normalized to kg).
+        Returns list of {commodity_id, commodity_name, quantity, unit} for each inventory row.
+        """
+        items = self.db.query(Inventory).options(
+            joinedload(Inventory.commodity)
+        ).filter(
+            Inventory.user_id == user_id,
+            Inventory.quantity > 0
+        ).all()
+
+        result = []
+        for item in items:
+            result.append({
+                'commodity_id': str(item.commodity_id),
+                'commodity_name': item.commodity.name if item.commodity else None,
+                'quantity': float(item.quantity),
+                'unit': item.unit,
+            })
+        return result
+
+    def get_stock_for_commodity(self, user_id: UUID, commodity_id: UUID, unit: str) -> float:
+        """Get total available quantity for a commodity in a specific unit."""
+        items = self.db.query(Inventory).filter(
+            Inventory.user_id == user_id,
+            Inventory.commodity_id == commodity_id,
+            Inventory.unit == unit,
+            Inventory.quantity > 0
+        ).all()
+        return sum(float(item.quantity) for item in items)
 
     def analyze_inventory(self, user_id: UUID, user_state: str | None = None) -> list[dict]:
         """

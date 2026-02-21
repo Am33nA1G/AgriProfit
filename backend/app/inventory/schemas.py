@@ -14,6 +14,12 @@ class InventoryUpdate(BaseModel):
     quantity: float | None = Field(None, gt=0)
     unit: str | None = Field(None, min_length=1, max_length=20)
 
+class StockItem(BaseModel):
+    commodity_id: str
+    commodity_name: str | None = None
+    quantity: float
+    unit: str
+
 class InventoryResponse(InventoryBase):
     id: UUID
     user_id: UUID

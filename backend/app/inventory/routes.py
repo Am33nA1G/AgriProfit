@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 from app.database.session import get_db
 from app.auth.security import get_current_user
 from app.models.user import User
-from app.inventory.schemas import InventoryCreate, InventoryResponse, InventoryUpdate
+from app.inventory.schemas import InventoryCreate, InventoryResponse, InventoryUpdate, StockItem
 from app.inventory.service import InventoryService
 
 router = APIRouter(prefix="/inventory", tags=["Inventory"])
@@ -81,6 +81,16 @@ def add_inventory(
     return service.add_inventory(current_user.id, item_in)
 
 
+@router.get("/stock", response_model=list[StockItem])
+def get_available_stock(
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
+    """Get available stock per commodity from user's inventory."""
+    service = InventoryService(db)
+    return service.get_available_stock(current_user.id)
+
+
 @router.post("/analyze", response_model=InventoryAnalysisResponse)
 def analyze_inventory(
     db: Session = Depends(get_db),
@@ -116,6 +126,23 @@ def analyze_inventory(
     )
 
 
+@router.put("/{inventory_id}", response_model=InventoryResponse)
+def update_inventory(
+    inventory_id: UUID,
+    update_data: InventoryUpdate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
+    """Update quantity or unit of an inventory item."""
+    service = InventoryService(db)
+    item = service.get_inventory_item(inventory_id, current_user.id)
+    if not item:
+        raise HTTPException(status_code=404, detail="Inventory item not found")
+
+    updated = service.update_inventory(item, update_data)
+    return updated
+
+
 @router.delete("/{inventory_id}", status_code=status.HTTP_204_NO_CONTENT)
 def delete_inventory(
     inventory_id: UUID,
@@ -126,6 +153,6 @@ def delete_inventory(
     item = service.get_inventory_item(inventory_id, current_user.id)
     if not item:
         raise HTTPException(status_code=404, detail="Inventory item not found")
-    
+
     service.delete_inventory(item)
     return

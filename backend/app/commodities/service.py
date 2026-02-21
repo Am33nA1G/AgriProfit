@@ -100,18 +100,24 @@ class CommodityService:
         # Must be done BEFORE pagination when sorting by price/change
         all_prices = self._get_commodity_prices_from_db()
         
-        # For price/change sorting, we need to fetch ALL commodities, enrich with prices, then paginate
-        # For name/category sorting, we can paginate first (more efficient)
-        if sort_by in ["price", "change"]:
-            # Get ALL commodities (no pagination yet)
+        # When price/trend filters or price/change sorting are active, we must fetch ALL
+        # commodities first because these filters depend on the price cache (not SQL columns).
+        # For name sorting WITHOUT price/trend filters, we can paginate at SQL level.
+        needs_post_filter = (min_price is not None or max_price is not None or trend is not None)
+        needs_post_sort = sort_by in ["price", "change"]
+
+        if needs_post_filter or needs_post_sort:
+            # Get ALL commodities (pagination applied after enrichment + filtering)
+            if sort_by == "name":
+                query = query.order_by(asc(Commodity.name) if sort_order == "asc" else desc(Commodity.name))
             commodities = query.all()
         else:
-            # Sorting by name/category - can paginate first
+            # No post-processing filters - safe to paginate at SQL level
             if sort_by == "name":
                 query = query.order_by(asc(Commodity.name) if sort_order == "asc" else desc(Commodity.name))
             elif sort_by == "category":
                 query = query.order_by(asc(Commodity.category) if sort_order == "asc" else desc(Commodity.category))
-            
+
             commodities = query.offset(skip).limit(limit).all()
         
         # Enrich with price data
@@ -124,13 +130,15 @@ class CommodityService:
             change_7d = price_data.get('change_7d')
             change_30d = price_data.get('change_30d')
             
-            # Apply price range filter
-            if min_price is not None and current_price is not None and current_price < min_price:
-                total -= 1
-                continue
-            if max_price is not None and current_price is not None and current_price > max_price:
-                total -= 1
-                continue
+            # Apply price range filter (exclude items without price when price filter is active)
+            if min_price is not None:
+                if current_price is None or current_price < min_price:
+                    total -= 1
+                    continue
+            if max_price is not None:
+                if current_price is None or current_price > max_price:
+                    total -= 1
+                    continue
             
             # Apply trend filter
             if trend:
@@ -167,17 +175,18 @@ class CommodityService:
                 key=lambda x: x["current_price"] if x["current_price"] else 0,
                 reverse=(sort_order == "desc")
             )
-            # Apply pagination AFTER sorting
-            result_commodities = result_commodities[skip:skip + limit]
         elif sort_by == "change" and result_commodities:
             # Sort by 1-day change to show most recent movers
             result_commodities.sort(
                 key=lambda x: x["price_change_1d"] if x["price_change_1d"] else 0,
                 reverse=(sort_order == "desc")
             )
-            # Apply pagination AFTER sorting
+
+        # Apply pagination after filtering/sorting when we fetched ALL
+        if needs_post_filter or needs_post_sort:
+            total = len(result_commodities)
             result_commodities = result_commodities[skip:skip + limit]
-        
+
         return {
             "commodities": result_commodities,
             "total": total,
@@ -464,8 +473,11 @@ class CommodityService:
         Get current prices and changes for ALL commodities from PostgreSQL.
         Returns: dict {commodity_name_lower: {price, change_1d, change_7d, change_30d}}
 
-        OPTIMIZED: Single query with date-range aggregation instead of 4N queries.
-        Cached for 30 seconds to avoid expensive queries on every request.
+        Uses each commodity's own latest available date within last 7 days as "current",
+        not just the global latest date. This ensures commodities that weren't traded
+        on the most recent day still show their latest price.
+
+        Cached for 2 minutes to avoid expensive queries on every request.
         """
         global _price_cache
 
@@ -480,45 +492,63 @@ class CommodityService:
         # Use the latest date with actual data instead of today
         # (data may lag by a day or more)
         latest_date_row = self.db.execute(
-            text("SELECT MAX(price_date) FROM price_history")
+            text("SELECT price_date FROM price_history ORDER BY price_date DESC LIMIT 1")
         ).scalar()
         latest = latest_date_row if latest_date_row else date.today()
 
-        date_1d = latest - timedelta(days=1)
-        date_1d_start = date_1d - timedelta(days=2)
+        # Window for "current" price: last 14 days from the global latest date
+        # This catches commodities not traded on the exact latest day
+        # (some commodities are only traded weekly or fortnightly)
+        current_window_start = latest - timedelta(days=14)
         date_7d = latest - timedelta(days=7)
-        date_7d_start = date_7d - timedelta(days=2)
+        date_7d_start = date_7d - timedelta(days=3)
         date_30d = latest - timedelta(days=30)
-        date_30d_start = date_30d - timedelta(days=2)
+        date_30d_start = date_30d - timedelta(days=3)
 
-        # Single query: get avg prices for latest date and historical windows
+        # Two-step approach:
+        # 1. Get each commodity's latest price date within the current window
+        # 2. Use that per-commodity latest date to compute current price and changes
         query = text("""
+            WITH commodity_latest AS (
+                SELECT
+                    ph.commodity_id,
+                    MAX(ph.price_date) AS latest_date
+                FROM price_history ph
+                JOIN commodities c ON c.id = ph.commodity_id
+                WHERE c.is_active = true
+                  AND ph.price_date >= :current_window_start
+                  AND ph.price_date <= :latest
+                GROUP BY ph.commodity_id
+            )
             SELECT
                 c.id,
                 c.name,
-                AVG(CASE WHEN ph.price_date = :latest THEN ph.modal_price END) AS price_today,
-                AVG(CASE WHEN ph.price_date >= :d1_start AND ph.price_date <= :d1_end THEN ph.modal_price END) AS price_1d,
+                cl.latest_date,
+                AVG(CASE WHEN ph.price_date = cl.latest_date THEN ph.modal_price END) AS price_current,
+                AVG(CASE WHEN ph.price_date >= cl.latest_date - interval '3 days'
+                          AND ph.price_date < cl.latest_date THEN ph.modal_price END) AS price_prev,
                 AVG(CASE WHEN ph.price_date >= :d7_start AND ph.price_date <= :d7_end THEN ph.modal_price END) AS price_7d,
                 AVG(CASE WHEN ph.price_date >= :d30_start AND ph.price_date <= :d30_end THEN ph.modal_price END) AS price_30d
             FROM commodities c
+            JOIN commodity_latest cl ON cl.commodity_id = c.id
             JOIN price_history ph ON ph.commodity_id = c.id
             WHERE c.is_active = true
               AND ph.price_date >= :d30_start
-            GROUP BY c.id, c.name
-            HAVING AVG(CASE WHEN ph.price_date = :latest THEN ph.modal_price END) IS NOT NULL
-               AND AVG(CASE WHEN ph.price_date = :latest THEN ph.modal_price END) > 0
+            GROUP BY c.id, c.name, cl.latest_date
+            HAVING AVG(CASE WHEN ph.price_date = cl.latest_date THEN ph.modal_price END) IS NOT NULL
+               AND AVG(CASE WHEN ph.price_date = cl.latest_date THEN ph.modal_price END) > 0
         """)
 
         rows = self.db.execute(query, {
             "latest": latest,
-            "d1_start": date_1d_start, "d1_end": date_1d,
+            "current_window_start": current_window_start,
             "d7_start": date_7d_start, "d7_end": date_7d,
             "d30_start": date_30d_start, "d30_end": date_30d,
         }).fetchall()
 
         result = {}
         for row in rows:
-            current_price = float(row.price_today)
+            current_price = float(row.price_current)
 
             # Apply unit conversion (prices < 200 are in kg, convert to quintal)
             if current_price < 200:
@@ -536,7 +566,7 @@ class CommodityService:
 
             result[row.name.lower()] = {
                 'price': current_price,
-                'change_1d': _calc_change(row.price_1d),
+                'change_1d': _calc_change(row.price_prev),
                 'change_7d': _calc_change(row.price_7d),
                 'change_30d': _calc_change(row.price_30d),
             }

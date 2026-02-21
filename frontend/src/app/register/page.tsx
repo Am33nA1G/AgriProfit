@@ -7,6 +7,7 @@ import {
     Phone, KeyRound, Sparkles, Loader2, ArrowRight, ShieldCheck,
     User, MapPin, CheckCircle, Calendar, ChevronDown,
 } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 import { authService } from '@/services/auth';
 import { mandisService } from '@/services/mandis';
 import { useAuthStore } from '@/store/authStore';
@@ -26,13 +27,13 @@ const INDIAN_STATES = [
 
 type RegistrationStep = 'phone' | 'otp' | 'profile';
 
-const STEP_CONFIG = [
-    { id: 'phone' as const, label: 'Phone', icon: Phone, num: 1 },
-    { id: 'otp' as const, label: 'Verify', icon: KeyRound, num: 2 },
-    { id: 'profile' as const, label: 'Profile', icon: User, num: 3 },
-];
+function StepIndicator({ currentStep, labels }: { currentStep: RegistrationStep; labels: { phone: string; verify: string; profile: string } }) {
+    const STEP_CONFIG = [
+        { id: 'phone' as const, label: labels.phone, icon: Phone, num: 1 },
+        { id: 'otp' as const, label: labels.verify, icon: KeyRound, num: 2 },
+        { id: 'profile' as const, label: labels.profile, icon: User, num: 3 },
+    ];
 
-function StepIndicator({ currentStep }: { currentStep: RegistrationStep }) {
     const stepOrder: RegistrationStep[] = ['phone', 'otp', 'profile'];
     const currentIndex = stepOrder.indexOf(currentStep);
 
@@ -91,6 +92,9 @@ export default function RegisterPage() {
     const router = useRouter();
     const searchParams = useSearchParams();
     const setAuth = useAuthStore((state) => state.setAuth);
+    const t = useTranslations('auth');
+    const tc = useTranslations('common');
+    const tv = useTranslations('validation');
 
     // Check if we're coming from login with a new user
     const initialPhone = searchParams?.get('phone') || '';
@@ -127,7 +131,7 @@ export default function RegisterPage() {
         if (value.length === 0) { setPhoneError(''); return false; }
         if (value.length < 10) { setPhoneError(''); return false; }
         if (!/^[6-9]\d{9}$/.test(value)) {
-            setPhoneError('Must start with 6-9 and be 10 digits');
+            setPhoneError(tv('invalidPhone'));
             return false;
         }
         setPhoneError('');
@@ -143,8 +147,8 @@ export default function RegisterPage() {
 
     useEffect(() => {
         if (resendTimer <= 0) return;
-        const t = setTimeout(() => setResendTimer(resendTimer - 1), 1000);
-        return () => clearTimeout(t);
+        const timer = setTimeout(() => setResendTimer(resendTimer - 1), 1000);
+        return () => clearTimeout(timer);
     }, [resendTimer]);
 
     // Fetch districts when state changes
@@ -155,7 +159,7 @@ export default function RegisterPage() {
             mandisService.getDistrictsByState(selectedState)
                 .then(setDistricts)
                 .catch(() => {
-                    toast.error('Failed to load districts');
+                    toast.error(t('failedToLoadDistricts'));
                     setDistricts([]);
                 })
                 .finally(() => setLoadingDistricts(false));
@@ -163,7 +167,7 @@ export default function RegisterPage() {
             setDistricts([]);
             setDistrict('');
         }
-    }, [selectedState]);
+    }, [selectedState, t]);
 
     // If we have a token from login, store it and go to profile step
     useEffect(() => {
@@ -179,7 +183,7 @@ export default function RegisterPage() {
 
         if (!validatePhone(phoneNumber)) {
             if (phoneNumber.length !== 10) {
-                setPhoneError('Please enter a valid 10-digit mobile number');
+                setPhoneError(tv('invalidPhoneGeneric'));
             }
             return;
         }
@@ -187,11 +191,11 @@ export default function RegisterPage() {
         setLoading(true);
         try {
             await authService.requestOtp(phoneNumber);
-            toast.success('OTP sent to your phone!');
+            toast.success(t('otpSentToPhone'));
             setStep('otp');
             startResendTimer();
         } catch (error: any) {
-            const message = error.response?.data?.detail || 'Failed to send OTP. Please try again.';
+            const message = error.response?.data?.detail || t('failedToSendOtp');
             setPhoneError(message);
             toast.error(message);
         } finally {
@@ -204,11 +208,11 @@ export default function RegisterPage() {
         e.preventDefault();
 
         if (otp.length !== 6) {
-            setOtpError('Please enter the 6-digit OTP');
+            setOtpError(tv('invalidOtp'));
             return;
         }
         if (!/^\d+$/.test(otp)) {
-            setOtpError('OTP must contain only digits');
+            setOtpError(tv('otpDigitsOnly'));
             return;
         }
         setOtpError('');
@@ -219,20 +223,20 @@ export default function RegisterPage() {
             localStorage.setItem('token', response.access_token);
 
             if (response.is_new_user) {
-                toast.success('Phone verified! Please complete your profile.');
+                toast.success(t('phoneVerified'));
                 setStep('profile');
             } else {
                 const user = await authService.getCurrentUser();
                 if (user.is_profile_complete) {
                     setAuth(user, response.access_token);
-                    toast.success('Welcome back!');
+                    toast.success(t('welcomeBackExcl'));
                     router.push('/dashboard');
                 } else {
                     setStep('profile');
                 }
             }
         } catch (error: any) {
-            const message = error.response?.data?.detail || 'Invalid OTP. Please try again.';
+            const message = error.response?.data?.detail || t('invalidOtpGeneric');
             setOtpError(message);
             toast.error(message);
         } finally {
@@ -246,15 +250,15 @@ export default function RegisterPage() {
 
         // Validate all fields
         let hasError = false;
-        if (!name.trim()) { setNameError('Please enter your name'); hasError = true; }
+        if (!name.trim()) { setNameError(tv('invalidName')); hasError = true; }
         else { setNameError(''); }
 
         const ageNum = parseInt(age);
-        if (isNaN(ageNum) || ageNum < 18 || ageNum > 120) { setAgeError('Enter a valid age (18-120)'); hasError = true; }
+        if (isNaN(ageNum) || ageNum < 18 || ageNum > 120) { setAgeError(tv('invalidAge')); hasError = true; }
         else { setAgeError(''); }
 
-        if (!selectedState) { toast.error('Please select your state'); hasError = true; }
-        if (!district) { toast.error('Please select your district'); hasError = true; }
+        if (!selectedState) { toast.error(tv('selectState')); hasError = true; }
+        if (!district) { toast.error(tv('selectDistrict')); hasError = true; }
 
         if (hasError) return;
 
@@ -272,34 +276,34 @@ export default function RegisterPage() {
 
             // Show success animation
             setShowSuccess(true);
-            toast.success('Registration complete! Welcome to AgriProfit!');
+            toast.success(t('registrationSuccessMsg'));
             setTimeout(() => router.push('/dashboard'), 1500);
         } catch (error: any) {
-            const message = error.response?.data?.detail || 'Failed to save profile. Please try again.';
+            const message = error.response?.data?.detail || t('failedToSaveProfile');
             toast.error(message);
         } finally {
             setLoading(false);
         }
     };
 
-    const stepSubtitle = {
-        phone: 'Enter your mobile number to get started',
-        otp: 'Verify your phone number',
-        profile: 'Tell us about yourself to personalize your experience',
+    const stepSubtitle: Record<RegistrationStep, string> = {
+        phone: t('enterMobileToStart'),
+        otp: t('verifyYourPhone'),
+        profile: t('tellUsAboutYou'),
     };
 
     // Success overlay
     if (showSuccess) {
         return (
-            <AuthLayout title="Welcome!" subtitle="You're all set">
+            <AuthLayout title={t('welcome')} subtitle={t('allSet')}>
                 <div className="flex flex-col items-center py-8 animate-auth-scale-in">
                     <div className="w-20 h-20 rounded-full bg-green-100 flex items-center justify-center mb-5 animate-auth-bounce-in">
                         <CheckCircle className="w-10 h-10 text-green-600" />
                     </div>
-                    <h3 className="text-xl font-bold text-gray-900 mb-2">Registration Complete!</h3>
+                    <h3 className="text-xl font-bold text-gray-900 mb-2">{t('registrationComplete')}</h3>
                     <p className="text-gray-500 text-sm text-center">
-                        Welcome to AgriProfit, <span className="font-semibold text-green-700">{name}</span>!
-                        <br />Redirecting to your dashboard...
+                        {t('welcomeUser', { name })}
+                        <br />{t('redirecting')}
                     </p>
                     <div className="mt-5">
                         <Loader2 className="w-5 h-5 animate-spin text-green-600" />
@@ -311,18 +315,21 @@ export default function RegisterPage() {
 
     return (
         <AuthLayout
-            title="Create Account"
+            title={t('createAccount')}
             subtitle={stepSubtitle[step]}
         >
             {/* Step Indicator */}
-            <StepIndicator currentStep={step} />
+            <StepIndicator
+                currentStep={step}
+                labels={{ phone: t('phoneStep'), verify: t('verifyStep'), profile: t('profileStep') }}
+            />
 
             {/* ── Phone Step ── */}
             {step === 'phone' && (
                 <form onSubmit={handleRequestOtp} className="space-y-5 animate-auth-fade-in">
                     <div className="space-y-1.5">
                         <label htmlFor="reg-phone" className="block text-sm font-semibold text-gray-700">
-                            Mobile Number <span className="text-red-500">*</span>
+                            {t('mobileNumber')} <span className="text-red-500">*</span>
                         </label>
                         <div className="relative">
                             <Phone className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
@@ -332,7 +339,7 @@ export default function RegisterPage() {
                                 type="tel"
                                 inputMode="numeric"
                                 autoComplete="tel"
-                                placeholder="9876543210"
+                                placeholder={t('phonePlaceholder')}
                                 value={phoneNumber}
                                 onChange={(e) => {
                                     const v = e.target.value.replace(/\D/g, '').slice(0, 10);
@@ -370,7 +377,7 @@ export default function RegisterPage() {
                                 {phoneError}
                             </p>
                         ) : (
-                            <p id="reg-phone-help" className="text-xs text-gray-400">We&apos;ll send you a one-time verification code</p>
+                            <p id="reg-phone-help" className="text-xs text-gray-400">{t('phoneHelp')}</p>
                         )}
                     </div>
 
@@ -390,11 +397,11 @@ export default function RegisterPage() {
                         {loading ? (
                             <>
                                 <Loader2 className="w-5 h-5 animate-spin" />
-                                <span>Sending OTP...</span>
+                                <span>{t('sendingOtp')}</span>
                             </>
                         ) : (
                             <>
-                                <span>Send OTP</span>
+                                <span>{t('sendOtp')}</span>
                                 <ArrowRight className="w-5 h-5" />
                             </>
                         )}
@@ -406,7 +413,7 @@ export default function RegisterPage() {
                             <div className="w-full border-t border-gray-200" />
                         </div>
                         <div className="relative flex justify-center text-xs">
-                            <span className="px-3 bg-white text-gray-400">Already have an account?</span>
+                            <span className="px-3 bg-white text-gray-400">{t('alreadyHaveAccount')}</span>
                         </div>
                     </div>
 
@@ -420,7 +427,7 @@ export default function RegisterPage() {
                             active:scale-[0.98] transition-all duration-200
                         "
                     >
-                        Sign In Instead
+                        {t('signInInstead')}
                     </Link>
                 </form>
             )}
@@ -432,9 +439,9 @@ export default function RegisterPage() {
                     <div className="bg-green-50 border border-green-200 rounded-xl p-4 flex items-start gap-3">
                         <Sparkles className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                         <div>
-                            <p className="text-sm font-semibold text-green-800">OTP sent successfully!</p>
+                            <p className="text-sm font-semibold text-green-800">{t('otpSentSuccess')}</p>
                             <p className="text-xs text-green-700 mt-0.5">
-                                Enter the 6-digit code sent to <span className="font-medium">+91 {phoneNumber}</span>
+                                {t('otpSentTo')} <span className="font-medium">+91 {phoneNumber}</span>
                             </p>
                         </div>
                     </div>
@@ -442,7 +449,7 @@ export default function RegisterPage() {
                     <form onSubmit={handleVerifyOtp} className="space-y-5">
                         <div className="space-y-1.5">
                             <label htmlFor="reg-otp" className="block text-sm font-semibold text-gray-700">
-                                Verification Code <span className="text-red-500">*</span>
+                                {t('verificationCode')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <KeyRound className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
@@ -451,7 +458,7 @@ export default function RegisterPage() {
                                     type="text"
                                     inputMode="numeric"
                                     autoComplete="one-time-code"
-                                    placeholder="000000"
+                                    placeholder={t('otpPlaceholder')}
                                     value={otp}
                                     onChange={(e) => {
                                         const v = e.target.value.replace(/\D/g, '').slice(0, 6);
@@ -495,11 +502,11 @@ export default function RegisterPage() {
                             {loading ? (
                                 <>
                                     <Loader2 className="w-5 h-5 animate-spin" />
-                                    <span>Verifying...</span>
+                                    <span>{t('verifying')}</span>
                                 </>
                             ) : (
                                 <>
-                                    <span>Verify &amp; Continue</span>
+                                    <span>{t('verifyContinue')}</span>
                                     <ArrowRight className="w-5 h-5" />
                                 </>
                             )}
@@ -516,11 +523,11 @@ export default function RegisterPage() {
                                 }}
                                 className="text-gray-500 hover:text-gray-700 transition-colors"
                             >
-                                &larr; Change number
+                                &larr; {t('changeNumber')}
                             </button>
                             {resendTimer > 0 ? (
                                 <span className="text-gray-400">
-                                    Resend in <span className="font-semibold text-green-600">{resendTimer}s</span>
+                                    {t('resendIn')} <span className="font-semibold text-green-600">{resendTimer}s</span>
                                 </span>
                             ) : (
                                 <button
@@ -529,7 +536,7 @@ export default function RegisterPage() {
                                     disabled={loading}
                                     className="text-green-600 hover:text-green-700 font-semibold transition-colors disabled:opacity-50"
                                 >
-                                    Resend OTP
+                                    {t('resendOtp')}
                                 </button>
                             )}
                         </div>
@@ -544,9 +551,9 @@ export default function RegisterPage() {
                     <div className="bg-green-50 border border-green-200 rounded-xl p-4 flex items-start gap-3">
                         <Sparkles className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                         <div>
-                            <p className="text-sm font-semibold text-green-800">Phone verified!</p>
+                            <p className="text-sm font-semibold text-green-800">{t('phoneVerified')}</p>
                             <p className="text-xs text-green-700 mt-0.5">
-                                Almost done — fill in your details below.
+                                {t('phoneVerifiedDetail')}
                             </p>
                         </div>
                     </div>
@@ -555,14 +562,14 @@ export default function RegisterPage() {
                         {/* Full Name */}
                         <div className="space-y-1.5">
                             <label htmlFor="reg-name" className="block text-sm font-semibold text-gray-700">
-                                Full Name <span className="text-red-500">*</span>
+                                {t('fullName')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <User className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
                                 <input
                                     id="reg-name"
                                     type="text"
-                                    placeholder="Enter your full name"
+                                    placeholder={t('fullNamePlaceholder')}
                                     value={name}
                                     onChange={(e) => {
                                         setName(e.target.value);
@@ -588,7 +595,7 @@ export default function RegisterPage() {
                         {/* Age */}
                         <div className="space-y-1.5">
                             <label htmlFor="reg-age" className="block text-sm font-semibold text-gray-700">
-                                Age <span className="text-red-500">*</span>
+                                {t('age')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <Calendar className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400" />
@@ -596,7 +603,7 @@ export default function RegisterPage() {
                                     id="reg-age"
                                     type="number"
                                     inputMode="numeric"
-                                    placeholder="25"
+                                    placeholder={t('agePlaceholder')}
                                     min="18"
                                     max="120"
                                     value={age}
@@ -623,7 +630,7 @@ export default function RegisterPage() {
                         {/* State */}
                         <div className="space-y-1.5">
                             <label htmlFor="reg-state" className="block text-sm font-semibold text-gray-700">
-                                State <span className="text-red-500">*</span>
+                                {t('state')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <MapPin className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400 z-10 pointer-events-none" />
@@ -641,7 +648,7 @@ export default function RegisterPage() {
                                         ${!selectedState ? 'text-gray-400' : 'text-gray-900'}
                                     `}
                                 >
-                                    <option value="" disabled>Select your state</option>
+                                    <option value="" disabled>{t('selectState')}</option>
                                     {INDIAN_STATES.map((s) => (
                                         <option key={s} value={s}>{s}</option>
                                     ))}
@@ -652,7 +659,7 @@ export default function RegisterPage() {
                         {/* District */}
                         <div className="space-y-1.5">
                             <label htmlFor="reg-district" className="block text-sm font-semibold text-gray-700">
-                                District <span className="text-red-500">*</span>
+                                {t('district')} <span className="text-red-500">*</span>
                             </label>
                             <div className="relative">
                                 <MapPin className="absolute left-3.5 top-1/2 -translate-y-1/2 w-[18px] h-[18px] text-gray-400 z-10 pointer-events-none" />
@@ -676,10 +683,10 @@ export default function RegisterPage() {
                                 >
                                     <option value="" disabled>
                                         {!selectedState
-                                            ? 'Select state first'
+                                            ? t('selectStateFirst')
                                             : loadingDistricts
-                                                ? 'Loading districts...'
-                                                : 'Select your district'}
+                                                ? t('loadingDistricts')
+                                                : t('selectDistrict')}
                                     </option>
                                     {districts.map((d) => (
                                         <option key={d} value={d}>{d}</option>
@@ -705,11 +712,11 @@ export default function RegisterPage() {
                             {loading ? (
                                 <>
                                     <Loader2 className="w-5 h-5 animate-spin" />
-                                    <span>Creating Account...</span>
+                                    <span>{t('creatingAccount')}</span>
                                 </>
                             ) : (
                                 <>
-                                    <span>Complete Registration</span>
+                                    <span>{t('completeRegistration')}</span>
                                     <ArrowRight className="w-5 h-5" />
                                 </>
                             )}
@@ -721,7 +728,7 @@ export default function RegisterPage() {
             {/* Security badge */}
             <div className="mt-7 pt-5 border-t border-gray-100 flex items-center justify-center gap-2 text-xs text-gray-400">
                 <ShieldCheck className="w-4 h-4 text-green-500" />
-                <span>Your data is encrypted and secure</span>
+                <span>{tc('dataEncrypted')}</span>
             </div>
         </AuthLayout>
     );

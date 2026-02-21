@@ -365,7 +365,16 @@ class PriceHistoryService:
         from sqlalchemy import func
         from datetime import datetime, timedelta
 
-        start_date = datetime.now().date() - timedelta(days=days)
+        # Use latest available data date as reference (not today)
+        # This prevents empty trailing days when data sync lags
+        max_date_result = (
+            self.db.query(func.max(PriceHistory.price_date))
+            .join(Commodity, PriceHistory.commodity_id == Commodity.id)
+            .filter(Commodity.name.ilike(f"%{commodity}%"))
+            .scalar()
+        )
+        reference_date = max_date_result or datetime.now().date()
+        start_date = reference_date - timedelta(days=days)
         
         # Get commodity to check unit
         commodity_obj = self.db.query(Commodity).filter(

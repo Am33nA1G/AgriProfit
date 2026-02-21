@@ -10,6 +10,7 @@ export interface SaleItem {
     buyer_name?: string;
     sale_date: string;
     commodity_name?: string;
+    created_at?: string;
 }
 
 export interface RecordSaleData {
@@ -17,6 +18,14 @@ export interface RecordSaleData {
     quantity: number;
     unit: string;
     price_per_unit: number;
+    buyer_name?: string;
+    sale_date?: string;
+}
+
+export interface UpdateSaleData {
+    quantity?: number;
+    unit?: string;
+    price_per_unit?: number;
     buyer_name?: string;
     sale_date?: string;
 }
@@ -35,6 +44,11 @@ export const salesService = {
 
     async recordSale(data: RecordSaleData): Promise<SaleItem> {
         const response = await api.post('/sales', data);
+        return response.data;
+    },
+
+    async updateSale(id: string, data: UpdateSaleData): Promise<SaleItem> {
+        const response = await api.put(`/sales/${id}`, data);
         return response.data;
     },
 

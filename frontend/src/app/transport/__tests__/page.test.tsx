@@ -58,14 +58,14 @@ describe("TransportPage - Form Validation", () => {
     it("displays commodity search input", () => {
         render(<TransportPage />);
         
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         expect(searchInput).toBeInTheDocument();
     });
 
     it("displays quantity input field", () => {
         render(<TransportPage />);
         
-        const quantityInput = screen.getByPlaceholderText("Enter amount");
+        const quantityInput = screen.getByPlaceholderText("Amount");
         expect(quantityInput).toBeInTheDocument();
     });
 
@@ -79,14 +79,14 @@ describe("TransportPage - Form Validation", () => {
 
     it("displays state selector", () => {
         render(<TransportPage />);
-        
-        // State select should be present
-        expect(screen.getByText("State")).toBeInTheDocument();
+
+        // State select uses t('origin') = "Origin"
+        expect(screen.getByText("Origin *")).toBeInTheDocument();
     });
 
     it("displays district selector", () => {
         render(<TransportPage />);
-        
+
         expect(screen.getByText("District *")).toBeInTheDocument();
     });
 
@@ -114,7 +114,7 @@ describe("TransportPage - Form Validation", () => {
         const user = userEvent.setup();
         
         // Select commodity but don't enter quantity
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         await user.click(searchInput);
         
         const calculateButton = screen.getByRole("button", { name: /calculate/i });
@@ -141,7 +141,7 @@ describe("TransportPage - Form Validation", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const quantityInput = screen.getByPlaceholderText("Enter amount");
+        const quantityInput = screen.getByPlaceholderText("Amount");
         await user.type(quantityInput, "100");
         
         expect(quantityInput).toHaveValue(100);
@@ -151,7 +151,7 @@ describe("TransportPage - Form Validation", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const quantityInput = screen.getByPlaceholderText("Enter amount");
+        const quantityInput = screen.getByPlaceholderText("Amount");
         await user.type(quantityInput, "50.5");
         
         expect(quantityInput).toHaveValue(50.5);
@@ -174,7 +174,7 @@ describe("TransportPage - Commodity Search", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         await user.click(searchInput);
         
         // Should show dropdown with commodities
@@ -187,7 +187,7 @@ describe("TransportPage - Commodity Search", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         await user.click(searchInput);
         await user.type(searchInput, "Tom");
         
@@ -201,12 +201,12 @@ describe("TransportPage - Commodity Search", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         await user.click(searchInput);
         await user.type(searchInput, "xyz123");
         
         await waitFor(() => {
-            expect(screen.getByText("No commodities found")).toBeInTheDocument();
+            expect(screen.getByText("No results found")).toBeInTheDocument();
         });
     });
 
@@ -214,7 +214,7 @@ describe("TransportPage - Commodity Search", () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const searchInput = screen.getByPlaceholderText("Search commodity...");
+        const searchInput = screen.getByPlaceholderText("Select commodity");
         await user.click(searchInput);
         
         await waitFor(() => {
@@ -241,7 +241,7 @@ describe("TransportPage - Commodity Search", () => {
         render(<TransportPage />);
 
         // Should still render with fallback COMMODITIES list
-        expect(screen.getByPlaceholderText("Search commodity...")).toBeInTheDocument();
+        expect(screen.getByPlaceholderText("Select commodity")).toBeInTheDocument();
     });
 });
 
@@ -260,14 +260,14 @@ describe("TransportPage - UI Elements", () => {
     it("shows cost settings section", () => {
         render(<TransportPage />);
         
-        expect(screen.getByText("Customize Cost Parameters")).toBeInTheDocument();
+        expect(screen.getByText("Cost per km")).toBeInTheDocument();
     });
 
     it("toggles cost settings visibility", async () => {
         render(<TransportPage />);
         const user = userEvent.setup();
         
-        const settingsHeader = screen.getByText("Customize Cost Parameters");
+        const settingsHeader = screen.getByText("Cost per km");
         await user.click(settingsHeader);
         
         // Settings should expand/collapse
@@ -284,8 +284,8 @@ describe("TransportPage - UI Elements", () => {
 
     it("updates districts when state changes", () => {
         render(<TransportPage />);
-        
-        // District list should change based on state selection
+
+        // District label should be present (was previously "Destination")
         expect(screen.getByText("District *")).toBeInTheDocument();
     });
 });

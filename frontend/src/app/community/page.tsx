@@ -1,6 +1,7 @@
 "use client"
 
 import React, { useState, useEffect, useCallback } from "react"
+import { useTranslations } from 'next-intl'
 import {
     Plus,
     Search,
@@ -95,6 +96,9 @@ function isLoggedIn(): boolean {
 }
 
 export default function CommunityPage() {
+    const t = useTranslations('community')
+    const tc = useTranslations('common')
+
     // State
     const [posts, setPosts] = useState<CommunityPost[]>([])
     const [loading, setLoading] = useState(true)
@@ -537,10 +541,10 @@ export default function CommunityPage() {
                     <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                         <div>
                             <h1 className="text-3xl font-bold text-foreground">
-                                Farmer Community Forum
+                                {t('title')}
                             </h1>
                             <p className="text-muted-foreground mt-1">
-                                Share knowledge, ask questions, and connect with fellow farmers
+                                {t('subtitle')}
                             </p>
                         </div>
                         <div className="flex items-center gap-3">
@@ -566,7 +570,7 @@ export default function CommunityPage() {
                                 className="bg-primary text-primary-foreground hover:bg-primary/90"
                             >
                                 <Plus className="h-4 w-4 mr-2" />
-                                Create Post
+                                {t('createPost')}
                             </Button>
                         </div>
                     </div>
@@ -577,7 +581,7 @@ export default function CommunityPage() {
                     <Card className="mb-6 max-h-80 overflow-y-auto">
                         <CardHeader className="pb-2">
                             <div className="flex items-center justify-between">
-                                <CardTitle className="text-base">Community Notifications</CardTitle>
+                                <CardTitle className="text-base">{t('title')}</CardTitle>
                                 <button
                                     onClick={() => setShowNotifPanel(false)}
                                     className="text-muted-foreground hover:text-foreground"
@@ -610,7 +614,7 @@ export default function CommunityPage() {
                                     ))}
                                 </div>
                             ) : (
-                                <p className="text-sm text-muted-foreground text-center py-4">No community notifications</p>
+                                <p className="text-sm text-muted-foreground text-center py-4">{tc('noData')}</p>
                             )}
                         </CardContent>
                     </Card>
@@ -638,7 +642,7 @@ export default function CommunityPage() {
                             size="sm"
                             onClick={() => setActiveTab('all')}
                         >
-                            All
+                            {t('allPosts')}
                         </Button>
                         {(Object.keys(POST_TYPE_LABELS) as PostType[]).map(type => (
                             <Button
@@ -658,7 +662,7 @@ export default function CommunityPage() {
                             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                             <Input
                                 type="text"
-                                placeholder="Search posts..."
+                                placeholder={t('searchPosts')}
                                 value={searchQuery}
                                 onChange={(e) => setSearchQuery(e.target.value)}
                                 className="pl-10"
@@ -667,7 +671,7 @@ export default function CommunityPage() {
                         <Select value={sortBy} onValueChange={(v) => setSortBy(v as SortOption)}>
                             <SelectTrigger className="w-full sm:w-48">
                                 <SortAsc className="h-4 w-4 mr-2" />
-                                <SelectValue placeholder="Sort by" />
+                                <SelectValue placeholder={tc('sortBy')} />
                             </SelectTrigger>
                             <SelectContent>
                                 {(Object.keys(SORT_OPTIONS) as SortOption[]).map(option => (
@@ -684,13 +688,13 @@ export default function CommunityPage() {
                 {showCreateForm && (
                     <Card className="mb-6 sm:max-w-2xl mx-auto">
                         <CardHeader>
-                            <CardTitle className="text-lg">Create New Post</CardTitle>
+                            <CardTitle className="text-lg">{t('createPost')}</CardTitle>
                         </CardHeader>
                         <CardContent className="space-y-4">
                             {/* Title */}
                             <div>
                                 <label className="text-sm font-medium text-foreground mb-1 block">
-                                    Title <span className="text-destructive">*</span>
+                                    {t('postTitle')} <span className="text-destructive">*</span>
                                 </label>
                                 <Input
                                     value={createTitle}
@@ -698,7 +702,7 @@ export default function CommunityPage() {
                                         setCreateTitle(e.target.value)
                                         if (formErrors.title) setFormErrors({ ...formErrors, title: '' })
                                     }}
-                                    placeholder="Enter post title"
+                                    placeholder={t('postTitle')}
                                     maxLength={200}
                                     className={formErrors.title ? "border-destructive focus-visible:ring-destructive" : ""}
                                 />
@@ -714,7 +718,7 @@ export default function CommunityPage() {
                             {/* Content */}
                             <div>
                                 <label className="text-sm font-medium text-foreground mb-1 block">
-                                    Content <span className="text-destructive">*</span>
+                                    {t('postContent')} <span className="text-destructive">*</span>
                                 </label>
                                 <textarea
                                     value={createContent}
@@ -722,7 +726,7 @@ export default function CommunityPage() {
                                         setCreateContent(e.target.value)
                                         if (formErrors.content) setFormErrors({ ...formErrors, content: '' })
                                     }}
-                                    placeholder="Write your post content..."
+                                    placeholder={t('postContent')}
                                     maxLength={2000}
                                     rows={5}
                                     className={`w-full min-h-[120px] px-3 py-2 text-sm border bg-background rounded-md focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 resize-none ${formErrors.content ? "border-destructive focus:ring-destructive" : "border-input"
@@ -740,7 +744,7 @@ export default function CommunityPage() {
                             {/* Category */}
                             <div>
                                 <label className="text-sm font-medium text-foreground mb-1 block">
-                                    Category
+                                    {t('selectCategory')}
                                 </label>
                                 <Select value={createCategory} onValueChange={(v) => setCreateCategory(v as PostType)}>
                                     <SelectTrigger>
@@ -772,7 +776,7 @@ export default function CommunityPage() {
                             {/* Image Upload */}
                             <div>
                                 <label className="text-sm font-medium text-foreground mb-1 block">
-                                    Image (optional)
+                                    Image
                                 </label>
                                 <div className="flex items-center gap-3">
                                     <label className="cursor-pointer">
@@ -822,7 +826,7 @@ export default function CommunityPage() {
                                     onClick={handleCancelCreate}
                                     disabled={isCreating}
                                 >
-                                    Cancel
+                                    {tc('cancel')}
                                 </Button>
                                 <Button
                                     onClick={handleCreatePost}
@@ -832,15 +836,15 @@ export default function CommunityPage() {
                                     {isCreating ? (
                                         <>
                                             <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                                            Posting...
+                                            {t('creating')}
                                         </>
                                     ) : createCategory === 'alert' ? (
                                         <>
                                             <AlertTriangle className="h-4 w-4 mr-2" />
-                                            Post Alert
+                                            {t('postAlert')}
                                         </>
                                     ) : (
-                                        'Post'
+                                        t('newPost')
                                     )}
                                 </Button>
                             </div>
@@ -879,18 +883,18 @@ export default function CommunityPage() {
                 ) : error ? (
                     <Card className="p-8 text-center">
                         <p className="text-destructive mb-4">{error}</p>
-                        <Button onClick={fetchPosts}>Try Again</Button>
+                        <Button onClick={fetchPosts}>{tc('retry')}</Button>
                     </Card>
                 ) : posts.length === 0 ? (
                     <Card className="p-8 text-center">
                         <MessageSquare className="h-12 w-12 mx-auto text-muted-foreground mb-4" />
-                        <p className="text-lg font-medium text-foreground mb-2">No posts yet</p>
+                        <p className="text-lg font-medium text-foreground mb-2">{t('noPosts')}</p>
                         <p className="text-muted-foreground mb-4">
-                            Be the first to start a conversation!
+                            {t('noPostsDesc')}
                         </p>
                         <Button onClick={() => setShowCreateForm(true)}>
                             <Plus className="h-4 w-4 mr-2" />
-                            Create Post
+                            {t('createPost')}
                         </Button>
                     </Card>
                 ) : (
@@ -930,7 +934,7 @@ export default function CommunityPage() {
                                         <div className="flex items-center gap-2 flex-shrink-0">
                                             {post.post_type === 'alert' && post.alert_highlight && (
                                                 <Badge className="bg-red-600 text-white animate-pulse text-xs">
-                                                    AFFECTS YOUR AREA
+                                                    {t('affectsYourArea')}
                                                 </Badge>
                                             )}
                                             <Badge className={POST_TYPE_COLORS[post.post_type] || POST_TYPE_COLORS.discussion}>
@@ -951,7 +955,7 @@ export default function CommunityPage() {
                                     <p className="text-muted-foreground mb-4">
                                         {truncateContent(post.content)}
                                         {post.content.length > 200 && (
-                                            <span className="text-primary ml-1">Read more...</span>
+                                            <span className="text-primary ml-1">{tc('viewMore')}...</span>
                                         )}
                                     </p>
 
@@ -1033,7 +1037,7 @@ export default function CommunityPage() {
                                         {selectedPost.is_pinned && (
                                             <Badge className="bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300">
                                                 <Pin className="h-3 w-3 mr-1" />
-                                                Pinned
+                                                {tc('pinned')}
                                             </Badge>
                                         )}
                                         <Badge className={POST_TYPE_COLORS[selectedPost.post_type] || POST_TYPE_COLORS.discussion}>
@@ -1096,15 +1100,15 @@ export default function CommunityPage() {
                                         <Heart
                                             className={`h-5 w-5 ${selectedPost.user_has_liked ? 'fill-current' : ''}`}
                                         />
-                                        <span>{selectedPost.likes_count} upvotes</span>
+                                        <span>{selectedPost.likes_count} {t('likes')}</span>
                                     </button>
                                     <div className="flex items-center gap-1.5 text-sm text-muted-foreground">
                                         <MessageSquare className="h-5 w-5" />
-                                        <span>{selectedPost.replies_count} replies</span>
+                                        <span>{selectedPost.replies_count} {t('replies')}</span>
                                     </div>
                                     <div className="flex items-center gap-1.5 text-sm text-muted-foreground">
                                         <Eye className="h-4 w-4" />
-                                        <span>{selectedPost.view_count || 0} views</span>
+                                        <span>{selectedPost.view_count || 0} {t('views')}</span>
                                     </div>
                                 </div>
 
@@ -1116,7 +1120,7 @@ export default function CommunityPage() {
                                             onClick={() => openEditDialog(selectedPost)}
                                         >
                                             <Edit2 className="h-4 w-4 mr-1" />
-                                            Edit
+                                            {tc('edit')}
                                         </Button>
                                         <Button
                                             variant="destructive"
@@ -1124,7 +1128,7 @@ export default function CommunityPage() {
                                             onClick={() => openDeleteConfirm(selectedPost)}
                                         >
                                             <Trash2 className="h-4 w-4 mr-1" />
-                                            Delete
+                                            {tc('delete')}
                                         </Button>
                                     </div>
                                 )}
@@ -1133,7 +1137,7 @@ export default function CommunityPage() {
                             {/* Replies Section */}
                             <div className="py-4">
                                 <h4 className="font-semibold text-foreground mb-4">
-                                    Replies ({selectedPost.replies_count})
+                                    {t('replies')} ({selectedPost.replies_count})
                                 </h4>
 
                                 {loadingReplies ? (
@@ -1161,7 +1165,7 @@ export default function CommunityPage() {
                                     </div>
                                 ) : (
                                     <p className="text-muted-foreground text-sm mb-4">
-                                        No replies yet. Be the first to reply!
+                                        {tc('noResults')}
                                     </p>
                                 )}
 
@@ -1170,7 +1174,7 @@ export default function CommunityPage() {
                                     <textarea
                                         value={replyContent}
                                         onChange={(e) => setReplyContent(e.target.value)}
-                                        placeholder="Write a reply..."
+                                        placeholder={t('writeReply')}
                                         rows={2}
                                         className="flex-1 px-3 py-2 text-sm border border-input bg-background rounded-md focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 resize-none"
                                     />
@@ -1195,12 +1199,12 @@ export default function CommunityPage() {
             <Dialog open={!!editingPost} onOpenChange={(open) => !open && setEditingPost(null)}>
                 <DialogContent>
                     <DialogHeader>
-                        <DialogTitle>Edit Post</DialogTitle>
+                        <DialogTitle>{t('editPost')}</DialogTitle>
                     </DialogHeader>
                     <div className="space-y-4 py-4">
                         <div>
                             <label className="text-sm font-medium text-foreground mb-1 block">
-                                Title
+                                {t('postTitle')}
                             </label>
                             <Input
                                 value={editTitle}
@@ -1210,7 +1214,7 @@ export default function CommunityPage() {
                         </div>
                         <div>
                             <label className="text-sm font-medium text-foreground mb-1 block">
-                                Content
+                                {t('postContent')}
                             </label>
                             <textarea
                                 value={editContent}
@@ -1227,16 +1231,16 @@ export default function CommunityPage() {
                             onClick={() => setEditingPost(null)}
                             disabled={isEditing}
                         >
-                            Cancel
+                            {tc('cancel')}
                         </Button>
                         <Button onClick={handleSaveEdit} disabled={isEditing}>
                             {isEditing ? (
                                 <>
                                     <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                                    Saving...
+                                    {tc('saving')}
                                 </>
                             ) : (
-                                'Save Changes'
+                                tc('saveChanges')
                             )}
                         </Button>
                     </DialogFooter>
@@ -1247,9 +1251,9 @@ export default function CommunityPage() {
             <Dialog open={!!deleteConfirmPost} onOpenChange={(open) => !open && setDeleteConfirmPost(null)}>
                 <DialogContent>
                     <DialogHeader>
-                        <DialogTitle>Delete Post</DialogTitle>
+                        <DialogTitle>{t('deletePost')}</DialogTitle>
                         <DialogDescription>
-                            Are you sure you want to delete this post? This action cannot be undone.
+                            {tc('confirm')}
                         </DialogDescription>
                     </DialogHeader>
                     <DialogFooter>
@@ -1258,7 +1262,7 @@ export default function CommunityPage() {
                             onClick={() => setDeleteConfirmPost(null)}
                             disabled={isDeleting}
                         >
-                            Cancel
+                            {tc('cancel')}
                         </Button>
                         <Button
                             variant="destructive"
@@ -1268,10 +1272,10 @@ export default function CommunityPage() {
                             {isDeleting ? (
                                 <>
                                         <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                                        Deleting...
+                                        {tc('deleting')}
                                     </>
                                 ) : (
-                                    'Delete'
+                                    tc('delete')
                                 )}
                             </Button>
                         </DialogFooter>

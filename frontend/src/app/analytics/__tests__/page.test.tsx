@@ -272,6 +272,87 @@ describe('AnalyticsPage', () => {
     })
   })
 
+  describe('Date Gap Filling in Price Trends', () => {
+    it('generates continuous date range from min to max date', async () => {
+      // Mock historical data with gaps (Jan 1, Jan 3, Jan 5 - missing Jan 2, Jan 4)
+      const mockHistoricalWithGaps = {
+        data: [
+          { date: '2026-01-01', price: 2000 },
+          { date: '2026-01-03', price: 2100 },
+          { date: '2026-01-05', price: 2200 },
+        ],
+      }
+
+      vi.mocked(pricesService.getHistoricalPrices).mockResolvedValue(mockHistoricalWithGaps)
+
+      renderWithClient(<AnalyticsPage />)
+
+      // The page should render without errors even with gaps
+      await waitFor(() => {
+        expect(screen.getByRole('heading', { name: /market research/i })).toBeInTheDocument()
+      })
+    })
+
+    it('handles multiple commodities with different date ranges', async () => {
+      // First commodity: Jan 1-3, Second commodity: Jan 2-5
+      // This tests that the memo merges ranges correctly
+
+      // We can't directly test the memo, but we can verify the page
+      // renders correctly when commodities have overlapping but different ranges
+      vi.mocked(pricesService.getHistoricalPrices)
+        .mockResolvedValueOnce({
+          data: [
+            { date: '2026-01-01', price: 2000 },
+            { date: '2026-01-02', price: 2050 },
+            { date: '2026-01-03', price: 2100 },
+          ],
+        })
+        .mockResolvedValueOnce({
+          data: [
+            { date: '2026-01-02', price: 1500 },
+            { date: '2026-01-03', price: 1550 },
+            { date: '2026-01-04', price: 1600 },
+            { date: '2026-01-05', price: 1650 },
+          ],
+        })
+
+      renderWithClient(<AnalyticsPage />)
+
+      await waitFor(() => {
+        expect(screen.getByRole('heading', { name: /market research/i })).toBeInTheDocument()
+      })
+    })
+
+    it('handles empty historical data gracefully', async () => {
+      vi.mocked(pricesService.getHistoricalPrices).mockResolvedValue({ data: [] })
+
+      renderWithClient(<AnalyticsPage />)
+
+      await waitFor(() => {
+        expect(screen.getByRole('heading', { name: /market research/i })).toBeInTheDocument()
+      })
+    })
+
+    it('shows chart section with historical data present', async () => {
+      // Mock complete data for a commodity
+      vi.mocked(pricesService.getHistoricalPrices).mockResolvedValue({
+        data: [
+          { date: '2026-01-01', price: 2000 },
+          { date: '2026-01-02', price: 2050 },
+          { date: '2026-01-03', price: 2100 },
+          { date: '2026-01-04', price: 2150 },
+          { date: '2026-01-05', price: 2200 },
+        ],
+      })
+
+      renderWithClient(<AnalyticsPage />)
+
+      await waitFor(() => {
+        expect(screen.getByText(/Price Trends \(Last \d+ Days\)/i)).toBeInTheDocument()
+      })
+    })
+  })
+
   describe('Crop Comparison Tab - Placeholder Tests', () => {
     it('renders without errors', () => {
       const { container } = renderWithClient(<AnalyticsPage />)

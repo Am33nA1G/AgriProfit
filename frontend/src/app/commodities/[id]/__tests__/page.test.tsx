@@ -88,7 +88,7 @@ describe('CommodityDetailPage', () => {
     it('shows loading text while fetching', () => {
       mockGetDetails.mockImplementation(() => new Promise(() => {}))
       render(<CommodityDetailPage />)
-      expect(screen.getByText('Loading commodity details...')).toBeInTheDocument()
+      expect(screen.getByText('Loading...')).toBeInTheDocument()
     })
 
     it('renders within AppLayout during loading', () => {
@@ -193,7 +193,7 @@ describe('CommodityDetailPage', () => {
     it('displays Seasonality title', async () => {
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Seasonality')).toBeInTheDocument()
+        expect(screen.getByText('Seasonal Trends')).toBeInTheDocument()
       })
     })
 
@@ -225,7 +225,7 @@ describe('CommodityDetailPage', () => {
       })
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Seasonality data not available for this commodity')).toBeInTheDocument()
+        expect(screen.getByText('No data available')).toBeInTheDocument()
       })
     })
   })
@@ -263,7 +263,8 @@ describe('CommodityDetailPage', () => {
     it('displays chart title', async () => {
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Historical Prices & Trends')).toBeInTheDocument()
+        const matches = screen.getAllByText('Price History')
+        expect(matches.length).toBeGreaterThanOrEqual(1)
       })
     })
 
@@ -288,7 +289,7 @@ describe('CommodityDetailPage', () => {
       })
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        const matches = screen.getAllByText('No historical data available.')
+        const matches = screen.getAllByText('No data available')
         expect(matches.length).toBeGreaterThanOrEqual(1)
       })
     })
@@ -301,7 +302,7 @@ describe('CommodityDetailPage', () => {
     it('displays Top Mandis title', async () => {
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Top Mandis')).toBeInTheDocument()
+        expect(screen.getByText('Mandi Prices')).toBeInTheDocument()
       })
     })
 
@@ -343,7 +344,7 @@ describe('CommodityDetailPage', () => {
       })
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('No mandi data available.')).toBeInTheDocument()
+        expect(screen.getByText('No data available')).toBeInTheDocument()
       })
     })
   })
@@ -355,14 +356,15 @@ describe('CommodityDetailPage', () => {
     it('displays Recent History title', async () => {
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Recent History')).toBeInTheDocument()
+        const matches = screen.getAllByText('Price History')
+        expect(matches.length).toBeGreaterThanOrEqual(2)
       })
     })
 
     it('displays history description', async () => {
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        expect(screen.getByText('Daily average prices (all mandis)')).toBeInTheDocument()
+        expect(screen.getByText('Price per Quintal')).toBeInTheDocument()
       })
     })
 
@@ -382,7 +384,7 @@ describe('CommodityDetailPage', () => {
       })
       render(<CommodityDetailPage />)
       await waitFor(() => {
-        const matches = screen.getAllByText('No historical data available.')
+        const matches = screen.getAllByText('No data available')
         expect(matches.length).toBeGreaterThanOrEqual(1)
       })
     })

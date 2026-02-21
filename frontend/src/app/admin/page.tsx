@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useTranslations } from 'next-intl';
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { useRouter } from "next/navigation";
 import {
@@ -49,6 +50,8 @@ import { AppLayout } from "@/components/layout/AppLayout";
 import { adminService } from "@/services/admin";
 
 export default function AdminPage() {
+  const t = useTranslations('admin');
+  const tc = useTranslations('common');
   const router = useRouter();
   const queryClient = useQueryClient();
 
@@ -332,9 +335,9 @@ export default function AdminPage() {
         {/* Header */}
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold">Admin Dashboard</h1>
+            <h1 className="text-3xl font-bold">{t('title')}</h1>
             <p className="text-muted-foreground">
-              Manage users, moderate content, and monitor system
+              {t('subtitle')}
             </p>
           </div>
           <Badge variant="destructive" className="gap-1">
@@ -347,7 +350,7 @@ export default function AdminPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <Card>
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Total Users</CardTitle>
+              <CardTitle className="text-sm font-medium">{t('totalUsers')}</CardTitle>
               <Users className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
@@ -355,14 +358,14 @@ export default function AdminPage() {
                 {statsLoading ? "..." : stats?.total_users || 0}
               </div>
               <p className="text-xs text-muted-foreground">
-                Registered farmers
+                {t('farmers')}
               </p>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Total Posts</CardTitle>
+              <CardTitle className="text-sm font-medium">{t('posts')}</CardTitle>
               <MessageSquare className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
@@ -370,14 +373,14 @@ export default function AdminPage() {
                 {statsLoading ? "..." : stats?.total_posts || 0}
               </div>
               <p className="text-xs text-muted-foreground">
-                Community discussions
+                {t('posts')}
               </p>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Active Users</CardTitle>
+              <CardTitle className="text-sm font-medium">{t('activeUsers')}</CardTitle>
               <CheckCircle className="h-4 w-4 text-green-600" />
             </CardHeader>
             <CardContent>
@@ -385,14 +388,14 @@ export default function AdminPage() {
                 {statsLoading ? "..." : (stats?.total_users || 0) - (stats?.banned_users || 0)}
               </div>
               <p className="text-xs text-muted-foreground">
-                Currently active
+                {tc('active')}
               </p>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Banned Users</CardTitle>
+              <CardTitle className="text-sm font-medium">{t('bannedUsers')}</CardTitle>
               <AlertTriangle className="h-4 w-4 text-red-600" />
             </CardHeader>
             <CardContent>
@@ -400,7 +403,7 @@ export default function AdminPage() {
                 {statsLoading ? "..." : stats?.banned_users || 0}
               </div>
               <p className="text-xs text-muted-foreground">
-                Currently banned
+                {t('banned')}
               </p>
             </CardContent>
           </Card>

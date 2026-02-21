@@ -24,6 +24,13 @@ vi.mock('@/services/mandis', () => ({
     getNearby: vi.fn(),
     getWithFilters: vi.fn(),
     getStates: vi.fn(() => Promise.resolve(['Delhi', 'Maharashtra', 'Punjab'])),
+    getDistrictsByState: vi.fn(() => Promise.resolve([])),
+  },
+}))
+
+vi.mock('@/services/auth', () => ({
+  authService: {
+    getCurrentUser: vi.fn(() => Promise.resolve({ district: 'North Delhi', state: 'Delhi' })),
   },
 }))
 
@@ -45,6 +52,17 @@ const mockMandis = [
     distance_km: 50,
     latitude: 28.7041,
     longitude: 77.1025,
+    rating: 4.2,
+    total_reviews: 120,
+    facilities: {
+      weighbridge: true,
+      storage: true,
+      loading_dock: false,
+      cold_storage: false,
+    },
+    top_prices: [
+      { commodity_id: 'c1', commodity_name: 'Tomato', modal_price: 2500, as_of: '2026-02-20' },
+    ],
   },
   {
     id: 'mandi_2',
@@ -55,6 +73,15 @@ const mockMandis = [
     distance_km: 15,
     latitude: 30.9010,
     longitude: 75.8573,
+    rating: 3.8,
+    total_reviews: 85,
+    facilities: {
+      weighbridge: true,
+      storage: false,
+      loading_dock: true,
+      cold_storage: true,
+    },
+    top_prices: [],
   },
   {
     id: 'mandi_3',
@@ -65,31 +92,44 @@ const mockMandis = [
     distance_km: 75,
     latitude: 30.7333,
     longitude: 76.7794,
+    rating: 4.5,
+    total_reviews: 200,
+    facilities: {
+      weighbridge: false,
+      storage: false,
+      loading_dock: false,
+      cold_storage: false,
+    },
+    top_prices: [],
   },
 ]
 
 describe('MandisPage', () => {
   beforeEach(() => {
     vi.clearAllMocks()
-    
+
     // Setup default mock implementation
     ;(mandisService.getAll as any).mockResolvedValue(mockMandis)
     ;(mandisService.getWithFilters as any).mockResolvedValue({
       mandis: mockMandis,
       total: mockMandis.length,
+      page: 1,
+      limit: 50,
+      has_more: false,
     })
+    ;(mandisService.getStates as any).mockResolvedValue(['Delhi', 'Maharashtra', 'Punjab'])
   })
 
   it('renders mandis page heading', () => {
     render(<MandisPage />)
-    
+
     const heading = screen.getByRole('heading', { name: /mandis|markets/i })
     expect(heading).toBeInTheDocument()
   })
 
   it('displays list of mandis', async () => {
     render(<MandisPage />)
-    
+
     await waitFor(() => {
       expect(screen.getByText('Delhi Azadpur')).toBeInTheDocument()
       expect(screen.getByText('Ludhiana Mandi')).toBeInTheDocument()
@@ -98,81 +138,55 @@ describe('MandisPage', () => {
 
   it('shows mandi locations (states/districts)', async () => {
     render(<MandisPage />)
-    
+
     await waitFor(() => {
-      const delhiText = screen.queryByText(/Delhi/i)
-      const punjabText = screen.queryByText(/Punjab/i)
-      
-      // At least one location should be visible
-      expect(delhiText || punjabText).toBeTruthy()
+      expect(screen.getByText('North Delhi')).toBeInTheDocument()
     })
   })
 
   it('displays distance information', async () => {
     render(<MandisPage />)
-    
+
     await waitFor(() => {
-      // Distance should be shown somewhere (50km, 15km, etc.)
       const distanceElements = screen.queryAllByText(/km/i)
       expect(distanceElements.length).toBeGreaterThan(0)
     })
   })
 
+  it('displays facility badges', async () => {
+    render(<MandisPage />)
+
+    await waitFor(() => {
+      // Delhi Azadpur has weighbridge and storage
+      expect(screen.getAllByText(/Weighbridge/i).length).toBeGreaterThan(0)
+      expect(screen.getAllByText(/Storage/i).length).toBeGreaterThan(0)
+    })
+  })
+
   it('has search functionality', () => {
     render(<MandisPage />)
-    
-    const searchInput = screen.queryByPlaceholderText('Search mandis by name, district...')
-    
-    if (searchInput) {
-      expect(searchInput).toBeInTheDocument()
-    } else {
-      // If no search, page should still render
-      expect(screen.getByRole('heading')).toBeInTheDocument()
-    }
+
+    const searchInputs = screen.queryAllByRole('textbox')
+    expect(searchInputs.length).toBeGreaterThan(0)
   })
 
   it('can filter by state', async () => {
     render(<MandisPage />)
     const user = userEvent.setup()
-    
-    // Look for state filter dropdown or buttons
-    const filterElements = screen.queryAllByRole('button')
-    
-    if (filterElements.length > 0) {
-      const stateFilter = filterElements.find(el => 
-        el.textContent?.toLowerCase().includes('state') ||
-        el.textContent?.toLowerCase().includes('delhi') ||
-        el.textContent?.toLowerCase().includes('punjab')
-      )
-      
-      if (stateFilter) {
-        await user.click(stateFilter)
-      }
-    }
-    
-    // Test passes if rendering works
-    expect(true).toBe(true)
-  })
 
-  it('sorts by distance when option selected', async () => {
-    render(<MandisPage />)
-    const user = userEvent.setup()
-    
-    // Look for sort controls
-    const sortButtons = screen.queryAllByRole('button')
-    
-    if (sortButtons.length > 0) {
-      const distanceSort = sortButtons.find(btn => 
-        btn.textContent?.toLowerCase().includes('distance')
-      )
-      
-      if (distanceSort) {
-        await user.click(distanceSort)
-        // Should trigger re-sorting
-      }
-    }
-    
-    expect(true).toBe(true)
+    // Wait for states to load
+    await waitFor(() => {
+      expect(screen.getByText('Delhi')).toBeInTheDocument()
+    })
+
+    // Click on Delhi state button
+    const delhiBtn = screen.getByRole('button', { name: 'Delhi' })
+    await user.click(delhiBtn)
+
+    // Should trigger re-fetch with state filter
+    await waitFor(() => {
+      expect(mandisService.getWithFilters).toHaveBeenCalled()
+    })
   })
 
   it('renders without crashing when data is empty', async () => {
@@ -180,23 +194,25 @@ describe('MandisPage', () => {
     ;(mandisService.getWithFilters as any).mockResolvedValue({
       mandis: [],
       total: 0,
+      page: 1,
+      limit: 50,
+      has_more: false,
     })
-    
+
     render(<MandisPage />)
-    
+
     await waitFor(() => {
-      // Should show empty state or handle gracefully
       expect(document.body).toBeTruthy()
     })
   })
 
   it('handles loading state', () => {
-    ;(mandisService.getAll as any).mockImplementation(
-      () => new Promise(resolve => setTimeout(resolve, 1000))
+    ;(mandisService.getWithFilters as any).mockImplementation(
+      () => new Promise(resolve => setTimeout(resolve, 5000))
     )
-    
+
     render(<MandisPage />)
-    
+
     // Page should render without crashing
     expect(document.body).toBeTruthy()
   })
@@ -204,16 +220,33 @@ describe('MandisPage', () => {
   it('displays mandi details on click', async () => {
     render(<MandisPage />)
     const user = userEvent.setup()
-    
+
     await waitFor(() => {
-      const mandiElement = screen.getByText('Delhi Azadpur')
-      expect(mandiElement).toBeInTheDocument()
+      expect(screen.getByText('Delhi Azadpur')).toBeInTheDocument()
     })
-    
+
     const mandiElement = screen.getByText('Delhi Azadpur')
     await user.click(mandiElement)
-    
-    // Should open detail view or modal
-    // The behavior depends on implementation
+
+    // Should trigger navigation (router.push called)
+  })
+
+  it('shows clear filters button when filters are active', async () => {
+    render(<MandisPage />)
+    const user = userEvent.setup()
+
+    await waitFor(() => {
+      expect(screen.getByText('Delhi')).toBeInTheDocument()
+    })
+
+    // Click state filter to activate it
+    const delhiBtn = screen.getByRole('button', { name: 'Delhi' })
+    await user.click(delhiBtn)
+
+    // Clear All button should appear
+    await waitFor(() => {
+      const clearBtns = screen.queryAllByText(/clear/i)
+      expect(clearBtns.length).toBeGreaterThan(0)
+    })
   })
 })

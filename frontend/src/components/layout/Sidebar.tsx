@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useTranslations } from "next-intl";
 import {
   LayoutDashboard,
   BarChart3,
@@ -20,22 +21,24 @@ import {
 import { cn } from "@/lib/utils";
 
 const menuItems = [
-  { icon: LayoutDashboard, label: "Dashboard", href: "/dashboard" },
-  { icon: ShoppingCart, label: "Commodities", href: "/commodities" },
-  { icon: MapPin, label: "Mandis", href: "/mandis" },
-  { icon: Package, label: "Inventory", href: "/inventory" },
-  { icon: IndianRupee, label: "Sales", href: "/sales" },
-  { icon: Truck, label: "Transport", href: "/transport" },
-  { icon: BarChart3, label: "Market Research", href: "/analytics" },
-  { icon: MessageSquare, label: "Community", href: "/community" },
-  { icon: Bell, label: "Notifications", href: "/notifications" },
+  { icon: LayoutDashboard, labelKey: "dashboard" as const, href: "/dashboard" },
+  { icon: ShoppingCart, labelKey: "commodities" as const, href: "/commodities" },
+  { icon: MapPin, labelKey: "mandis" as const, href: "/mandis" },
+  { icon: Package, labelKey: "inventory" as const, href: "/inventory" },
+  { icon: IndianRupee, labelKey: "sales" as const, href: "/sales" },
+  { icon: Truck, labelKey: "transport" as const, href: "/transport" },
+  { icon: BarChart3, labelKey: "analytics" as const, href: "/analytics" },
+  { icon: MessageSquare, labelKey: "community" as const, href: "/community" },
+  { icon: Bell, labelKey: "notifications" as const, href: "/notifications" },
 ];
 
-const adminMenuItem = { icon: Shield, label: "Admin", href: "/admin" };
+const adminMenuItem = { icon: Shield, labelKey: "admin" as const, href: "/admin" };
 
 export function Sidebar() {
   const pathname = usePathname();
   const [isAdmin, setIsAdmin] = useState(false);
+  const t = useTranslations('sidebar');
+  const tc = useTranslations('common');
 
   useEffect(() => {
     const userData = localStorage.getItem("user");
@@ -53,14 +56,14 @@ export function Sidebar() {
           <div className="p-2 bg-green-100 dark:bg-green-900/30 rounded-lg">
             <Leaf className="h-6 w-6 text-green-600 dark:text-green-400" />
           </div>
-          <span className="text-xl font-bold">AgriProfit</span>
+          <span className="text-xl font-bold">{tc('appName')}</span>
         </Link>
       </div>
 
       {/* Main Navigation */}
       <nav className="flex-1 p-4 space-y-1">
         <div className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2 px-3">
-          Main Menu
+          {t('mainMenu')}
         </div>
         {menuItems.map((item) => {
           const isActive = pathname === item.href || pathname?.startsWith(item.href + "/");
@@ -77,7 +80,7 @@ export function Sidebar() {
               )}
             >
               <Icon className="h-5 w-5" />
-              {item.label}
+              {t(item.labelKey)}
             </Link>
           );
         })}
@@ -86,7 +89,7 @@ export function Sidebar() {
         {isAdmin && (
           <>
             <div className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2 px-3 mt-4">
-              Admin
+              {t('admin')}
             </div>
             <Link
               href={adminMenuItem.href}
@@ -98,7 +101,7 @@ export function Sidebar() {
               )}
             >
               <adminMenuItem.icon className="h-5 w-5" />
-              {adminMenuItem.label}
+              {t(adminMenuItem.labelKey)}
             </Link>
           </>
         )}
