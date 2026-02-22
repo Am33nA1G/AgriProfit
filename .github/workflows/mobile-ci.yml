@@ -1,0 +1,50 @@
+name: Mobile CI
+
+on:
+  push:
+    paths:
+      - 'mobile/**'
+      - '.github/workflows/mobile-ci.yml'
+  pull_request:
+    paths:
+      - 'mobile/**'
+
+jobs:
+  lint-and-test:
+    name: Lint, Type Check & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: mobile/package-lock.json
+
+      - name: Install dependencies
+        working-directory: mobile
+        run: npm ci --legacy-peer-deps
+
+      - name: TypeScript type check
+        working-directory: mobile
+        run: npm run typecheck
+
+      - name: ESLint
+        working-directory: mobile
+        run: npm run lint
+
+      - name: Run tests with coverage
+        working-directory: mobile
+        run: npm run test:coverage -- --ci --passWithNoTests
+
+      - name: Upload coverage report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: coverage-report
+          path: mobile/coverage/
+          retention-days: 7

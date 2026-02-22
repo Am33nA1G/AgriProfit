@@ -283,6 +283,22 @@ def create_sqlite_tables(engine):
             FOREIGN KEY (user_id) REFERENCES users(id)
         )
         """,
+        # Device push tokens table
+        """
+        CREATE TABLE IF NOT EXISTS device_push_tokens (
+            id TEXT PRIMARY KEY,
+            user_id TEXT NOT NULL,
+            expo_push_token VARCHAR(255) NOT NULL,
+            device_platform VARCHAR(10) NOT NULL,
+            device_model VARCHAR(100),
+            app_version VARCHAR(20),
+            is_active BOOLEAN NOT NULL DEFAULT 1,
+            created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+            updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY (user_id) REFERENCES users(id),
+            UNIQUE (user_id, expo_push_token)
+        )
+        """,
     ]
 
     with engine.connect() as conn:
@@ -294,6 +310,7 @@ def create_sqlite_tables(engine):
 def drop_sqlite_tables(engine):
     """Drop all tables in reverse order to handle foreign keys."""
     tables = [
+        "device_push_tokens",
         "refresh_tokens",
         "uploaded_files",
         "community_likes",

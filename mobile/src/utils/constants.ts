@@ -1,0 +1,10 @@
+export const API_TIMEOUT = 15000; // 15 seconds
+export const MAX_RETRY = 3;
+export const OTP_LENGTH = 6;
+export const OTP_EXPIRY_SECONDS = 300; // 5 minutes
+export const OTP_RESEND_COOLDOWN_SECONDS = 30;
+export const PIN_MIN_LENGTH = 4;
+export const PIN_MAX_LENGTH = 6;
+export const OFFLINE_QUEUE_MAX_RETRIES = 5;
+export const CACHE_MAX_SIZE_MB = 100;
+export const CACHE_EVICT_THRESHOLD_MB = 90;

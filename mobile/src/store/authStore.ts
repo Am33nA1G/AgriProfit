@@ -33,7 +33,7 @@ export const useAuthStore = create<AuthState & AuthActions>(set => ({
 
     // Call backend logout (fire-and-forget)
     try {
-      const { default: authApi } = await import('../api/auth');
+      const { authApi } = await import('../api/auth');
       await authApi.logout();
     } catch {
       // Ignore errors - local logout succeeded

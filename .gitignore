@@ -60,3 +60,12 @@ node_modules/
 # Frontend build artifacts
 tsconfig.tsbuildinfo
 *.tsbuildinfo
+
+# Mobile (Expo / React Native)
+mobile/.expo/
+mobile/ios/
+mobile/android/
+mobile/dist/
+mobile/.env
+mobile/.env.local
+mobile/.env.*.local

@@ -1,4 +1,5 @@
 from .user import User
+from .device_push_token import DevicePushToken
 from .otp_request import OTPRequest
 from .mandi import Mandi
 from .commodity import Commodity
@@ -15,6 +16,7 @@ from .login_attempt import LoginAttempt
 
 __all__ = [
     "User",
+    "DevicePushToken",
     "OTPRequest",
     "Mandi",
     "Commodity",

@@ -71,7 +71,17 @@
       "Bash(\"C:\\\\Program Files\\\\PostgreSQL\\\\18\\\\bin\\\\psql.exe\":*)",
       "Bash(head:*)",
       "Bash(git fetch:*)",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(cd /c/Users/alame/Desktop/repo-root && powershell.exe -File \".specify/scripts/powershell/check-prerequisites.ps1\" -Json -RequireTasks -IncludeTasks 2>&1)",
+      "Bash(node --version && npm --version && npx --version 2>&1)",
+      "Bash(cd /c/Users/alame/Desktop/repo-root && npx create-expo-app mobile --template expo-template-blank-typescript --no-install 2>&1)",
+      "Bash(npx expo-doctor:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npm start)",
+      "Bash(npm test:*)",
+      "Bash(npx expo start:*)",
+      "Bash(xargs:*)",
+      "Bash(git commit:*)"
     ]
   }
 }

@@ -21,9 +21,12 @@ from app.notifications.schemas import (
     BulkNotificationCreate,
     VALID_NOTIFICATION_TYPES,
 )
+from app.notifications.push_schemas import PushTokenRegister, PushTokenResponse, PushTokenDeactivate
 from app.notifications.service import NotificationService
 from app.auth.security import get_current_user, require_role
 from app.core.rate_limit import limiter, RATE_LIMIT_READ, RATE_LIMIT_WRITE
+from app.integrations.expo_push import send_push_notifications
+from app.models.device_push_token import DevicePushToken
 
 router = APIRouter(prefix="/notifications", tags=["Notifications"])
 
@@ -50,12 +53,38 @@ async def create_notification(
     service = NotificationService(db)
     try:
         notification = service.create(notification_data)
-        return notification
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=str(e),
         )
+
+    # Fire push notification (fire-and-forget — never fails the endpoint)
+    try:
+        tokens = (
+            db.query(DevicePushToken.expo_push_token)
+            .filter(
+                DevicePushToken.user_id == notification_data.user_id,
+                DevicePushToken.is_active.is_(True),
+            )
+            .all()
+        )
+        token_list = [t.expo_push_token for t in tokens]
+        if token_list:
+            await send_push_notifications(
+                db=db,
+                tokens=token_list,
+                title=notification_data.title,
+                body=notification_data.message,
+                data={
+                    "type": notification_data.notification_type,
+                    "notification_id": str(notification.id),
+                },
+            )
+    except Exception:
+        pass  # Push delivery failure must not affect in-app notification
+
+    return notification
 
 
 @router.post(
@@ -80,12 +109,35 @@ async def create_bulk_notifications(
     service = NotificationService(db)
     try:
         notifications = service.bulk_create(bulk_data)
-        return notifications
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=str(e),
         )
+
+    # Fire push notifications to all target users (fire-and-forget)
+    try:
+        tokens = (
+            db.query(DevicePushToken.expo_push_token)
+            .filter(
+                DevicePushToken.user_id.in_(bulk_data.user_ids),
+                DevicePushToken.is_active.is_(True),
+            )
+            .all()
+        )
+        token_list = [t.expo_push_token for t in tokens]
+        if token_list:
+            await send_push_notifications(
+                db=db,
+                tokens=token_list,
+                title=bulk_data.title,
+                body=bulk_data.message,
+                data={"type": bulk_data.notification_type},
+            )
+    except Exception:
+        pass  # Push delivery failure must not affect in-app notifications
+
+    return notifications
 
 
 @router.get(
@@ -360,3 +412,101 @@ async def delete_notification(
             status_code=status.HTTP_404_NOT_FOUND,
             detail="Notification not found",
         )
+
+
+# ---------------------------------------------------------------------------
+# Push Token Endpoints (FR-023)
+# ---------------------------------------------------------------------------
+
+@router.post(
+    "/push-token",
+    response_model=PushTokenResponse,
+    status_code=status.HTTP_201_CREATED,
+    summary="Register Push Token",
+    description="Register or update an Expo push token for the current device.",
+    responses={
+        200: {"description": "Push token updated"},
+        201: {"description": "Push token registered"},
+        401: {"description": "Not authenticated"},
+        422: {"description": "Invalid token format"},
+    },
+)
+async def register_push_token(
+    token_data: PushTokenRegister,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+) -> PushTokenResponse:
+    """Register or update Expo push token for the current user's device."""
+    from app.models.device_push_token import DevicePushToken
+
+    existing = (
+        db.query(DevicePushToken)
+        .filter(
+            DevicePushToken.user_id == current_user.id,
+            DevicePushToken.expo_push_token == token_data.expo_push_token,
+        )
+        .first()
+    )
+
+    if existing:
+        existing.is_active = True
+        existing.device_platform = token_data.device_platform
+        if token_data.device_model:
+            existing.device_model = token_data.device_model
+        if token_data.app_version:
+            existing.app_version = token_data.app_version
+        db.commit()
+        db.refresh(existing)
+        return PushTokenResponse.model_validate(existing)
+
+    new_token = DevicePushToken(
+        user_id=current_user.id,
+        expo_push_token=token_data.expo_push_token,
+        device_platform=token_data.device_platform,
+        device_model=token_data.device_model,
+        app_version=token_data.app_version,
+        is_active=True,
+    )
+    db.add(new_token)
+    db.commit()
+    db.refresh(new_token)
+    return PushTokenResponse.model_validate(new_token)
+
+
+@router.delete(
+    "/push-token",
+    status_code=status.HTTP_200_OK,
+    summary="Deactivate Push Token",
+    description="Deactivate (soft-delete) a push token on logout.",
+    responses={
+        200: {"description": "Token deactivated"},
+        401: {"description": "Not authenticated"},
+        404: {"description": "Token not found"},
+    },
+)
+async def deactivate_push_token(
+    token_data: PushTokenDeactivate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+) -> dict:
+    """Deactivate push token on logout."""
+    from app.models.device_push_token import DevicePushToken
+
+    token = (
+        db.query(DevicePushToken)
+        .filter(
+            DevicePushToken.user_id == current_user.id,
+            DevicePushToken.expo_push_token == token_data.expo_push_token,
+        )
+        .first()
+    )
+
+    if not token:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Push token not found",
+        )
+
+    token.is_active = False
+    db.commit()
+    return {"message": "Push token deactivated"}

@@ -140,6 +140,12 @@ class User(Base):
         cascade="all, delete-orphan",
     )
 
+    push_tokens: Mapped[list["DevicePushToken"]] = relationship(
+        "DevicePushToken",
+        back_populates="user",
+        cascade="all, delete-orphan",
+    )
+
     __table_args__ = (
         CheckConstraint(
             "phone_number ~ '^[6-9][0-9]{9}$'",
