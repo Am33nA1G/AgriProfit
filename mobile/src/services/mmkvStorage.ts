@@ -79,9 +79,9 @@ export function getCacheSize(): number {
 }
 
 /**
- * Evict non-critical cached data (MMKV only)
+ * Evict non-critical cached data by size (largest first) (MMKV only)
  */
-export function evictOldest(targetSizeMB: number): void {
+export function evictLargest(targetSizeMB: number): void {
   if (!useMMKV || !mmkvInstance) return;
 
   const evictable = mmkvInstance.getAllKeys().filter((k: string) => !PROTECTED_KEYS.has(k));
@@ -115,7 +115,7 @@ export const mmkvStorage: StateStorage = {
     if (useMMKV && mmkvInstance) {
       // Evict before writing if cache is near the limit
       if (getCacheSize() > CACHE_EVICT_THRESHOLD_MB) {
-        evictOldest(CACHE_MAX_SIZE_MB * 0.7);
+        evictLargest(CACHE_MAX_SIZE_MB * 0.7);
       }
       mmkvInstance.set(key, value);
     } else if (AsyncStorage) {
