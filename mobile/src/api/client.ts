@@ -8,7 +8,13 @@ import * as Sentry from '@sentry/react-native';
 import { getAccessToken, getRefreshToken, saveTokens, clearTokens } from '../services/secureStorage';
 import { API_TIMEOUT, MAX_RETRY } from '../utils/constants';
 
-const API_URL = process.env.EXPO_PUBLIC_API_URL ?? 'http://localhost:8000/api/v1';
+const API_URL = process.env.EXPO_PUBLIC_API_URL;
+if (!API_URL) {
+  throw new Error(
+    'EXPO_PUBLIC_API_URL environment variable is required. ' +
+    'Please create a .env file with EXPO_PUBLIC_API_URL=http://your-api-url/api/v1'
+  );
+}
 
 const apiClient: AxiosInstance = axios.create({
   baseURL: API_URL,
