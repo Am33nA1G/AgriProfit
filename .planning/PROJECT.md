@@ -71,7 +71,10 @@ Farmers and traders get the same accurate, real-time market price data on mobile
 | React Native + Expo (keep as-is) | Already chosen; ejection would bloat scope | — Pending |
 | Mirror web design system | Consistency across platforms; no new design needed | — Pending |
 | Consume backend unchanged | Backend is stable and well-tested; mobile must adapt | — Pending |
-| Mobile-native charting (not recharts) | recharts is DOM-based; need RN-compatible chart lib | — Pending |
+| **Chart library: react-native-gifted-charts** | Simpler setup vs victory-native-xl; no Skia peer dependency; production-ready. No substitutions. | — Locked |
+| **Navigation: no rewrite** | Preserve whatever navigation structure exists in mobile; do not migrate to Expo Router or restructure nav unless it's broken. In-scope work is adding/fixing screens, not rearchitecting navigation. | — Locked |
+| **State: no new libraries** | Mobile must use zustand + TanStack React Query (mirroring web). No Redux, Jotai, SWR, or other state libraries to be added. | — Locked |
+| **Design tokens: single theme file** | Extract Tailwind CSS 4 variables from web → `mobile/src/theme/tokens.ts`. Define colors, typography scale, spacing, border radii, shadows. All components reference this file — no raw hex/pixel values in components. | — Locked |
 
 ---
-*Last updated: 2026-02-23 after initialization*
+*Last updated: 2026-02-23 after guardrails added pre-planning*

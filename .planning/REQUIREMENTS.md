@@ -53,7 +53,7 @@ Requirements for mobile parity release. Every web feature available to non-admin
 - [ ] **COMM-01**: Commodities screen shows virtualized FlatList of commodity cards
 - [ ] **COMM-02**: User can search commodities by name with debounced text input
 - [ ] **COMM-03**: Category filters display as horizontally scrollable chips (not flex-wrap row)
-- [ ] **COMM-04**: FlatList loads more items automatically on scroll to end (infinite scroll with onEndReached)
+- [ ] **COMM-04**: Commodity list loads additional pages; pagination style (infinite scroll onEndReached vs load-more button) matches backend API's actual pagination model (offset/limit — verify before implementing)
 - [ ] **COMM-05**: Pull-to-refresh resets and reloads the commodity list
 - [ ] **COMM-06**: Loading state shows activity indicator; error state shows retry button
 - [ ] **COMM-07**: Tapping a commodity navigates to commodity detail screen
@@ -96,7 +96,8 @@ Requirements for mobile parity release. Every web feature available to non-admin
 - [ ] **API-01**: API client configured with correct base URL, /api/v1 prefix, and auth interceptor (attaches JWT)
 - [ ] **API-02**: 401 response from API clears token and redirects to auth screen
 - [ ] **API-03**: TanStack React Query used for all server state (same as web)
-- [ ] **API-04**: Zustand used for client state (same as web); no new state libraries introduced
+- [ ] **API-04**: Zustand used for client state (same as web); no new state libraries introduced (no Redux, Jotai, SWR, or any state management package not already in mobile/package.json)
+- [ ] **UX-07**: A global React Native error boundary wraps the app root and catches unhandled JS errors, showing a recovery UI (restart/retry) instead of a blank crash screen
 
 ---
 
@@ -144,21 +145,71 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| NAV-01–04 | Phase 1 | Pending |
-| AUTH-01–10 | Phase 1 | Pending |
-| DESIGN-01–08 | Phase 1 | Pending |
-| API-01–04 | Phase 1 | Pending |
-| DASH-01–05 | Phase 2 | Pending |
-| COMM-01–12 | Phase 2 | Pending |
-| UX-01–06 | Phase 2 | Pending |
-| MANDI-01–05 | Phase 3 | Pending |
-| MARKET-01–05 | Phase 3 | Pending |
+| NAV-01 | Phase 1 | Pending |
+| NAV-02 | Phase 2 | Pending |
+| NAV-03 | Phase 1 | Pending |
+| NAV-04 | Phase 1 | Pending |
+| AUTH-01 | Phase 2 | Pending |
+| AUTH-02 | Phase 2 | Pending |
+| AUTH-03 | Phase 2 | Pending |
+| AUTH-04 | Phase 2 | Pending |
+| AUTH-05 | Phase 2 | Pending |
+| AUTH-06 | Phase 2 | Pending |
+| AUTH-07 | Phase 2 | Pending |
+| AUTH-08 | Phase 2 | Pending |
+| AUTH-09 | Phase 2 | Pending |
+| AUTH-10 | Phase 2 | Pending |
+| DESIGN-01 | Phase 1 | Pending |
+| DESIGN-02 | Phase 1 | Pending |
+| DESIGN-03 | Phase 1 | Pending |
+| DESIGN-04 | Phase 1 | Pending |
+| DESIGN-05 | Phase 1 | Pending |
+| DESIGN-06 | Phase 1 | Pending |
+| DESIGN-07 | Phase 1 | Pending |
+| DESIGN-08 | Phase 1 | Pending |
+| DASH-01 | Phase 3 | Pending |
+| DASH-02 | Phase 3 | Pending |
+| DASH-03 | Phase 3 | Pending |
+| DASH-04 | Phase 3 | Pending |
+| DASH-05 | Phase 3 | Pending |
+| COMM-01 | Phase 4 | Pending |
+| COMM-02 | Phase 4 | Pending |
+| COMM-03 | Phase 4 | Pending |
+| COMM-04 | Phase 4 | Pending |
+| COMM-05 | Phase 4 | Pending |
+| COMM-06 | Phase 4 | Pending |
+| COMM-07 | Phase 4 | Pending |
+| COMM-08 | Phase 4 | Pending |
+| COMM-09 | Phase 4 | Pending |
+| COMM-10 | Phase 4 | Pending |
+| COMM-11 | Phase 4 | Pending |
+| COMM-12 | Phase 4 | Pending |
+| MANDI-01 | Phase 5 | Pending |
+| MANDI-02 | Phase 5 | Pending |
+| MANDI-03 | Phase 5 | Pending |
+| MANDI-04 | Phase 5 | Pending |
+| MANDI-05 | Phase 5 | Pending |
+| MARKET-01 | Phase 5 | Pending |
+| MARKET-02 | Phase 5 | Pending |
+| MARKET-03 | Phase 5 | Pending |
+| MARKET-04 | Phase 5 | Pending |
+| MARKET-05 | Phase 5 | Pending |
+| UX-01 | Phase 3 | Pending |
+| UX-02 | Phase 3 | Pending |
+| UX-03 | Phase 6 | Pending |
+| UX-04 | Phase 6 | Pending |
+| UX-05 | Phase 4 | Pending |
+| UX-06 | Phase 6 | Pending |
+| API-01 | Phase 1 | Pending |
+| API-02 | Phase 2 | Pending |
+| API-03 | Phase 1 | Pending |
+| API-04 | Phase 1 | Pending |
 
 **Coverage:**
-- v1 requirements: 46 total
-- Mapped to phases: TBD (roadmapper will finalize)
-- Unmapped: TBD
+- v1 requirements: 59 total (NAV: 4, AUTH: 10, DESIGN: 8, DASH: 5, COMM: 12, MANDI: 5, MARKET: 5, UX: 6, API: 4)
+- Mapped to phases: 59/59
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-23*
-*Last updated: 2026-02-23 after initial definition*
+*Last updated: 2026-02-23 — traceability finalized during roadmap creation*
