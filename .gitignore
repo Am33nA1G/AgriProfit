@@ -56,3 +56,6 @@ node_modules/
 agmarknet_daily_10yr.parquet
 
 
+
+# GSD planning docs (local only)
+.planning/
