@@ -167,6 +167,38 @@ def calculate_net_profit(
         "toll_plazas": toll_plazas
     }
 
+def compute_verdict(
+    net_profit: float,
+    gross_revenue: float,
+    profit_per_kg: float,
+    rank: int,
+    total: int,
+) -> tuple[str, str]:
+    """
+    Compute a tiered sell verdict for a farmer.
+
+    Tiers by profit margin (net_profit / gross_revenue):
+      excellent  >= 20%  — strong return
+      good       10–19%  — worth the trip
+      marginal    1–9%   — thin margin
+      not_viable  <= 0%  — loss after costs
+    """
+    if gross_revenue <= 0:
+        return "not_viable", "No revenue data available"
+
+    margin = net_profit / gross_revenue
+    rank_ctx = f" · #{rank} of {total} mandis"
+
+    if margin >= 0.20:
+        return "excellent", f"Strong return — ₹{profit_per_kg:.0f}/kg net{rank_ctx}"
+    elif margin >= 0.10:
+        return "good", f"Worth the trip — ₹{profit_per_kg:.0f}/kg net{rank_ctx}"
+    elif margin > 0:
+        return "marginal", f"Thin margin — ₹{profit_per_kg:.0f}/kg net, weigh carefully{rank_ctx}"
+    else:
+        return "not_viable", f"Loss of ₹{abs(profit_per_kg):.0f}/kg after all costs{rank_ctx}"
+
+
 # =============================================================================
 # DATA ACCESS & INTEGRATION
 # =============================================================================
@@ -316,16 +348,22 @@ def get_source_coordinates(
     return None
 
 
-def compare_mandis(request: TransportCompareRequest, db: Session = None) -> List[MandiComparison]:
+def compare_mandis(
+    request: TransportCompareRequest, db: Session = None
+) -> tuple[List[MandiComparison], bool]:
     """
     Compare transport options to find the most profitable mandi.
 
     1. Resolves commodity name → ID
     2. Fetches mandis with recent prices for that commodity
     3. Resolves source coordinates
-    4. Calculates distance, costs, and net profit for each mandi
-    5. Returns sorted by net profit (highest first), respecting request.limit
+    4. Calls RoutingService for road distances (OSRM with fallback)
+    5. Calculates costs and net profit for each mandi
+    6. Sorts by net profit, assigns rank-aware verdicts
+    7. Returns (comparisons[:limit], has_estimated)
     """
+    from app.transport.routing import routing_service
+
     if not db:
         raise ValueError("Database session required")
 
@@ -356,14 +394,18 @@ def compare_mandis(request: TransportCompareRequest, db: Session = None) -> List
     capacity = VEHICLES[vehicle_type]["capacity_kg"]
     trips = math.ceil(request.quantity_kg / capacity)
 
-    comparisons: list[MandiComparison] = []
+    raw_comparisons: list[MandiComparison] = []
+    has_estimated = False
 
     for m in raw_mandis:
         if not m.get("latitude") or not m.get("longitude") or m.get("price_per_kg") is None:
             continue
 
-        dist = haversine_distance(source_lat, source_lon, m["latitude"], m["longitude"])
-        road_dist = dist * ROAD_DISTANCE_MULTIPLIER
+        road_dist, dist_source = routing_service.get_distance_km(
+            source_lat, source_lon, m["latitude"], m["longitude"], db
+        )
+        if dist_source == "estimated":
+            has_estimated = True
 
         if request.max_distance_km and road_dist > request.max_distance_km:
             continue
@@ -402,10 +444,20 @@ def compare_mandis(request: TransportCompareRequest, db: Session = None) -> List
             vehicle_capacity_kg=capacity,
             trips_required=trips,
             recommendation="recommended" if profit_data["net_profit"] > 0 else "not_recommended",
+            distance_source=dist_source,
+            verdict="not_viable",    # placeholder — assigned in second pass
+            verdict_reason="",       # placeholder — assigned in second pass
         )
-        comparisons.append(comp)
+        raw_comparisons.append(comp)
 
-    comparisons.sort(key=lambda x: x.net_profit, reverse=True)
+    # Sort by net_profit descending, then assign rank-aware verdicts
+    raw_comparisons.sort(key=lambda x: x.net_profit, reverse=True)
+    total = len(raw_comparisons)
+    for rank, comp in enumerate(raw_comparisons, start=1):
+        tier, reason = compute_verdict(
+            comp.net_profit, comp.gross_revenue, comp.profit_per_kg, rank, total
+        )
+        comp.verdict = tier
+        comp.verdict_reason = reason
 
-    # Respect the limit from request
-    return comparisons[: request.limit]
+    return raw_comparisons[: request.limit], has_estimated
