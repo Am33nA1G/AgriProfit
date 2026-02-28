@@ -79,12 +79,43 @@ interface TransportResult {
         commission: number
         additional: number
         total: number
+        driver_bata: number
+        cleaner_bata: number
+        halt_cost: number
+        breakdown_reserve: number
+        permit_cost: number
+        rto_buffer: number
+        loading_hamali: number
+        unloading_hamali: number
     }
     net_profit: number
     roi_percentage: number
     vehicle_type: string
-    arrival_time: string
+    vehicle_capacity_kg: number
     trips: number
+    arrival_time: string
+    verdict: string
+    verdict_reason: string
+    travel_time_hours: number
+    route_type: string
+    is_interstate: boolean
+    diesel_price_used: number
+    spoilage_percent: number
+    weight_loss_percent: number
+    grade_discount_percent: number
+    net_saleable_quantity_kg: number
+    price_volatility_7d: number
+    price_trend: string
+    risk_score: number
+    confidence_score: number
+    stability_class: string
+    stress_test: {
+        worst_case_profit: number
+        break_even_price_per_kg: number
+        margin_of_safety_pct: number
+        verdict_survives_stress: boolean
+    } | null
+    economic_warning: string | null
 }
 
 const VEHICLE_LABELS: Record<string, string> = {
@@ -202,12 +233,38 @@ export default function TransportPage() {
                         commission: Math.round(c.costs?.commission || 0),
                         additional: Math.round(c.costs?.additional_cost || 0),
                         total: Math.round(c.costs?.total_cost || 0),
+                        driver_bata: Math.round(c.costs?.driver_bata || 0),
+                        cleaner_bata: Math.round(c.costs?.cleaner_bata || 0),
+                        halt_cost: Math.round(c.costs?.halt_cost || 0),
+                        breakdown_reserve: Math.round(c.costs?.breakdown_reserve || 0),
+                        permit_cost: Math.round(c.costs?.permit_cost || 0),
+                        rto_buffer: Math.round(c.costs?.rto_buffer || 0),
+                        loading_hamali: Math.round(c.costs?.loading_hamali || 0),
+                        unloading_hamali: Math.round(c.costs?.unloading_hamali || 0),
                     },
                     net_profit: Math.round(c.net_profit || 0),
                     roi_percentage: c.roi_percentage || 0,
                     vehicle_type: c.vehicle_type || "N/A",
-                    arrival_time: arrivalTime,
+                    vehicle_capacity_kg: c.vehicle_capacity_kg || 0,
                     trips: c.trips_required || 1,
+                    arrival_time: arrivalTime,
+                    verdict: c.verdict || "not_viable",
+                    verdict_reason: c.verdict_reason || "",
+                    travel_time_hours: c.travel_time_hours || 0,
+                    route_type: c.route_type || "mixed",
+                    is_interstate: c.is_interstate || false,
+                    diesel_price_used: c.diesel_price_used || 98.0,
+                    spoilage_percent: c.spoilage_percent || 0,
+                    weight_loss_percent: c.weight_loss_percent || 0,
+                    grade_discount_percent: c.grade_discount_percent || 0,
+                    net_saleable_quantity_kg: c.net_saleable_quantity_kg || 0,
+                    price_volatility_7d: c.price_volatility_7d || 0,
+                    price_trend: c.price_trend || "stable",
+                    risk_score: c.risk_score || 0,
+                    confidence_score: c.confidence_score ?? 100,
+                    stability_class: c.stability_class || "stable",
+                    stress_test: c.stress_test || null,
+                    economic_warning: c.economic_warning || null,
                 }
             })
 
