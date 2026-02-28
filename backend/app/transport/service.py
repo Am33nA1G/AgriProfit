@@ -3,7 +3,10 @@ Transport cost calculation service.
 
 Refactored to functional style for direct testing and usage.
 """
+import json
+import logging
 import math
+from datetime import date as _date
 from typing import List, Optional, Dict, Any
 from sqlalchemy.orm import Session
 
@@ -15,6 +18,23 @@ from app.transport.schemas import (
     MandiComparison,
     CostBreakdown,
 )
+from app.transport.economics import (
+    compute_freight,
+    compute_travel_time,
+    VEHICLE_CAPACITY_KG,
+    PRACTICAL_CAPACITY_FACTOR,
+)
+from app.transport.spoilage import compute_spoilage, compute_hamali
+from app.transport.price_analytics import compute_price_analytics
+from app.transport.risk_engine import (
+    compute_risk_score,
+    run_stress_test,
+    apply_behavioral_corrections,
+    check_guardrails,
+)
+from app.core.config import settings
+
+_audit_log = logging.getLogger("transport.audit")
 
 # =============================================================================
 # CONSTANTS (Updated with 2026 Indian Market Rates)
@@ -41,10 +61,8 @@ VEHICLES = {
     },
 }
 
-# Loading/unloading costs (Hamali charges)
-# Source: APMC bylaws and market surveys across states (2025-26)
-# Loading at farm/source: ₹10-25/quintal typical; using ₹15/quintal (conservative mid-range)
-# Unloading at mandi: ₹15-35/quintal typical; using ₹20/quintal (conservative mid-range)
+# Loading/unloading costs (legacy — kept for routes.py /calculate and /vehicles endpoints)
+# Actual hamali costs in compare_mandis() use spoilage.compute_hamali() with regional rates.
 LOADING_COST_PER_KG = 0.15   # ₹15 per quintal
 UNLOADING_COST_PER_KG = 0.20  # ₹20 per quintal
 
@@ -57,8 +75,7 @@ WEIGHBRIDGE_FEE = 80.0  # ₹ per weighing
 PARKING_FEE = 50.0      # ₹ per trip
 DOCUMENTATION_FEE = 70.0  # ₹ per trip (receipts, permits)
 
-# Distance calculations
-ROAD_DISTANCE_MULTIPLIER = 1.4  # Haversine to actual road distance
+# Distance calculations (legacy — used for toll_plazas count in return dict)
 TOLL_PLAZA_SPACING_KM = 60  # Average spacing on highways
 
 import json as _json
@@ -89,10 +106,10 @@ def haversine_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> fl
     return R * c
 
 def select_vehicle(quantity_kg: float) -> VehicleType:
-    """Select appropriate vehicle based on quantity."""
-    if quantity_kg <= VEHICLES[VehicleType.TEMPO]["capacity_kg"]:
+    """Select vehicle type using 90% practical capacity thresholds."""
+    if quantity_kg <= VEHICLE_CAPACITY_KG["TEMPO"] * PRACTICAL_CAPACITY_FACTOR:
         return VehicleType.TEMPO
-    elif quantity_kg <= VEHICLES[VehicleType.TRUCK_SMALL]["capacity_kg"]:
+    elif quantity_kg <= VEHICLE_CAPACITY_KG["TRUCK_SMALL"] * PRACTICAL_CAPACITY_FACTOR:
         return VehicleType.TRUCK_SMALL
     else:
         return VehicleType.TRUCK_LARGE
@@ -106,65 +123,109 @@ def calculate_net_profit(
     price_per_kg: float,
     quantity_kg: float,
     distance_km: float,
-    vehicle_type: VehicleType
-) -> Dict[str, float]:
+    vehicle_type: VehicleType,
+    source_state: str = "Unknown",
+    mandi_state: str = "Unknown",
+    commodity_category: str | None = None,
+    round_trip_hours: float | None = None,
+    volatility_pct: float = 0.0,
+) -> Dict[str, Any]:
     """
-    Calculate detailed cost breakdown and net profit.
+    Calculate detailed cost breakdown and net profit using real Indian freight model.
 
-    Includes: freight, toll, loading, unloading, mandi fees, commission,
-    weighbridge, parking, and documentation charges.
+    Uses economics.py for freight and spoilage.py for perishability.
+    Falls back to legacy model if source/mandi state not provided.
     """
+    diesel_price = getattr(settings, "diesel_price_per_liter", 98.0)
+
+    # Real freight calculation
+    freight = compute_freight(
+        distance_km=distance_km,
+        vehicle_type=vehicle_type,
+        quantity_kg=quantity_kg,
+        source_state=source_state,
+        mandi_state=mandi_state,
+        diesel_price=diesel_price,
+    )
+
+    # Spoilage
+    travel_hours = round_trip_hours if round_trip_hours is not None else freight.round_trip_hours
+    spo = compute_spoilage(commodity_category, travel_hours, volatility_pct)
+    hamali = compute_hamali(mandi_state, quantity_kg)
+
+    # Revenue accounting for spoilage
     gross_revenue = price_per_kg * quantity_kg
+    net_qty = spo.net_saleable_quantity(quantity_kg)
+    net_revenue = net_qty * price_per_kg * (1 - spo.grade_discount_fraction)
 
-    # Calculate trips
-    capacity = VEHICLES[vehicle_type]["capacity_kg"]
-    trips = math.ceil(quantity_kg / capacity)
-
-    # 1. Freight Cost (round-trip)
-    one_way_freight = calculate_transport_cost(distance_km, vehicle_type)
-    total_transport_cost = one_way_freight * trips * 2  # Round trip
-
-    # 2. Toll Charges (both ways)
-    # max(0,...) intentional: trips < 30km use local/district roads with no NH toll plazas
-    toll_plazas = max(0, round(distance_km / TOLL_PLAZA_SPACING_KM))
-    toll_cost_per_trip = toll_plazas * VEHICLES[vehicle_type]["toll_per_plaza"] * 2
-    total_toll_cost = toll_cost_per_trip * trips
-
-    # 3. Loading & Unloading
-    loading_cost = quantity_kg * LOADING_COST_PER_KG
-    unloading_cost = quantity_kg * UNLOADING_COST_PER_KG
-
-    # 4. Mandi Fees & Commission
+    # Mandi fees on gross revenue (standard APMC)
     mandi_fee = gross_revenue * MANDI_FEE_RATE
     commission = gross_revenue * COMMISSION_RATE
 
-    # 5. Additional Charges (per trip)
-    additional_cost = (WEIGHBRIDGE_FEE + PARKING_FEE + DOCUMENTATION_FEE) * trips
+    # Additional fixed costs (weighbridge, parking, docs)
+    additional_cost = (WEIGHBRIDGE_FEE + PARKING_FEE + DOCUMENTATION_FEE) * freight.trips
 
-    # Total Cost
-    total_cost = (total_transport_cost + total_toll_cost + loading_cost +
-                  unloading_cost + mandi_fee + commission + additional_cost)
+    # Total
+    total_cost = (
+        freight.total_freight
+        + hamali.loading_hamali
+        + hamali.unloading_hamali
+        + mandi_fee
+        + commission
+        + additional_cost
+    )
 
-    # Net Profit
-    net_profit = gross_revenue - total_cost
+    net_profit = net_revenue - total_cost
     profit_per_kg = net_profit / quantity_kg if quantity_kg > 0 else 0
     roi_percentage = (net_profit / total_cost * 100) if total_cost > 0 else 0
 
     return {
+        # Revenue
         "gross_revenue": gross_revenue,
-        "transport_cost": total_transport_cost,
-        "toll_cost": total_toll_cost,
-        "loading_cost": loading_cost,
-        "unloading_cost": unloading_cost,
+        "net_revenue": net_revenue,
+        "net_saleable_quantity_kg": net_qty,
+
+        # Freight components (from economics.py)
+        "transport_cost": freight.raw_transport,
+        "toll_cost": freight.toll_cost,
+        "driver_bata": freight.driver_bata,
+        "cleaner_bata": freight.cleaner_bata,
+        "halt_cost": freight.halt_cost,
+        "breakdown_reserve": freight.breakdown_reserve,
+        "permit_cost": freight.permit_cost,
+        "rto_buffer": freight.rto_buffer,
+
+        # Hamali (from spoilage.py)
+        "loading_hamali": hamali.loading_hamali,
+        "unloading_hamali": hamali.unloading_hamali,
+
+        # Legacy fields (kept for backward compat)
+        "loading_cost": hamali.loading_hamali,
+        "unloading_cost": hamali.unloading_hamali,
+
+        # Market costs
         "mandi_fee": mandi_fee,
         "commission": commission,
         "additional_cost": additional_cost,
+
+        # Totals
         "total_cost": total_cost,
         "net_profit": net_profit,
         "profit_per_kg": profit_per_kg,
         "roi_percentage": roi_percentage,
-        "trips": trips,
-        "toll_plazas": toll_plazas
+        "trips": freight.trips,
+        "toll_plazas": max(0, round(distance_km / TOLL_PLAZA_SPACING_KM)),
+
+        # Spoilage
+        "spoilage_percent": round(spo.spoilage_fraction * 100, 2),
+        "weight_loss_percent": round(spo.weight_loss_fraction * 100, 2),
+        "grade_discount_percent": round(spo.grade_discount_fraction * 100, 2),
+
+        # Route metadata
+        "travel_time_hours": freight.round_trip_hours,
+        "route_type": freight.route_type,
+        "is_interstate": freight.is_interstate,
+        "diesel_price_used": freight.diesel_price_used,
     }
 
 def compute_verdict(
@@ -358,30 +419,30 @@ def compare_mandis(
     2. Fetches mandis with recent prices for that commodity
     3. Resolves source coordinates
     4. Calls RoutingService for road distances (OSRM with fallback)
-    5. Calculates costs and net profit for each mandi
-    6. Sorts by net profit, assigns rank-aware verdicts
+    5. Calculates real freight + spoilage + risk per mandi
+    6. Sorts by net profit, assigns rank-aware verdicts with behavioral corrections
     7. Returns (comparisons[:limit], has_estimated)
     """
     from app.transport.routing import routing_service
+    from app.transport.schemas import StressTestResult as PydanticStressTestResult
 
     if not db:
         raise ValueError("Database session required")
 
-    # Resolve commodity name to ID
+    # Resolve commodity
     from app.models import Commodity
     commodity = db.query(Commodity).filter(
         Commodity.name.ilike(request.commodity)
     ).first()
-
     if not commodity:
         raise ValueError(f"Commodity '{request.commodity}' not found")
 
-    # Fetch mandis with recent price data
-    raw_mandis = get_mandis_for_commodity(
-        str(commodity.id), db, limit=200
-    )
+    commodity_category = getattr(commodity, "category", None)
 
-    # Resolve source coordinates
+    # Fetch mandis with prices
+    raw_mandis = get_mandis_for_commodity(str(commodity.id), db, limit=200)
+
+    # Source coords
     coords = get_source_coordinates(request, db)
     if coords is None:
         raise ValueError(
@@ -391,25 +452,25 @@ def compare_mandis(
 
     source_lat, source_lon = coords
     vehicle_type = select_vehicle(request.quantity_kg)
-    capacity = VEHICLES[vehicle_type]["capacity_kg"]
-    trips = math.ceil(request.quantity_kg / capacity)
 
-    # Pre-filter: use cheap haversine to narrow to the top candidates before
-    # making OSRM HTTP calls. This bounds OSRM calls to at most osrm_candidate_limit
-    # regardless of how many mandis exist for the commodity.
-    osrm_candidate_limit = max(request.limit * 3, 30)
+    # Pre-filter: price-sorted top N (hard cap from settings)
+    max_eval = getattr(settings, "transport_max_mandis_evaluated", 25)
+    osrm_candidate_limit = max(request.limit * 3, max_eval)
+
     eligible = [
         m for m in raw_mandis
         if m.get("latitude") and m.get("longitude") and m.get("price_per_kg") is not None
     ]
-    # Sort candidates by price descending (higher price = more likely profitable)
-    # then trim so we only call OSRM for a bounded set
     eligible.sort(key=lambda m: m["price_per_kg"], reverse=True)
     candidates = eligible[:osrm_candidate_limit]
 
-    # Fetch all OSRM distances in parallel — 30 candidates at ~1.5s each would be
-    # 45s sequential; parallel with 10 workers brings it to ceil(30/10)*1.5s ≈ 5s.
-    # DB cache hits return instantly, so warm requests are near-zero cost.
+    # Batch price analytics (one query per mandi — fast with 7-row limit)
+    price_analytics_map: dict[str, Any] = {}
+    for m in candidates:
+        pa = compute_price_analytics(str(commodity.id), m["name"], db)
+        price_analytics_map[m["name"]] = pa
+
+    # Parallel OSRM distances
     from concurrent.futures import ThreadPoolExecutor, as_completed
 
     def _fetch_distance(m: dict) -> tuple[dict, float, str]:
@@ -418,12 +479,16 @@ def compare_mandis(
         )
         return m, dist, src
 
-    distances: dict[str, tuple[float, str]] = {}  # mandi name → (km, source)
+    distances: dict[str, tuple[float, str]] = {}
     with ThreadPoolExecutor(max_workers=10) as pool:
         futures = {pool.submit(_fetch_distance, m): m for m in candidates}
         for future in as_completed(futures):
             m, road_dist, dist_source = future.result()
             distances[m["name"]] = (road_dist, dist_source)
+
+    diesel_price = getattr(settings, "diesel_price_per_liter", 98.0)
+    diesel_baseline = getattr(settings, "diesel_baseline_price", 98.0)
+    weather_risk_weight = getattr(settings, "transport_weather_risk_weight", 0.3)
 
     raw_comparisons: list[MandiComparison] = []
     has_estimated = False
@@ -432,15 +497,62 @@ def compare_mandis(
         road_dist, dist_source = distances[m["name"]]
         if dist_source == "estimated":
             has_estimated = True
-
         if request.max_distance_km and road_dist > request.max_distance_km:
             continue
+
+        pa = price_analytics_map.get(m["name"])
+        volatility_pct = pa.volatility_pct if pa else 0.0
+        confidence_score = pa.confidence_score if pa else 100
+        price_trend = pa.price_trend if pa else "stable"
 
         profit_data = calculate_net_profit(
             price_per_kg=m["price_per_kg"],
             quantity_kg=request.quantity_kg,
             distance_km=road_dist,
-            vehicle_type=vehicle_type
+            vehicle_type=vehicle_type,
+            source_state=request.source_state or "Unknown",
+            mandi_state=m.get("state") or "Unknown",
+            commodity_category=commodity_category,
+            volatility_pct=volatility_pct,
+        )
+
+        # Risk score
+        risk_result = compute_risk_score(
+            volatility_pct=volatility_pct,
+            distance_km=road_dist,
+            spoilage_fraction=profit_data["spoilage_percent"] / 100,
+            diesel_price=diesel_price,
+            diesel_baseline=diesel_baseline,
+            is_interstate=profit_data["is_interstate"],
+            weather_risk_weight=weather_risk_weight,
+        )
+
+        # Stress test
+        stress_raw = run_stress_test(
+            normal_profit=profit_data["net_profit"],
+            normal_net_quantity=profit_data["net_saleable_quantity_kg"],
+            normal_total_cost=profit_data["total_cost"],
+            price_per_kg=m["price_per_kg"],
+            toll_cost=profit_data["toll_cost"],
+            raw_transport=profit_data["transport_cost"],
+            spoilage_fraction=profit_data["spoilage_percent"] / 100,
+            grade_discount_fraction=profit_data["grade_discount_percent"] / 100,
+        )
+        stress = PydanticStressTestResult(
+            worst_case_profit=stress_raw.worst_case_profit,
+            break_even_price_per_kg=stress_raw.break_even_price_per_kg,
+            margin_of_safety_pct=stress_raw.margin_of_safety_pct,
+            verdict_survives_stress=stress_raw.verdict_survives_stress,
+        )
+
+        # Guardrails
+        gross_rev = profit_data["gross_revenue"]
+        economic_warning = check_guardrails(
+            roi_percentage=profit_data["roi_percentage"],
+            net_margin=(profit_data["net_profit"] / gross_rev) if gross_rev > 0 else 0.0,
+            cost_to_gross_ratio=(profit_data["total_cost"] / gross_rev) if gross_rev > 0 else 0.0,
+            profit_per_kg=profit_data["profit_per_kg"],
+            price_per_kg=m["price_per_kg"],
         )
 
         costs = CostBreakdown(
@@ -452,7 +564,17 @@ def compare_mandis(
             commission=round(profit_data["commission"], 2),
             additional_cost=round(profit_data["additional_cost"], 2),
             total_cost=round(profit_data["total_cost"], 2),
+            driver_bata=round(profit_data["driver_bata"], 2),
+            cleaner_bata=round(profit_data["cleaner_bata"], 2),
+            halt_cost=round(profit_data["halt_cost"], 2),
+            breakdown_reserve=round(profit_data["breakdown_reserve"], 2),
+            permit_cost=round(profit_data["permit_cost"], 2),
+            rto_buffer=round(profit_data["rto_buffer"], 2),
+            loading_hamali=round(profit_data["loading_hamali"], 2),
+            unloading_hamali=round(profit_data["unloading_hamali"], 2),
         )
+
+        capacity = VEHICLE_CAPACITY_KG[vehicle_type.value]
 
         comp = MandiComparison(
             mandi_id=m.get("id"),
@@ -467,23 +589,75 @@ def compare_mandis(
             profit_per_kg=round(profit_data["profit_per_kg"], 2),
             roi_percentage=round(profit_data["roi_percentage"], 1),
             vehicle_type=vehicle_type,
-            vehicle_capacity_kg=capacity,
-            trips_required=trips,
+            vehicle_capacity_kg=int(capacity),
+            trips_required=profit_data["trips"],
             recommendation="recommended" if profit_data["net_profit"] > 0 else "not_recommended",
             distance_source=dist_source,
-            verdict="not_viable",    # placeholder — assigned in second pass
-            verdict_reason="",       # placeholder — assigned in second pass
+            verdict="not_viable",
+            verdict_reason="",
+            # New fields
+            travel_time_hours=round(profit_data["travel_time_hours"], 2),
+            route_type=profit_data["route_type"],
+            is_interstate=profit_data["is_interstate"],
+            diesel_price_used=profit_data["diesel_price_used"],
+            spoilage_percent=profit_data["spoilage_percent"],
+            weight_loss_percent=profit_data["weight_loss_percent"],
+            grade_discount_percent=profit_data["grade_discount_percent"],
+            net_saleable_quantity_kg=round(profit_data["net_saleable_quantity_kg"], 1),
+            price_volatility_7d=volatility_pct,
+            price_trend=price_trend,
+            risk_score=risk_result.risk_score,
+            confidence_score=confidence_score,
+            stability_class=risk_result.stability_class,
+            stress_test=stress,
+            economic_warning=economic_warning,
         )
         raw_comparisons.append(comp)
 
-    # Sort by net_profit descending, then assign rank-aware verdicts
+    # Sort by net_profit, assign rank-aware verdicts + behavioral corrections
     raw_comparisons.sort(key=lambda x: x.net_profit, reverse=True)
     total = len(raw_comparisons)
+    best_profit = raw_comparisons[0].net_profit if raw_comparisons else 0.0
+
     for rank, comp in enumerate(raw_comparisons, start=1):
         tier, reason = compute_verdict(
             comp.net_profit, comp.gross_revenue, comp.profit_per_kg, rank, total
         )
-        comp.verdict = tier
+        # Behavioral correction
+        profit_diff_pct = (
+            ((best_profit - comp.net_profit) / abs(best_profit) * 100)
+            if best_profit != 0 else 0.0
+        )
+        adjusted_tier = apply_behavioral_corrections(
+            verdict=tier,
+            distance_km=comp.distance_km,
+            profit_diff_pct=profit_diff_pct,
+            risk_score=comp.risk_score,
+        )
+        # If stress test failed, downgrade verdict one additional tier if still excellent
+        if (comp.stress_test and not comp.stress_test.verdict_survives_stress
+                and adjusted_tier == "excellent"):
+            adjusted_tier = "good"
+
+        comp.verdict = adjusted_tier
         comp.verdict_reason = reason
 
-    return raw_comparisons[: request.limit], has_estimated
+        # Audit log (structured JSON per comparison)
+        pa_entry = price_analytics_map.get(comp.mandi_name)
+        _audit_log.info(json.dumps({
+            "event": "transport_comparison",
+            "mandi_id": str(comp.mandi_id) if comp.mandi_id else None,
+            "mandi_name": comp.mandi_name,
+            "price_date": str(pa_entry.latest_price_date) if pa_entry and pa_entry.latest_price_date else None,
+            "distance_source": comp.distance_source,
+            "diesel_price": diesel_price,
+            "spoilage_pct": comp.spoilage_percent,
+            "volatility_pct": comp.price_volatility_7d,
+            "stress_test_worst_case": comp.stress_test.worst_case_profit if comp.stress_test else None,
+            "risk_score": comp.risk_score,
+            "verdict": comp.verdict,
+            "travel_time_hours": comp.travel_time_hours,
+            "is_interstate": comp.is_interstate,
+        }))
+
+    return raw_comparisons[:request.limit], has_estimated

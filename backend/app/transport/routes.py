@@ -113,7 +113,7 @@ async def calculate_transport_cost(
             "unloading_cost": round(unloading_cost, 2),
             "total_cost": round(total_cost, 2),
         },
-        "estimated_time_hours": round(distance_km / 50, 1),  # Assume 50 km/h average
+        "estimated_time_hours": round(distance_km / 42.0 * 2, 1),  # 42 km/h mixed, round-trip
         "cost_per_km": VEHICLES[vehicle]["cost_per_km"],
     }
 
