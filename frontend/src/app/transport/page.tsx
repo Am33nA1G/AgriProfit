@@ -18,6 +18,7 @@ import { Label } from "@/components/ui/label"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import { Badge } from "@/components/ui/badge"
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs"
 import { commoditiesService } from "@/services/commodities"
 import { transportService } from "@/services/transport"
 
@@ -124,9 +125,17 @@ const VEHICLE_LABELS: Record<string, string> = {
     "TRUCK_LARGE": "HCV",
 }
 
+const VERDICT_CONFIG: Record<string, { label: string; className: string }> = {
+    excellent: { label: "Excellent", className: "bg-green-100 text-green-800 border-green-200" },
+    good:      { label: "Good",      className: "bg-blue-100 text-blue-800 border-blue-200" },
+    marginal:  { label: "Marginal",  className: "bg-amber-100 text-amber-800 border-amber-200" },
+    not_viable:{ label: "Not Viable",className: "bg-red-100 text-red-800 border-red-200" },
+}
+
 export default function TransportPage() {
     const [loading, setLoading] = useState(false)
     const [results, setResults] = useState<TransportResult[] | null>(null)
+    const [activeTab, setActiveTab] = useState("overview")
     const [commoditySearch, setCommoditySearch] = useState("")
     const [isCommodityDropdownOpen, setIsCommodityDropdownOpen] = useState(false)
     const [showCostSettings, setShowCostSettings] = useState(false)
@@ -420,60 +429,248 @@ export default function TransportPage() {
 
                     {results && results.length > 0 && (
                         <>
-                            {/* Best Option Analysis */}
+                            {/* Best Option Analysis — tabbed card */}
                             {results[0].net_profit > 0 && (
-                                <Card className="border-green-500 border-2 bg-green-50/50">
-                                    <CardHeader>
-                                        <CardTitle className="flex items-center gap-2 text-green-700">
-                                            <TrendingUp className="h-5 w-5" />
-                                            Why {results[0].mandi_name} is the Best Option
-                                        </CardTitle>
+                                <Card className="border-green-200 bg-green-50/30">
+                                    <CardHeader className="pb-2">
+                                        <div className="flex items-center justify-between flex-wrap gap-2">
+                                            <CardTitle className="text-lg">
+                                                {results[0].mandi_name}
+                                                <span className="ml-2 text-sm font-normal text-muted-foreground">
+                                                    — Best Option
+                                                </span>
+                                            </CardTitle>
+                                            <Badge
+                                                variant="outline"
+                                                className={VERDICT_CONFIG[results[0].verdict]?.className ?? ""}
+                                            >
+                                                {VERDICT_CONFIG[results[0].verdict]?.label ?? results[0].verdict}
+                                            </Badge>
+                                        </div>
                                     </CardHeader>
                                     <CardContent>
-                                        <div className="space-y-4">
-                                            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                                                <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Highest Net Profit</p>
-                                                    <p className="text-2xl font-bold text-green-600">₹{results[0].net_profit.toLocaleString()}</p>
-                                                    <p className="text-xs text-muted-foreground mt-1">
-                                                        ₹{(results[0].net_profit / parseFloat(form.quantity || "1")).toFixed(0)} per {form.unit}
+                                        {/* Economic warning */}
+                                        {results[0].economic_warning && (
+                                            <div className="mb-4 rounded-md bg-amber-50 border border-amber-200 px-4 py-2 text-sm text-amber-800">
+                                                ⚠ {results[0].economic_warning}
+                                            </div>
+                                        )}
+
+                                        <Tabs value={activeTab} onValueChange={setActiveTab}>
+                                            <TabsList className="mb-4">
+                                                <TabsTrigger value="overview" role="tab">Overview</TabsTrigger>
+                                                <TabsTrigger value="breakdown" role="tab">Cost Breakdown</TabsTrigger>
+                                                <TabsTrigger value="risk" role="tab">Risk &amp; Data</TabsTrigger>
+                                                <TabsTrigger value="spoilage" role="tab">Spoilage</TabsTrigger>
+                                            </TabsList>
+
+                                            {/* ── Tab 1: Overview ── */}
+                                            <TabsContent value="overview">
+                                                {/* Verdict reason */}
+                                                <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
+                                                    {results[0].verdict_reason}
+                                                </p>
+
+                                                {/* Stat chips */}
+                                                <div className="grid grid-cols-3 gap-3 mb-4">
+                                                    <div className="rounded-lg border bg-background p-3 text-center">
+                                                        <p className="text-xs text-muted-foreground">Net Profit</p>
+                                                        <p className="text-xl font-bold text-green-600">₹{results[0].net_profit.toLocaleString()}</p>
+                                                    </div>
+                                                    <div className="rounded-lg border bg-background p-3 text-center">
+                                                        <p className="text-xs text-muted-foreground">Per kg</p>
+                                                        <p className="text-xl font-bold text-green-600">
+                                                            ₹{(results[0].net_profit / parseFloat(form.quantity || "1")).toFixed(0)}
+                                                        </p>
+                                                    </div>
+                                                    <div className="rounded-lg border bg-background p-3 text-center">
+                                                        <p className="text-xs text-muted-foreground">ROI</p>
+                                                        <p className="text-xl font-bold text-blue-600">{results[0].roi_percentage.toFixed(1)}%</p>
+                                                    </div>
+                                                </div>
+
+                                                {/* Route line */}
+                                                <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted-foreground">
+                                                    <span>{results[0].distance_km} km</span>
+                                                    <span>·</span>
+                                                    <span>{results[0].travel_time_hours.toFixed(1)}h round-trip</span>
+                                                    <span>·</span>
+                                                    <span>{VEHICLE_LABELS[results[0].vehicle_type] || results[0].vehicle_type}</span>
+                                                    <span>·</span>
+                                                    <span>{results[0].trips} trip{results[0].trips > 1 ? "s" : ""}</span>
+                                                    {results[0].is_interstate && (
+                                                        <Badge variant="outline" className="text-xs">Interstate</Badge>
+                                                    )}
+                                                </div>
+                                            </TabsContent>
+
+                                            {/* ── Tab 2: Cost Breakdown ── */}
+                                            <TabsContent value="breakdown">
+                                                <div className="space-y-1 text-sm">
+                                                    {/* Revenue rows */}
+                                                    <div className="flex justify-between py-1">
+                                                        <span className="text-muted-foreground">Gross Revenue</span>
+                                                        <span className="font-medium">₹{results[0].gross_revenue.toLocaleString()}</span>
+                                                    </div>
+                                                    {(results[0].spoilage_percent + results[0].grade_discount_percent) > 0 && (
+                                                        <div className="flex justify-between py-1 text-amber-700">
+                                                            <span>− Spoilage &amp; Grade Loss</span>
+                                                            <span>
+                                                                −₹{Math.round(
+                                                                    results[0].gross_revenue *
+                                                                    (results[0].spoilage_percent + results[0].grade_discount_percent) / 100
+                                                                ).toLocaleString()}
+                                                            </span>
+                                                        </div>
+                                                    )}
+                                                    <div className="flex justify-between py-1 border-b mb-1">
+                                                        <span className="text-muted-foreground">Adjusted Revenue</span>
+                                                        <span className="font-medium">
+                                                            ₹{Math.round(
+                                                                results[0].gross_revenue *
+                                                                (1 - (results[0].spoilage_percent + results[0].grade_discount_percent) / 100)
+                                                            ).toLocaleString()}
+                                                        </span>
+                                                    </div>
+
+                                                    {/* Deduction rows — hide zero values */}
+                                                    {[
+                                                        { label: "Freight", value: results[0].costs.freight },
+                                                        { label: "Toll", value: results[0].costs.toll },
+                                                        { label: "Driver Bata", value: results[0].costs.driver_bata },
+                                                        { label: "Cleaner Bata", value: results[0].costs.cleaner_bata },
+                                                        { label: "Night Halt", value: results[0].costs.halt_cost },
+                                                        { label: "Breakdown Reserve", value: results[0].costs.breakdown_reserve },
+                                                        { label: "Interstate Permit", value: results[0].costs.permit_cost },
+                                                        { label: "RTO Buffer", value: results[0].costs.rto_buffer },
+                                                        { label: "Loading Hamali", value: results[0].costs.loading_hamali },
+                                                        { label: "Unloading Hamali", value: results[0].costs.unloading_hamali },
+                                                        { label: "Mandi Fee (1.5%)", value: results[0].costs.mandi_fee },
+                                                        { label: "Commission (2.5%)", value: results[0].costs.commission },
+                                                        { label: "Misc (weighbridge etc.)", value: results[0].costs.additional },
+                                                    ]
+                                                        .filter(({ value }) => value > 0)
+                                                        .map(({ label, value }) => (
+                                                            <div key={label} className="flex justify-between py-1 text-red-700">
+                                                                <span>− {label}</span>
+                                                                <span>−₹{value.toLocaleString()}</span>
+                                                            </div>
+                                                        ))}
+
+                                                    {/* Net profit */}
+                                                    <div className="flex justify-between py-2 border-t mt-1 font-bold">
+                                                        <span>Net Profit</span>
+                                                        <span className={results[0].net_profit >= 0 ? "text-green-600" : "text-red-600"}>
+                                                            ₹{results[0].net_profit.toLocaleString()}
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </TabsContent>
+
+                                            {/* ── Tab 3: Risk & Data ── */}
+                                            <TabsContent value="risk">
+                                                <div className="space-y-4 text-sm">
+                                                    {/* Confidence */}
+                                                    <div>
+                                                        <div className="flex justify-between mb-1">
+                                                            <span className="text-muted-foreground">Data Confidence</span>
+                                                            <span className="font-medium">{results[0].confidence_score}/100</span>
+                                                        </div>
+                                                        <div className="h-2 rounded-full bg-muted overflow-hidden">
+                                                            <div
+                                                                className="h-full bg-blue-500 rounded-full"
+                                                                style={{ width: `${results[0].confidence_score}%` }}
+                                                            />
+                                                        </div>
+                                                    </div>
+
+                                                    {/* Price trend + volatility */}
+                                                    <div className="flex items-center gap-3">
+                                                        <span className="text-muted-foreground">Price Trend</span>
+                                                        <Badge variant="outline" className={
+                                                            results[0].price_trend === "rising"  ? "text-green-700 border-green-300" :
+                                                            results[0].price_trend === "falling" ? "text-red-700 border-red-300" :
+                                                            "text-muted-foreground"
+                                                        }>
+                                                            {results[0].price_trend === "rising"  ? "Rising ↑" :
+                                                             results[0].price_trend === "falling" ? "Falling ↓" : "Stable →"}
+                                                        </Badge>
+                                                        <span className="text-muted-foreground">
+                                                            {results[0].price_volatility_7d.toFixed(1)}% 7-day volatility
+                                                        </span>
+                                                    </div>
+
+                                                    {/* Stability class */}
+                                                    <div className="flex items-center gap-2">
+                                                        <span className="text-muted-foreground">Stability</span>
+                                                        <Badge variant="outline" className={
+                                                            results[0].stability_class === "stable"   ? "text-green-700" :
+                                                            results[0].stability_class === "moderate" ? "text-amber-700" :
+                                                            "text-red-700"
+                                                        }>
+                                                            {results[0].stability_class.charAt(0).toUpperCase() + results[0].stability_class.slice(1)}
+                                                        </Badge>
+                                                    </div>
+
+                                                    {/* Stress test */}
+                                                    {results[0].stress_test && (
+                                                        <div className="rounded-md bg-muted/60 border p-3 space-y-2">
+                                                            <p className="font-medium text-muted-foreground text-xs uppercase tracking-wide">
+                                                                Stress Test (diesel+15%, toll+25%, price−12%, spoilage+5pp)
+                                                            </p>
+                                                            <div className="grid grid-cols-2 gap-2">
+                                                                <div>
+                                                                    <p className="text-xs text-muted-foreground">Worst-Case Profit</p>
+                                                                    <p className={`font-semibold ${results[0].stress_test.worst_case_profit >= 0 ? "text-green-600" : "text-red-600"}`}>
+                                                                        ₹{Math.round(results[0].stress_test.worst_case_profit).toLocaleString()}
+                                                                    </p>
+                                                                </div>
+                                                                <div>
+                                                                    <p className="text-xs text-muted-foreground">Break-Even Price</p>
+                                                                    <p className="font-semibold">₹{results[0].stress_test.break_even_price_per_kg.toFixed(2)}/kg</p>
+                                                                </div>
+                                                                <div>
+                                                                    <p className="text-xs text-muted-foreground">Margin of Safety</p>
+                                                                    <p className="font-semibold">{results[0].stress_test.margin_of_safety_pct.toFixed(1)}%</p>
+                                                                </div>
+                                                                <div>
+                                                                    <p className="text-xs text-muted-foreground">Survives Stress</p>
+                                                                    <p className={`font-semibold ${results[0].stress_test.verdict_survives_stress ? "text-green-600" : "text-red-600"}`}>
+                                                                        {results[0].stress_test.verdict_survives_stress ? "✓ Pass" : "✗ Fail"}
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            </TabsContent>
+
+                                            {/* ── Tab 4: Spoilage ── */}
+                                            <TabsContent value="spoilage">
+                                                <div className="space-y-3 text-sm">
+                                                    {[
+                                                        { label: "Spoilage Loss", value: `${results[0].spoilage_percent.toFixed(1)}%` },
+                                                        { label: "Weight Shrinkage", value: `${results[0].weight_loss_percent.toFixed(1)}%` },
+                                                        { label: "Grade Discount", value: `${results[0].grade_discount_percent.toFixed(1)}%` },
+                                                    ].map(({ label, value }) => (
+                                                        <div key={label} className="flex justify-between py-1 border-b">
+                                                            <span className="text-muted-foreground">{label}</span>
+                                                            <span className="font-medium text-amber-700">{value}</span>
+                                                        </div>
+                                                    ))}
+                                                    <div className="flex justify-between py-1">
+                                                        <span className="text-muted-foreground">Net Saleable Quantity</span>
+                                                        <span className="font-medium">
+                                                            {Math.round(results[0].net_saleable_quantity_kg).toLocaleString()} kg
+                                                            <span className="text-muted-foreground"> of {parseFloat(form.quantity || "0").toLocaleString()} kg</span>
+                                                        </span>
+                                                    </div>
+                                                    <p className="text-xs text-muted-foreground pt-2">
+                                                        Diesel used in calculation: ₹{results[0].diesel_price_used}/L
                                                     </p>
                                                 </div>
-                                                <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Best ROI</p>
-                                                    <p className="text-2xl font-bold text-blue-600">{results[0].roi_percentage.toFixed(1)}%</p>
-                                                    <p className="text-xs text-muted-foreground mt-1">Return on investment</p>
-                                                </div>
-                                                <div className="p-4 bg-white rounded-lg border">
-                                                    <p className="text-sm text-muted-foreground mb-1">Optimal Distance</p>
-                                                    <p className="text-2xl font-bold text-orange-600">{results[0].distance_km} km</p>
-                                                    <p className="text-xs text-muted-foreground mt-1">Est. {results[0].arrival_time} travel time</p>
-                                                </div>
-                                            </div>
-                                            
-                                            <div className="p-4 bg-white rounded-lg border">
-                                                <h4 className="font-semibold mb-2 text-sm">Analysis</h4>
-                                                <ul className="space-y-2 text-sm text-muted-foreground">
-                                                    <li className="flex items-start gap-2">
-                                                        <span className="text-green-600 mt-0.5">✓</span>
-                                                        <span><strong>Highest market price:</strong> ₹{(results[0].price_per_kg * 100).toFixed(2)}/quintal - 
-                                                        {results[1] ? ` ₹${((results[0].price_per_kg - results[1].price_per_kg) * 100).toFixed(2)} more than 2nd best` : ' best price available'}</span>
-                                                    </li>
-                                                    <li className="flex items-start gap-2">
-                                                        <span className="text-green-600 mt-0.5">✓</span>
-                                                        <span><strong>Cost-effective distance:</strong> {results[0].distance_km} km balances transport costs (₹{results[0].costs.total.toLocaleString()}) with price advantage</span>
-                                                    </li>
-                                                    <li className="flex items-start gap-2">
-                                                        <span className="text-green-600 mt-0.5">✓</span>
-                                                        <span><strong>Optimal vehicle:</strong> {VEHICLE_LABELS[results[0].vehicle_type] || results[0].vehicle_type} ({results[0].trips} trip{results[0].trips > 1 ? 's' : ''}) minimizes freight costs</span>
-                                                    </li>
-                                                    <li className="flex items-start gap-2">
-                                                        <span className="text-green-600 mt-0.5">✓</span>
-                                                        <span><strong>Best profit margin:</strong> {results[0].gross_revenue > 0 ? ((results[0].net_profit / results[0].gross_revenue) * 100).toFixed(1) : "0.0"}% of gross revenue (₹{results[0].gross_revenue.toLocaleString()}) retained as profit</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                            </TabsContent>
+                                        </Tabs>
                                     </CardContent>
                                 </Card>
                             )}
@@ -526,61 +723,6 @@ export default function TransportPage() {
                                     </Table>
                                 </div>
 
-                                {/* Cost Breakdown */}
-                                {results.length > 0 && (
-                                    <div className="mt-6 p-4 bg-muted/50 rounded-lg">
-                                        <h4 className="font-semibold mb-3 flex items-center gap-2">
-                                            <TrendingUp className="h-4 w-4" /> Detailed Cost Breakdown (Best Option: {results[0].mandi_name})
-                                        </h4>
-                                        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 text-sm">
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Freight Cost (Round-trip)</p>
-                                                <p className="font-medium">₹{results[0].costs.freight.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">{VEHICLE_LABELS[results[0].vehicle_type] || results[0].vehicle_type} × {results[0].trips} trip(s)</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Toll Charges</p>
-                                                <p className="font-medium">₹{results[0].costs.toll.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">Highway tolls (both ways)</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Loading (Hamali)</p>
-                                                <p className="font-medium">₹{results[0].costs.loading.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">@₹3.5/quintal</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Unloading</p>
-                                                <p className="font-medium">₹{results[0].costs.unloading.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">@₹3/quintal</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Mandi Fee (1.5%)</p>
-                                                <p className="font-medium">₹{results[0].costs.mandi_fee.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">Market fee</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Commission (2.5%)</p>
-                                                <p className="font-medium">₹{results[0].costs.commission.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">Agent commission</p>
-                                            </div>
-                                            <div className="space-y-1">
-                                                <p className="text-muted-foreground">Additional Charges</p>
-                                                <p className="font-medium">₹{results[0].costs.additional.toLocaleString()}</p>
-                                                <p className="text-xs text-muted-foreground">Weighbridge, Parking, Docs</p>
-                                            </div>
-                                            <div className="space-y-1 col-span-2 md:col-span-3 lg:col-span-4 border-t pt-2 mt-2">
-                                                <div className="flex justify-between items-center">
-                                                    <p className="font-semibold">Total Transport Cost</p>
-                                                    <p className="font-bold text-red-600 text-lg">₹{results[0].costs.total.toLocaleString()}</p>
-                                                </div>
-                                                <div className="flex justify-between items-center text-xs text-muted-foreground mt-1">
-                                                    <span>Includes mandi fee (1.5%) and commission (2.5%)</span>
-                                                    <span>ROI: {results[0].roi_percentage.toFixed(1)}%</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                )}
                             </CardContent>
                         </Card>
                         </>
