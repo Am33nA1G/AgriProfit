@@ -311,6 +311,18 @@ class Settings(BaseSettings):
     )
 
     # =========================================================================
+    # ROUTING
+    # =========================================================================
+    osrm_base_url: str = Field(
+        default="http://router.project-osrm.org/route/v1/driving",
+        description="OSRM routing API base URL. Override to use self-hosted instance.",
+    )
+    routing_provider: str = Field(
+        default="osrm",
+        description="Routing provider identifier (osrm, osrm_self_hosted). For metrics/logging.",
+    )
+
+    # =========================================================================
     # MONITORING
     # =========================================================================
     sentry_dsn: Optional[str] = Field(
