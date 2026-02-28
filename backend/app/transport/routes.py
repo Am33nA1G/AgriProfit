@@ -14,7 +14,15 @@ from app.transport.schemas import (
     TransportCompareResponse,
     VehicleType,
 )
-from app.transport.service import compare_mandis, VEHICLES, DISTRICT_COORDINATES
+from app.transport.service import (
+    compare_mandis,
+    VEHICLES,
+    DISTRICT_COORDINATES,
+    LOADING_COST_PER_KG,
+    UNLOADING_COST_PER_KG,
+    MANDI_FEE_RATE,
+    COMMISSION_RATE,
+)
 from pydantic import BaseModel, Field
 
 
@@ -89,8 +97,8 @@ async def calculate_transport_cost(
     
     # Calculate costs
     transport_cost = distance_km * VEHICLES[vehicle]["cost_per_km"] * 2  # Round trip
-    loading_cost = quantity_kg * 0.40
-    unloading_cost = quantity_kg * 0.40
+    loading_cost = quantity_kg * LOADING_COST_PER_KG
+    unloading_cost = quantity_kg * UNLOADING_COST_PER_KG
     total_cost = transport_cost + loading_cost + unloading_cost
     
     return {
@@ -192,19 +200,24 @@ async def compare_transport_options(
         HTTPException 422: Validation error (invalid quantity, coordinates, etc.)
     """
     try:
-        comparisons = compare_mandis(request, db)
-        
+        comparisons, has_estimated = compare_mandis(request, db)
+
         best_mandi = comparisons[0] if comparisons else None
-        
+        distance_note = (
+            "Some distances are estimated — routing service unavailable."
+            if has_estimated else None
+        )
+
         return TransportCompareResponse(
             commodity=request.commodity,
             quantity_kg=request.quantity_kg,
             source_district=request.source_district,
             comparisons=comparisons,
             best_mandi=best_mandi,
-            total_mandis_analyzed=len(comparisons)
+            total_mandis_analyzed=len(comparisons),
+            distance_note=distance_note,
         )
-        
+
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
@@ -266,26 +279,17 @@ async def get_vehicle_options() -> dict:
     """
     return {
         "vehicles": {
-            VehicleType.TEMPO.value: {
-                "capacity_kg": VEHICLES[VehicleType.TEMPO]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TEMPO]["cost_per_km"],
-                "description": "Small vehicle for loads up to 2000 kg",
-            },
-            VehicleType.TRUCK_SMALL.value: {
-                "capacity_kg": VEHICLES[VehicleType.TRUCK_SMALL]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TRUCK_SMALL]["cost_per_km"],
-                "description": "Medium truck for loads up to 5000 kg",
-            },
-            VehicleType.TRUCK_LARGE.value: {
-                "capacity_kg": VEHICLES[VehicleType.TRUCK_LARGE]["capacity_kg"],
-                "cost_per_km": VEHICLES[VehicleType.TRUCK_LARGE]["cost_per_km"],
-                "description": "Large truck for loads up to 10000 kg",
-            },
+            vtype.value: {
+                "capacity_kg": spec["capacity_kg"],
+                "cost_per_km": spec["cost_per_km"],
+                "description": spec["description"],
+            }
+            for vtype, spec in VEHICLES.items()
         },
-        "loading_cost_per_kg": 0.40,
-        "unloading_cost_per_kg": 0.40,
-        "mandi_fee_rate": 0.02,
-        "commission_rate": 0.025,
+        "loading_cost_per_kg": LOADING_COST_PER_KG,
+        "unloading_cost_per_kg": UNLOADING_COST_PER_KG,
+        "mandi_fee_rate": MANDI_FEE_RATE,
+        "commission_rate": COMMISSION_RATE,
     }
 
 
