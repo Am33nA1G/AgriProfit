@@ -99,7 +99,7 @@ Plans:
   3. Every recommendation screen displays "Block-average soil data for [block name] — not a field-level measurement" as a non-dismissable disclaimer
   4. Fertiliser advice is generated per nutrient deficiency: for any nutrient where the low% distribution exceeds a threshold, the UI shows an explicit advice card (e.g. "73% of soils in this block are nitrogen-deficient — consider urea application before planting")
   5. The soil advisor page is labelled "Available for 31 states" and states with no soil coverage are clearly marked as unavailable — a user selecting an uncovered region sees an informative message, not an empty result or an error
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 05-01: Soil suitability seeding script (seed_soil_suitability.py, ICAR thresholds, soil_crop_suitability table, Alembic migration)
@@ -114,11 +114,11 @@ Plans:
   2. Arbitrage results are suppressed when net margin after transport does not exceed the configurable threshold (default: 10% of commodity modal price) — no result is shown rather than a misleading negative-margin result
   3. The dashboard only displays price differentials where both origin and destination have price data recorded within the last 7 days — stale pairs show a "Data last updated [date] — signal may be outdated" warning rather than a current-looking price
   4. Each arbitrage result row shows distance (km), travel time (hours), freight cost (Rs/quintal), spoilage estimate (%), and net expected profit (Rs/quintal) — no result omits any of these fields
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 06-01: Arbitrage FastAPI endpoint (7-day freshness gate, transport engine integration, net-profit ranking)
-- [ ] 06-02: Next.js arbitrage dashboard
+- [ ] 06-01-PLAN.md — Backend arbitrage module (schemas, service, routes, config, main.py wiring, TDD)
+- [ ] 06-02-PLAN.md — Frontend arbitrage dashboard (service client, page, Vitest tests, human verification)
 
 ## Progress
 
