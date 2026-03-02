@@ -64,11 +64,11 @@ Plans:
   2. Monthly rainfall deficit/surplus is available as a feature for all 543 harmonised price-rainfall district pairs (Tier A), with a completeness check that requires >= 10 of 12 months per district per year
   3. Daily temperature and humidity features are available for the ~261 weather-covered districts (Tier A+) and absent — not imputed — for the remaining ~310 districts (Tier B)
   4. All feature functions are pure Python with no database calls inside the function body — they accept DataFrames as input and return DataFrames as output, making them testable without a running database
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 03-01: Price and rainfall feature functions (price_features.py, rainfall_features.py, cutoff_date enforcement, unit tests)
-- [ ] 03-02: Weather and soil feature functions (weather_features.py, soil_features.py, Tier A/B split, unit tests)
+- [ ] 03-01-PLAN.md — Price and rainfall feature functions (price_features.py, rainfall_features.py, cutoff_date enforcement, leakage detection test, unit tests)
+- [ ] 03-02-PLAN.md — Weather and soil feature functions (weather_features.py, soil_features.py, Tier A+/B split, unit tests)
 
 ### Phase 4: XGBoost Forecasting + Serving
 **Goal**: A farmer can request a 7-day or 14-day price forecast for any commodity-district pair, receive a direction signal and predicted range (not a point estimate), and the system serves this from a PostgreSQL cache refreshed nightly — with walk-forward validation RMSE logged before any model enters production.
