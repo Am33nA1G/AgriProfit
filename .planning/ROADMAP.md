@@ -12,7 +12,7 @@ This milestone adds a machine learning intelligence layer to the existing AgriPr
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: District Harmonisation + Price Cleaning** - Build the cross-dataset join foundation that gates all ML features
+- [x] **Phase 1: District Harmonisation + Price Cleaning** - Build the cross-dataset join foundation that gates all ML features (completed 2026-03-02)
 - [ ] **Phase 2: Seasonal Price Calendar** - Deliver the first farmer-facing feature via pure SQL aggregation
 - [ ] **Phase 3: Feature Engineering Foundation** - Build and unit-test all shared feature functions before any model training
 - [ ] **Phase 4: XGBoost Forecasting + Serving** - Train, validate, cache, and serve the price forecasting baseline
@@ -123,7 +123,7 @@ Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. District Harmonisation + Price Cleaning | 1/2 | In Progress|  |
+| 1. District Harmonisation + Price Cleaning | 2/2 | Complete   | 2026-03-02 |
 | 2. Seasonal Price Calendar | 0/2 | Not started | - |
 | 3. Feature Engineering Foundation | 0/2 | Not started | - |
 | 4. XGBoost Forecasting + Serving | 0/3 | Not started | - |

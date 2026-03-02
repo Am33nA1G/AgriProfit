@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-last_updated: "2026-03-02T11:43:03.977Z"
+last_updated: "2026-03-02T11:51:10.942Z"
 progress:
   total_phases: 1
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 2
-  completed_plans: 1
+  completed_plans: 2
 ---
 
 # Project State
@@ -22,29 +22,29 @@ See: .planning/PROJECT.md (updated 2026-03-01)
 
 ## Current Position
 
-Phase: 1 of 6 (District Harmonisation + Price Cleaning)
-Plan: 1 of 2 in current phase
-Status: In progress
-Last activity: 2026-03-02 — Plan 01-01 complete: district_name_map table seeded, 557/571 price districts joinable to rainfall (97.5%)
+Phase: 1 of 6 (District Harmonisation + Price Cleaning) — COMPLETE
+Plan: 2 of 2 in current phase — COMPLETE
+Status: Phase 1 complete — ready for Phase 2 (Seasonal Price Calendar)
+Last activity: 2026-03-02 — Plan 01-02 complete: price_bounds seeded (314 commodities), 204K outliers flagged, Guar/Cumin/Bajra corruption captured
 
-Progress: [█░░░░░░░░░] 8%
+Progress: [██░░░░░░░░] 17%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 17 min
-- Total execution time: 0.28 hours
+- Total plans completed: 2
+- Average duration: 10.5 min
+- Total execution time: 0.35 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| Phase 01 | 1/2 | 17 min | 17 min |
+| Phase 01 | 2/2 | 21 min | 10.5 min |
 
 **Recent Trend:**
-- Last 5 plans: 17 min (01-01)
-- Trend: -
+- Last 5 plans: 17 min (01-01), 4 min (01-02)
+- Trend: Faster (parquet loading dominated 01-02 script time, not coding)
 
 *Updated after each plan completion*
 
@@ -64,6 +64,9 @@ Recent decisions affecting current work:
 - [Phase 01]: rapidfuzz_utils.default_process processor required for district matching: WRatio without processor gives ~20/100 for case-mismatched district names (BANKA vs Banka)
 - [Phase 01]: Weather data matched globally (no state column): weather CSV has district column only; global matching with state assigned from canonical match
 - [Phase 01]: Coverage metric is price-district-centric: 557/571 price districts have rainfall match (97.5%) vs 90.7% from rainfall perspective
+- [Phase 01]: pandas 2.x groupby loop pattern: explicit for-loop over groupby() produces correct dict-of-rows DataFrame; groupby().apply(fn) returning pd.Series creates MultiIndex in pandas 2.x
+- [Phase 01]: IQR multiplier 3x confirmed as planned: captures unit-corruption outliers without capping legitimate premium commodity prices
+- [Phase 01]: price_history.modal_price never modified: bounds stored in price_bounds table; downstream clips at read time preserving full audit trail
 
 ### Pending Todos
 
@@ -78,5 +81,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-02
-Stopped at: Completed 01-01-PLAN.md (district harmonisation foundation — district_name_map seeded, 97.5% rainfall coverage)
+Stopped at: Completed 01-02-PLAN.md (price cleaning — price_bounds seeded, 314 commodities, 204K outliers flagged, Guar/Cumin/Bajra corruption captured)
 Resume file: None
