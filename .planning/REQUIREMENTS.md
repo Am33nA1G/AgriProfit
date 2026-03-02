@@ -10,7 +10,7 @@
 - [x] **HARM-01**: System has a `district_name_map` table mapping all district name variants across the 4 datasets (prices, rainfall, weather, soil) with state-scoped fuzzy matching
 - [x] **HARM-02**: Price data is winsorised per commodity — corrupt outlier rows (CV > 500%) are flagged and capped before any feature or model computation
 - [x] **HARM-03**: Every price record can be joined to its rainfall district equivalent with >= 95% coverage (matching the 543/571 confirmed pairs)
-- [x] **HARM-04**: Every price record can be joined to its soil block equivalent for the 31 states with soil coverage
+- [x] **HARM-04**: Every price record can be joined to its soil block equivalent for the 21 states with soil coverage in the local dataset (data/soil-health/nutrients/ contains 21 states; harmonise_districts.py matched 20 of 21 at 95.2%)
 
 ### Seasonal Price Calendar
 
