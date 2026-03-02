@@ -80,12 +80,14 @@ Plans:
   3. The `/api/v1/forecast/{commodity}/{district}` endpoint returns a response that includes direction (up/down/flat), predicted range (low/mid/high), a confidence colour (Green/Yellow/Red), and a tier label ("full model" or "seasonal average fallback")
   4. Forecast responses are served from the `forecast_cache` table on cache hit (target: <= 50ms); the APScheduler nightly job at 03:00 regenerates stale forecasts and incorporates new price data since the last refresh
   5. Model files are loaded into `app.state.models` via LRU cache at FastAPI startup — no model is loaded at startup for every commodity; models are lazy-loaded on first request and evicted when memory limit is exceeded
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 04-01: XGBoost training script (train_xgboost.py, walk-forward validation, model_training_log table, Alembic migration)
-- [ ] 04-02: ML serving infrastructure (loader.py, forecast_cache table, APScheduler extension, Alembic migration)
-- [ ] 04-03: FastAPI forecast endpoint + Next.js price chart with forecast overlay
+- [ ] 04-01-PLAN.md — DB schema + ML dependencies (model_training_log migration, forecast_cache migration, SQLAlchemy ORM models, requirements.txt)
+- [ ] 04-02-PLAN.md — XGBoost training script TDD (train_xgboost.py, walk-forward validation gate, test_ml_training.py)
+- [ ] 04-03-PLAN.md — ML serving core (loader.py LRU cache, ForecastService, ForecastResponse schema, test_ml_loader.py, test_forecast_service.py)
+- [ ] 04-04-PLAN.md — FastAPI wiring + scheduler (forecast/routes.py, main.py router + app.state, scheduler nightly job, test_forecast_api.py, test_scheduler.py)
+- [ ] 04-05-PLAN.md — Next.js forecast UI (forecast page, ForecastChart component, direction/confidence badges, fallback banner)
 
 ### Phase 5: Soil Crop Advisor
 **Goal**: A farmer can select a state, district, and block and receive a ranked list of suitable crops based on the block's NPK/pH soil deficiency profile, with fertiliser advice per nutrient deficit and an explicit disclaimer that the data is a block-level distribution, not a field-level measurement.
@@ -128,6 +130,6 @@ Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 
 | 1. District Harmonisation + Price Cleaning | 3/3 | Complete   | 2026-03-02 |
 | 2. Seasonal Price Calendar | 0/2 | Not started | - |
 | 3. Feature Engineering Foundation | 0/2 | Not started | - |
-| 4. XGBoost Forecasting + Serving | 0/3 | Not started | - |
+| 4. XGBoost Forecasting + Serving | 0/5 | Not started | - |
 | 5. Soil Crop Advisor | 0/2 | Not started | - |
 | 6. Mandi Arbitrage Dashboard | 0/2 | Not started | - |
