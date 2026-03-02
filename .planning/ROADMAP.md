@@ -1,8 +1,8 @@
-# Roadmap: AgriProfit Mobile
+# Roadmap: AgriProfit ML Intelligence Platform
 
 ## Overview
 
-Six phases deliver complete mobile parity with the AgriProfit web app. Foundation comes first — design tokens, navigation structure, API client, and state libraries must exist before any screen can be built. Authentication gates all screens so it ships next. The three feature screen groups (Dashboard, Commodities, Mandis/Market) build sequentially on authenticated navigation. Cross-cutting UX polish (haptics, toasts, profile) completes the release.
+This milestone adds a machine learning intelligence layer to the existing AgriProfit platform. Work proceeds in strict dependency order: district harmonisation unlocks every cross-dataset join, the seasonal calendar validates harmonisation with zero model risk, feature engineering builds the shared code path for all models, XGBoost forecasting establishes the serving baseline, and then the soil advisor and mandi arbitrage dashboard deliver the remaining farmer-facing features. LSTM forecasting is v2 — it builds on the XGBoost baseline that must be validated first.
 
 ## Phases
 
@@ -12,122 +12,120 @@ Six phases deliver complete mobile parity with the AgriProfit web app. Foundatio
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation** - Design tokens, navigation structure, API client, and state libraries
-- [ ] **Phase 2: Authentication** - OTP auth flow with SecureStore session management
-- [ ] **Phase 3: Dashboard** - First authenticated screen with stat cards and data lists
-- [ ] **Phase 4: Commodities** - List browsing, search/filter, and price history charts
-- [ ] **Phase 5: Mandis and Market Prices** - Mandi search/filter and market price views
-- [ ] **Phase 6: UX Polish** - Toasts, haptics, profile screen, and cross-cutting patterns
+- [ ] **Phase 1: District Harmonisation + Price Cleaning** - Build the cross-dataset join foundation that gates all ML features
+- [ ] **Phase 2: Seasonal Price Calendar** - Deliver the first farmer-facing feature via pure SQL aggregation
+- [ ] **Phase 3: Feature Engineering Foundation** - Build and unit-test all shared feature functions before any model training
+- [ ] **Phase 4: XGBoost Forecasting + Serving** - Train, validate, cache, and serve the price forecasting baseline
+- [ ] **Phase 5: Soil Crop Advisor** - Map block soil profiles to crop recommendations using ICAR rule-based lookup
+- [ ] **Phase 6: Mandi Arbitrage Dashboard** - Surface net-profit-ranked arbitrage signals using the existing transport engine
 
 ## Phase Details
 
-### Phase 1: Foundation
-**Goal**: The app has a navigable shell, a single source of design truth, and a configured API+state layer — every subsequent screen can be built without re-litigating infrastructure.
+### Phase 1: District Harmonisation + Price Cleaning
+**Goal**: Every dataset can be joined by district with verified coverage, and every price series is free of unit-corruption outliers before any feature or model computation touches the data.
 **Depends on**: Nothing (first phase)
-**Requirements**: NAV-01, NAV-03, NAV-04, DESIGN-01, DESIGN-02, DESIGN-03, DESIGN-04, DESIGN-05, DESIGN-06, DESIGN-07, DESIGN-08, API-01, API-03, API-04, UX-07
+**Requirements**: HARM-01, HARM-02, HARM-03, HARM-04
 **Success Criteria** (what must be TRUE):
-  1. The app launches and shows bottom tabs with 5 tabs (Dashboard, Commodities, Mandis, Analytics, Profile) navigable by tapping
-  2. Hardware back button on Android and header back button navigate correctly within stack screens
-  3. Tab switches do not trigger unnecessary re-fetches (TanStack Query cache respected across tab focus)
-  4. A single `tokens.ts` file defines all colors, typography, spacing, radii, and shadows — no raw hex or pixel values exist outside it
-  5. API client sends requests to the correct base URL with `/api/v1` prefix and attaches JWT auth headers; TanStack Query and Zustand are available to all screens
-  6. A global error boundary wraps the app root and renders a recovery UI on unhandled JS errors — no blank crash screens
-  7. No new state management libraries are introduced; only zustand and TanStack Query are used
+  1. The `district_name_map` table exists and maps all district name variants across prices, rainfall, weather, and soil datasets using state-scoped RapidFuzz matching — global fuzzy matching is not used anywhere
+  2. Price-to-rainfall district join achieves >= 95% coverage (>= 543 of 571 price districts matched), verifiable by running the join and counting matched rows
+  3. Price-to-soil district join covers all 31 states with soil data, verifiable by querying matched block records per state
+  4. Every price series has winsorisation bounds stored in a `price_bounds` table; outlier rows with CV > 500% are flagged and capped, not silently included in downstream computation
+  5. A spot-check of 20 manually selected district matches (covering Hindi/English name variants) confirms correct state-scoped assignment before Phase 2 begins
 **Plans**: TBD
 
 Plans:
-- [ ] 01-01: Design tokens (tokens.ts) — extract Tailwind CSS 4 variables from web into single theme file
-- [ ] 01-02: Navigation shell — bottom tab navigator with 5 tabs and stack navigators per tab
-- [ ] 01-03: API client and state setup — axios client, TanStack Query provider, Zustand store
-- [ ] 01-04: Global error boundary — React Native error boundary wrapping app root with recovery UI
+- [ ] 01-01: District harmonisation script (RapidFuzz state-scoped matching, district_name_map table, Alembic migration)
+- [ ] 01-02: Price cleaning pipeline (winsorisation per commodity, price_bounds table, outlier flagging)
 
-### Phase 2: Authentication
-**Goal**: Users can authenticate with their phone number via OTP and remain logged in across app restarts until their token expires; all protected screens are correctly guarded.
+### Phase 2: Seasonal Price Calendar
+**Goal**: A farmer can select any commodity and state and see a monthly sell-window chart built from 10 years of price history, with best and worst months clearly labelled.
 **Depends on**: Phase 1
-**Requirements**: AUTH-01, AUTH-02, AUTH-03, AUTH-04, AUTH-05, AUTH-06, AUTH-07, AUTH-08, AUTH-09, AUTH-10, NAV-02, API-02
+**Requirements**: SEAS-01, SEAS-02, SEAS-03, SEAS-04, UI-01, UI-05
 **Success Criteria** (what must be TRUE):
-  1. User can enter +91 phone number, receive OTP, enter it in 6 individual digit boxes, and reach the authenticated app
-  2. OTP auto-submits when the 6th digit is entered; resend countdown timer displays correctly
-  3. OTP SMS autofill works on iOS via autoComplete="one-time-code"; Android uses SMS Retriever hash
-  4. JWT token is stored in expo-secure-store; user remains logged in across app restarts
-  5. Unauthenticated users tapping any protected tab are redirected to the auth screen; 401 API response clears token and redirects; logout clears token
+  1. User can open the seasonal calendar page, select any of the 314 commodities and any state, and see a monthly price chart (median +/- IQR) without triggering a full-table scan on the 25M row price table
+  2. The chart labels the best two months to sell and the worst month to avoid, derived from the 10-year aggregate — not from ad-hoc computation at request time
+  3. Commodities or states with fewer than 3 years of monthly data display a visible low-confidence warning in the UI, not a chart that looks identical to high-confidence data
+  4. The `seasonal_price_stats` table is populated by a training script that reads from the price parquet, not from live DB queries, and the endpoint reads only from that pre-aggregated table
+  5. Known seasonal patterns are spot-checked before release: onion peaks Oct-Nov, tomato peaks Jul in West Bengal or Feb-Mar in Karnataka — a mismatch signals a data quality problem, not a model problem
 **Plans**: TBD
 
 Plans:
-- [ ] 02-01: Phone entry screen — TextInput with +91 prefix, keyboard-aware layout, OTP request
-- [ ] 02-02: OTP entry screen — 6-box digit input, auto-submit, resend timer, SMS autofill
-- [ ] 02-03: Auth state and navigation guards — SecureStore JWT, session persistence, protected route redirect, logout
+- [ ] 02-01: Seasonal aggregation script + seasonal_price_stats table (Alembic migration, train_seasonal.py)
+- [ ] 02-02: FastAPI seasonal endpoint + Next.js calendar dashboard
 
-### Phase 3: Dashboard
-**Goal**: After logging in, users land on a working Dashboard screen that shows current platform stats and data lists, with correct loading/error/refresh handling.
-**Depends on**: Phase 2
-**Requirements**: DASH-01, DASH-02, DASH-03, DASH-04, DASH-05, UX-01, UX-02
+### Phase 3: Feature Engineering Foundation
+**Goal**: All shared feature functions (price lags, rolling stats, rainfall deficit, weather, soil) exist as pure Python with unit tests and enforced cutoff_date parameters, with no look-ahead leakage possible.
+**Depends on**: Phase 1
+**Requirements**: FEAT-01, FEAT-02, FEAT-03, FEAT-04
 **Success Criteria** (what must be TRUE):
-  1. Dashboard shows stat cards (total commodities, total mandis, data freshness indicator) loaded from the API
-  2. Dashboard shows top commodities list with current prices and top mandis list
-  3. An activity indicator displays while data loads; an error state with retry button displays on API failure
-  4. Pull-to-refresh reloads all dashboard data
+  1. Lag features (7d, 14d, 30d, 90d) and rolling statistics (7d/30d mean, std) can be computed for any commodity-district series with a `cutoff_date` parameter that structurally prevents look-ahead — a leakage detection test (train on years 1-7, assert test-period feature values are not visible in training data) passes in CI
+  2. Monthly rainfall deficit/surplus is available as a feature for all 543 harmonised price-rainfall district pairs (Tier A), with a completeness check that requires >= 10 of 12 months per district per year
+  3. Daily temperature and humidity features are available for the ~261 weather-covered districts (Tier A+) and absent — not imputed — for the remaining ~310 districts (Tier B)
+  4. All feature functions are pure Python with no database calls inside the function body — they accept DataFrames as input and return DataFrames as output, making them testable without a running database
 **Plans**: TBD
 
 Plans:
-- [ ] 03-01: Dashboard screen — stat cards, top commodities list, top mandis list
-- [ ] 03-02: Loading, error, and pull-to-refresh states on dashboard
+- [ ] 03-01: Price and rainfall feature functions (price_features.py, rainfall_features.py, cutoff_date enforcement, unit tests)
+- [ ] 03-02: Weather and soil feature functions (weather_features.py, soil_features.py, Tier A/B split, unit tests)
 
-### Phase 4: Commodities
-**Goal**: Users can browse, search, and filter the full commodity list and navigate to any commodity's detail screen to view price history charts.
-**Depends on**: Phase 3
-**Requirements**: COMM-01, COMM-02, COMM-03, COMM-04, COMM-05, COMM-06, COMM-07, COMM-08, COMM-09, COMM-10, COMM-11, COMM-12, UX-05
+### Phase 4: XGBoost Forecasting + Serving
+**Goal**: A farmer can request a 7-day or 14-day price forecast for any commodity-district pair, receive a direction signal and predicted range (not a point estimate), and the system serves this from a PostgreSQL cache refreshed nightly — with walk-forward validation RMSE logged before any model enters production.
+**Depends on**: Phase 3 (feature functions), Phase 1 (harmonised districts)
+**Requirements**: FORE-01, FORE-02, FORE-03, FORE-04, FORE-05, FORE-06, SERV-01, SERV-02, SERV-03, SERV-04, UI-02, UI-05
 **Success Criteria** (what must be TRUE):
-  1. Commodities screen shows a virtualized FlatList of commodity cards with pagination (implementation — onEndReached infinite scroll or load-more button — matches backend API's actual offset/limit model, confirmed before building)
-  2. Search input debounces and filters the list; category filters render as a horizontally scrollable chip row
-  3. Pull-to-refresh resets and reloads the list; loading state shows activity indicator; error state shows retry button
-  4. Tapping a commodity navigates to its detail screen showing name, category, and current min/max/modal prices
-  5. Price history line chart (react-native-gifted-charts) renders with 7/30/90-day duration selector, correct ₹ axis labels, and handles loading/error states
+  1. One XGBoost model exists per commodity group using ForecasterRecursiveMultiSeries, trained only on commodity-district pairs with >= 730 days of data; pairs below this threshold are routed to the seasonal calendar fallback, not served an ML forecast
+  2. Every model's 4-fold walk-forward RMSE and MAPE are logged to a `model_training_log` table before the model file is written to `ml/artifacts/` — no model reaches serving without a logged validation record
+  3. The `/api/v1/forecast/{commodity}/{district}` endpoint returns a response that includes direction (up/down/flat), predicted range (low/mid/high), a confidence colour (Green/Yellow/Red), and a tier label ("full model" or "seasonal average fallback")
+  4. Forecast responses are served from the `forecast_cache` table on cache hit (target: <= 50ms); the APScheduler nightly job at 03:00 regenerates stale forecasts and incorporates new price data since the last refresh
+  5. Model files are loaded into `app.state.models` via LRU cache at FastAPI startup — no model is loaded at startup for every commodity; models are lazy-loaded on first request and evicted when memory limit is exceeded
 **Plans**: TBD
 
 Plans:
-- [ ] 04-01: Commodities list — FlatList, search, horizontal category chips, pagination (verify API model first), pull-to-refresh
-- [ ] 04-02: Commodity detail — price info display, gifted-charts line chart, duration selector
+- [ ] 04-01: XGBoost training script (train_xgboost.py, walk-forward validation, model_training_log table, Alembic migration)
+- [ ] 04-02: ML serving infrastructure (loader.py, forecast_cache table, APScheduler extension, Alembic migration)
+- [ ] 04-03: FastAPI forecast endpoint + Next.js price chart with forecast overlay
 
-### Phase 5: Mandis and Market Prices
-**Goal**: Users can browse and filter mandis by name/state/district, and view current and historical market price data in a tabbed interface with charts.
-**Depends on**: Phase 4
-**Requirements**: MANDI-01, MANDI-02, MANDI-03, MANDI-04, MANDI-05, MARKET-01, MARKET-02, MARKET-03, MARKET-04, MARKET-05
+### Phase 5: Soil Crop Advisor
+**Goal**: A farmer can select a state, district, and block and receive a ranked list of suitable crops based on the block's NPK/pH soil deficiency profile, with fertiliser advice per nutrient deficit and an explicit disclaimer that the data is a block-level distribution, not a field-level measurement.
+**Depends on**: Phase 1 (district-to-block harmonisation), Phase 4 (complete — seasonal demand signal available for crop ranking)
+**Requirements**: SOIL-01, SOIL-02, SOIL-03, SOIL-04, SOIL-05, UI-03, UI-05
 **Success Criteria** (what must be TRUE):
-  1. Mandis screen shows a virtualized FlatList searchable by name and filterable by state and district
-  2. Pull-to-refresh reloads the mandi list; loading and error states with retry are present
-  3. Market prices screen has a tab UI with Current Prices tab (price list with commodity, mandi, min/max/modal) and Historical Trends tab (line chart with duration selector)
-  4. Both Market Prices tabs handle loading and error states with retry
+  1. User can drill down from state to district to block and see the NPK/pH percentage distributions (high/medium/low %) for the most recent soil health cycle — not a single label, the full distribution
+  2. The block's deficiency profile maps to a ranked list of 3-5 suitable crops using ICAR NPK/pH threshold rules, with market demand (HIGH/MEDIUM/LOW from seasonal calendar) shown alongside each crop
+  3. Every recommendation screen displays "Block-average soil data for [block name] — not a field-level measurement" as a non-dismissable disclaimer
+  4. Fertiliser advice is generated per nutrient deficiency: for any nutrient where the low% distribution exceeds a threshold, the UI shows an explicit advice card (e.g. "73% of soils in this block are nitrogen-deficient — consider urea application before planting")
+  5. The soil advisor page is labelled "Available for 31 states" and states with no soil coverage are clearly marked as unavailable — a user selecting an uncovered region sees an informative message, not an empty result or an error
 **Plans**: TBD
 
 Plans:
-- [ ] 05-01: Mandis screen — FlatList, name search, state/district filter, pull-to-refresh, loading/error states
-- [ ] 05-02: Market prices screen — tab UI, current prices list, historical trends chart (gifted-charts)
+- [ ] 05-01: Soil suitability seeding script (seed_soil_suitability.py, ICAR thresholds, soil_crop_suitability table, Alembic migration)
+- [ ] 05-02: FastAPI soil advisor endpoint + Next.js crop advisor UI
 
-### Phase 6: UX Polish
-**Goal**: The app feels native and complete: toast notifications provide feedback on auth events, haptic feedback acknowledges key interactions, and users can view their profile and log out.
-**Depends on**: Phase 5
-**Requirements**: UX-03, UX-04, UX-06
+### Phase 6: Mandi Arbitrage Dashboard
+**Goal**: A farmer can select a commodity and their origin district and see the top 3 destination mandis ranked by net profit after freight and spoilage — using only price data fresher than 7 days, with stale data flagged rather than displayed as current.
+**Depends on**: Phase 1 (harmonised districts for routing), Phase 4 (complete — confirms transport engine integration pattern)
+**Requirements**: ARB-01, ARB-02, ARB-03, ARB-04, UI-04, UI-05
 **Success Criteria** (what must be TRUE):
-  1. Toast notification appears on OTP request success (code sent), OTP error, and login success
-  2. Haptic feedback fires on commodity tap, OTP verify success, and pull-to-refresh complete
-  3. Profile screen shows user phone number and a working logout option that clears the session
+  1. User can select a commodity and origin district and see the top 3 destination mandis ranked by net expected profit per quintal after freight cost, spoilage estimate, and loading/unloading costs are subtracted
+  2. Arbitrage results are suppressed when net margin after transport does not exceed the configurable threshold (default: 10% of commodity modal price) — no result is shown rather than a misleading negative-margin result
+  3. The dashboard only displays price differentials where both origin and destination have price data recorded within the last 7 days — stale pairs show a "Data last updated [date] — signal may be outdated" warning rather than a current-looking price
+  4. Each arbitrage result row shows distance (km), travel time (hours), freight cost (Rs/quintal), spoilage estimate (%), and net expected profit (Rs/quintal) — no result omits any of these fields
 **Plans**: TBD
 
 Plans:
-- [ ] 06-01: Toasts — react-native-toast-message integration on OTP sent, login success, OTP error
-- [ ] 06-02: Haptics and profile screen — expo-haptics on key interactions, Profile tab screen with phone number and logout
+- [ ] 06-01: Arbitrage FastAPI endpoint (7-day freshness gate, transport engine integration, net-profit ranking)
+- [ ] 06-02: Next.js arbitrage dashboard
 
 ## Progress
 
 **Execution Order:**
-Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6
+Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 can execute in parallel after Phase 4 completes.
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/4 | Not started | - |
-| 2. Authentication | 0/3 | Not started | - |
-| 3. Dashboard | 0/2 | Not started | - |
-| 4. Commodities | 0/2 | Not started | - |
-| 5. Mandis and Market Prices | 0/2 | Not started | - |
-| 6. UX Polish | 0/2 | Not started | - |
+| 1. District Harmonisation + Price Cleaning | 0/2 | Not started | - |
+| 2. Seasonal Price Calendar | 0/2 | Not started | - |
+| 3. Feature Engineering Foundation | 0/2 | Not started | - |
+| 4. XGBoost Forecasting + Serving | 0/3 | Not started | - |
+| 5. Soil Crop Advisor | 0/2 | Not started | - |
+| 6. Mandi Arbitrage Dashboard | 0/2 | Not started | - |
