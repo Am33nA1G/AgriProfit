@@ -52,7 +52,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — Alembic migration for seasonal_price_stats, pure aggregator module (TDD), train_seasonal.py offline pipeline
+- [x] 02-01-PLAN.md — Alembic migration for seasonal_price_stats, pure aggregator module (TDD), train_seasonal.py offline pipeline
 - [ ] 02-02-PLAN.md — FastAPI seasonal endpoint + Pydantic schemas + Next.js calendar dashboard with Recharts IQR chart
 
 ### Phase 3: Feature Engineering Foundation
@@ -128,7 +128,7 @@ Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. District Harmonisation + Price Cleaning | 3/3 | Complete   | 2026-03-02 |
-| 2. Seasonal Price Calendar | 0/2 | Not started | - |
+| 2. Seasonal Price Calendar | 1/2 | In Progress | - |
 | 3. Feature Engineering Foundation | 2/2 | Complete   | 2026-03-03 |
 | 4. XGBoost Forecasting + Serving | 0/5 | Not started | - |
 | 5. Soil Crop Advisor | 2/2 | Complete    | 2026-03-03 |

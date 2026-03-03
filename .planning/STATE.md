@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-last_updated: "2026-03-03T02:15:41.399Z"
+last_updated: "2026-03-03T07:28:00.000Z"
 progress:
   total_phases: 6
   completed_phases: 3
   total_plans: 16
-  completed_plans: 7
+  completed_plans: 8
 ---
 
 # Project State
@@ -18,40 +18,42 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-01)
 
 **Core value:** A farmer in any district can ask "what should I grow and when should I sell it?" and get a data-backed answer.
-**Current focus:** Phase 6 — Mandi Arbitrage Dashboard — COMPLETE (all 2 plans done; Phase 2 Seasonal Calendar and Phase 4 XGBoost Forecasting remain)
+**Current focus:** Phase 2 — Seasonal Price Calendar — Plan 01 complete; Plan 02 (FastAPI endpoint + frontend) is next
 
 ## Current Position
 
-Phase: 6 of 6 (Mandi Arbitrage Dashboard) — COMPLETE
-Plan: 2 of 2 in current phase — COMPLETE
-Status: Phase 06 Plan 02 all 3 tasks complete — ArbitragePage built, 5 Vitest tests pass GREEN, human verification approved (Wheat/Ernakulam ARB-02 suppressed empty state confirmed)
-Last activity: 2026-03-03 — Plan 06-02 complete: arbitrage frontend dashboard (commits: 25aebc8, 0cec7de; human-verify approved)
+Phase: 2 of 6 (Seasonal Price Calendar) — In Progress
+Plan: 1 of 2 in current phase — COMPLETE
+Status: Phase 02 Plan 01 complete — seasonal_price_stats migration applied, aggregator module implemented, 10 unit tests pass GREEN, train_seasonal.py syntax valid
+Last activity: 2026-03-03 — Plan 02-01 complete: seasonal aggregation pipeline (commits: 45e5b7b, 0cdaf56, 3240b98)
 
-Progress: [████████░░] 75%
+Progress: [████████░░] 50% (8/16 plans)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 6
-- Average duration: 6.3 min
-- Total execution time: 0.63 hours
+- Total plans completed: 8
+- Average duration: 6.6 min
+- Total execution time: 0.70 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | Phase 01 | 3/3 | 26 min | 8.7 min |
+| Phase 02 | 1/2 | 15 min | 15 min |
 | Phase 03 | 2/2 | 8 min | 4.0 min |
 | Phase 05 | 2/2 | 15 min | 7.5 min |
 
 **Recent Trend:**
-- Last 5 plans: 5 min (01-03), 4 min (03-01), 4 min (03-02), 4 min (05-01), 11 min (05-02)
+- Last 5 plans: 4 min (03-02), 4 min (05-01), 11 min (05-02), 7 min (06-01), 5 min (06-02)
 - Trend: Stable
 
 *Updated after each plan completion*
 | Phase 05 P02 | 11 | 2 tasks | 8 files |
 | Phase 06-mandi-arbitrage-dashboard P01 | 7 | 3 tasks | 10 files |
 | Phase 06-mandi-arbitrage-dashboard P02 | 5 | 3 tasks | 4 files |
+| Phase 02-seasonal-price-calendar P01 | 15 | 3 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -94,6 +96,10 @@ Recent decisions affecting current work:
 - [Phase 06-mandi-arbitrage-dashboard]: VerdictBadge uses className colour overrides because shadcn Badge variant=default maps to primary colour not green
 - [Phase 06-mandi-arbitrage-dashboard]: enabled: submitted && !!commodity && !!district — TanStack Query fires only after form submit; setSubmitted(false) on input change forces fresh query on next submission
 - [Phase 06-mandi-arbitrage-dashboard]: Human verification confirmed ARB-02 suppressed empty state — Wheat/Ernakulam correctly shows "All 50 results were below the 10% net margin threshold" with no crash
+- [Phase 02-01]: compute_seasonal_stats() is a pure function — no DB calls inside function body; load_and_prepare() and upsert_seasonal_stats() handle all I/O
+- [Phase 02-01]: is_best/is_worst labels only set when years_of_data >= 3 — sparse series never get best/worst labels to avoid misleading farmers
+- [Phase 02-01]: month_rank=1 means highest median_price (rank descending by price); top-2 months get is_best=True, bottom-1 gets is_worst=True
+- [Phase 02-01]: train_seasonal.py not run during plan execution — requires live PostgreSQL with price_bounds populated and 25M row parquet; script validated via ast.parse() only
 
 ### Pending Todos
 
@@ -108,5 +114,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-03
-Stopped at: Phase 06 Plan 02 complete — all tasks done, human verification approved, SUMMARY.md written
+Stopped at: Phase 02 Plan 01 complete — seasonal aggregation pipeline: migration, aggregator, 10 tests, train_seasonal.py
 Resume file: None

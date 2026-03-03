@@ -17,7 +17,7 @@
 - [ ] **SEAS-01**: User can select any of the 314 commodities and any state and see a monthly price chart (average +/- std) aggregated over the last 10 years
 - [ ] **SEAS-02**: The calendar highlights the historically cheapest and most expensive months with labels ("Best time to sell", "Avoid selling")
 - [ ] **SEAS-03**: Calendar shows data confidence — commodities/states with fewer than 3 years of data display a low-confidence warning
-- [ ] **SEAS-04**: Calendar data is pre-aggregated and served from a `seasonal_price_stats` table (no ad-hoc full-table scans on the 25M row price table)
+- [x] **SEAS-04**: Calendar data is pre-aggregated and served from a `seasonal_price_stats` table (no ad-hoc full-table scans on the 25M row price table)
 
 ### Price Forecasting (XGBoost Baseline)
 
@@ -62,7 +62,7 @@
 - [ ] **UI-01**: Seasonal price calendar page — commodity + state selector, monthly bar/line chart, best/worst month highlights
 - [ ] **UI-02**: Price forecast page — commodity + district selector, 14-day forecast chart with confidence band, tier label, data coverage indicator
 - [x] **UI-03**: Soil advisor page — state -> district -> block drill-down, NPK/pH distribution bars, crop recommendation list, fertiliser advice cards
-- [ ] **UI-04**: Arbitrage dashboard — commodity + origin district selector, ranked mandi table with net profit, distance, freshness indicator
+- [x] **UI-04**: Arbitrage dashboard — commodity + origin district selector, ranked mandi table with net profit, distance, freshness indicator
 - [x] **UI-05**: All dashboards display coverage gap messages when a feature is unavailable for the selected region (no silent failures)
 
 ## v2 Requirements
@@ -103,7 +103,7 @@
 | SEAS-01 | Phase 2 | Pending |
 | SEAS-02 | Phase 2 | Pending |
 | SEAS-03 | Phase 2 | Pending |
-| SEAS-04 | Phase 2 | Pending |
+| SEAS-04 | Phase 2 | Complete (02-01) |
 | UI-01 | Phase 2 | Pending |
 | FEAT-01 | Phase 3 | Pending |
 | FEAT-02 | Phase 3 | Pending |
@@ -130,7 +130,7 @@
 | ARB-02 | Phase 6 | Complete |
 | ARB-03 | Phase 6 | Complete |
 | ARB-04 | Phase 6 | Complete |
-| UI-04 | Phase 6 | Pending |
+| UI-04 | Phase 6 | Complete |
 | UI-05 | Phases 2-6 | Complete |
 
 **Coverage:**
