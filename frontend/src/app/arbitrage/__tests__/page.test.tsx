@@ -112,8 +112,8 @@ describe("ArbitragePage", () => {
 
         render(<ArbitragePage />);
 
-        expect(screen.getByText(/Data last updated/i)).toBeInTheDocument();
-        expect(screen.getByText(/2025-10-30/)).toBeInTheDocument();
+        // The alert contains both "Data last updated" and the date in the same text
+        expect(screen.getByText(/Data last updated.*2025-10-30/i)).toBeInTheDocument();
     });
 
     it("test_suppressed_empty_state: shows margin threshold message when results empty and suppressed_count > 0", () => {
