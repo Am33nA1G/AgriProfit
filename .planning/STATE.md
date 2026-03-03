@@ -2,13 +2,13 @@
 gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
-status: unknown
-last_updated: "2026-03-02T12:17:21.981Z"
+status: in_progress
+last_updated: "2026-03-03T01:08:00.000Z"
 progress:
-  total_phases: 1
-  completed_phases: 1
-  total_plans: 3
-  completed_plans: 3
+  total_phases: 6
+  completed_phases: 3
+  total_plans: 9
+  completed_plans: 6
 ---
 
 # Project State
@@ -18,33 +18,35 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-01)
 
 **Core value:** A farmer in any district can ask "what should I grow and when should I sell it?" and get a data-backed answer.
-**Current focus:** Phase 1 — District Harmonisation + Price Cleaning
+**Current focus:** Phase 5 — Soil Crop Advisor — Plan 01 complete, Plan 02 next
 
 ## Current Position
 
-Phase: 1 of 6 (District Harmonisation + Price Cleaning) — COMPLETE
-Plan: 3 of 3 in current phase — COMPLETE
-Status: Phase 1 fully complete — all 4 requirements (HARM-01 through HARM-04) verified and documented; ready for Phase 2 (Seasonal Price Calendar)
-Last activity: 2026-03-02 — Plan 01-03 complete: HARM-04 documentation gap closed (31 states corrected to 21 in REQUIREMENTS.md and ROADMAP.md)
+Phase: 5 of 6 (Soil Crop Advisor) — IN PROGRESS
+Plan: 1 of 3 in current phase — COMPLETE
+Status: Phase 05 Plan 01 complete — soil advisor backend foundation: Alembic migration, pure-function suitability/fertiliser modules (17 tests GREEN), idempotent bulk seeder for 9,643 CSV files
+Last activity: 2026-03-03 — Plan 05-01 complete: soil_profiles + soil_crop_suitability tables, ICAR rank_crops(), generate_fertiliser_advice(), seed_soil_suitability.py
 
-Progress: [██░░░░░░░░] 17%
+Progress: [█████░░░░░] 50%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
-- Average duration: 8.7 min
-- Total execution time: 0.43 hours
+- Total plans completed: 6
+- Average duration: 6.3 min
+- Total execution time: 0.63 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | Phase 01 | 3/3 | 26 min | 8.7 min |
+| Phase 03 | 2/2 | 8 min | 4.0 min |
+| Phase 05 | 1/3 | 4 min | 4.0 min |
 
 **Recent Trend:**
-- Last 5 plans: 17 min (01-01), 4 min (01-02), 5 min (01-03)
-- Trend: Stable (documentation-only plan 01-03 was fastest)
+- Last 5 plans: 4 min (01-02), 5 min (01-03), 4 min (03-01), 4 min (03-02), 4 min (05-01)
+- Trend: Stable
 
 *Updated after each plan completion*
 
@@ -69,6 +71,14 @@ Recent decisions affecting current work:
 - [Phase 01]: price_history.modal_price never modified: bounds stored in price_bounds table; downstream clips at read time preserving full audit trail
 - [Phase 01]: HARM-04 was a documentation correction not a code fix — harmonise_districts.py always correctly processed available 21 states; requirement text had overstated local dataset as 31 states
 - [Phase 01]: SOIL-05 UI label "Available for 31 states" intentionally left unchanged — concerns future Phase 5 UI messaging, not Phase 1 data harmonisation
+- [Phase 03]: pandas 3.0.1 + numpy 2.4.2 installed into venv (were missing) for pure-Python feature engineering
+- [Phase 03]: All feature functions are pure Python — DataFrames in, DataFrames out; zero database calls; testable without running DB
+- [Phase 03]: cutoff_date enforced INSIDE price feature function (series.loc[:cutoff_date]) — caller cannot bypass structural anti-leakage
+- [Phase 03]: Daily reindex + ffill before shift() required for irregular price series — shift(N) on market-day-only data shifts by N records not N calendar days
+- [Phase 03]: Tier B weather districts return empty DataFrame, not NaN-filled — XGBoost handles NaN natively; imputing would create false signal for ~310 districts
+- [Phase 05]: Alembic down_revision corrected to merge both current heads (4be60c2d7319, e2f3a4b5c6d7) — plan had stale single-revision reference to c2d3e4f5a6b7
+- [Phase 05]: score_crop 3-tier scoring: low-tolerance crops receive +1.0 base bonus for thriving in deficient soil; medium/high-tolerance crops return 0.0 when block is deficient
+- [Phase 05]: pH excluded from FERTILISER_ADVICE by design — pH range check requires on-site testing, not a single fertiliser recommendation
 
 ### Pending Todos
 
@@ -78,10 +88,10 @@ None yet.
 
 - [Phase 4 readiness]: Determine how many commodity-district pairs meet the 730-day training threshold before committing to launch scope; if fewer than expected, the seasonal fallback must be fully tested before Phase 4 ships
 - [Data freshness]: Price data ends 2025-10-30; 4+ month gap to 2026-03-01 must be communicated in UI and considered in holdout validation design
-- [Phase 5 planning]: NPK/pH crop suitability thresholds need sourcing from ICAR guidelines (1-2 hour targeted research task during Phase 5 planning)
+- [Phase 5 Plan 02]: soil_profiles table must be populated via seed_soil_suitability.py before the endpoint can return results; developer must run the seeder after applying the migration
 
 ## Session Continuity
 
-Last session: 2026-03-02
-Stopped at: Completed 01-03-PLAN.md (HARM-04 gap closure — documentation corrected: 31 states -> 21 states in REQUIREMENTS.md and ROADMAP.md; Phase 1 fully verified)
+Last session: 2026-03-03
+Stopped at: Completed Phase 05 Plan 01 (Soil Advisor Backend Foundation — Alembic migration, suitability.py, fertiliser.py, seed_soil_suitability.py, 17 tests GREEN)
 Resume file: None
