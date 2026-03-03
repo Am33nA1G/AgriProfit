@@ -18,16 +18,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-01)
 
 **Core value:** A farmer in any district can ask "what should I grow and when should I sell it?" and get a data-backed answer.
-**Current focus:** Phase 2 — Seasonal Price Calendar — Plan 01 complete; Plan 02 (FastAPI endpoint + frontend) is next
+**Current focus:** Phase 4 — XGBoost Forecasting + Serving — Phase 2 complete; ready for Phase 4
 
 ## Current Position
 
-Phase: 2 of 6 (Seasonal Price Calendar) — In Progress
-Plan: 1 of 2 in current phase — COMPLETE
-Status: Phase 02 Plan 01 complete — seasonal_price_stats migration applied, aggregator module implemented, 10 unit tests pass GREEN, train_seasonal.py syntax valid
-Last activity: 2026-03-03 — Plan 02-01 complete: seasonal aggregation pipeline (commits: 45e5b7b, 0cdaf56, 3240b98)
+Phase: 4 of 6 (XGBoost Forecasting + Serving) — Not started
+Plan: 0 of 5 in current phase — READY
+Status: Phase 02 complete — seasonal calendar API + UI shipped and human-verified (commits: a54ed91, 27407ae)
+Last activity: 2026-03-03 — Plan 02-02 complete: FastAPI seasonal endpoint + Next.js calendar dashboard
 
-Progress: [████████░░] 50% (8/16 plans)
+Progress: [█████████░] 56% (9/16 plans)
 
 ## Performance Metrics
 
@@ -41,7 +41,7 @@ Progress: [████████░░] 50% (8/16 plans)
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | Phase 01 | 3/3 | 26 min | 8.7 min |
-| Phase 02 | 1/2 | 15 min | 15 min |
+| Phase 02 | 2/2 | 30 min | 15 min |
 | Phase 03 | 2/2 | 8 min | 4.0 min |
 | Phase 05 | 2/2 | 15 min | 7.5 min |
 
@@ -54,6 +54,7 @@ Progress: [████████░░] 50% (8/16 plans)
 | Phase 06-mandi-arbitrage-dashboard P01 | 7 | 3 tasks | 10 files |
 | Phase 06-mandi-arbitrage-dashboard P02 | 5 | 3 tasks | 4 files |
 | Phase 02-seasonal-price-calendar P01 | 15 | 3 tasks | 5 files |
+| Phase 02-seasonal-price-calendar P02 | 15 | 2 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -100,6 +101,10 @@ Recent decisions affecting current work:
 - [Phase 02-01]: is_best/is_worst labels only set when years_of_data >= 3 — sparse series never get best/worst labels to avoid misleading farmers
 - [Phase 02-01]: month_rank=1 means highest median_price (rank descending by price); top-2 months get is_best=True, bottom-1 gets is_worst=True
 - [Phase 02-01]: train_seasonal.py not run during plan execution — requires live PostgreSQL with price_bounds populated and 25M row parquet; script validated via ast.parse() only
+- [Phase 02-02]: GET /api/v1/seasonal uses query params (?commodity=X&state=Y) not path params — avoids URL-encoding issues with state names containing spaces (e.g. "West Bengal")
+- [Phase 02-02]: Bonus /seasonal/commodities and /seasonal/states list endpoints added — drives frontend dropdowns from DB, avoids 314-item static array in frontend that could go stale
+- [Phase 02-02]: ILIKE used for case-insensitive commodity+state matching — handles variant capitalisation from user input without frontend normalisation
+- [Phase 02-02]: is_best/is_worst guarded by years_of_data >= 3 (inherited from Phase 02-01) — sparse series never receive best/worst labels to avoid misleading farmers
 
 ### Pending Todos
 
@@ -114,5 +119,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-03
-Stopped at: Phase 02 Plan 01 complete — seasonal aggregation pipeline: migration, aggregator, 10 tests, train_seasonal.py
+Stopped at: Phase 02 Plan 02 complete — FastAPI seasonal endpoint + Next.js calendar dashboard; human verification approved
 Resume file: None
