@@ -18,7 +18,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 3: Feature Engineering Foundation** - Build and unit-test all shared feature functions before any model training
 - [ ] **Phase 4: XGBoost Forecasting + Serving** - Train, validate, cache, and serve the price forecasting baseline
 - [x] **Phase 5: Soil Crop Advisor** - Map block soil profiles to crop recommendations using ICAR rule-based lookup (completed 2026-03-03)
-- [ ] **Phase 6: Mandi Arbitrage Dashboard** - Surface net-profit-ranked arbitrage signals using the existing transport engine
+- [x] **Phase 6: Mandi Arbitrage Dashboard** - Surface net-profit-ranked arbitrage signals using the existing transport engine (completed 2026-03-03)
 
 ## Phase Details
 
@@ -132,4 +132,4 @@ Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 
 | 3. Feature Engineering Foundation | 2/2 | Complete   | 2026-03-03 |
 | 4. XGBoost Forecasting + Serving | 0/5 | Not started | - |
 | 5. Soil Crop Advisor | 2/2 | Complete    | 2026-03-03 |
-| 6. Mandi Arbitrage Dashboard | 1/2 | In Progress|  |
+| 6. Mandi Arbitrage Dashboard | 2/2 | Complete   | 2026-03-03 |
