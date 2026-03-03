@@ -351,6 +351,17 @@ class Settings(BaseSettings):
     )
 
     # =========================================================================
+    # ARBITRAGE
+    # =========================================================================
+    arbitrage_margin_threshold_pct: float = Field(
+        default=10.0,
+        ge=0.0,
+        le=50.0,
+        description="Minimum net margin (%) to display arbitrage signal. "
+                    "Computed as (net_profit / gross_revenue) * 100 >= threshold. Default: 10%.",
+    )
+
+    # =========================================================================
     # MONITORING
     # =========================================================================
     sentry_dsn: Optional[str] = Field(

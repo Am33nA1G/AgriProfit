@@ -233,12 +233,15 @@ class TestArbitrageService:
         assert result.suppressed_count == 3
 
     def test_7day_freshness_gate(self):
-        """Mandis with price older than (max_date - 7 days) get is_stale=True."""
+        """Mandis with price older than (max_date - 7 days) get is_stale=True.
+
+        FreshMandi has the latest price date (ref_date = max of all dates).
+        StaleMandi is 10 days before ref_date — strictly older than 7-day window.
+        """
         from app.arbitrage.service import get_arbitrage_results
 
-        ref_date = date(2025, 10, 30)
-        fresh_date = ref_date - timedelta(days=3)   # 3 days old — NOT stale
-        stale_date = ref_date - timedelta(days=10)  # 10 days old — stale
+        ref_date = date(2025, 10, 30)   # This is the max date — FreshMandi's date
+        stale_date = ref_date - timedelta(days=10)  # 10 days old relative to ref — stale
 
         mandis = [
             _make_mandi_comparison(
@@ -246,14 +249,14 @@ class TestArbitrageService:
                 gross_revenue=3000.0,
                 net_profit=600.0,   # 20% margin
                 profit_per_kg=6.0,
-                latest_price_date=fresh_date,
+                latest_price_date=ref_date,    # Most recent — becomes data_reference_date
             ),
             _make_mandi_comparison(
                 name="StaleMandi",
                 gross_revenue=3000.0,
                 net_profit=500.0,   # 16.7% margin
                 profit_per_kg=5.0,
-                latest_price_date=stale_date,
+                latest_price_date=stale_date,  # 10 days before ref — is_stale=True
             ),
         ]
 
@@ -266,13 +269,26 @@ class TestArbitrageService:
         assert result_map["StaleMandi"].is_stale is True
 
     def test_stale_results_have_warning(self):
-        """Stale results have a non-None stale_warning containing the price date."""
+        """Stale results have a non-None stale_warning containing the price date.
+
+        Two mandis: one fresh (sets reference date), one stale (12 days before ref).
+        The stale mandi must appear in results with is_stale=True and stale_warning set.
+        """
         from app.arbitrage.service import get_arbitrage_results
 
         ref_date = date(2025, 10, 30)
-        stale_date = date(2025, 10, 18)  # 12 days before ref
+        stale_date = date(2025, 10, 18)  # 12 days before ref — is_stale=True
 
         mandis = [
+            # Fresh mandi — sets the reference date (max of known dates)
+            _make_mandi_comparison(
+                name="FreshAnchorMandi",
+                gross_revenue=3000.0,
+                net_profit=700.0,  # 23.3% margin — above threshold
+                profit_per_kg=7.0,
+                latest_price_date=ref_date,
+            ),
+            # Stale mandi — 12 days before ref date
             _make_mandi_comparison(
                 name="StaleMandi",
                 gross_revenue=3000.0,
@@ -286,8 +302,9 @@ class TestArbitrageService:
         with patch("app.arbitrage.service.compare_mandis", return_value=(mandis, False)):
             result = get_arbitrage_results("Wheat", "Ernakulam", db)
 
-        assert len(result.results) == 1
-        r = result.results[0]
+        stale_results = [r for r in result.results if r.mandi_name == "StaleMandi"]
+        assert len(stale_results) == 1
+        r = stale_results[0]
         assert r.is_stale is True
         assert r.stale_warning is not None
         assert "2025-10-18" in r.stale_warning

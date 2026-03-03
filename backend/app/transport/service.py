@@ -576,6 +576,9 @@ def compare_mandis(
 
         capacity = VEHICLE_CAPACITY_KG[vehicle_type.value]
 
+        # Populate latest_price_date from price_analytics_map
+        pa_entry = price_analytics_map.get(m["name"])
+
         comp = MandiComparison(
             mandi_id=m.get("id"),
             mandi_name=m["name"],
@@ -611,10 +614,12 @@ def compare_mandis(
             stability_class=risk_result.stability_class,
             stress_test=stress,
             economic_warning=economic_warning,
+            # Arbitrage freshness field
+            latest_price_date=pa_entry.latest_price_date if pa_entry else None,
         )
         raw_comparisons.append(comp)
 
-    # Sort by net_profit, assign rank-aware verdicts + behavioral corrections
+    # ── Pass 1: preliminary profit sort → compute verdicts + behavioral corrections
     raw_comparisons.sort(key=lambda x: x.net_profit, reverse=True)
     total = len(raw_comparisons)
     best_profit = raw_comparisons[0].net_profit if raw_comparisons else 0.0
@@ -640,6 +645,19 @@ def compare_mandis(
             adjusted_tier = "good"
 
         comp.verdict = adjusted_tier
+        comp.verdict_reason = reason
+
+    # ── Pass 2: re-sort by verdict tier (excellent first), then net profit within tier
+    _VERDICT_ORDER = {"excellent": 0, "good": 1, "marginal": 2, "not_viable": 3}
+    raw_comparisons.sort(
+        key=lambda x: (_VERDICT_ORDER.get(x.verdict, 9), -x.net_profit)
+    )
+
+    # ── Pass 3: update rank strings and emit audit logs with final ordering
+    for rank, comp in enumerate(raw_comparisons, start=1):
+        _, reason = compute_verdict(
+            comp.net_profit, comp.gross_revenue, comp.profit_per_kg, rank, total
+        )
         comp.verdict_reason = reason
 
         # Audit log (structured JSON per comparison)
