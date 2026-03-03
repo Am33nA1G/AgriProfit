@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-last_updated: "2026-03-03T01:44:19.989Z"
+last_updated: "2026-03-03T01:54:26.061Z"
 progress:
   total_phases: 6
   completed_phases: 2
   total_plans: 16
-  completed_plans: 5
+  completed_plans: 6
 ---
 
 # Project State
@@ -18,16 +18,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-01)
 
 **Core value:** A farmer in any district can ask "what should I grow and when should I sell it?" and get a data-backed answer.
-**Current focus:** Phase 5 — Soil Crop Advisor — COMPLETE (both plans delivered and verified); Phase 6 (Mandi Arbitrage) is next independent phase
+**Current focus:** Phase 6 — Mandi Arbitrage Dashboard — IN PROGRESS (Plan 01 complete: backend API; Plan 02 frontend pending)
 
 ## Current Position
 
-Phase: 5 of 6 (Soil Crop Advisor) — COMPLETE
-Plan: 2 of 2 in current phase — COMPLETE
-Status: Phase 05 fully complete — 4 FastAPI soil-advisor endpoints, 21 integration tests, Next.js drill-down UI, 3 Vitest behavioral tests, rank_crops aggregation bug fixed, human verification approved
-Last activity: 2026-03-03 — Plan 05-02 complete: checkpoint:human-verify approved, rank_crops duplicate fix committed (7059a60)
+Phase: 6 of 6 (Mandi Arbitrage Dashboard) — IN PROGRESS
+Plan: 1 of 2 in current phase — COMPLETE
+Status: Phase 06 Plan 01 complete — GET /api/v1/arbitrage/{commodity}/{district} endpoint, 18 tests, ARB-01 through ARB-04 all satisfied
+Last activity: 2026-03-03 — Plan 06-01 complete: arbitrage backend API (3 task commits: e98d802, 1734a2f, 8127c18)
 
-Progress: [█████░░░░░] 50%
+Progress: [██████░░░░] 60%
 
 ## Performance Metrics
 
@@ -50,6 +50,7 @@ Progress: [█████░░░░░] 50%
 
 *Updated after each plan completion*
 | Phase 05 P02 | 11 | 2 tasks | 8 files |
+| Phase 06-mandi-arbitrage-dashboard P01 | 7 | 3 tasks | 10 files |
 
 ## Accumulated Context
 
@@ -85,6 +86,9 @@ Recent decisions affecting current work:
 - [Phase 05]: rank_crops() aggregates scores by crop_name before ranking — soil_crop_suitability has one row per (crop_name, nutrient), causing duplicate React keys without aggregation
 - [Phase 05]: SoilDisclaimer renders with no dismiss/close button — mandatory non-dismissable by plan spec
 - [Phase 05]: Coverage gate (COVERED_STATES) applied only to /profile, not /districts or /blocks — lists return empty arrays
+- [Phase 06]: freight_cost_per_quintal = costs.total_cost directly: compare_mandis() called with quantity_kg=100, so costs.total_cost is already the per-quintal cost
+- [Phase 06]: Stale results are INCLUDED with is_stale=True — never silently dropped; only margin threshold causes suppression
+- [Phase 06]: Arbitrage route handler is def (not async def) — OSRM blocks event loop, FastAPI runs sync handlers in thread pool
 
 ### Pending Todos
 
@@ -99,5 +103,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-03
-Stopped at: Phase 05 Plan 02 — COMPLETE (all tasks done, verification approved, SUMMARY.md finalized)
+Stopped at: Phase 06 Plan 01 — COMPLETE (arbitrage backend API, 18 tests, 3 commits)
 Resume file: None

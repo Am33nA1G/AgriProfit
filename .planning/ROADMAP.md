@@ -132,4 +132,4 @@ Phases 1, 2, 3 execute sequentially. Phase 4 depends on Phase 3. Phases 5 and 6 
 | 3. Feature Engineering Foundation | 2/2 | Complete   | 2026-03-03 |
 | 4. XGBoost Forecasting + Serving | 0/5 | Not started | - |
 | 5. Soil Crop Advisor | 2/2 | Complete    | 2026-03-03 |
-| 6. Mandi Arbitrage Dashboard | 0/2 | Not started | - |
+| 6. Mandi Arbitrage Dashboard | 1/2 | In Progress|  |
