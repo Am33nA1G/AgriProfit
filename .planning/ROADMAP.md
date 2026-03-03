@@ -103,7 +103,7 @@ Plans:
 
 Plans:
 - [x] 05-01-PLAN.md — Alembic migration (soil_profiles + soil_crop_suitability tables), suitability.py + fertiliser.py pure functions (TDD), seed_soil_suitability.py bulk seeder
-- [ ] 05-02-PLAN.md — FastAPI soil advisor endpoints (states/districts/blocks/profile) + Next.js drill-down UI with disclaimer, distribution bars, crop list, fertiliser advice cards
+- [x] 05-02-PLAN.md — FastAPI soil advisor endpoints (states/districts/blocks/profile) + Next.js drill-down UI with disclaimer, distribution bars, crop list, fertiliser advice cards
 
 ### Phase 6: Mandi Arbitrage Dashboard
 **Goal**: A farmer can select a commodity and their origin district and see the top 3 destination mandis ranked by net profit after freight and spoilage — using only price data fresher than 7 days, with stale data flagged rather than displayed as current.

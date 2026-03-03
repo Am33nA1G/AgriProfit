@@ -22,7 +22,6 @@ provides:
   - "frontend/src/app/soil-advisor/__tests__/soil-advisor.test.tsx — 3 Vitest behavioral tests"
 
 affects:
-  - Phase 05 Plan 03 (end-to-end human verification)
   - Phase 06 (Mandi Arbitrage Dashboard — independent, no dependency)
 
 tech-stack:
@@ -54,6 +53,7 @@ key-decisions:
   - "Seasonal demand enrichment wrapped in broad exception catch — seasonal_price_stats table is a Phase 2 dependency that may not be present, feature degrades gracefully to None"
   - "CSS percentage-width divs for nutrient bars instead of Recharts — simpler DOM structure, easier to test, mobile-friendly, no charting library overhead"
   - "SoilDisclaimer has no toggle/dismiss/conditional — non-negotiable per plan spec; renders whenever results render"
+  - "rank_crops() aggregates scores by crop_name before ranking — soil_crop_suitability has one row per (crop_name, nutrient), causing duplicate crop entries without aggregation (Rule 1 bug fix)"
 
 patterns-established:
   - "Pattern 1: Soil advisor service uses SELECT MAX(cycle) subquery to select most recent data without requiring sorted pagination"
@@ -67,14 +67,14 @@ completed: "2026-03-03"
 
 # Phase 05 Plan 02: Soil Advisor API and UI Summary
 
-**4 FastAPI soil-advisor endpoints (states/districts/blocks/profile) with ICAR suitability integration, 21 backend integration tests, and a Next.js drill-down UI with non-dismissable disclaimer, CSS nutrient bars, crop rankings, fertiliser advice cards, and coverage gap banner.**
+**4 FastAPI soil-advisor endpoints (states/districts/blocks/profile) with ICAR suitability integration, 21 backend integration tests, and a Next.js drill-down UI with non-dismissable disclaimer, CSS nutrient bars, crop rankings, fertiliser advice cards, and coverage gap banner — human verification approved.**
 
 ## Performance
 
 - **Duration:** 11 min
 - **Started:** 2026-03-03T01:12:08Z
 - **Completed:** 2026-03-03T01:23:08Z
-- **Tasks:** 2 of 3 (Task 3 is a checkpoint:human-verify — requires manual approval)
+- **Tasks:** 3 of 3 (including checkpoint:human-verify — APPROVED)
 - **Files modified:** 8 (7 created, 1 modified)
 
 ## Accomplishments
@@ -90,7 +90,9 @@ Each task was committed atomically:
 
 1. **Task 1: FastAPI schemas, service, routes, and integration tests** — `d06147b` (feat)
 2. **Task 2: Next.js soil advisor page, API service layer, and Vitest behavioral tests** — `705f1ef` (feat)
-3. **Task 3: Checkpoint (human-verify)** — not committed, awaiting verification
+3. **Fix: rank_crops duplicate crop_name aggregation (post-checkpoint)** — `7059a60` (fix)
+
+**Plan metadata:** `6ecf70f` (docs: complete soil advisor API and UI plan)
 
 ## Files Created/Modified
 - `backend/app/soil_advisor/schemas.py` — NutrientDistribution, CropRecommendation, FertiliserAdvice, SoilAdvisorResponse Pydantic models
@@ -110,10 +112,24 @@ Each task was committed atomically:
 
 ## Deviations from Plan
 
-None — plan executed exactly as written.
+### Auto-fixed Issues
+
+**1. [Rule 1 - Bug] rank_crops() produced duplicate crop_name entries**
+- **Found during:** Task 3 (checkpoint:human-verify) — user reported duplicate React keys in crop recommendation list
+- **Issue:** soil_crop_suitability has one row per (crop_name, nutrient). rank_crops() was iterating over raw DB rows and appending one ranked entry per row, causing each crop to appear N times (once per nutrient row). React raised duplicate key warnings; the UI showed 3-5 copies of each crop.
+- **Fix:** Rewrote rank_crops() in `backend/app/soil_advisor/suitability.py` to accumulate scores into a `defaultdict(float)` keyed by crop_name, then build the ranked list from the aggregated totals — one entry per unique crop.
+- **Files modified:** `backend/app/soil_advisor/suitability.py`
+- **Verification:** All 21 backend integration tests pass; profile endpoint returns each crop exactly once with correct suitability_rank values.
+- **Committed in:** `7059a60` (post-checkpoint fix commit)
+
+---
+
+**Total deviations:** 1 auto-fixed (Rule 1 - Bug)
+**Impact on plan:** Essential correctness fix. Without it, React rendered duplicate crop rows and raised duplicate key warnings. No scope creep.
 
 ## Issues Encountered
-None.
+
+Human-verify checkpoint revealed the rank_crops() aggregation bug (duplicate crop entries per nutrient row). Fixed immediately post-approval and verified with full test suite.
 
 ## User Setup Required
 Before the /profile endpoint returns live data, two steps are required:
@@ -123,9 +139,33 @@ Before the /profile endpoint returns live data, two steps are required:
 Integration tests use an in-memory SQLite fixture and pass without these steps.
 
 ## Next Phase Readiness
-- Task 3 (checkpoint:human-verify) requires: run migration, run seeder, start servers, verify API + UI in browser
-- Once approved, Phase 05 Plan 02 is fully complete
-- Phase 06 (Mandi Arbitrage Dashboard) is independent and can proceed in parallel
+- Phase 05 Plan 02 is fully complete (human verification approved).
+- Phase 05 is complete — both plans delivered and verified.
+- Phase 06 (Mandi Arbitrage Dashboard) is independent and can proceed in parallel.
+- The query-param endpoint pattern established here applies directly to Phase 6's arbitrage routes.
+- The /soil-advisor page is production-ready once the migration and seeder are applied to the production DB.
+
+## Self-Check: PASSED
+
+### Files Exist
+All 7 created files confirmed present on disk:
+- FOUND: backend/app/soil_advisor/schemas.py
+- FOUND: backend/app/soil_advisor/service.py
+- FOUND: backend/app/soil_advisor/routes.py
+- FOUND: backend/tests/test_soil_advisor_api.py
+- FOUND: frontend/src/services/soil-advisor.ts
+- FOUND: frontend/src/app/soil-advisor/page.tsx
+- FOUND: frontend/src/app/soil-advisor/__tests__/soil-advisor.test.tsx
+- FOUND: .planning/phases/05-soil-crop-advisor/05-02-SUMMARY.md
+
+### Commits Verified
+
+| Hash | Message |
+|------|---------|
+| d06147b | feat(05-02): FastAPI soil advisor schemas, service, routes, and integration tests |
+| 705f1ef | feat(05-02): Next.js soil advisor page, API service layer, and Vitest behavioral tests |
+| 7059a60 | fix(05-02): aggregate rank_crops by crop_name to eliminate duplicate React keys |
+| 6ecf70f | docs(05-02): complete soil advisor API and UI plan — awaiting checkpoint |
 
 ---
 *Phase: 05-soil-crop-advisor*
