@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-18,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,3000,3400,3200
+2025-10-17,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,3000,3500,3200
+2025-10-16,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,2200,3000,2500
+2025-10-14,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,2000,3200,3000
+2025-10-13,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,3000,4000,3500
+2025-10-12,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,2000,3500,2500
+2025-10-06,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,1000,2000,1500
+2025-10-01,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,1500,1800,1600
+2025-09-25,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,1200,1800,1500
+2025-09-15,Colacasia,318,Madhya Pradesh,23,Shivpuri,423,1700,2200,2000

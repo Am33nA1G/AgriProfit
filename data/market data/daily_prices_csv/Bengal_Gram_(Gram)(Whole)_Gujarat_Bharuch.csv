@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-22,Bengal Gram (Gram)(Whole),6,Gujarat,24,Bharuch,488,4410,4635,4560
+2019-05-21,Bengal Gram (Gram)(Whole),6,Gujarat,24,Bharuch,488,4400,4500,4420
+2019-05-20,Bengal Gram (Gram)(Whole),6,Gujarat,24,Bharuch,488,4450,4500,4475

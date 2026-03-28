@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-06,Beetroot,157,Telangana,36,Khammam,541,4400,4800,4600
+2022-01-05,Beetroot,157,Telangana,36,Khammam,541,5000,5600,5300
+2021-10-02,Beetroot,157,Telangana,36,Khammam,541,2400,3000,2700
+2015-06-06,Beetroot,157,Telangana,36,Khammam,541,2200,2400,2200
+2015-06-04,Beetroot,157,Telangana,36,Khammam,541,2200,2400,2200
+2015-06-03,Beetroot,157,Telangana,36,Khammam,541,2000,2200,2000
+2015-06-01,Beetroot,157,Telangana,36,Khammam,541,2000,2200,2000
+2015-05-29,Beetroot,157,Telangana,36,Khammam,541,1200,1400,1200
+2015-05-28,Beetroot,157,Telangana,36,Khammam,541,1200,1500,1200
+2015-05-26,Beetroot,157,Telangana,36,Khammam,541,1200,1500,1200

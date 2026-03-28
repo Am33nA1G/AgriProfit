@@ -1,0 +1,288 @@
+{
+  "BAJALI": {
+    "BAJALI - 2489": [],
+    "BHABANIPUR - 2491": []
+  },
+  "BAKSA": {
+    "BARAMA - 2676": [],
+    "BASKA - 2679": [],
+    "DHAMDHAMA - 2681": [],
+    "GORESWAR - 2608": [],
+    "JALAH - 2496": []
+  },
+  "BARPETA": {
+    "BARPETA - 2490": [],
+    "CHAKCHAKA - 2492": [],
+    "CHENGA - 2493": [],
+    "GOMAPHULBARI - 2495": [],
+    "Gobardhana - 2494": [],
+    "MANDIA - 2497": [],
+    "PAKABETBARI - 2498": [],
+    "RUPOSHI - 2499": [],
+    "SARUKHETRI - 2500": []
+  },
+  "BONGAIGAON": {
+    "BOITAMARI - 2501": [],
+    "DANGTOL - 2503": [],
+    "Manikpur - 2504": [],
+    "SRIJANGRAM - 2506": [],
+    "TAPATTARY - 2507": []
+  },
+  "Biswanath": {
+    "BAGHMARA - 2702": [],
+    "BEHALI - 2704": [],
+    "BISWANATH - 2706": [],
+    "CHAIDUAR - 2708": [],
+    "PUB CHAIDUAR - 2712": [],
+    "SAKOMATHA - 2714": [],
+    "SOOTEA - 2715": []
+  },
+  "CACHAR": {
+    "BANSKANDI - 2508": [],
+    "BARJALENGA - 2509": [],
+    "BINNAKANDI - 2510": [],
+    "BORKHOLA - 2511": [],
+    "KALAIN - 2512": [],
+    "KATIGORAH - 2513": [],
+    "LAKHIPUR - 2514": [],
+    "NARSINGPUR - 2515": [],
+    "PALONGHAT - 2516": [],
+    "RAJABAZAR - 2517": [],
+    "SALCHAPRA - 2518": [],
+    "SILCHAR - 2519": [],
+    "SONAI - 2520": [],
+    "TAPANG - 2521": [],
+    "UDHARBOND - 2522": []
+  },
+  "CHARAIDEO": {
+    "LAKUWA - 2696": [],
+    "SAPEKHATI - 2698": [],
+    "SONARI - 2700": [],
+    "WEST ABHAIPUR - 2701": []
+  },
+  "CHIRANG": {
+    "BOROBAZAR - 2502": [],
+    "MANIKPUR PART - 7151": [],
+    "SIDLI-CHIRANG - 2505": []
+  },
+  "DARRANG": {
+    "BECHIMARI - 2523": [],
+    "DALGAON-SIALMARI - 2527": [],
+    "KALAIGAON - 2528": [],
+    "PACHIM-MANGALDAI - 2535": [],
+    "PUB-MANGALDAI - 2537": [],
+    "SIPAJHAR - 2540": []
+  },
+  "DHEMAJI": {
+    "BORDOLONI - 2545": [],
+    "DHEMAJI - 2546": [],
+    "MACHKHOWA - 2547": [],
+    "MURKONGSELEK - 2548": [],
+    "SISSIBORGAON - 2544": []
+  },
+  "DHUBRI": {
+    "AGOMANI - 2549": [],
+    "BIRSHING-JARUA - 2551": [],
+    "Bilasipara - 2550": [],
+    "Chapar Salkocha - 2552": [],
+    "Debitola - 2553": [],
+    "GAURIPUR - 2555": [],
+    "Golakganj - 2556": [],
+    "HATIDHURA - 6559": [],
+    "JAMADARHAT - 2557": [],
+    "Mahamaya - 2558": [],
+    "NAYERALGA - 2560": [],
+    "Rupshi - 2561": [],
+    "SOUTH SALMARA - 2562": []
+  },
+  "DIBRUGARH": {
+    "BARBARUAH - 2563": [],
+    "JOYPUR - 2564": [],
+    "KHOWANG - 2565": [],
+    "LAHOAL - 2566": [],
+    "PANITOLA - 2567": [],
+    "TENGAKHAT - 2568": [],
+    "TINGKHONG - 2569": []
+  },
+  "DIMA HASAO": {},
+  "GOALPARA": {},
+  "GOLAGHAT": {},
+  "HAILAKANDI": {
+    "ALGAPUR - 2586": [],
+    "HAILAKANDI - 2587": [],
+    "KATLICHERRA - 2588": [],
+    "LALA - 2589": [],
+    "SOUTH HAILAKANDI - 2590": []
+  },
+  "HOJAI": {
+    "BINAKANDI - 2659": [],
+    "DHALPUKHURI - 2660": [],
+    "JUGIJAN - 2662": [],
+    "LUMDING - 2669": [],
+    "UDALI - 2675": []
+  },
+  "JORHAT": {
+    "JORHAT - 2591": [],
+    "JORHAT CENTRAL - 2592": [],
+    "JORHAT EAST - 2593": [],
+    "KALIAPANI - 2594": [],
+    "NORTH WEST JORHAT - 2596": [],
+    "TITABOR - 2597": []
+  },
+  "KAMRUP": {
+    "BEZERA - 2599": [],
+    "BIHDIA -JAJIKONA - 2600": [],
+    "BOKO - 2601": [],
+    "BONGAON - 2602": [],
+    "CHAMARIA - 2603": [],
+    "CHAYANI - 2605": [],
+    "CHAYGAON - 2606": [],
+    "GOROIMARI - 2609": [],
+    "HAJO - 2610": [],
+    "KAMALPUR - 2611": [],
+    "RAMPUR - 2612": [],
+    "RANGIA - 2613": [],
+    "RANI - 2614": [],
+    "SUALKUCHI - 2615": []
+  },
+  "KAMRUP METRO": {
+    "Bezera (Pt) - 6561": [],
+    "CHANDRAPUR - 2604": [],
+    "DIMORIA - 2607": [],
+    "RANI (PT) - 6560": []
+  },
+  "KARBI ANGLONG": {
+    "BOKAJAN - 2617": [],
+    "HOWRAGHAT - 2619": [],
+    "LANGSOMEPI - 2620": [],
+    "LUMBAJONG - 2621": [],
+    "NILIP - 2622": [],
+    "RONGMONGWE - 2624": [],
+    "SAMELANGSO - 2625": []
+  },
+  "KARIMGANJ": {
+    "BADARPUR - 2627": [],
+    "DULLAVCHERRA - 2628": [],
+    "LOWAIRPOA - 2629": [],
+    "NORTH KARIMGANJ - 2630": [],
+    "PATHARKANDI - 2631": [],
+    "RAMKRISHNA NAGAR - 2632": [],
+    "SOUTH KARIMGANJ - 2633": []
+  },
+  "KOKRAJHAR": {
+    "Bilashipara-BTC - 6567": [],
+    "Chapor-Salkocha-BTC - 6566": [],
+    "Debitola-BTC - 6595": [],
+    "Dotma - 2634": [],
+    "Golakganj-BTC - 6569": [],
+    "Gossaigaon - 2635": [],
+    "Hatidhura - 2636": [],
+    "Kachugaon - 2637": [],
+    "Kokrajhar - 2638": [],
+    "Mahamaya-BTC - 6568": [],
+    "Rupshi-BTC - 6570": []
+  },
+  "LAKHIMPUR": {
+    "BIHPURIA - 2640": [],
+    "BOGINADI - 2641": [],
+    "DHAKUAKHANA - 2642": [],
+    "GHILAMARA - 2643": [],
+    "KARUNABARI - 2644": [],
+    "LAKHIMPUR - 2645": [],
+    "NARAYANPUR - 2646": [],
+    "NOWBOICHA - 2647": [],
+    "TELAHI - 2648": []
+  },
+  "MAJULI": {
+    "MAJULI - 2595": [],
+    "UJANI MAJULI - 2598": []
+  },
+  "MARIGAON": {
+    "BATABRABA (PART) - 2649": [],
+    "BHURBANDHA - 2650": [],
+    "DOLONGGHAT (PART) - 2651": [],
+    "KAPILI - 2652": [],
+    "LAHARIGHAT - 2653": [],
+    "MAYANG - 2654": [],
+    "MOIRABARI - 2655": []
+  },
+  "NAGAON": {
+    "BAJIAGAON - 2656": [],
+    "BARHAMPUR - 2657": [],
+    "BATADRAVA - 2658": [],
+    "DOLONGGHAT - 2661": [],
+    "JURIA - 2663": [],
+    "KALIABOR - 2664": [],
+    "KAPILI PT.I - 2665": [],
+    "KATHIATOLI - 2666": [],
+    "KHAGARIJAN - 2667": [],
+    "LAOKHOWA - 2668": [],
+    "MOIRABARI PART - 2670": [],
+    "PACHIM KALIABOR - 2671": [],
+    "PAKHIMORIA - 2672": [],
+    "RAHA - 2673": [],
+    "RUPAHI - 2674": []
+  },
+  "NALBARI": {
+    "BARIGOG BANBHAG - 2677": [],
+    "BARKHETRI - 2678": [],
+    "BORBHAG - 2680": [],
+    "MADHUPUR - 2682": [],
+    "PASCHIM NALBARI - 2684": [],
+    "PUB NALBARI - 2685": [],
+    "TIHU - 2687": []
+  },
+  "SIVASAGAR": {
+    "AMGURI - 2693": [],
+    "DEMOW - 2694": [],
+    "GAURISAGAR - 2695": [],
+    "NAZIRA - 2697": [],
+    "SIVASAGAR - 2699": []
+  },
+  "SONITPUR": {
+    "BALIPARA - 2703": [],
+    "BIHAGURI - 2705": [],
+    "BORCHALA - 2707": [],
+    "DHEKIAJULI - 2709": [],
+    "GABHORU - 2710": [],
+    "NADUAR - 2711": [],
+    "RANGAPARA - 2713": []
+  },
+  "SOUTH SALMARA MANCACHAR": {
+    "FEKAMARI - 2554": [],
+    "MANKACHAR - 2559": [],
+    "SOUTH SALMARA  PART - 7482": []
+  },
+  "TAMULPUR": {
+    "NAGRIJULI - 2683": [],
+    "TAMULPUR - 2686": []
+  },
+  "TINSUKIA": {
+    "GUIJAN - 2716": [],
+    "HAPJAN - 2717": [],
+    "ITAKHULI - 2718": [],
+    "KAKOPATHAR - 2719": [],
+    "MARGHERITA - 2720": [],
+    "SADIYA - 2721": [],
+    "SAIKHOWA - 2722": []
+  },
+  "UDALGURI": {
+    "BECHIMARI - 6555": [],
+    "BHERGAON - 6549": [],
+    "BORSOLA - 6554": [],
+    "DALGAON-SIALMARI - 6556": [],
+    "KALAIGAON - 6552": [],
+    "Khoirabari - 6553": [],
+    "MAZBAT - 6550": [],
+    "ODALGURI - 6548": [],
+    "PASCHIM-MANGALDAI - 6558": [],
+    "PUB-MANGALDAI - 6557": [],
+    "ROWTA - 6551": []
+  },
+  "WEST KARBI ANGLONG": {
+    "AMRI - 2616": [],
+    "CHINTHONG - 2618": [],
+    "RONGKHANG - 2623": [],
+    "SOCHENG - 2626": []
+  }
+}

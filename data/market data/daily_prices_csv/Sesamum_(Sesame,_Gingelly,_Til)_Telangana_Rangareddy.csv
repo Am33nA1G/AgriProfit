@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-08,"Sesamum (Sesame, Gingelly, Til)",11,Telangana,36,Rangareddy,537,5000,5000,5000
+2016-01-01,"Sesamum (Sesame, Gingelly, Til)",11,Telangana,36,Rangareddy,537,4700,5000,4850
+2015-12-19,"Sesamum (Sesame, Gingelly, Til)",11,Telangana,36,Rangareddy,537,5900,5900,5900

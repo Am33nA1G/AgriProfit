@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-25,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,2250
+2017-04-24,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,2100
+2017-04-22,Green Peas,50,Uttar Pradesh,9,Bareilly,150,2100,2200,2150
+2017-04-21,Green Peas,50,Uttar Pradesh,9,Bareilly,150,1800,1900,1850
+2017-04-20,Green Peas,50,Uttar Pradesh,9,Bareilly,150,1800,1900,1850
+2017-04-19,Green Peas,50,Uttar Pradesh,9,Bareilly,150,1800,1900,1850
+2017-02-09,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,850
+2017-02-07,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,890
+2017-02-06,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,880
+2017-01-28,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,800
+2017-01-12,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,675
+2016-12-21,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,1225
+2016-12-09,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,1350
+2016-12-08,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,1850
+2016-12-01,Green Peas,50,Uttar Pradesh,9,Bareilly,150,2900,3000,2950
+2016-11-18,Green Peas,50,Uttar Pradesh,9,Bareilly,150,,,4950
+2016-11-11,Green Peas,50,Uttar Pradesh,9,Bareilly,150,4800,5000,4900

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-05,Dry Chillies,132,Karnataka,29,Chitradurga,566,14000,14000,14000
+2017-05-26,Dry Chillies,132,Karnataka,29,Chitradurga,566,3000,3000,3000
+2016-08-18,Dry Chillies,132,Karnataka,29,Chitradurga,566,6000,6000,6000
+2016-07-04,Dry Chillies,132,Karnataka,29,Chitradurga,566,3000,4300,3670
+2016-05-10,Dry Chillies,132,Karnataka,29,Chitradurga,566,3000,4100,3515
+2016-05-07,Dry Chillies,132,Karnataka,29,Chitradurga,566,3000,6000,4500
+2016-05-02,Dry Chillies,132,Karnataka,29,Chitradurga,566,5000,10000,7800

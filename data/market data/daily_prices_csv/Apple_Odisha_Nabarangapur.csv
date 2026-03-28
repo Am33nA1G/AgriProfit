@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-06,Apple,17,Odisha,21,Nabarangapur,397,12000,15000,14000
+2016-10-11,Apple,17,Odisha,21,Nabarangapur,397,9000,10000,9500
+2016-10-10,Apple,17,Odisha,21,Nabarangapur,397,9000,12000,10000
+2015-09-18,Apple,17,Odisha,21,Nabarangapur,397,10000,12000,11000
+2015-01-23,Apple,17,Odisha,21,Nabarangapur,397,9000,12000,10000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-18,Paddy(Dhan)(Common),2,Manipur,14,Chandel,280,2000,2500,2250
+2019-07-19,Paddy(Dhan)(Common),2,Manipur,14,Chandel,280,1500,2000,1500
+2018-04-09,Paddy(Dhan)(Common),2,Manipur,14,Chandel,280,1400,1500,1500

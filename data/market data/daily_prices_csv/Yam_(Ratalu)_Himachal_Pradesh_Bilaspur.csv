@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-27,Yam (Ratalu),297,Himachal Pradesh,2,Bilaspur,30,1800,2500,2000
+2018-11-27,Yam (Ratalu),297,Himachal Pradesh,2,Bilaspur,30,1500,2100,1800
+2018-10-12,Yam (Ratalu),297,Himachal Pradesh,2,Bilaspur,30,2300,3200,2600
+2015-07-20,Yam (Ratalu),297,Himachal Pradesh,2,Bilaspur,30,1500,1800,1600
+2015-01-05,Yam (Ratalu),297,Himachal Pradesh,2,Bilaspur,30,1800,2200,2000

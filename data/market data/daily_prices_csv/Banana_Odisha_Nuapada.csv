@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-09,Banana,19,Odisha,21,Nuapada,394,3000,3500,3500
+2015-10-12,Banana,19,Odisha,21,Nuapada,394,2000,2500,2500

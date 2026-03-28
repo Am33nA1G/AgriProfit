@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-06,Beans,94,Andhra Pradesh,28,Vizianagaram,543,3500,3700,3600
+2016-12-30,Beans,94,Andhra Pradesh,28,Vizianagaram,543,4000,4500,4100
+2016-12-18,Beans,94,Andhra Pradesh,28,Vizianagaram,543,4500,4800,4600
+2015-10-29,Beans,94,Andhra Pradesh,28,Vizianagaram,543,4000,4500,4100
+2015-07-31,Beans,94,Andhra Pradesh,28,Vizianagaram,543,4700,5000,4800

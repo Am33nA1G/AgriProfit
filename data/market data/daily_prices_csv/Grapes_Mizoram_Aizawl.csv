@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-07,Grapes,22,Mizoram,15,Aizawl,283,12000,15000,13500
+2019-05-15,Grapes,22,Mizoram,15,Aizawl,283,12000,15000,13500
+2019-03-25,Grapes,22,Mizoram,15,Aizawl,283,20000,30000,25000
+2019-03-15,Grapes,22,Mizoram,15,Aizawl,283,20000,30000,25000
+2019-03-11,Grapes,22,Mizoram,15,Aizawl,283,20000,30000,25000
+2019-03-08,Grapes,22,Mizoram,15,Aizawl,283,20000,30000,25000
+2019-03-05,Grapes,22,Mizoram,15,Aizawl,283,20000,30000,25000
+2018-03-29,Grapes,22,Mizoram,15,Aizawl,283,11000,15000,13000
+2017-07-12,Grapes,22,Mizoram,15,Aizawl,283,13000,15000,14000
+2017-05-11,Grapes,22,Mizoram,15,Aizawl,283,11000,15000,13000
+2015-06-29,Grapes,22,Mizoram,15,Aizawl,283,15000,15000,15000

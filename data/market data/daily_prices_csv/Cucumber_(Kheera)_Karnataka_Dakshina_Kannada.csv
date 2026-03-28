@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-27,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,1800,2000,1900
+2022-06-20,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,600,800,700
+2022-06-09,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,900,1000,950
+2022-06-07,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,1000,1400,1200
+2022-06-06,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,900,1200,1000
+2022-06-04,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,800,1000,900
+2022-05-05,Cucumber (Kheera),159,Karnataka,29,Dakshina Kannada,575,800,1000,900

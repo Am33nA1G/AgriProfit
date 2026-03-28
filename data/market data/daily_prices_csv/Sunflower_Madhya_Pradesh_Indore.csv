@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-25,Sunflower,14,Madhya Pradesh,23,Indore,439,3785,3785,3785
+2024-06-27,Sunflower,14,Madhya Pradesh,23,Indore,439,4650,4650,4650
+2024-03-18,Sunflower,14,Madhya Pradesh,23,Indore,439,3801,3801,3801

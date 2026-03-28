@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-29,Pumpkin,84,Telangana,36,Khammam,541,400,400,400
+2016-08-24,Pumpkin,84,Telangana,36,Khammam,541,600,600,600
+2016-08-22,Pumpkin,84,Telangana,36,Khammam,541,600,600,600
+2015-11-09,Pumpkin,84,Telangana,36,Khammam,541,200,200,200

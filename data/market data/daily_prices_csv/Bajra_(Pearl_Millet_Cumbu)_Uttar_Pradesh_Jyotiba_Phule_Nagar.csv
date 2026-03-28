@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-21,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1,130,12
+2017-06-20,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1200,1280,1250
+2017-06-19,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1250,1300,1280
+2017-06-10,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1310,,1320
+2017-06-09,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1300,,1310
+2017-03-31,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1300,1375,1340
+2017-02-28,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1310,1375,1345
+2017-01-31,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1320,1400,1360
+2016-12-31,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,1320,1410,1360
+2015-11-28,Bajra (Pearl Millet/Cumbu),28,Uttar Pradesh,9,Jyotiba Phule Nagar,137,,,1150

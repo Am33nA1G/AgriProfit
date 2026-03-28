@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-02,Orange,18,Madhya Pradesh,23,Sagar,427,1000,1400,1200
+2025-04-07,Orange,18,Madhya Pradesh,23,Sagar,427,2000,4000,3000
+2025-04-04,Orange,18,Madhya Pradesh,23,Sagar,427,2000,4000,3000
+2016-01-19,Orange,18,Madhya Pradesh,23,Sagar,427,1000,1500,1200
+2015-12-19,Orange,18,Madhya Pradesh,23,Sagar,427,800,1000,900
+2015-04-14,Orange,18,Madhya Pradesh,23,Sagar,427,1600,2000,1800
+2015-04-11,Orange,18,Madhya Pradesh,23,Sagar,427,900,1000,950
+2015-04-10,Orange,18,Madhya Pradesh,23,Sagar,427,1800,2000,1900
+2015-04-07,Orange,18,Madhya Pradesh,23,Sagar,427,1500,2000,1800
+2015-04-04,Orange,18,Madhya Pradesh,23,Sagar,427,1600,2000,1800
+2015-03-31,Orange,18,Madhya Pradesh,23,Sagar,427,1000,2000,1500
+2015-02-25,Orange,18,Madhya Pradesh,23,Sagar,427,1800,2200,2000
+2015-02-14,Orange,18,Madhya Pradesh,23,Sagar,427,1800,2500,2000

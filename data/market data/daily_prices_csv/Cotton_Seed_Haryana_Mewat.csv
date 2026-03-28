@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-30,Cotton Seed,99,Haryana,6,Mewat,87,1500,1500,1500
+2015-06-09,Cotton Seed,99,Haryana,6,Mewat,87,2000,2000,2000
+2015-05-25,Cotton Seed,99,Haryana,6,Mewat,87,1670,1670,1670
+2015-04-27,Cotton Seed,99,Haryana,6,Mewat,87,2200,2220,2200

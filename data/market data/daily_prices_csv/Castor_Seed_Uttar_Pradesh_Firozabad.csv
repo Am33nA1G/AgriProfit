@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-20,Castor Seed,123,Uttar Pradesh,9,Firozabad,147,3950,4000,3975
+2019-05-19,Castor Seed,123,Uttar Pradesh,9,Firozabad,147,3950,4000,3975
+2018-08-30,Castor Seed,123,Uttar Pradesh,9,Firozabad,147,3180,3200,3190
+2018-02-01,Castor Seed,123,Uttar Pradesh,9,Firozabad,147,3280,3300,3290

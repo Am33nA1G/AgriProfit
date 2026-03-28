@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-20,Cabbage,154,Jharkhand,20,Khunti,365,3240,3600,3460
+2020-09-18,Cabbage,154,Jharkhand,20,Khunti,365,2240,2600,2460
+2019-06-22,Cabbage,154,Jharkhand,20,Khunti,365,2800,3200,3000

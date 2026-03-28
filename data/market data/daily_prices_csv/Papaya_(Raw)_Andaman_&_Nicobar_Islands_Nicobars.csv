@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-21,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2017-03-20,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2017-03-18,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2016-10-18,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2016-10-17,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2015-10-14,Papaya (Raw),313,Andaman & Nicobar Islands,35,Nicobars,638,3000,5000,4000

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-03,Copra,129,Tamil Nadu,33,Pudukkottai,621,6500,7000,6750
+2024-06-28,Copra,129,Tamil Nadu,33,Pudukkottai,621,5500,6000,5750
+2024-05-21,Copra,129,Tamil Nadu,33,Pudukkottai,621,8900,9150,9100
+2024-05-20,Copra,129,Tamil Nadu,33,Pudukkottai,621,8900,9150,9100
+2024-05-03,Copra,129,Tamil Nadu,33,Pudukkottai,621,7400,9150,9000
+2023-11-18,Copra,129,Tamil Nadu,33,Pudukkottai,621,9100,10595,10590

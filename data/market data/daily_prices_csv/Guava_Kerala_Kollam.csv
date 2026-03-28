@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-06,Guava,185,Kerala,32,Kollam,600,9000,9500,9200
+2016-04-29,Guava,185,Kerala,32,Kollam,600,5600,6000,5800
+2016-04-26,Guava,185,Kerala,32,Kollam,600,2400,3900,3600

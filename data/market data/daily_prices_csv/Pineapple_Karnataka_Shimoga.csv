@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-09,Pineapple,21,Karnataka,29,Shimoga,568,1000,1200,1100
+2015-11-19,Pineapple,21,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-11-18,Pineapple,21,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-11-16,Pineapple,21,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-07-14,Pineapple,21,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-03-11,Pineapple,21,Karnataka,29,Shimoga,568,900,1100,1000

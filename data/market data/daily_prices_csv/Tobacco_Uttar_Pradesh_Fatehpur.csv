@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-28,Tobacco,141,Uttar Pradesh,9,Fatehpur,172,800,1000,950
+2019-06-30,Tobacco,141,Uttar Pradesh,9,Fatehpur,172,1100,1300,1200

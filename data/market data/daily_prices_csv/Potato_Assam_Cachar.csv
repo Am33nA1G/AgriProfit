@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-30,Potato,24,Assam,18,Cachar,316,1700,2500,2100
+2022-04-11,Potato,24,Assam,18,Cachar,316,2500,3200,3000
+2022-04-08,Potato,24,Assam,18,Cachar,316,1800,1900,1850
+2022-03-17,Potato,24,Assam,18,Cachar,316,1500,1700,1600

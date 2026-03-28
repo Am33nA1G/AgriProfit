@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-20,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1200,1500,1300
+2023-12-19,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1500,2000,1800
+2023-12-16,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,2000,2500,2300
+2023-12-14,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1500,2000,1800
+2023-12-11,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1500,2000,1800
+2023-12-10,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1200,1500,1300
+2023-12-09,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1500,2000,1800
+2023-12-08,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,1500,2000,1800
+2023-12-02,Buffalo - He,216,Madhya Pradesh,23,Sheopur,418,800,1200,1000

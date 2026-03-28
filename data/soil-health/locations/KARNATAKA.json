@@ -1,0 +1,299 @@
+{
+  "BAGALKOTE": {
+    "BADAMI - 5753": [],
+    "BAGALKOT - 5754": [],
+    "BILAGI - 5755": [],
+    "GULEDAGUDDA - 7368": [],
+    "HUNGUND - 5756": [],
+    "ILKAL - 7369": [],
+    "JAMKHANDI - 5757": [],
+    "MUDHOL - 5758": [],
+    "RABAKAVI BANAHATTI - 7370": []
+  },
+  "BALLARI": {
+    "BALLARI - 5781": [],
+    "KAMPLI - 7375": [],
+    "KURUGODU - 7377": [],
+    "SANDUR - 5786": [],
+    "SIRUGUPPA - 5787": []
+  },
+  "BELAGAVI": {
+    "ATHNI - 5771": [],
+    "BELAGAVI - 5772": [],
+    "BYLAHONGAL - 5773": [],
+    "CHIKODI - 5774": [],
+    "GOKAK - 5775": [],
+    "HUKERI - 5776": [],
+    "KAGAWADA - 7372": [],
+    "KHANAPUR - 5777": [],
+    "KITTUR - 7364": [],
+    "MUDALAGI - 7373": [],
+    "NIPPANI - 7374": [],
+    "RAMDURG - 5779": [],
+    "RAYBAG - 5780": [],
+    "SAVADATHI - 5778": [],
+    "YARAGATTI - 7528": []
+  },
+  "BENGALURU RURAL": {
+    "DEVANHALLI - 5764": [],
+    "DODBALLAPUR - 5765": [],
+    "HOSKOTE - 5766": [],
+    "NELAMANGALA - 5769": []
+  },
+  "BENGALURU URBAN": {
+    "ANEKAL - 5759": [],
+    "BENGALURU EAST - 5760": [],
+    "BENGALURU NORTH - 5761": [],
+    "BENGALURU SOUTH - 5762": [],
+    "YELAHANKA - 7371": []
+  },
+  "BIDAR": {
+    "AURAD - 5788": [],
+    "BASAVAKALYAN - 5789": [],
+    "BHALKI - 5790": [],
+    "BIDAR - 5791": [],
+    "CHITTAGUPPA - 7430": [],
+    "HULASURU - 7431": [],
+    "HUMNABAD - 5792": [],
+    "KAMALANAGARA - 7432": []
+  },
+  "CHAMARAJANAGARA": {
+    "CHAMARAJANAGAR - 5798": [],
+    "GUNDLUPET - 5799": [],
+    "Hanuru - 7378": [],
+    "KOLLEGALA - 5800": [],
+    "YELANDUR - 5801": []
+  },
+  "CHIKKABALLAPURA": {
+    "BAGEPALLI - 5864": [],
+    "CHIKBALLAPUR - 5866": [],
+    "CHINTAMANI - 5867": [],
+    "GAURIBIDANUR - 5868": [],
+    "GUDIBANDA - 5869": [],
+    "SIDLAGHATTA - 5873": []
+  },
+  "CHIKKAMAGALURU": {
+    "AJJAMPURA - 7379": [],
+    "CHIKKAMAGALURU - 5802": [],
+    "KADUR - 5803": [],
+    "KALASA - 7497": [],
+    "KOPPA - 5804": [],
+    "MUDIGERE - 5805": [],
+    "NARASIMHARAJAPURA - 5806": [],
+    "SRINGERI - 5807": [],
+    "TARIKERE - 5808": []
+  },
+  "CHITRADURGA": {
+    "CHALLAKERE - 5809": [],
+    "CHITRADURGA - 5810": [],
+    "HIRIYUR - 5811": [],
+    "HOLALKERE - 5812": [],
+    "HOSDURGA - 5813": [],
+    "MOLAKALMURU - 5814": []
+  },
+  "DAKSHINA KANNADA": {
+    "BANTVAL - 5815": [],
+    "BELTANGADI - 5816": [],
+    "KADABA - 7427": [],
+    "MANGALURU - 5817": [],
+    "MUDUBIDARE - 7428": [],
+    "MULKI - 7498": [],
+    "PUTTUR - 5818": [],
+    "SULYA - 5819": [],
+    "ULLALA - 7499": []
+  },
+  "DAVANGERE": {
+    "CHANNAGIRI - 5820": [],
+    "DAVANAGERE - 5821": [],
+    "HARIHARA - 5823": [],
+    "HONNALI - 5824": [],
+    "JAGALUR - 5825": [],
+    "NYAMATHI - 7426": []
+  },
+  "DHARWAD": {
+    "ALNAVAR - 7423": [],
+    "ANNIGERI - 7425": [],
+    "DHARWAD - 5826": [],
+    "HUBBALLI - 5827": [],
+    "KALGHATGI - 5828": [],
+    "KUNDGOL - 5829": [],
+    "NAVALGUND - 5830": []
+  },
+  "GADAG": {
+    "GADAG - 5831": [],
+    "GAJENDRAGAD - 7421": [],
+    "LAXMESHWAR - 7422": [],
+    "MUNDARAGI - 5832": [],
+    "NARAGUND - 5833": [],
+    "RON - 5834": [],
+    "SHIRAHATTI - 5835": []
+  },
+  "HASSAN": {
+    "ALUR - 5846": [],
+    "ARKALGUD - 5847": [],
+    "ARSIKERE - 5848": [],
+    "BELUR - 5849": [],
+    "CHANNARAYAPATNA - 5850": [],
+    "HASSAN - 5851": [],
+    "HOLENARSIPUR - 5852": [],
+    "SAKALESHPUR - 5853": []
+  },
+  "HAVERI": {
+    "BYADGI - 5854": [],
+    "HANAGAL - 5855": [],
+    "HAVERI - 5856": [],
+    "HIREKERUR - 5857": [],
+    "RANEBENNUR - 5858": [],
+    "RATTIHALLI - 7420": [],
+    "SAVANUR - 5859": [],
+    "SHIGGAON - 5860": []
+  },
+  "KALABURAGI": {
+    "AFZALPUR - 5836": [],
+    "ALAND - 5837": [],
+    "CHINCHOLI - 5838": [],
+    "CHITAPUR - 5839": [],
+    "JEVARGI - 5841": [],
+    "KALABURAGI - 5840": [],
+    "KALAGI - 7406": [],
+    "KAMALAPUR - 7407": [],
+    "SEDAM - 5842": [],
+    "SHABAD - 7408": [],
+    "YADRAMI - 7409": []
+  },
+  "KODAGU": {
+    "KUSHALANAGAR - 7488": [],
+    "MADIKERI - 5861": [],
+    "PONNAMPET - 7489": [],
+    "SOMVARPET - 5862": [],
+    "VIRAJPET - 5863": []
+  },
+  "KOLAR": {
+    "BANGARAPET - 5865": [],
+    "K G F - 7363": [],
+    "KOLAR - 5870": [],
+    "MALUR - 5871": [],
+    "MULBAGAL - 5872": [],
+    "SRINIVASPUR - 5874": []
+  },
+  "KOPPAL": {
+    "GANGAVATHI - 5875": [],
+    "KANAKAGIRI - 7410": [],
+    "KARATAGI - 7411": [],
+    "KOPPAL - 5876": [],
+    "KUKUNOOR - 7412": [],
+    "KUSHTAGI - 5877": [],
+    "YELBURGA - 5878": []
+  },
+  "MANDYA": {
+    "KRISHNARAJPET - 5879": [],
+    "MADDUR - 5880": [],
+    "MALVALLI - 5881": [],
+    "MANDYA - 5882": [],
+    "NAGAMANGALA - 5883": [],
+    "PANDAVAPURA - 5884": [],
+    "SHRIRANGAPATTANA - 5885": []
+  },
+  "MYSURU": {
+    "HEGGADADEVANKOTE - 5886": [],
+    "HUNSUR - 5887": [],
+    "KRISHNARAJANAGARA - 5888": [],
+    "MYSURU - 5889": [],
+    "NANJANGUD - 5890": [],
+    "PIRIYAPATNA - 5891": [],
+    "SALIGRAMA - 7500": [],
+    "SARAGURU - 7413": [],
+    "TIRUMAKUDAL-NARSIPUR - 5892": []
+  },
+  "RAICHUR": {
+    "DEVADURGA - 5893": [],
+    "LINGSUGUR - 5894": [],
+    "MANVI - 5895": [],
+    "MASKI - 7414": [],
+    "RAICHUR - 5896": [],
+    "SINDHANUR - 5897": [],
+    "SIRAWARA - 7415": []
+  },
+  "RAMANAGARA": {
+    "CHANNAPATNA - 5763": [],
+    "HAROHALLI - 7529": [],
+    "KANAKAPURA - 5767": [],
+    "MAGADI - 5768": [],
+    "RAMANAGARA - 5770": []
+  },
+  "SHIVAMOGGA": {
+    "BHADRAVATI - 5898": [],
+    "HOSANAGARA - 5899": [],
+    "SAGAR - 5900": [],
+    "SHIKARPUR - 5901": [],
+    "SHIVAMOGGA - 5902": [],
+    "SORAB - 5903": [],
+    "TIRTHAHALLI - 5904": []
+  },
+  "TUMAKURU": {
+    "CHIKNAYAKANHALLI - 5905": [],
+    "GUBBI - 5906": [],
+    "KORATAGERE - 5907": [],
+    "KUNIGAL - 5908": [],
+    "MADHUGIRI - 5909": [],
+    "PAVAGADA - 5910": [],
+    "SIRA - 5911": [],
+    "TIPTUR - 5912": [],
+    "TUMAKURU - 5913": [],
+    "TURUVEKERE - 5914": []
+  },
+  "UDUPI": {
+    "BAINDURU - 7417": [],
+    "BRAHMAVARA - 7416": [],
+    "HEBRI - 7433": [],
+    "KAPU - 7434": [],
+    "KARKAL - 5915": [],
+    "KUNDAPURA - 5916": [],
+    "UDUPI - 5917": []
+  },
+  "UTTARA KANNADA": {
+    "ANKOLA - 5918": [],
+    "BHATKAL - 5919": [],
+    "DANDELI - 7400": [],
+    "HALIYAL - 5920": [],
+    "HONAVAR - 5921": [],
+    "KARWAR - 5922": [],
+    "KUMTA - 5923": [],
+    "MUNDGOD - 5924": [],
+    "SIDDAPUR - 5925": [],
+    "SIRSI - 5926": [],
+    "SUPA - 5927": [],
+    "YELLAPUR - 5928": []
+  },
+  "VIJAYANAGAR": {
+    "HADAGALLI - 5782": [],
+    "HAGARIBOMMANAHALLI - 5783": [],
+    "HARAPPANAHALLI - 5822": [],
+    "HOSAPETE - 5784": [],
+    "KOTTUR - 7376": [],
+    "KUDLIGI - 5785": []
+  },
+  "VIJAYAPURA": {
+    "ALMEL - 7485": [],
+    "BABALESHWAR - 7392": [],
+    "BASAVANA BAGEWADI - 5793": [],
+    "CHADACHAN - 7393": [],
+    "DEVARA HIPPARAGI - 7394": [],
+    "INDI - 5795": [],
+    "KOLHAR - 7395": [],
+    "MUDDEBIHAL - 5796": [],
+    "NIDAGUNDI - 7396": [],
+    "SINDAGI - 5797": [],
+    "THALIKOTI - 7398": [],
+    "THIKOTA - 7399": [],
+    "VIJAYAPURA - 5794": []
+  },
+  "YADGIR": {
+    "GURUMITKAL - 7388": [],
+    "HUNASAGI - 7390": [],
+    "SHAHAPUR - 5843": [],
+    "SHORAPUR - 5844": [],
+    "WADAGERA - 7389": [],
+    "YADGIR - 5845": []
+  }
+}

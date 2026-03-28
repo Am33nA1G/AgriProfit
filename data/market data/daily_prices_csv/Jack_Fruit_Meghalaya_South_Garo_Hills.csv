@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-28,Jack Fruit,182,Meghalaya,17,South Garo Hills,295,700,1000,850
+2015-05-27,Jack Fruit,182,Meghalaya,17,South Garo Hills,295,600,1000,800
+2015-05-07,Jack Fruit,182,Meghalaya,17,South Garo Hills,295,800,1000,900
+2015-04-30,Jack Fruit,182,Meghalaya,17,South Garo Hills,295,1000,1500,1250

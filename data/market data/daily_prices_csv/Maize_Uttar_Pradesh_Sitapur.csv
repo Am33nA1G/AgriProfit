@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-04,Maize,4,Uttar Pradesh,9,Sitapur,154,1100,1250,1200
+2018-03-26,Maize,4,Uttar Pradesh,9,Sitapur,154,1200,1250,1230
+2018-03-21,Maize,4,Uttar Pradesh,9,Sitapur,154,1100,1210,1170
+2018-03-08,Maize,4,Uttar Pradesh,9,Sitapur,154,1100,1220,1185
+2018-03-07,Maize,4,Uttar Pradesh,9,Sitapur,154,1150,1240,1200
+2018-02-28,Maize,4,Uttar Pradesh,9,Sitapur,154,1040,1240,1190
+2018-02-27,Maize,4,Uttar Pradesh,9,Sitapur,154,1050,1250,1200
+2018-02-17,Maize,4,Uttar Pradesh,9,Sitapur,154,1100,1220,1200
+2018-02-16,Maize,4,Uttar Pradesh,9,Sitapur,154,1110,1230,1210
+2018-02-07,Maize,4,Uttar Pradesh,9,Sitapur,154,,,1150
+2018-01-04,Maize,4,Uttar Pradesh,9,Sitapur,154,1100,1250,1180
+2017-03-08,Maize,4,Uttar Pradesh,9,Sitapur,154,,,1330
+2016-08-20,Maize,4,Uttar Pradesh,9,Sitapur,154,,,1360
+2015-02-06,Maize,4,Uttar Pradesh,9,Sitapur,154,1300,1400,1350

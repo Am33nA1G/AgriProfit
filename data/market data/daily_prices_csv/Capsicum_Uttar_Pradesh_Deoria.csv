@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-09,Capsicum,164,Uttar Pradesh,9,Deoria,190,3700,3850,3780
+2019-07-30,Capsicum,164,Uttar Pradesh,9,Deoria,190,3680,3750,3710
+2019-07-22,Capsicum,164,Uttar Pradesh,9,Deoria,190,3550,3750,3700
+2019-04-25,Capsicum,164,Uttar Pradesh,9,Deoria,190,2150,2190,2180

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-14,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1500,1500,1500
+2025-06-16,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,5000,3000
+2025-06-14,Jack Fruit,182,Kerala,32,Pathanamthitta,599,5500,6500,6000
+2025-06-13,Jack Fruit,182,Kerala,32,Pathanamthitta,599,3250,3750,3500
+2025-06-12,Jack Fruit,182,Kerala,32,Pathanamthitta,599,6000,7000,6500
+2025-06-03,Jack Fruit,182,Kerala,32,Pathanamthitta,599,300,1100,500
+2025-06-01,Jack Fruit,182,Kerala,32,Pathanamthitta,599,500,4000,1700
+2025-05-06,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,4000,1900
+2025-04-22,Jack Fruit,182,Kerala,32,Pathanamthitta,599,900,1800,1400
+2025-04-05,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,3100,1700
+2025-04-02,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1400,1600,1500
+2025-03-29,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,1500,1200
+2025-03-21,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1200,1800,1500
+2025-03-17,Jack Fruit,182,Kerala,32,Pathanamthitta,599,3000,6100,3900
+2025-03-05,Jack Fruit,182,Kerala,32,Pathanamthitta,599,20,20,20
+2025-03-01,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,1500,1200
+2025-02-26,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,2000,1400
+2025-01-25,Jack Fruit,182,Kerala,32,Pathanamthitta,599,21,21,21
+2025-01-14,Jack Fruit,182,Kerala,32,Pathanamthitta,599,1000,2000,1500
+2024-06-03,Jack Fruit,182,Kerala,32,Pathanamthitta,599,0,0,2500

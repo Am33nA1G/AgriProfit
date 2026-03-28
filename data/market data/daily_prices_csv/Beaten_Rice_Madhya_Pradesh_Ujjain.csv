@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-08,Beaten Rice,262,Madhya Pradesh,23,Ujjain,435,1840,1840,1840
+2018-12-19,Beaten Rice,262,Madhya Pradesh,23,Ujjain,435,2727,3381,3238
+2018-11-16,Beaten Rice,262,Madhya Pradesh,23,Ujjain,435,3852,3852,3852

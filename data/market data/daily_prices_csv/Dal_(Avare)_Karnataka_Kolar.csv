@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-22,Dal (Avare),91,Karnataka,29,Kolar,581,2800,3100,3000
+2016-02-17,Dal (Avare),91,Karnataka,29,Kolar,581,2500,2700,2600
+2016-02-15,Dal (Avare),91,Karnataka,29,Kolar,581,2500,3000,2800
+2015-10-13,Dal (Avare),91,Karnataka,29,Kolar,581,3500,4200,3800
+2015-06-28,Dal (Avare),91,Karnataka,29,Kolar,581,5200,6140,5800
+2015-04-11,Dal (Avare),91,Karnataka,29,Kolar,581,3100,3500,3350
+2015-03-09,Dal (Avare),91,Karnataka,29,Kolar,581,3250,3500,3450
+2015-03-02,Dal (Avare),91,Karnataka,29,Kolar,581,3100,3700,3600
+2015-02-23,Dal (Avare),91,Karnataka,29,Kolar,581,3500,4000,3800
+2015-02-16,Dal (Avare),91,Karnataka,29,Kolar,581,3500,4100,4000
+2015-02-09,Dal (Avare),91,Karnataka,29,Kolar,581,3500,4020,3850
+2015-02-02,Dal (Avare),91,Karnataka,29,Kolar,581,3200,3650,3500

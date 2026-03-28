@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-22,Papaya,72,Assam,18,Kamrup Metropolitan,322,3150,3150,3150
+2023-12-15,Papaya,72,Assam,18,Kamrup Metropolitan,322,4633.333333333333,4633.333333333333,4633.333333333333
+2023-12-14,Papaya,72,Assam,18,Kamrup Metropolitan,322,4800,4800,4800
+2023-12-13,Papaya,72,Assam,18,Kamrup Metropolitan,322,4800,4800,4800
+2023-12-12,Papaya,72,Assam,18,Kamrup Metropolitan,322,4833.333333333333,4833.333333333333,4833.333333333333
+2023-12-11,Papaya,72,Assam,18,Kamrup Metropolitan,322,5000,5000,5000

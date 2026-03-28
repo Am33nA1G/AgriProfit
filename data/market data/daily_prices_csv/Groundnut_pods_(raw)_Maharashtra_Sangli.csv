@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-30,Groundnut pods (raw),312,Maharashtra,27,Sangli,531,3500,5500,4400
+2017-08-22,Groundnut pods (raw),312,Maharashtra,27,Sangli,531,4450,4500,4450
+2017-08-15,Groundnut pods (raw),312,Maharashtra,27,Sangli,531,4900,5000,4950
+2016-09-11,Groundnut pods (raw),312,Maharashtra,27,Sangli,531,5000,6000,5500

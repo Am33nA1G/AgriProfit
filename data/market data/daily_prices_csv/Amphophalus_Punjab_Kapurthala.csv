@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-31,Amphophalus,102,Punjab,3,Kapurthala,36,486,1147,965
+2023-07-01,Amphophalus,102,Punjab,3,Kapurthala,36,1700,7958,4175
+2019-12-12,Amphophalus,102,Punjab,3,Kapurthala,36,1500,2019,1500
+2019-07-19,Amphophalus,102,Punjab,3,Kapurthala,36,1000,1000,1000
+2019-06-18,Amphophalus,102,Punjab,3,Kapurthala,36,700,1082,910
+2018-05-15,Amphophalus,102,Punjab,3,Kapurthala,36,2000,2000,2000
+2017-04-24,Amphophalus,102,Punjab,3,Kapurthala,36,650,1100,875
+2016-11-24,Amphophalus,102,Punjab,3,Kapurthala,36,500,1100,1000
+2016-05-13,Amphophalus,102,Punjab,3,Kapurthala,36,500,1000,850
+2015-11-18,Amphophalus,102,Punjab,3,Kapurthala,36,800,900,850
+2015-01-17,Amphophalus,102,Punjab,3,Kapurthala,36,350,520,435

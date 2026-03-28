@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-25,Beetroot,157,Uttarakhand,5,Garhwal,61,600,800,700
+2023-06-23,Beetroot,157,Uttarakhand,5,Garhwal,61,1100,1300,1200

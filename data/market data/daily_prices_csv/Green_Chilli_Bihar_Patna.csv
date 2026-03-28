@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-25,Green Chilli,87,Bihar,10,Patna,230,3500,4200,4000
+2022-10-13,Green Chilli,87,Bihar,10,Patna,230,3500,4200,3800
+2022-10-10,Green Chilli,87,Bihar,10,Patna,230,3500,4200,3800
+2022-10-08,Green Chilli,87,Bihar,10,Patna,230,3000,3400,3200
+2022-10-05,Green Chilli,87,Bihar,10,Patna,230,3400,3800,3600
+2022-10-03,Green Chilli,87,Bihar,10,Patna,230,3200,4000,3500
+2022-09-25,Green Chilli,87,Bihar,10,Patna,230,3200,3500,3400
+2022-09-24,Green Chilli,87,Bihar,10,Patna,230,3000,3500,3200
+2022-09-22,Green Chilli,87,Bihar,10,Patna,230,2800,3400,3000
+2022-09-16,Green Chilli,87,Bihar,10,Patna,230,4000,4500,4200
+2022-08-19,Green Chilli,87,Bihar,10,Patna,230,2200,2600,2400
+2022-07-18,Green Chilli,87,Bihar,10,Patna,230,4500,5000,4800
+2022-06-30,Green Chilli,87,Bihar,10,Patna,230,4500,5000,4800
+2022-06-24,Green Chilli,87,Bihar,10,Patna,230,4500,5000,4800
+2022-06-22,Green Chilli,87,Bihar,10,Patna,230,4200,4600,4400
+2022-06-20,Green Chilli,87,Bihar,10,Patna,230,4200,4800,4500
+2022-06-03,Green Chilli,87,Bihar,10,Patna,230,4400,4800,4600
+2022-05-30,Green Chilli,87,Bihar,10,Patna,230,4000,4500,4200
+2022-05-27,Green Chilli,87,Bihar,10,Patna,230,3900,4200,4000
+2022-05-25,Green Chilli,87,Bihar,10,Patna,230,4000,4500,4200
+2022-04-06,Green Chilli,87,Bihar,10,Patna,230,4000,5000,4500
+2022-04-05,Green Chilli,87,Bihar,10,Patna,230,4000,5000,4500
+2022-03-26,Green Chilli,87,Bihar,10,Patna,230,6800,7500,7000
+2022-03-05,Green Chilli,87,Bihar,10,Patna,230,6000,7000,6500
+2022-02-25,Green Chilli,87,Bihar,10,Patna,230,4500,5000,4800
+2022-02-09,Green Chilli,87,Bihar,10,Patna,230,4000,5000,4500

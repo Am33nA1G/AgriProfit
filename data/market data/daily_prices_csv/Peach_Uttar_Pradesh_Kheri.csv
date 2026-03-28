@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-04,Peach,331,Uttar Pradesh,9,Kheri,153,0.1,0.1,0.1
+2019-04-01,Peach,331,Uttar Pradesh,9,Kheri,153,2120,2280,2200

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-09,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,1085,1150,1120
+2020-12-19,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,1590,1630,1615
+2019-07-16,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,1300,1390,1330
+2019-07-13,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,1340,1400,1385
+2017-06-12,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,575,625,600
+2016-10-02,Bitter gourd,81,Uttar Pradesh,9,Hamirpur,168,900,1000,950

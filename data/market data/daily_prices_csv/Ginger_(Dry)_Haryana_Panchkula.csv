@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-05,Ginger (Dry),27,Haryana,6,Panchkula,69,4000,4000,4000
+2022-11-02,Ginger (Dry),27,Haryana,6,Panchkula,69,2000,2000,2000
+2017-08-26,Ginger (Dry),27,Haryana,6,Panchkula,69,2500,2500,2500
+2016-08-27,Ginger (Dry),27,Haryana,6,Panchkula,69,2200,2200,2200
+2016-08-25,Ginger (Dry),27,Haryana,6,Panchkula,69,2000,2000,2000

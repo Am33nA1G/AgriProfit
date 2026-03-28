@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-15,Kakada,230,Maharashtra,27,Thane,517,18000,20000,20000
+2016-01-05,Kakada,230,Maharashtra,27,Thane,517,16000,20000,18000
+2016-01-04,Kakada,230,Maharashtra,27,Thane,517,16000,25000,23000
+2015-12-31,Kakada,230,Maharashtra,27,Thane,517,5000,6000,5000

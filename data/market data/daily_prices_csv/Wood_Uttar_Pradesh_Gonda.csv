@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-23,Wood,203,Uttar Pradesh,9,Gonda,183,300,450,400
+2025-08-22,Wood,203,Uttar Pradesh,9,Gonda,183,300,450,400
+2025-08-20,Wood,203,Uttar Pradesh,9,Gonda,183,400,500,430
+2025-08-19,Wood,203,Uttar Pradesh,9,Gonda,183,300,450,400

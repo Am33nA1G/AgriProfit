@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-18,Mango (Raw-Ripe),172,Gujarat,24,Junagadh,479,6000,6030,6020
+2016-08-21,Mango (Raw-Ripe),172,Gujarat,24,Junagadh,479,6000,6040,6030
+2015-05-20,Mango (Raw-Ripe),172,Gujarat,24,Junagadh,479,1900,4000,2800
+2015-05-19,Mango (Raw-Ripe),172,Gujarat,24,Junagadh,479,1750,3500,2500

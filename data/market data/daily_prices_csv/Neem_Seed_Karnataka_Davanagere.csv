@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-13,Neem Seed,126,Karnataka,29,Davanagere,567,1100,1200,1150
+2020-01-03,Neem Seed,126,Karnataka,29,Davanagere,567,1000,1200,1100
+2017-12-15,Neem Seed,126,Karnataka,29,Davanagere,567,990,1000,995
+2017-01-20,Neem Seed,126,Karnataka,29,Davanagere,567,2000,2200,2100

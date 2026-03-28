@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-31,Apple,17,Bihar,10,Bhojpur,231,6000,8000,7000
+2023-01-25,Apple,17,Bihar,10,Bhojpur,231,4000,6000,5000
+2022-12-31,Apple,17,Bihar,10,Bhojpur,231,4000,6000,5000
+2022-12-24,Apple,17,Bihar,10,Bhojpur,231,4000,6000,5000
+2022-12-22,Apple,17,Bihar,10,Bhojpur,231,4000,6000,5000

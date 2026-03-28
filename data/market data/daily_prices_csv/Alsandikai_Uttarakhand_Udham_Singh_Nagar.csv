@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-19,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,1240,1250,1245
+2018-06-23,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,600,1000,719
+2016-02-22,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,700,900,800
+2016-02-21,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,700,900,800
+2015-12-13,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,400,600,500
+2015-03-08,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,800,1000,900
+2015-02-14,Alsandikai,166,Uttarakhand,5,Udham Singh Nagar,67,600,800,700

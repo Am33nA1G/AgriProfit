@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-01,Sweet Pumpkin,173,Uttarakhand,5,Udham Singh Nagar,67,280,320,300
+2017-04-26,Sweet Pumpkin,173,Uttarakhand,5,Udham Singh Nagar,67,280,320,300
+2017-03-28,Sweet Pumpkin,173,Uttarakhand,5,Udham Singh Nagar,67,550,650,600
+2016-04-29,Sweet Pumpkin,173,Uttarakhand,5,Udham Singh Nagar,67,250,350,300
+2015-07-28,Sweet Pumpkin,173,Uttarakhand,5,Udham Singh Nagar,67,600,800,700

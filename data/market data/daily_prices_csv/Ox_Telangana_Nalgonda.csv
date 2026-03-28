@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-18,Ox,213,Telangana,36,Nalgonda,539,15000,25000,20000
+2016-01-18,Ox,213,Telangana,36,Nalgonda,539,17500,20000,20000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-15,Tamarind Seed,208,Odisha,21,Nabarangapur,397,500,500,500
+2015-05-14,Tamarind Seed,208,Odisha,21,Nabarangapur,397,1200,1200,1200
+2015-05-06,Tamarind Seed,208,Odisha,21,Nabarangapur,397,600,600,600

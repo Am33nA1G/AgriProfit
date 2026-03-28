@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-26,Jowar (Sorghum),5,Chhattisgarh,22,Bastar,414,1800,2100,1950
+2016-02-02,Jowar (Sorghum),5,Chhattisgarh,22,Bastar,414,1300,1300,1300
+2016-01-19,Jowar (Sorghum),5,Chhattisgarh,22,Bastar,414,1400,1400,1400
+2016-01-06,Jowar (Sorghum),5,Chhattisgarh,22,Bastar,414,1200,1200,1200

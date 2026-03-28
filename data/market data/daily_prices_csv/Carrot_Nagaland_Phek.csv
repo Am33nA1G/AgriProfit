@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-28,Carrot,153,Nagaland,13,Phek,266,1600,2000,1800
+2023-04-21,Carrot,153,Nagaland,13,Phek,266,1500,1700,1600
+2023-04-14,Carrot,153,Nagaland,13,Phek,266,1500,1700,1600
+2023-04-08,Carrot,153,Nagaland,13,Phek,266,1500,1700,1600
+2023-03-31,Carrot,153,Nagaland,13,Phek,266,1500,1700,1600
+2023-03-17,Carrot,153,Nagaland,13,Phek,266,1500,1700,1600
+2023-03-10,Carrot,153,Nagaland,13,Phek,266,1600,1800,1700
+2023-03-03,Carrot,153,Nagaland,13,Phek,266,1500,1900,1700

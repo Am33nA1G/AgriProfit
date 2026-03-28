@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-22,Dry Grapes,278,Kerala,32,Idukki,596,12000,15000,13000
+2023-07-15,Dry Grapes,278,Kerala,32,Idukki,596,12000,15000,14000
+2023-06-19,Dry Grapes,278,Kerala,32,Idukki,596,45000,70000,60000

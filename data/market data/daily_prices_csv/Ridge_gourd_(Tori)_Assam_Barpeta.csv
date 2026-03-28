@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-24,Ridge gourd (Tori),160,Assam,18,Barpeta,303,3200,3500,3200
+2022-05-21,Ridge gourd (Tori),160,Assam,18,Barpeta,303,1500,1800,1600
+2022-05-20,Ridge gourd (Tori),160,Assam,18,Barpeta,303,2200,2500,2400
+2022-05-12,Ridge gourd (Tori),160,Assam,18,Barpeta,303,4000,6000,4500
+2022-05-09,Ridge gourd (Tori),160,Assam,18,Barpeta,303,1800,2000,1900
+2022-05-04,Ridge gourd (Tori),160,Assam,18,Barpeta,303,2500,2600,2500
+2022-04-19,Ridge gourd (Tori),160,Assam,18,Barpeta,303,4000,4500,4200

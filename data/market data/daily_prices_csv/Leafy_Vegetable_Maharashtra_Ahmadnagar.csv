@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-19,Leafy Vegetable,171,Maharashtra,27,Ahmadnagar,522,800,3500,2000
+2016-06-30,Leafy Vegetable,171,Maharashtra,27,Ahmadnagar,522,1500,3500,2500

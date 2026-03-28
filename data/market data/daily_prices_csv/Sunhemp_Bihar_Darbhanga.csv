@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-08,Sunhemp,139,Bihar,10,Darbhanga,215,1350,1600,1450
+2015-08-03,Sunhemp,139,Bihar,10,Darbhanga,215,1300,1700,1400
+2015-07-25,Sunhemp,139,Bihar,10,Darbhanga,215,1300,1700,1400

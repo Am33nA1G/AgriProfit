@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-27,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,530,1550,821
+2025-10-25,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,535,1560,849
+2025-10-24,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,535,1560,878
+2025-10-23,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,530,1550,859
+2025-10-16,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,530,1550,842
+2025-10-15,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,525,1540,851
+2025-10-14,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,500,1550,873
+2025-10-11,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,515,1560,892
+2025-10-09,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,490,1570,852
+2025-10-08,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,480,1575,847
+2025-10-03,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,475,1540,837
+2025-09-28,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,500,1975,938
+2025-09-27,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,515,1960,952
+2025-09-26,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,500,1980,956
+2025-09-25,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,515,2000,939
+2025-09-24,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,500,1980,928
+2025-09-23,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,515,1950,919
+2025-09-22,Cowpea (Veg),89,Madhya Pradesh,23,Ujjain,435,510,1975,951

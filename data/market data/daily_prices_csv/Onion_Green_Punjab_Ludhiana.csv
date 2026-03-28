@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-14,Onion Green,358,Punjab,3,Ludhiana,41,900,900,900
+2021-07-10,Onion Green,358,Punjab,3,Ludhiana,41,2100,2400,2200
+2020-04-06,Onion Green,358,Punjab,3,Ludhiana,41,1000,1000,1000

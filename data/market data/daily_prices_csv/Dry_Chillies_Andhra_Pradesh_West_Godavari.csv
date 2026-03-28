@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-11,Dry Chillies,132,Andhra Pradesh,28,West Godavari,546,18000,19000,18500
+2017-04-10,Dry Chillies,132,Andhra Pradesh,28,West Godavari,546,18000,19000,18500
+2017-04-09,Dry Chillies,132,Andhra Pradesh,28,West Godavari,546,18000,19000,18500

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-07,Chili Red,26,Kerala,32,Kollam,600,4600,4800,4700
+2016-11-03,Chili Red,26,Kerala,32,Kollam,600,1200,1200,1200
+2016-11-02,Chili Red,26,Kerala,32,Kollam,600,2000,2000,2000

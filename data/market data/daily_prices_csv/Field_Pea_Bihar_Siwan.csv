@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-09,Field Pea,64,Bihar,10,Siwan,218,1900,2100,2000
+2022-03-08,Field Pea,64,Bihar,10,Siwan,218,1900,2050,2000
+2022-03-05,Field Pea,64,Bihar,10,Siwan,218,2200,2500,2400
+2022-03-04,Field Pea,64,Bihar,10,Siwan,218,2200,2500,2400
+2022-03-03,Field Pea,64,Bihar,10,Siwan,218,2300,2450,2400
+2022-03-02,Field Pea,64,Bihar,10,Siwan,218,2300,2400,2350
+2022-02-28,Field Pea,64,Bihar,10,Siwan,218,2000,2400,2200
+2022-02-26,Field Pea,64,Bihar,10,Siwan,218,2000,2300,2200
+2022-02-25,Field Pea,64,Bihar,10,Siwan,218,2470,2550,2500
+2022-02-22,Field Pea,64,Bihar,10,Siwan,218,2300,2450,2400
+2022-02-18,Field Pea,64,Bihar,10,Siwan,218,2400,2600,2500
+2022-02-17,Field Pea,64,Bihar,10,Siwan,218,3000,3300,3200
+2022-02-11,Field Pea,64,Bihar,10,Siwan,218,2550,2700,2600

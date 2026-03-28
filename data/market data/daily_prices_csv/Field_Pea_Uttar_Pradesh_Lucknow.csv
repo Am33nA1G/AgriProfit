@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-25,Field Pea,64,Uttar Pradesh,9,Lucknow,157,2860,2940,2900
+2015-04-08,Field Pea,64,Uttar Pradesh,9,Lucknow,157,3000,3050,3025
+2015-03-31,Field Pea,64,Uttar Pradesh,9,Lucknow,157,2920,3000,2980
+2015-03-17,Field Pea,64,Uttar Pradesh,9,Lucknow,157,3120,3190,3160
+2015-03-13,Field Pea,64,Uttar Pradesh,9,Lucknow,157,3100,3150,3125
+2015-03-12,Field Pea,64,Uttar Pradesh,9,Lucknow,157,3050,3140,3100
+2015-03-11,Field Pea,64,Uttar Pradesh,9,Lucknow,157,3060,3150,3100

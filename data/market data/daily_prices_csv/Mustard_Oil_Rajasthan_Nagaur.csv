@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-26,Mustard Oil,324,Rajasthan,8,Nagaur,112,3100,3100,3100
+2015-03-25,Mustard Oil,324,Rajasthan,8,Nagaur,112,3131,3160,3150
+2015-03-24,Mustard Oil,324,Rajasthan,8,Nagaur,112,3160,3160,3160
+2015-03-23,Mustard Oil,324,Rajasthan,8,Nagaur,112,3000,3170,3150
+2015-03-16,Mustard Oil,324,Rajasthan,8,Nagaur,112,3100,3100,3100
+2015-03-12,Mustard Oil,324,Rajasthan,8,Nagaur,112,3150,3150,3150
+2015-02-10,Mustard Oil,324,Rajasthan,8,Nagaur,112,2911,2911,2911
+2015-01-15,Mustard Oil,324,Rajasthan,8,Nagaur,112,3400,3400,3400

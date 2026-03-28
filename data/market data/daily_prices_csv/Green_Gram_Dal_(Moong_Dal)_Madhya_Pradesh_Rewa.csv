@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-05,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Rewa,430,5000,5000,5000
+2024-10-17,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Rewa,430,5200,5200,5200
+2022-07-31,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Rewa,430,4000,4500,4500

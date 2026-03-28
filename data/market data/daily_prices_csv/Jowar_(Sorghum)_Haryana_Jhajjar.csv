@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-08,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,2500,2600,2550
+2015-03-28,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,1650,1650,1650
+2015-03-27,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,2100,2100,2100
+2015-02-25,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,3100,3300,3200
+2015-02-11,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,3000,3200,3100
+2015-02-09,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,3000,3200,3100
+2015-02-01,Jowar (Sorghum),5,Haryana,6,Jhajjar,83,1575,1575,1575

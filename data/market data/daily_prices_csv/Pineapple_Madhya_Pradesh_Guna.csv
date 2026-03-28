@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-30,Pineapple,21,Madhya Pradesh,23,Guna,458,900,1000,950
+2017-10-29,Pineapple,21,Madhya Pradesh,23,Guna,458,900,900,900
+2017-10-28,Pineapple,21,Madhya Pradesh,23,Guna,458,800,950,800
+2017-10-27,Pineapple,21,Madhya Pradesh,23,Guna,458,800,900,900
+2017-10-26,Pineapple,21,Madhya Pradesh,23,Guna,458,700,800,800
+2017-10-25,Pineapple,21,Madhya Pradesh,23,Guna,458,800,900,900
+2017-10-24,Pineapple,21,Madhya Pradesh,23,Guna,458,700,700,700

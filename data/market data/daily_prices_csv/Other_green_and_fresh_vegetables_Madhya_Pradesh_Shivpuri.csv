@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-16,Other green and fresh vegetables,420,Madhya Pradesh,23,Shivpuri,423,300,300,300
+2024-11-14,Other green and fresh vegetables,420,Madhya Pradesh,23,Shivpuri,423,800,1500,1500
+2024-10-05,Other green and fresh vegetables,420,Madhya Pradesh,23,Shivpuri,423,1150,1150,1150

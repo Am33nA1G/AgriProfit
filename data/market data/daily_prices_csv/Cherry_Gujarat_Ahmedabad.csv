@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-27,Cherry,328,Gujarat,24,Ahmedabad,474,16000,19000,18000
+2015-06-18,Cherry,328,Gujarat,24,Ahmedabad,474,7000,10000,9000

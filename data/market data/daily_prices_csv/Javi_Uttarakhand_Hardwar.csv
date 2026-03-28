@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-11,Javi,250,Uttarakhand,5,Hardwar,68,1400,1500,1450
+2015-08-06,Javi,250,Uttarakhand,5,Hardwar,68,1400,1500,1450
+2015-06-15,Javi,250,Uttarakhand,5,Hardwar,68,1250,1500,1400
+2015-06-12,Javi,250,Uttarakhand,5,Hardwar,68,1400,1600,1500

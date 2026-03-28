@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-04,French Beans (Frasbean),298,Andhra Pradesh,28,West Godavari,546,4000,4000,4000
+2015-10-28,French Beans (Frasbean),298,Andhra Pradesh,28,West Godavari,546,5600,5600,5600
+2015-10-23,French Beans (Frasbean),298,Andhra Pradesh,28,West Godavari,546,5600,5600,5600
+2015-10-22,French Beans (Frasbean),298,Andhra Pradesh,28,West Godavari,546,5400,5400,5400

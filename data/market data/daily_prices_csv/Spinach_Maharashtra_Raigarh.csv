@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-05,Spinach,342,Maharashtra,27,Raigarh,520,15,17,16
+2020-08-03,Spinach,342,Maharashtra,27,Raigarh,520,7,9,8

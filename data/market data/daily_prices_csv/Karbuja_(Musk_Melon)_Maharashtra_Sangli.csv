@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-11,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,2800,2900,2800
+2025-09-09,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,2800,3600,3200
+2025-09-05,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,3200,4400,3800
+2025-09-04,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,3000,4800,3900
+2025-08-29,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,3800,4500,4100
+2025-05-16,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,300,1200,700
+2025-03-07,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,1000,3000,2000
+2024-09-19,Karbuja (Musk Melon),187,Maharashtra,27,Sangli,531,500,1000,700

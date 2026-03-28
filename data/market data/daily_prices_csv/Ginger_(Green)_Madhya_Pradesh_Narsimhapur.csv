@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-06,Ginger (Green),103,Madhya Pradesh,23,Narsimhapur,452,8000,8000,8000
+2019-03-04,Ginger (Green),103,Madhya Pradesh,23,Narsimhapur,452,7000,7000,7000
+2019-03-03,Ginger (Green),103,Madhya Pradesh,23,Narsimhapur,452,8000,8000,8000
+2019-03-02,Ginger (Green),103,Madhya Pradesh,23,Narsimhapur,452,6200,6200,6200
+2019-03-01,Ginger (Green),103,Madhya Pradesh,23,Narsimhapur,452,8000,8000,8000

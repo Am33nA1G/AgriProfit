@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-20,Guava,185,Uttar Pradesh,9,Kaushambi,174,1550,1750,1660
+2020-02-19,Guava,185,Uttar Pradesh,9,Kaushambi,174,1530,1680,1600
+2020-02-18,Guava,185,Uttar Pradesh,9,Kaushambi,174,1470,1630,1550
+2020-02-14,Guava,185,Uttar Pradesh,9,Kaushambi,174,1800,1950,1870
+2020-02-05,Guava,185,Uttar Pradesh,9,Kaushambi,174,1700,1870,1780
+2020-01-29,Guava,185,Uttar Pradesh,9,Kaushambi,174,1770,1930,1840
+2020-01-25,Guava,185,Uttar Pradesh,9,Kaushambi,174,1520,1700,1610
+2020-01-22,Guava,185,Uttar Pradesh,9,Kaushambi,174,1570,1740,1650
+2020-01-10,Guava,185,Uttar Pradesh,9,Kaushambi,174,1750,1920,1830
+2020-01-08,Guava,185,Uttar Pradesh,9,Kaushambi,174,1610,1770,1700
+2020-01-05,Guava,185,Uttar Pradesh,9,Kaushambi,174,2060,2240,2150
+2020-01-04,Guava,185,Uttar Pradesh,9,Kaushambi,174,1810,1980,1900
+2019-11-21,Guava,185,Uttar Pradesh,9,Kaushambi,174,700,800,750
+2019-11-05,Guava,185,Uttar Pradesh,9,Kaushambi,174,600,800,700
+2019-01-17,Guava,185,Uttar Pradesh,9,Kaushambi,174,450,600,500

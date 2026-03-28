@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-01-01,Maize,4,Odisha,21,Cuttack,381,1500,1500,1500
+2016-10-07,Maize,4,Odisha,21,Cuttack,381,1500,1500,1500
+2016-09-09,Maize,4,Odisha,21,Cuttack,381,1365,1365,1365
+2016-08-29,Maize,4,Odisha,21,Cuttack,381,1400,1400,1400
+2016-07-15,Maize,4,Odisha,21,Cuttack,381,1400,1400,1400
+2016-02-08,Maize,4,Odisha,21,Cuttack,381,1358,1375,1358
+2015-12-19,Maize,4,Odisha,21,Cuttack,381,2000,2000,2000
+2015-07-31,Maize,4,Odisha,21,Cuttack,381,1310,1310,1310
+2015-07-26,Maize,4,Odisha,21,Cuttack,381,1310,1310,1310
+2015-07-24,Maize,4,Odisha,21,Cuttack,381,1310,1310,1310
+2015-07-10,Maize,4,Odisha,21,Cuttack,381,1310,1310,1310
+2015-07-08,Maize,4,Odisha,21,Cuttack,381,1360,1360,1360
+2015-07-05,Maize,4,Odisha,21,Cuttack,381,1310,1310,1310

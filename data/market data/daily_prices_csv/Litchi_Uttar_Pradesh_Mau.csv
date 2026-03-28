@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-10,Litchi,351,Uttar Pradesh,9,Mau,192,2950,3075,3000
+2016-06-04,Litchi,351,Uttar Pradesh,9,Mau,192,2085,2135,2100
+2016-05-27,Litchi,351,Uttar Pradesh,9,Mau,192,2950,3075,3000

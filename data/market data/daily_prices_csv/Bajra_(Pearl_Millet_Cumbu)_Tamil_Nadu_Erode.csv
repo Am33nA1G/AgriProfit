@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-21,Bajra (Pearl Millet/Cumbu),28,Tamil Nadu,33,Erode,610,3200,3200,3200
+2025-01-22,Bajra (Pearl Millet/Cumbu),28,Tamil Nadu,33,Erode,610,3300,3300,3300
+2020-09-17,Bajra (Pearl Millet/Cumbu),28,Tamil Nadu,33,Erode,610,3275,3755,3715
+2020-08-18,Bajra (Pearl Millet/Cumbu),28,Tamil Nadu,33,Erode,610,2605,3265,3125
+2017-07-19,Bajra (Pearl Millet/Cumbu),28,Tamil Nadu,33,Erode,610,1900,2100,2000

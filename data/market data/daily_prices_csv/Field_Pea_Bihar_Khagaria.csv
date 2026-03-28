@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-12,Field Pea,64,Bihar,10,Khagaria,223,2200,2400,2300
+2022-03-10,Field Pea,64,Bihar,10,Khagaria,223,1800,2000,1900
+2022-02-20,Field Pea,64,Bihar,10,Khagaria,223,2500,2700,2600
+2022-02-19,Field Pea,64,Bihar,10,Khagaria,223,2500,2700,2600
+2022-02-18,Field Pea,64,Bihar,10,Khagaria,223,2400,2600,2500
+2022-02-17,Field Pea,64,Bihar,10,Khagaria,223,2700,2900,2800
+2022-02-16,Field Pea,64,Bihar,10,Khagaria,223,2600,2850,2800
+2022-02-14,Field Pea,64,Bihar,10,Khagaria,223,2400,2600,2500
+2022-02-13,Field Pea,64,Bihar,10,Khagaria,223,2500,2700,2600
+2022-02-11,Field Pea,64,Bihar,10,Khagaria,223,2800,3000,2900
+2022-02-10,Field Pea,64,Bihar,10,Khagaria,223,2500,2750,2700
+2022-02-09,Field Pea,64,Bihar,10,Khagaria,223,2500,2700,2600
+2022-02-08,Field Pea,64,Bihar,10,Khagaria,223,2600,2750,2700
+2022-02-05,Field Pea,64,Bihar,10,Khagaria,223,2400,2600,2500
+2022-02-04,Field Pea,64,Bihar,10,Khagaria,223,2400,2700,2600
+2022-02-03,Field Pea,64,Bihar,10,Khagaria,223,2400,2600,2500
+2022-02-02,Field Pea,64,Bihar,10,Khagaria,223,2400,2600,2500
+2022-02-01,Field Pea,64,Bihar,10,Khagaria,223,2500,2700,2600

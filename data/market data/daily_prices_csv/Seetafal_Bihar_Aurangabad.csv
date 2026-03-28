@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-26,Seetafal,201,Bihar,10,Aurangabad,235,2650,2750,2700
+2023-05-18,Seetafal,201,Bihar,10,Aurangabad,235,2050,2250,2100
+2023-05-09,Seetafal,201,Bihar,10,Aurangabad,235,2450,2550,2500
+2023-04-30,Seetafal,201,Bihar,10,Aurangabad,235,2450,2550,2500
+2023-04-26,Seetafal,201,Bihar,10,Aurangabad,235,2650,2750,2700
+2023-04-23,Seetafal,201,Bihar,10,Aurangabad,235,2450,2550,2500
+2023-04-20,Seetafal,201,Bihar,10,Aurangabad,235,2000,2100,2050
+2023-04-15,Seetafal,201,Bihar,10,Aurangabad,235,2400,2500,2450
+2023-04-10,Seetafal,201,Bihar,10,Aurangabad,235,2450,2550,2500
+2023-04-02,Seetafal,201,Bihar,10,Aurangabad,235,2000,2050,2050
+2023-03-30,Seetafal,201,Bihar,10,Aurangabad,235,2250,2400,2300
+2023-03-26,Seetafal,201,Bihar,10,Aurangabad,235,3650,3750,3700

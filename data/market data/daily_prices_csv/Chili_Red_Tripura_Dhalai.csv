@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-05,Chili Red,26,Tripura,16,Dhalai,291,28000,30000,29000
+2023-11-07,Chili Red,26,Tripura,16,Dhalai,291,17000,20000,18000
+2023-08-01,Chili Red,26,Tripura,16,Dhalai,291,28000,30000,29000
+2015-07-28,Chili Red,26,Tripura,16,Dhalai,291,126,130,128

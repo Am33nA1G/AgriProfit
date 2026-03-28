@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-24,Methi (Leaves),46,Madhya Pradesh,23,Neemuch,432,5600,5600,5600
+2024-05-01,Methi (Leaves),46,Madhya Pradesh,23,Neemuch,432,4780,5360,5201
+2024-04-30,Methi (Leaves),46,Madhya Pradesh,23,Neemuch,432,4861,5420,5280
+2024-04-29,Methi (Leaves),46,Madhya Pradesh,23,Neemuch,432,4971,5390,5020

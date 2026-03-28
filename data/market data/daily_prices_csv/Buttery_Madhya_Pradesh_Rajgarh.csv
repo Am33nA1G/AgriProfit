@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-13,Buttery,416,Madhya Pradesh,23,Rajgarh,442,2800,2800,2800
+2025-06-02,Buttery,416,Madhya Pradesh,23,Rajgarh,442,3000,3000,3000
+2025-05-24,Buttery,416,Madhya Pradesh,23,Rajgarh,442,3200,3200,3200

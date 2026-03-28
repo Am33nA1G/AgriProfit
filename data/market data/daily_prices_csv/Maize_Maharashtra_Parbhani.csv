@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-12,Maize,4,Maharashtra,27,Parbhani,513,1800,1800,1800
+2020-06-18,Maize,4,Maharashtra,27,Parbhani,513,1400,1400,1400
+2018-10-16,Maize,4,Maharashtra,27,Parbhani,513,4200,4500,4300
+2018-05-02,Maize,4,Maharashtra,27,Parbhani,513,1399,1399,1399
+2017-07-21,Maize,4,Maharashtra,27,Parbhani,513,1365,1450,1400
+2017-07-03,Maize,4,Maharashtra,27,Parbhani,513,1401,1401,1401
+2017-04-03,Maize,4,Maharashtra,27,Parbhani,513,1500,1500,1500
+2016-11-02,Maize,4,Maharashtra,27,Parbhani,513,4200,4601,4400
+2016-06-01,Maize,4,Maharashtra,27,Parbhani,513,1550,1550,1550
+2015-12-12,Maize,4,Maharashtra,27,Parbhani,513,1451,1451,1451

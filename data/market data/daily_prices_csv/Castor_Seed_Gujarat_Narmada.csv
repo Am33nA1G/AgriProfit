@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-08,Castor Seed,123,Gujarat,24,Narmada,487,6800,8200,7000
+2024-05-04,Castor Seed,123,Gujarat,24,Narmada,487,4500,6800,5600
+2024-05-03,Castor Seed,123,Gujarat,24,Narmada,487,6000,7900,7200

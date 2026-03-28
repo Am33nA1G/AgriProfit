@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-27,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,3700,3700,3700
+2018-03-23,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,2100,2100,2100
+2018-01-10,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,1575,1575,1575
+2017-10-25,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,1600,1600,1600
+2017-04-19,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,2200,2200,2200
+2017-04-03,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Raipur,410,5300,5500,5300

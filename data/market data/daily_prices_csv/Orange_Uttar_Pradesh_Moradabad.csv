@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-03-05,Orange,18,Uttar Pradesh,9,Moradabad,135,2550,2650,2600
+2021-02-11,Orange,18,Uttar Pradesh,9,Moradabad,135,2400,2500,2450

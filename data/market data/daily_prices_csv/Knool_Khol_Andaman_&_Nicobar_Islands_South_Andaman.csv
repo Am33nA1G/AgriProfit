@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-04,Knool Khol,177,Andaman & Nicobar Islands,35,South Andaman,640,3500,4500,4000
+2016-04-14,Knool Khol,177,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500
+2016-04-11,Knool Khol,177,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500
+2016-01-27,Knool Khol,177,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500

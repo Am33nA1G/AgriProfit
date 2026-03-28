@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-16,Lime,180,Nagaland,13,Wokha,264,2500,3000,2800
+2015-07-09,Lime,180,Nagaland,13,Wokha,264,2500,3000,2800
+2015-07-02,Lime,180,Nagaland,13,Wokha,264,4000,4500,4200

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-17,Beaten Rice,262,Gujarat,24,Bharuch,488,2000,3000,2250
+2019-07-01,Beaten Rice,262,Gujarat,24,Bharuch,488,2000,2500,2200

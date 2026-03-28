@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-13,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,7400,7600,7500
+2019-02-21,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,8500,8600,8550
+2019-02-19,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,8500,8600,8550
+2019-02-07,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,8500,8600,8550
+2019-02-06,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,8500,8600,8550
+2019-01-31,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,8300,8400,8350
+2019-01-11,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,3000,3500,3050
+2018-02-11,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,5600,6000,5650
+2018-02-10,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,5600,6000,5650
+2018-01-31,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,6000,6500,6050
+2018-01-30,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,6000,6500,6050
+2018-01-29,Mustard Oil,324,Chhattisgarh,22,Dakshin Bastar Dantewada,416,6000,6500,6050

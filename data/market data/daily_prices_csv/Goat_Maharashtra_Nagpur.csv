@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-25,Goat,219,Maharashtra,27,Nagpur,505,15000,25000,20000
+2016-06-10,Goat,219,Maharashtra,27,Nagpur,505,2500,5000,3500
+2016-06-04,Goat,219,Maharashtra,27,Nagpur,505,2500,5000,3500
+2016-05-30,Goat,219,Maharashtra,27,Nagpur,505,3000,5000,4000
+2016-05-28,Goat,219,Maharashtra,27,Nagpur,505,3000,5000,4000
+2016-01-02,Goat,219,Maharashtra,27,Nagpur,505,2000,5000,3000
+2015-02-07,Goat,219,Maharashtra,27,Nagpur,505,3200,4200,3500

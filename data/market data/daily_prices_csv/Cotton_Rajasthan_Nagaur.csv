@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-23,Cotton,15,Rajasthan,8,Nagaur,112,4500,4700,4600
+2015-12-03,Cotton,15,Rajasthan,8,Nagaur,112,4200,4200,4200
+2015-11-02,Cotton,15,Rajasthan,8,Nagaur,112,4550,4550,4550
+2015-10-16,Cotton,15,Rajasthan,8,Nagaur,112,4800,4800,4800
+2015-10-15,Cotton,15,Rajasthan,8,Nagaur,112,4850,4850,4850
+2015-10-14,Cotton,15,Rajasthan,8,Nagaur,112,4851,4851,4851
+2015-02-11,Cotton,15,Rajasthan,8,Nagaur,112,3925,3925,3925
+2015-01-19,Cotton,15,Rajasthan,8,Nagaur,112,3950,3950,3950
+2015-01-09,Cotton,15,Rajasthan,8,Nagaur,112,4200,4200,4200
+2015-01-02,Cotton,15,Rajasthan,8,Nagaur,112,4220,4220,4220

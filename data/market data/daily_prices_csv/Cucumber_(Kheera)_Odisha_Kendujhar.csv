@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-24,Cucumber (Kheera),159,Odisha,21,Kendujhar,375,3000,4000,3500
+2025-07-09,Cucumber (Kheera),159,Odisha,21,Kendujhar,375,2500,3000,2800
+2025-05-06,Cucumber (Kheera),159,Odisha,21,Kendujhar,375,1500,2200,1800
+2024-07-05,Cucumber (Kheera),159,Odisha,21,Kendujhar,375,2000,3000,2500

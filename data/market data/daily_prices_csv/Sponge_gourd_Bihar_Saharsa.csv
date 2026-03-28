@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-23,Sponge gourd,311,Bihar,10,Saharsa,214,1300,1400,1350
+2022-05-22,Sponge gourd,311,Bihar,10,Saharsa,214,1200,1400,1300
+2022-05-21,Sponge gourd,311,Bihar,10,Saharsa,214,1200,1300,1250
+2022-05-20,Sponge gourd,311,Bihar,10,Saharsa,214,1100,1200,1150
+2022-05-19,Sponge gourd,311,Bihar,10,Saharsa,214,1100,1200,1150
+2022-05-18,Sponge gourd,311,Bihar,10,Saharsa,214,1000,1200,1100
+2022-05-17,Sponge gourd,311,Bihar,10,Saharsa,214,1000,1300,1150
+2022-05-16,Sponge gourd,311,Bihar,10,Saharsa,214,1000,1200,1100
+2022-05-15,Sponge gourd,311,Bihar,10,Saharsa,214,1700,1800,1750
+2022-05-14,Sponge gourd,311,Bihar,10,Saharsa,214,1700,1900,1800
+2022-05-13,Sponge gourd,311,Bihar,10,Saharsa,214,1700,2000,1850

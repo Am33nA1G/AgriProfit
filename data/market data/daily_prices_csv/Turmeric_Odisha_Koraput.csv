@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-08,Turmeric,39,Odisha,21,Koraput,398,7000,8500,7500
+2024-02-12,Turmeric,39,Odisha,21,Koraput,398,2900,3100,3000
+2023-07-12,Turmeric,39,Odisha,21,Koraput,398,9000,11000,10000
+2022-06-03,Turmeric,39,Odisha,21,Koraput,398,7400,7600,7500
+2022-05-16,Turmeric,39,Odisha,21,Koraput,398,8000,8200,8100
+2022-04-02,Turmeric,39,Odisha,21,Koraput,398,8000,8200,8100
+2022-03-25,Turmeric,39,Odisha,21,Koraput,398,7500,7700,7600
+2022-03-22,Turmeric,39,Odisha,21,Koraput,398,6400,6600,6500
+2021-05-07,Turmeric,39,Odisha,21,Koraput,398,8000,8500,8300
+2020-02-17,Turmeric,39,Odisha,21,Koraput,398,6500,7500,7000
+2019-07-24,Turmeric,39,Odisha,21,Koraput,398,8400,8600,8500
+2019-06-18,Turmeric,39,Odisha,21,Koraput,398,8400,8600,8500
+2019-05-26,Turmeric,39,Odisha,21,Koraput,398,7000,8000,7500
+2019-03-25,Turmeric,39,Odisha,21,Koraput,398,8600,8800,8700
+2017-04-07,Turmeric,39,Odisha,21,Koraput,398,6400,6500,6450

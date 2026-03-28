@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-22,Dry Chillies,132,Mizoram,15,Aizawl,283,3000,3500,3250
+2018-08-02,Dry Chillies,132,Mizoram,15,Aizawl,283,10000,12000,11000
+2018-04-18,Dry Chillies,132,Mizoram,15,Aizawl,283,4000,8000,6000
+2016-12-13,Dry Chillies,132,Mizoram,15,Aizawl,283,4000,5000,4500
+2016-03-29,Dry Chillies,132,Mizoram,15,Aizawl,283,25000,27000,26000
+2016-03-23,Dry Chillies,132,Mizoram,15,Aizawl,283,15000,15000,15000
+2015-07-01,Dry Chillies,132,Mizoram,15,Aizawl,283,18000,25000,19000
+2015-05-26,Dry Chillies,132,Mizoram,15,Aizawl,283,14000,15000,14500
+2015-05-21,Dry Chillies,132,Mizoram,15,Aizawl,283,20000,20000,20000
+2015-01-28,Dry Chillies,132,Mizoram,15,Aizawl,283,20000,20000,20000

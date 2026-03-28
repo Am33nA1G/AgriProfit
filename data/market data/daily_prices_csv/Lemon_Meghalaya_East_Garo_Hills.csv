@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-06,Lemon,310,Meghalaya,17,East Garo Hills,294,3000,3500,3250
+2024-08-05,Lemon,310,Meghalaya,17,East Garo Hills,294,3000,3500,3250
+2024-07-30,Lemon,310,Meghalaya,17,East Garo Hills,294,2000,3000,2500
+2024-07-23,Lemon,310,Meghalaya,17,East Garo Hills,294,2000,2500,2250
+2024-07-22,Lemon,310,Meghalaya,17,East Garo Hills,294,2000,3000,2500
+2024-07-15,Lemon,310,Meghalaya,17,East Garo Hills,294,2500,3500,3000
+2024-07-12,Lemon,310,Meghalaya,17,East Garo Hills,294,1500,2500,2000
+2024-07-11,Lemon,310,Meghalaya,17,East Garo Hills,294,2000,2500,2250
+2024-07-09,Lemon,310,Meghalaya,17,East Garo Hills,294,2000,3000,2500
+2024-07-01,Lemon,310,Meghalaya,17,East Garo Hills,294,4000,4500,4250
+2024-06-27,Lemon,310,Meghalaya,17,East Garo Hills,294,2500,3500,3000
+2024-05-18,Lemon,310,Meghalaya,17,East Garo Hills,294,2500,3000,2750

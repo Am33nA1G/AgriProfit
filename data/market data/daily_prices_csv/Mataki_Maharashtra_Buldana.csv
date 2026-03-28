@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-30,Mataki,93,Maharashtra,27,Buldana,500,6000,6000,6000
+2023-06-16,Mataki,93,Maharashtra,27,Buldana,500,6000,6000,6000
+2021-11-01,Mataki,93,Maharashtra,27,Buldana,500,5000,5000,5000
+2017-06-09,Mataki,93,Maharashtra,27,Buldana,500,3000,3000,3000
+2016-08-27,Mataki,93,Maharashtra,27,Buldana,500,4000,4000,4000

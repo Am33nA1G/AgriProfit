@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-08,Onion Green,358,Bihar,10,Gaya,236,1600,2000,1800
+2023-03-05,Onion Green,358,Bihar,10,Gaya,236,2400,2800,2600
+2023-02-22,Onion Green,358,Bihar,10,Gaya,236,1400,1800,1600
+2023-02-18,Onion Green,358,Bihar,10,Gaya,236,1600,2000,1800
+2023-02-12,Onion Green,358,Bihar,10,Gaya,236,1800,2200,2000
+2023-02-09,Onion Green,358,Bihar,10,Gaya,236,1800,2200,2000
+2023-01-31,Onion Green,358,Bihar,10,Gaya,236,1800,2200,2000
+2023-01-25,Onion Green,358,Bihar,10,Gaya,236,1400,1800,1600
+2023-01-23,Onion Green,358,Bihar,10,Gaya,236,1400,1800,1600
+2023-01-20,Onion Green,358,Bihar,10,Gaya,236,1400,1800,1600
+2023-01-14,Onion Green,358,Bihar,10,Gaya,236,1600,2000,1800
+2023-01-12,Onion Green,358,Bihar,10,Gaya,236,1600,2000,1800
+2023-01-04,Onion Green,358,Bihar,10,Gaya,236,1000,1400,1200
+2022-12-29,Onion Green,358,Bihar,10,Gaya,236,2200,2600,2400
+2022-12-24,Onion Green,358,Bihar,10,Gaya,236,2200,2600,2400
+2022-12-20,Onion Green,358,Bihar,10,Gaya,236,1800,2400,2200
+2022-12-16,Onion Green,358,Bihar,10,Gaya,236,2200,2600,2400

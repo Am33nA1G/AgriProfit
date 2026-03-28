@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-12-04,Potato,24,Maharashtra,27,Nandurbar,497,700,700,700
+2021-02-26,Potato,24,Maharashtra,27,Nandurbar,497,1200,1200,1200
+2021-02-21,Potato,24,Maharashtra,27,Nandurbar,497,1200,1200,1200
+2021-02-16,Potato,24,Maharashtra,27,Nandurbar,497,1400,1400,1400
+2021-02-10,Potato,24,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2021-01-22,Potato,24,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2021-01-19,Potato,24,Maharashtra,27,Nandurbar,497,1800,1800,1800
+2020-12-23,Potato,24,Maharashtra,27,Nandurbar,497,1600,1600,1600
+2020-12-18,Potato,24,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2020-04-15,Potato,24,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2016-12-05,Potato,24,Maharashtra,27,Nandurbar,497,800,800,800
+2016-12-03,Potato,24,Maharashtra,27,Nandurbar,497,1000,1000,1000
+2016-12-01,Potato,24,Maharashtra,27,Nandurbar,497,1000,1000,1000
+2016-11-27,Potato,24,Maharashtra,27,Nandurbar,497,1000,1000,1000
+2016-11-26,Potato,24,Maharashtra,27,Nandurbar,497,1000,1000,1000
+2015-12-26,Potato,24,Maharashtra,27,Nandurbar,497,1000,1000,1000

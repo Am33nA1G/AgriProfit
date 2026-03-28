@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-27,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,600,800,700
+2022-12-26,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,800,1000,900
+2022-12-05,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,2600,2800,2700
+2022-06-13,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1909,3000,2100
+2022-04-28,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1400,1600,1500
+2022-04-20,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1500,1700,1600
+2022-04-19,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1400,1600,1500
+2020-03-19,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1000,1200,1150
+2019-09-19,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,1800,2000,1950
+2015-10-29,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,700,800,750
+2015-10-17,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,500,600,550
+2015-10-13,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,400,500,450
+2015-08-06,Mango (Raw-Ripe),172,Karnataka,29,Mysore,577,600,700,650

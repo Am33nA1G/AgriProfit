@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-23,Moath Dal,95,Karnataka,29,Shimoga,568,6416,6416,6416
+2020-05-16,Moath Dal,95,Karnataka,29,Shimoga,568,1692,1692,1692
+2020-04-27,Moath Dal,95,Karnataka,29,Shimoga,568,4881,4881,4881

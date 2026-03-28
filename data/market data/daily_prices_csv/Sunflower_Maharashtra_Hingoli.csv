@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-15,Sunflower,14,Maharashtra,27,Hingoli,512,3855,4175,4045
+2023-05-08,Sunflower,14,Maharashtra,27,Hingoli,512,4070,4350,4222
+2023-05-02,Sunflower,14,Maharashtra,27,Hingoli,512,3715,3815,3753
+2023-04-27,Sunflower,14,Maharashtra,27,Hingoli,512,3100,4290,3896
+2023-04-25,Sunflower,14,Maharashtra,27,Hingoli,512,3700,4595,4259
+2023-04-17,Sunflower,14,Maharashtra,27,Hingoli,512,4280,5065,4439
+2023-04-10,Sunflower,14,Maharashtra,27,Hingoli,512,4200,4500,4350
+2023-04-03,Sunflower,14,Maharashtra,27,Hingoli,512,4300,4475,4387
+2023-03-27,Sunflower,14,Maharashtra,27,Hingoli,512,3625,4415,4113
+2023-03-24,Sunflower,14,Maharashtra,27,Hingoli,512,3875,4305,4078
+2023-03-16,Sunflower,14,Maharashtra,27,Hingoli,512,4205,4690,4363
+2023-03-14,Sunflower,14,Maharashtra,27,Hingoli,512,4435,4735,4540
+2023-03-13,Sunflower,14,Maharashtra,27,Hingoli,512,4175,4600,4382
+2023-03-10,Sunflower,14,Maharashtra,27,Hingoli,512,4200,4700,4504
+2023-03-01,Sunflower,14,Maharashtra,27,Hingoli,512,4575,4830,4708

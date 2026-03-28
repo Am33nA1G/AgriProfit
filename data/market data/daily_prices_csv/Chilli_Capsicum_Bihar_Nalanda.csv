@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-04,Chilli Capsicum,88,Bihar,10,Nalanda,229,4500,6000,5000
+2023-09-01,Chilli Capsicum,88,Bihar,10,Nalanda,229,6200,8000,6850
+2023-08-28,Chilli Capsicum,88,Bihar,10,Nalanda,229,6500,8000,7000

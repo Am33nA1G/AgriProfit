@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-15,Tinda,349,Uttar Pradesh,9,Unnao,156,1340,1425,1380
+2021-09-29,Tinda,349,Uttar Pradesh,9,Unnao,156,1350,1400,1370
+2021-09-25,Tinda,349,Uttar Pradesh,9,Unnao,156,1325,1400,1380
+2021-09-17,Tinda,349,Uttar Pradesh,9,Unnao,156,1325,1400,1375
+2021-09-15,Tinda,349,Uttar Pradesh,9,Unnao,156,1300,1400,1350
+2021-09-13,Tinda,349,Uttar Pradesh,9,Unnao,156,1300,1400,1350
+2021-09-10,Tinda,349,Uttar Pradesh,9,Unnao,156,1300,1400,1350
+2021-09-09,Tinda,349,Uttar Pradesh,9,Unnao,156,1300,1400,1350
+2021-09-04,Tinda,349,Uttar Pradesh,9,Unnao,156,1325,1425,1375
+2021-09-02,Tinda,349,Uttar Pradesh,9,Unnao,156,1350,1450,1400
+2021-08-27,Tinda,349,Uttar Pradesh,9,Unnao,156,1400,1475,1450
+2021-08-22,Tinda,349,Uttar Pradesh,9,Unnao,156,1400,1500,1450

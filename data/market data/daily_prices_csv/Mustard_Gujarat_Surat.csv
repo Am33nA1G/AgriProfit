@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-03,Mustard,12,Gujarat,24,Surat,492,4600,5750,5710
+2024-04-11,Mustard,12,Gujarat,24,Surat,492,5625,5650,5637
+2021-03-17,Mustard,12,Gujarat,24,Surat,492,4790,4935,4862
+2019-06-22,Mustard,12,Gujarat,24,Surat,492,1625,1715,1670
+2019-03-15,Mustard,12,Gujarat,24,Surat,492,3605,3900,3752
+2018-04-07,Mustard,12,Gujarat,24,Surat,492,4400,4400,4400
+2018-03-10,Mustard,12,Gujarat,24,Surat,492,4650,4650,4650
+2018-03-07,Mustard,12,Gujarat,24,Surat,492,5025,5025,5025
+2018-02-24,Mustard,12,Gujarat,24,Surat,492,4940,4940,4940
+2018-02-16,Mustard,12,Gujarat,24,Surat,492,5025,5025,5025
+2017-02-27,Mustard,12,Gujarat,24,Surat,492,3755,3755,3755
+2016-03-20,Mustard,12,Gujarat,24,Surat,492,3600,3600,3600
+2016-03-11,Mustard,12,Gujarat,24,Surat,492,3600,3600,3600
+2015-03-21,Mustard,12,Gujarat,24,Surat,492,3060,3680,3370

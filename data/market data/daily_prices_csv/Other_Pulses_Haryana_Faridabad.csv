@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-02,Other Pulses,97,Haryana,6,Faridabad,88,7000,7000,7000
+2015-12-16,Other Pulses,97,Haryana,6,Faridabad,88,5000,8000,6000
+2015-07-16,Other Pulses,97,Haryana,6,Faridabad,88,5500,5500,5500
+2015-02-02,Other Pulses,97,Haryana,6,Faridabad,88,4000,6200,5800
+2015-01-27,Other Pulses,97,Haryana,6,Faridabad,88,4000,4000,4000
+2015-01-20,Other Pulses,97,Haryana,6,Faridabad,88,3500,8000,7000
+2015-01-19,Other Pulses,97,Haryana,6,Faridabad,88,3800,7000,6000

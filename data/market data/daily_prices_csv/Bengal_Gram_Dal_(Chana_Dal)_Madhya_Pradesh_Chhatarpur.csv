@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-17,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Chhatarpur,425,3200,3300,3250
+2018-09-13,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Chhatarpur,425,3250,3350,3300
+2018-09-11,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Chhatarpur,425,3200,3300,3250
+2018-08-01,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Chhatarpur,425,3400,3500,3450
+2018-07-18,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Chhatarpur,425,3450,3500,3475

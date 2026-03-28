@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-07,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3605,3605,3605
+2018-07-06,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3295,3580,3455
+2018-04-12,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3430,3571,3571
+2018-04-09,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3700,3700,3700
+2018-03-14,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3665,3665,3665
+2018-02-15,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3800,3800,3800
+2018-02-09,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3800,3800,3800
+2018-02-08,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3850,3850,3850
+2018-01-30,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,3725,3725,3725
+2018-01-23,Black Gram Dal (Urd Dal),264,Punjab,3,Firozpur,43,,,3725

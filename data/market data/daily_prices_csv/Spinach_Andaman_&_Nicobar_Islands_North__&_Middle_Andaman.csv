@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-05,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,3500,4500,4000
+2024-03-26,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,5000,7000,6000
+2024-02-27,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,3000,4000,3500
+2024-02-12,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,1000,2000,1500
+2017-02-08,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,2000,3000,2500
+2017-02-06,Spinach,342,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,2000,3000,2500

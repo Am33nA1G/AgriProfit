@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-13,Mustard,12,Karnataka,29,Belgaum,555,9600,9600,9600
+2020-07-24,Mustard,12,Karnataka,29,Belgaum,555,5000,5000,5000
+2019-02-13,Mustard,12,Karnataka,29,Belgaum,555,5500,5500,5500
+2017-01-31,Mustard,12,Karnataka,29,Belgaum,555,7500,7500,7500
+2015-09-29,Mustard,12,Karnataka,29,Belgaum,555,6000,6000,6000
+2015-05-30,Mustard,12,Karnataka,29,Belgaum,555,6000,6000,6000

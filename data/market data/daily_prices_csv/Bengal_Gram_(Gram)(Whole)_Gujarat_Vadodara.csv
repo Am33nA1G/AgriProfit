@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-06,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6500,6770,6600
+2024-06-05,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6525,6900,6825
+2024-06-04,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6525,6900,6787.5
+2024-06-03,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6500,6900,6800
+2024-06-02,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6500,6950,6800
+2024-06-01,Bengal Gram (Gram)(Whole),6,Gujarat,24,Vadodara,486,6500,6937.5,6800

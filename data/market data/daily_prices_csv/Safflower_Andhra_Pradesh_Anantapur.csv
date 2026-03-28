@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-04,Safflower,59,Andhra Pradesh,28,Anantapur,553,3240,3240,3240
+2017-08-01,Safflower,59,Andhra Pradesh,28,Anantapur,553,3200,3200,3200
+2017-01-17,Safflower,59,Andhra Pradesh,28,Anantapur,553,3000,3000,3000
+2016-11-27,Safflower,59,Andhra Pradesh,28,Anantapur,553,3300,3300,3300
+2016-11-09,Safflower,59,Andhra Pradesh,28,Anantapur,553,3300,3500,3400
+2016-11-05,Safflower,59,Andhra Pradesh,28,Anantapur,553,3300,3300,3300

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,3000,3200,3100
+2025-10-29,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,4000,4200,4000
+2025-10-26,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,3200,3800,3500
+2025-10-24,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,5000,5500,5200
+2025-10-22,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,5500,6000,5800
+2025-10-20,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,5000,5500,5200
+2025-10-15,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,6000,6500,6200
+2025-10-14,Cauliflower,34,West Bengal,19,Uttar Dinajpur,330,6000,6400,6200

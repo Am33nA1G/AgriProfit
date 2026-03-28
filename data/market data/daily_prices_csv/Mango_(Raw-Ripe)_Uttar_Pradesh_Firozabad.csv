@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-15,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,1480,1525,1500
+2019-05-20,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,2450,2550,2500
+2018-05-14,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,3400,3550,3500
+2017-07-09,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,,,3200
+2017-06-15,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,1600,1700,1650
+2017-05-26,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,2000,2300,2200
+2015-06-14,Mango (Raw-Ripe),172,Uttar Pradesh,9,Firozabad,147,1800,2000,1900

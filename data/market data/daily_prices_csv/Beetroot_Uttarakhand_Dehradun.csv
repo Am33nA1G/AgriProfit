@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-15,Beetroot,157,Uttarakhand,5,Dehradun,60,1400,1800,1600
+2019-03-30,Beetroot,157,Uttarakhand,5,Dehradun,60,650,900,750

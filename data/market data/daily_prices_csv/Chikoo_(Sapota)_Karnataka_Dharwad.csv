@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-03,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1600,1300
+2020-06-01,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,600,1200,800
+2020-05-30,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,700,1300,1000
+2020-05-16,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,900,1300,1100
+2020-05-09,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,900,1200,1000
+2020-05-08,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1500,1300
+2020-05-07,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1600,1200
+2020-05-05,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,700,1100,900
+2020-05-04,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1700,1400
+2020-05-02,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1700,1300
+2020-05-01,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1100,1800,1500
+2020-04-30,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,2000,1600
+2020-04-29,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1100,2000,1500
+2020-04-28,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1100,2000,1600
+2020-04-26,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,2000,1800
+2020-04-24,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,1900,1700
+2020-04-23,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,2000,1500
+2020-04-22,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1300,2000,1500
+2020-04-18,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,2100,1600
+2020-04-16,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1400,2000,1700
+2020-04-14,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1400,2000,1800
+2020-04-13,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1400,2000,1800
+2020-04-09,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1200,1400,1300
+2020-04-08,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1200,1100
+2020-04-07,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,1000,1200,1100
+2020-04-03,Chikoo (Sapota),71,Karnataka,29,Dharwad,562,2000,4500,3800

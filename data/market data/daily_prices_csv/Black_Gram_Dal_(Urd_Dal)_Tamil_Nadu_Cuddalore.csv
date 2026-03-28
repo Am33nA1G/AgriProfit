@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-16,Black Gram Dal (Urd Dal),264,Tamil Nadu,33,Cuddalore,617,7650,8000,8000
+2023-08-28,Black Gram Dal (Urd Dal),264,Tamil Nadu,33,Cuddalore,617,4500,6336,5000
+2023-07-12,Black Gram Dal (Urd Dal),264,Tamil Nadu,33,Cuddalore,617,11800,12666,12000
+2023-07-04,Black Gram Dal (Urd Dal),264,Tamil Nadu,33,Cuddalore,617,1500,2000,1700

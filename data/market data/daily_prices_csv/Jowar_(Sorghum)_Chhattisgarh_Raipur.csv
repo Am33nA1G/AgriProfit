@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-31,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,2700,3000,2892
+2025-05-30,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,2700,2900,2800
+2025-04-30,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,2650,2950,2798
+2025-01-31,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,2650,2850,2711
+2024-12-31,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,2706,2706,2706
+2019-02-22,Jowar (Sorghum),5,Chhattisgarh,22,Raipur,410,1452,1452,1452

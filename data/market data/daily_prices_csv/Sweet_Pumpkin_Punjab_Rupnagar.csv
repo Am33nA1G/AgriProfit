@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-27,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,300,500,400
+2021-10-30,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,2000,2000,2000
+2021-10-22,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1500,1500,1500
+2021-10-19,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1500,1500,1500
+2021-10-18,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,2000,2000,2000
+2021-09-30,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1500,1500,1500
+2021-09-14,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,800,1500,1150
+2021-08-24,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1200,1200,1200
+2021-08-20,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1000,1000,1000
+2021-08-16,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1500,1500,1500
+2021-08-12,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1200,1500,1350
+2021-08-06,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1200,1200,1200
+2021-07-30,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1200,1200,1200
+2021-07-29,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1000,1000,1000
+2021-07-22,Sweet Pumpkin,173,Punjab,3,Rupnagar,51,1200,1200,1200

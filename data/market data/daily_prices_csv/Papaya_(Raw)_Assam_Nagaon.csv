@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-17,Papaya (Raw),313,Assam,18,Nagaon,305,700,800,750
+2016-10-25,Papaya (Raw),313,Assam,18,Nagaon,305,700,900,800
+2016-10-06,Papaya (Raw),313,Assam,18,Nagaon,305,700,800,800

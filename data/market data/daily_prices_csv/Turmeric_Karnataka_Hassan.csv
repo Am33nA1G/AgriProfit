@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-10,Turmeric,39,Karnataka,29,Hassan,574,12150,12150,12150
+2020-03-21,Turmeric,39,Karnataka,29,Hassan,574,6700,6700,6700
+2020-03-12,Turmeric,39,Karnataka,29,Hassan,574,16400,16400,16400
+2020-02-14,Turmeric,39,Karnataka,29,Hassan,574,7500,7500,7500
+2019-05-31,Turmeric,39,Karnataka,29,Hassan,574,4900,4900,4900
+2019-05-20,Turmeric,39,Karnataka,29,Hassan,574,2000,5000,5000
+2019-05-13,Turmeric,39,Karnataka,29,Hassan,574,8800,8800,8800
+2019-04-20,Turmeric,39,Karnataka,29,Hassan,574,2550,3325,3325
+2017-06-02,Turmeric,39,Karnataka,29,Hassan,574,6000,6000,6000
+2016-05-30,Turmeric,39,Karnataka,29,Hassan,574,11633,11633,11633
+2015-03-28,Turmeric,39,Karnataka,29,Hassan,574,1800,1800,1800
+2015-03-24,Turmeric,39,Karnataka,29,Hassan,574,1800,1800,1800
+2015-03-17,Turmeric,39,Karnataka,29,Hassan,574,2000,2000,2000
+2015-03-14,Turmeric,39,Karnataka,29,Hassan,574,1600,1600,1600

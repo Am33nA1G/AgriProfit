@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-26,Maize,4,Punjab,3,Moga,42,825,825,825
+2020-07-25,Maize,4,Punjab,3,Moga,42,850,850,850
+2020-07-24,Maize,4,Punjab,3,Moga,42,880,880,880
+2020-07-23,Maize,4,Punjab,3,Moga,42,870,870,870
+2020-07-21,Maize,4,Punjab,3,Moga,42,850,860,860
+2020-07-19,Maize,4,Punjab,3,Moga,42,950,1000,970
+2020-07-16,Maize,4,Punjab,3,Moga,42,750,850,850
+2020-07-13,Maize,4,Punjab,3,Moga,42,750,810,750
+2020-06-29,Maize,4,Punjab,3,Moga,42,1225,1225,1225
+2017-07-07,Maize,4,Punjab,3,Moga,42,700,1100,900

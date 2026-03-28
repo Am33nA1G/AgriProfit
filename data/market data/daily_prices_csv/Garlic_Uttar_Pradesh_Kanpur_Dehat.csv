@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-20,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,1200,1400,1300
+2025-05-26,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,1700,1900,1800
+2025-05-22,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,2000,2100,2050
+2022-07-04,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,1500,1800,1600
+2019-10-25,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,750,850,800
+2019-10-08,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,550,650,600
+2018-12-30,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,300,350,325
+2017-06-22,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,2200,2225,2210
+2017-06-09,Garlic,25,Uttar Pradesh,9,Kanpur Dehat,163,1200,1900,1500

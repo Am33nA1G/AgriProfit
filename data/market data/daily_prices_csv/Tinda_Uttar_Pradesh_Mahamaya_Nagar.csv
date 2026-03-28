@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-10,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,200,450,400
+2020-06-09,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,100,200,150
+2020-06-08,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,100,200,150
+2020-06-06,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,200,300,250
+2020-06-02,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,400,600,500
+2020-06-01,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,400,600,500
+2020-05-29,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,700,900,800
+2020-05-28,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,700,900,800
+2020-05-27,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,600,900,800
+2020-05-26,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,500,700,600
+2020-05-25,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,300,500,400
+2020-05-23,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,500,700,600
+2020-05-22,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,600,800,700
+2020-05-21,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,700,1000,850
+2020-05-20,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,500,700,600
+2020-05-18,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,200,400,300
+2020-05-16,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,200,400,300
+2020-05-15,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,400,650,500
+2020-05-14,Tinda,349,Uttar Pradesh,9,Mahamaya Nagar,144,700,850,800

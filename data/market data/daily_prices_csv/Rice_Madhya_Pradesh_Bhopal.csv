@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-05,Rice,3,Madhya Pradesh,23,Bhopal,444,1600,4500,4380
+2023-12-04,Rice,3,Madhya Pradesh,23,Bhopal,444,1200,4470,4260
+2023-12-02,Rice,3,Madhya Pradesh,23,Bhopal,444,1200,4470,4260
+2023-11-20,Rice,3,Madhya Pradesh,23,Bhopal,444,1600,4100,3790
+2023-11-08,Rice,3,Madhya Pradesh,23,Bhopal,444,2000,4010,3700
+2023-11-06,Rice,3,Madhya Pradesh,23,Bhopal,444,2000,4150,3515
+2023-11-04,Rice,3,Madhya Pradesh,23,Bhopal,444,2700,2700,2700
+2023-11-03,Rice,3,Madhya Pradesh,23,Bhopal,444,2400,2400,2400
+2023-11-02,Rice,3,Madhya Pradesh,23,Bhopal,444,2600,2605,2600
+2023-10-31,Rice,3,Madhya Pradesh,23,Bhopal,444,2730,2730,2730

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-31,Cauliflower,34,Assam,18,Dhemaji,308,3000,4000,3500
+2022-04-26,Cauliflower,34,Assam,18,Dhemaji,308,2000,3000,2500
+2022-04-20,Cauliflower,34,Assam,18,Dhemaji,308,2000,3000,2500
+2022-04-06,Cauliflower,34,Assam,18,Dhemaji,308,2000,3000,2500
+2022-04-04,Cauliflower,34,Assam,18,Dhemaji,308,2000,3000,2500
+2022-04-02,Cauliflower,34,Assam,18,Dhemaji,308,2000,3000,2500

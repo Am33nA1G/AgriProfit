@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-29,Orange,18,Madhya Pradesh,23,Burhanpur,467,700,1500,1200
+2020-02-28,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1500,1200
+2020-02-27,Orange,18,Madhya Pradesh,23,Burhanpur,467,700,1500,1100
+2020-02-26,Orange,18,Madhya Pradesh,23,Burhanpur,467,700,1600,1200
+2020-02-25,Orange,18,Madhya Pradesh,23,Burhanpur,467,700,1500,1200
+2020-02-23,Orange,18,Madhya Pradesh,23,Burhanpur,467,700,1500,1200
+2020-02-21,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1600,1200
+2020-02-20,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1600,1200
+2020-02-18,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1500,1200
+2020-02-17,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1500,1200
+2020-02-16,Orange,18,Madhya Pradesh,23,Burhanpur,467,1000,1500,1200
+2020-02-15,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,2000,1400
+2020-02-14,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,2000,1400
+2020-02-13,Orange,18,Madhya Pradesh,23,Burhanpur,467,1000,2000,1500
+2020-02-12,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,2000,1400
+2020-02-11,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1800,1200
+2020-02-10,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1800,1400
+2020-02-09,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,2000,1400
+2020-02-08,Orange,18,Madhya Pradesh,23,Burhanpur,467,1000,1800,1400
+2020-02-07,Orange,18,Madhya Pradesh,23,Burhanpur,467,1000,1800,1400
+2020-02-06,Orange,18,Madhya Pradesh,23,Burhanpur,467,800,1500,1200
+2020-02-05,Orange,18,Madhya Pradesh,23,Burhanpur,467,1000,1600,1200

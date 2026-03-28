@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-25,Ginger (Dry),27,Uttar Pradesh,9,Bijnor,134,,,3750
+2015-03-24,Ginger (Dry),27,Uttar Pradesh,9,Bijnor,134,,,3250
+2015-02-24,Ginger (Dry),27,Uttar Pradesh,9,Bijnor,134,,,3000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-29,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,6500,7000,6750
+2019-08-22,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,6500,7500,6950
+2019-08-21,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,8036,8036,8036
+2017-11-26,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,4400,4600,4500
+2017-11-24,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,4200,4300,4250
+2015-11-24,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,9090,9100,9090
+2015-10-30,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,6950,7050,7000
+2015-10-21,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,6600,6700,6650
+2015-08-25,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,7500,7700,7580
+2015-04-28,Coriander (Leaves),43,Uttarakhand,5,Nainital,66,500,1600,607

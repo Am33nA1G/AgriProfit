@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-29,Lint,280,Karnataka,29,Belgaum,555,13666,13778,13666
+2025-09-29,Lint,280,Karnataka,29,Belgaum,555,0,0,13520
+2025-09-26,Lint,280,Karnataka,29,Belgaum,555,0,0,13501
+2025-09-23,Lint,280,Karnataka,29,Belgaum,555,0,0,13499
+2024-05-24,Lint,280,Karnataka,29,Belgaum,555,15900,16100,16000
+2020-09-22,Lint,280,Karnataka,29,Belgaum,555,8300,8900,8600
+2020-09-21,Lint,280,Karnataka,29,Belgaum,555,8100,8900,8580
+2020-09-18,Lint,280,Karnataka,29,Belgaum,555,8400,8800,8660
+2020-09-14,Lint,280,Karnataka,29,Belgaum,555,8200,8800,8500
+2020-09-08,Lint,280,Karnataka,29,Belgaum,555,8280,8800,8550

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-02,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,900,1100,1000
+2019-05-01,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,750,750,750
+2019-04-28,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2019-04-25,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,500,700,600
+2019-04-22,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,500,700,600
+2019-04-21,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2019-04-20,Round gourd,306,Madhya Pradesh,23,Chhindwara,455,800,1200,1000

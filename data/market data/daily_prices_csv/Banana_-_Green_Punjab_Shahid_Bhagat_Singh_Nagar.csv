@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-16,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2125,2667,2500
+2025-10-10,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2150,2500,2300
+2025-10-08,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2250,2250,2250
+2025-10-07,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2206,2550,2250
+2025-10-06,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2125,2583,2583
+2025-09-18,Banana - Green,90,Punjab,3,Shahid Bhagat Singh Nagar,39,2100,2625,2200

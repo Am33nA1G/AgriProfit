@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-24,Turmeric (raw),309,Punjab,3,Firozpur,43,1400,1500,1450
+2016-12-17,Turmeric (raw),309,Punjab,3,Firozpur,43,1600,1700,1650

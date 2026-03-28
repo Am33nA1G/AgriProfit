@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-23,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,870,930,900
+2021-07-22,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,750,850,800
+2021-07-21,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,750,800,775
+2021-07-20,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,720,800,770
+2021-07-19,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,800,870,850
+2021-07-18,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,750,850,800
+2021-07-17,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,700,800,750
+2021-07-16,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,700,750,720
+2021-07-15,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,700,775,725
+2021-07-14,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,675,750,700
+2021-07-13,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,2100,2150,2125
+2021-07-12,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,625,700,650
+2021-07-11,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,600,700,650
+2021-07-10,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,600,650,625
+2021-07-09,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,550,650,600
+2021-07-08,Jack Fruit,182,Uttar Pradesh,9,Balrampur,182,600,700,650

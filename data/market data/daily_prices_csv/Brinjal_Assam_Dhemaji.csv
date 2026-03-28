@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-26,Brinjal,35,Assam,18,Dhemaji,308,2500,3000,2800
+2022-04-20,Brinjal,35,Assam,18,Dhemaji,308,2500,3500,3000
+2022-04-06,Brinjal,35,Assam,18,Dhemaji,308,1000,1500,1200
+2022-04-04,Brinjal,35,Assam,18,Dhemaji,308,1000,1500,1200
+2022-04-02,Brinjal,35,Assam,18,Dhemaji,308,1000,1500,1200
+2022-03-30,Brinjal,35,Assam,18,Dhemaji,308,1000,2000,1300

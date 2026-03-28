@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-15,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,800,1000,900
+2018-04-13,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,700,900,800
+2018-04-09,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,800,900,850
+2018-04-06,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,750,850,800
+2018-04-04,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,700,900,800
+2018-04-02,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,800,900,850
+2018-03-27,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,800,900,850
+2018-03-26,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,700,900,800
+2018-03-25,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,700,900,800
+2018-03-21,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,750,850,800
+2018-03-20,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,700,900,800
+2018-03-17,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Jyotiba Phule Nagar,137,550,650,600

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-12,Carrot,153,Nagaland,13,Peren,271,3000,4000,3500
+2025-06-19,Carrot,153,Nagaland,13,Peren,271,3000,4000,3500
+2025-05-28,Carrot,153,Nagaland,13,Peren,271,5000,5500,5300
+2025-05-20,Carrot,153,Nagaland,13,Peren,271,3000,3500,3300
+2025-05-18,Carrot,153,Nagaland,13,Peren,271,5000,5500,5300
+2024-04-06,Carrot,153,Nagaland,13,Peren,271,4000,4500,4200
+2024-04-04,Carrot,153,Nagaland,13,Peren,271,4500,5500,5000
+2024-03-06,Carrot,153,Nagaland,13,Peren,271,2000,3000,2500
+2024-02-19,Carrot,153,Nagaland,13,Peren,271,2000,3000,2500
+2024-02-06,Carrot,153,Nagaland,13,Peren,271,1000,2000,1500

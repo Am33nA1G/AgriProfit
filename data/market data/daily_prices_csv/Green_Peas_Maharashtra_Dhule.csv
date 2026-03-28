@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-24,Green Peas,50,Maharashtra,27,Dhule,498,2600,2600,2600
+2024-04-30,Green Peas,50,Maharashtra,27,Dhule,498,3000,3000,3000
+2020-03-06,Green Peas,50,Maharashtra,27,Dhule,498,2250,2250,2250
+2018-03-26,Green Peas,50,Maharashtra,27,Dhule,498,2200,2200,2200
+2017-04-17,Green Peas,50,Maharashtra,27,Dhule,498,2222,2222,2222
+2017-04-11,Green Peas,50,Maharashtra,27,Dhule,498,1500,2386,1500
+2017-03-16,Green Peas,50,Maharashtra,27,Dhule,498,1500,1500,1500
+2017-03-14,Green Peas,50,Maharashtra,27,Dhule,498,2020,2020,2020
+2017-03-09,Green Peas,50,Maharashtra,27,Dhule,498,3200,3200,3200
+2017-03-01,Green Peas,50,Maharashtra,27,Dhule,498,2000,2000,2000
+2017-02-28,Green Peas,50,Maharashtra,27,Dhule,498,1811,1811,1811
+2017-02-27,Green Peas,50,Maharashtra,27,Dhule,498,1899,1899,1899
+2017-02-11,Green Peas,50,Maharashtra,27,Dhule,498,2000,2000,2000
+2016-01-13,Green Peas,50,Maharashtra,27,Dhule,498,2200,2500,2300

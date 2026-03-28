@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-11,Sweet Potato,152,Punjab,3,Tarn Taran,50,1400,1600,1500
+2024-06-27,Sweet Potato,152,Punjab,3,Tarn Taran,50,2400,2800,2500
+2024-05-28,Sweet Potato,152,Punjab,3,Tarn Taran,50,1200,1600,1400
+2024-05-15,Sweet Potato,152,Punjab,3,Tarn Taran,50,800,1200,1000
+2019-01-19,Sweet Potato,152,Punjab,3,Tarn Taran,50,800,1200,1000
+2017-12-07,Sweet Potato,152,Punjab,3,Tarn Taran,50,2000,2400,2200

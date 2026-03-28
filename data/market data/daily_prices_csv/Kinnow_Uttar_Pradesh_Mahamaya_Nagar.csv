@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-01,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2200,2300,2250
+2018-12-29,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2200,2500,2400
+2018-12-28,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2600,2500
+2018-12-27,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2300,2500,2350
+2018-12-21,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2600,2500
+2018-12-20,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2800,2650
+2018-12-19,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2300,2500,2400
+2018-12-18,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2200,2400,2300
+2018-12-17,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2200,2400,2300
+2018-12-15,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2300,2600,2400
+2018-12-14,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2600,2500
+2018-12-13,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2200,2400,2300
+2018-12-12,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2650,2600
+2018-12-11,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2400,2600,2500
+2018-12-10,Kinnow,336,Uttar Pradesh,9,Mahamaya Nagar,144,2100,2300,2200

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-21,Peas (Dry),347,Gujarat,24,Surendranagar,475,6500,6500,6500
+2025-02-05,Peas (Dry),347,Gujarat,24,Surendranagar,475,5000,5000,5000
+2025-02-01,Peas (Dry),347,Gujarat,24,Surendranagar,475,4300,4300,4300
+2025-01-10,Peas (Dry),347,Gujarat,24,Surendranagar,475,5000,5000,5000
+2015-03-11,Peas (Dry),347,Gujarat,24,Surendranagar,475,2925,3250,3087.5
+2015-02-28,Peas (Dry),347,Gujarat,24,Surendranagar,475,2875,3260,3067.5
+2015-02-27,Peas (Dry),347,Gujarat,24,Surendranagar,475,3250,3275,3262.5
+2015-02-26,Peas (Dry),347,Gujarat,24,Surendranagar,475,3255,3275,3265
+2015-02-25,Peas (Dry),347,Gujarat,24,Surendranagar,475,3215,3240,3227.5
+2015-02-24,Peas (Dry),347,Gujarat,24,Surendranagar,475,3180,3205,3192.5
+2015-02-23,Peas (Dry),347,Gujarat,24,Surendranagar,475,3230,3260,3245

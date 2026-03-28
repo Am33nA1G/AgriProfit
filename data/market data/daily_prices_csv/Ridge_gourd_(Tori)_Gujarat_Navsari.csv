@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-24,Ridge gourd (Tori),160,Gujarat,24,Navsari,490,2000,2500,2250
+2023-07-22,Ridge gourd (Tori),160,Gujarat,24,Navsari,490,800,900,850
+2023-07-18,Ridge gourd (Tori),160,Gujarat,24,Navsari,490,800,1000,900
+2023-07-15,Ridge gourd (Tori),160,Gujarat,24,Navsari,490,1000,1200,1100
+2023-07-14,Ridge gourd (Tori),160,Gujarat,24,Navsari,490,1000,1200,1100

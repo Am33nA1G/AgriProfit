@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-19,Ragi (Finger Millet),30,Karnataka,29,Belgaum,555,3200,3200,3200
+2017-01-17,Ragi (Finger Millet),30,Karnataka,29,Belgaum,555,2100,2200,2150
+2016-12-27,Ragi (Finger Millet),30,Karnataka,29,Belgaum,555,2100,2200,2150

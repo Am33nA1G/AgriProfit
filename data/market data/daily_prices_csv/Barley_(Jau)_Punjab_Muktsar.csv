@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-11,Barley (Jau),29,Punjab,3,Muktsar,44,1280,1400,1340
+2016-04-08,Barley (Jau),29,Punjab,3,Muktsar,44,1390,1390,1390
+2016-04-07,Barley (Jau),29,Punjab,3,Muktsar,44,1400,1400,1400
+2016-04-04,Barley (Jau),29,Punjab,3,Muktsar,44,1321,1340,1321

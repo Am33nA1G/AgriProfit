@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-23,Apple,17,Assam,18,Dhubri,301,2000,2150,2050
+2015-05-15,Apple,17,Assam,18,Dhubri,301,2200,3000,2600
+2015-05-05,Apple,17,Assam,18,Dhubri,301,2200,3000,2600
+2015-02-17,Apple,17,Assam,18,Dhubri,301,10000,14000,11000
+2015-02-14,Apple,17,Assam,18,Dhubri,301,10000,13000,11000
+2015-02-13,Apple,17,Assam,18,Dhubri,301,1000,1400,1100
+2015-01-27,Apple,17,Assam,18,Dhubri,301,2200,3500,2700
+2015-01-23,Apple,17,Assam,18,Dhubri,301,10000,13000,11000

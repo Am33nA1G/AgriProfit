@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-16,Banana - Green,90,Haryana,6,Karnal,74,1200,1500,1400
+2017-09-09,Banana - Green,90,Haryana,6,Karnal,74,1200,1500,1350
+2017-09-02,Banana - Green,90,Haryana,6,Karnal,74,1200,1500,1400
+2017-08-24,Banana - Green,90,Haryana,6,Karnal,74,1200,1500,1250
+2017-08-11,Banana - Green,90,Haryana,6,Karnal,74,1200,1500,1400
+2016-06-15,Banana - Green,90,Haryana,6,Karnal,74,1100,1200,1150
+2015-08-05,Banana - Green,90,Haryana,6,Karnal,74,1000,1200,1100
+2015-07-31,Banana - Green,90,Haryana,6,Karnal,74,1000,1200,1100
+2015-07-24,Banana - Green,90,Haryana,6,Karnal,74,1000,1200,1100
+2015-07-10,Banana - Green,90,Haryana,6,Karnal,74,1400,1400,1400
+2015-07-02,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-06-25,Banana - Green,90,Haryana,6,Karnal,74,1400,1400,1400
+2015-06-18,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-06-11,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-06-04,Banana - Green,90,Haryana,6,Karnal,74,1400,1400,1400
+2015-05-29,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-05-14,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-04-10,Banana - Green,90,Haryana,6,Karnal,74,1400,1400,1400
+2015-03-24,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-03-18,Banana - Green,90,Haryana,6,Karnal,74,1300,1400,1350
+2015-03-11,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1200
+2015-03-04,Banana - Green,90,Haryana,6,Karnal,74,1200,1400,1300
+2015-02-18,Banana - Green,90,Haryana,6,Karnal,74,1500,1500,1500
+2015-02-10,Banana - Green,90,Haryana,6,Karnal,74,1400,1500,1450

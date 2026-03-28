@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-15,Goat,219,Maharashtra,27,Dhule,498,2000,4200,3500
+2017-09-01,Goat,219,Maharashtra,27,Dhule,498,3500,5000,4000
+2017-06-16,Goat,219,Maharashtra,27,Dhule,498,2500,4000,3000
+2017-05-12,Goat,219,Maharashtra,27,Dhule,498,2000,4500,3800
+2017-03-17,Goat,219,Maharashtra,27,Dhule,498,2500,4500,3000
+2017-03-10,Goat,219,Maharashtra,27,Dhule,498,3000,4500,3500
+2017-03-03,Goat,219,Maharashtra,27,Dhule,498,2500,6000,4000

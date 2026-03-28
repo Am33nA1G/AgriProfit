@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-31,Chili Red,26,Punjab,3,Muktsar,44,4000,4000,4000
+2016-09-21,Chili Red,26,Punjab,3,Muktsar,44,2500,2500,2500
+2016-09-15,Chili Red,26,Punjab,3,Muktsar,44,1500,1600,1500
+2016-09-14,Chili Red,26,Punjab,3,Muktsar,44,1500,1500,1500
+2016-09-10,Chili Red,26,Punjab,3,Muktsar,44,1600,1600,1600
+2016-09-03,Chili Red,26,Punjab,3,Muktsar,44,2400,2400,2400
+2015-09-16,Chili Red,26,Punjab,3,Muktsar,44,1000,1000,1000
+2015-08-12,Chili Red,26,Punjab,3,Muktsar,44,800,800,800

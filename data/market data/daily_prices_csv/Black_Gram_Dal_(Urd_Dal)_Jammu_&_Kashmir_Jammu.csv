@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-21,Black Gram Dal (Urd Dal),264,Jammu & Kashmir,1,Jammu,21,6600,6800,6700
+2020-10-12,Black Gram Dal (Urd Dal),264,Jammu & Kashmir,1,Jammu,21,6000,6400,6200
+2020-10-06,Black Gram Dal (Urd Dal),264,Jammu & Kashmir,1,Jammu,21,6400,6800,6600

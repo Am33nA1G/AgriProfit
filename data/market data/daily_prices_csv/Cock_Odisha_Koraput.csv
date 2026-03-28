@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-09,Cock,368,Odisha,21,Koraput,398,250,270,260
+2016-02-11,Cock,368,Odisha,21,Koraput,398,300,350,320
+2015-10-26,Cock,368,Odisha,21,Koraput,398,300,400,350
+2015-06-07,Cock,368,Odisha,21,Koraput,398,300,350,320
+2015-05-03,Cock,368,Odisha,21,Koraput,398,200,400,300
+2015-01-09,Cock,368,Odisha,21,Koraput,398,300,400,350

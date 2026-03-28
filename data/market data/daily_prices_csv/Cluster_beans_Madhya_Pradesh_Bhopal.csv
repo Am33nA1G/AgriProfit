@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-24,Cluster beans,80,Madhya Pradesh,23,Bhopal,444,1000,2000,1500
+2025-08-07,Cluster beans,80,Madhya Pradesh,23,Bhopal,444,1000,3000,2000
+2021-07-27,Cluster beans,80,Madhya Pradesh,23,Bhopal,444,600,1000,800
+2021-07-21,Cluster beans,80,Madhya Pradesh,23,Bhopal,444,600,800,700

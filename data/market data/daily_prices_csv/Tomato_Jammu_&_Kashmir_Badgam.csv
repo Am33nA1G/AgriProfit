@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-17,Tomato,78,Jammu & Kashmir,1,Badgam,2,2500,2600,2550
+2019-06-15,Tomato,78,Jammu & Kashmir,1,Badgam,2,2500,2700,2600
+2019-06-13,Tomato,78,Jammu & Kashmir,1,Badgam,2,3000,3200,3100
+2019-06-10,Tomato,78,Jammu & Kashmir,1,Badgam,2,2500,2700,2600
+2019-06-08,Tomato,78,Jammu & Kashmir,1,Badgam,2,2500,2700,2600
+2019-05-15,Tomato,78,Jammu & Kashmir,1,Badgam,2,2600,2800,2700
+2019-02-15,Tomato,78,Jammu & Kashmir,1,Badgam,2,3000,4000,3500
+2015-02-04,Tomato,78,Jammu & Kashmir,1,Badgam,2,2500,2700,2600

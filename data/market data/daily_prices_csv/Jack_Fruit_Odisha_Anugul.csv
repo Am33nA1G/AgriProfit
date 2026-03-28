@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-25,Jack Fruit,182,Odisha,21,Anugul,384,2600,3600,3100
+2024-03-21,Jack Fruit,182,Odisha,21,Anugul,384,2000,3000,2500
+2024-03-20,Jack Fruit,182,Odisha,21,Anugul,384,2000,2500,2200
+2019-05-28,Jack Fruit,182,Odisha,21,Anugul,384,5000,8000,6000
+2019-05-23,Jack Fruit,182,Odisha,21,Anugul,384,4000,6000,5000
+2016-06-26,Jack Fruit,182,Odisha,21,Anugul,384,2000,4000,3000

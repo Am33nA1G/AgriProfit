@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-07,Green Peas,50,Karnataka,29,Gadag,561,7249,7249,7249
+2022-09-19,Green Peas,50,Karnataka,29,Gadag,561,4602,4602,4602
+2020-03-06,Green Peas,50,Karnataka,29,Gadag,561,1077,1077,1077
+2020-02-24,Green Peas,50,Karnataka,29,Gadag,561,1077,1077,1077
+2019-08-27,Green Peas,50,Karnataka,29,Gadag,561,5400,5400,5400
+2019-07-29,Green Peas,50,Karnataka,29,Gadag,561,5400,5400,5400
+2019-03-23,Green Peas,50,Karnataka,29,Gadag,561,3400,3400,3400

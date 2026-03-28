@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-12,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-11,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-10,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-09,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-08,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-07,Carrot,153,Bihar,10,Katihar,212,500,700,600
+2022-03-05,Carrot,153,Bihar,10,Katihar,212,400,600,500
+2022-03-04,Carrot,153,Bihar,10,Katihar,212,400,600,500
+2022-03-03,Carrot,153,Bihar,10,Katihar,212,400,600,500
+2022-03-02,Carrot,153,Bihar,10,Katihar,212,400,600,500
+2022-03-01,Carrot,153,Bihar,10,Katihar,212,300,600,400
+2022-02-28,Carrot,153,Bihar,10,Katihar,212,1300,1600,1500
+2022-02-26,Carrot,153,Bihar,10,Katihar,212,151,400,210
+2022-02-25,Carrot,153,Bihar,10,Katihar,212,200,500,300

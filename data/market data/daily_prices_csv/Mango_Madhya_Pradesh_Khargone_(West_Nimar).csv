@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-12,Mango,20,Madhya Pradesh,23,Khargone (West Nimar),440,1350,2000,1600
+2022-07-08,Mango,20,Madhya Pradesh,23,Khargone (West Nimar),440,1550,3000,2400

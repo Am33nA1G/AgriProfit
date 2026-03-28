@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-24,Round gourd,306,Uttar Pradesh,9,Firozabad,147,700,900,800
+2023-06-06,Round gourd,306,Uttar Pradesh,9,Firozabad,147,750,950,850
+2018-08-30,Round gourd,306,Uttar Pradesh,9,Firozabad,147,1200,1400,1300
+2018-08-24,Round gourd,306,Uttar Pradesh,9,Firozabad,147,1200,1400,1300

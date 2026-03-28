@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-05,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1600,1500
+2017-02-02,Yam (Ratalu),297,Rajasthan,8,Kota,127,1500,1700,1600
+2017-01-29,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1600,1500
+2017-01-27,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1500,1450
+2017-01-11,Yam (Ratalu),297,Rajasthan,8,Kota,127,1500,2000,1750
+2017-01-10,Yam (Ratalu),297,Rajasthan,8,Kota,127,1000,1400,1200
+2016-12-29,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1600,1500
+2016-12-21,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1600,1500
+2016-12-20,Yam (Ratalu),297,Rajasthan,8,Kota,127,1400,1600,1500
+2016-12-19,Yam (Ratalu),297,Rajasthan,8,Kota,127,1200,1300,1250
+2016-12-06,Yam (Ratalu),297,Rajasthan,8,Kota,127,1200,1500,1350
+2016-12-05,Yam (Ratalu),297,Rajasthan,8,Kota,127,2400,2600,2500
+2016-11-25,Yam (Ratalu),297,Rajasthan,8,Kota,127,1800,2000,1900
+2016-11-21,Yam (Ratalu),297,Rajasthan,8,Kota,127,1800,2000,1900
+2016-11-20,Yam (Ratalu),297,Rajasthan,8,Kota,127,1800,2000,1900
+2016-11-19,Yam (Ratalu),297,Rajasthan,8,Kota,127,1800,2000,1900
+2016-11-18,Yam (Ratalu),297,Rajasthan,8,Kota,127,1800,2000,1900
+2016-11-17,Yam (Ratalu),297,Rajasthan,8,Kota,127,2500,2700,2600
+2016-11-09,Yam (Ratalu),297,Rajasthan,8,Kota,127,1500,2000,1750
+2015-12-09,Yam (Ratalu),297,Rajasthan,8,Kota,127,2400,2500,2450

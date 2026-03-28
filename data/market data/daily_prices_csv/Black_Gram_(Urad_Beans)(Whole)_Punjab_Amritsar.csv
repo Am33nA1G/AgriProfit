@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-23,Black Gram (Urad Beans)(Whole),8,Punjab,3,Amritsar,49,7000,7000,7000
+2015-12-04,Black Gram (Urad Beans)(Whole),8,Punjab,3,Amritsar,49,6100,6300,6200
+2015-12-02,Black Gram (Urad Beans)(Whole),8,Punjab,3,Amritsar,49,5575,6225,5900

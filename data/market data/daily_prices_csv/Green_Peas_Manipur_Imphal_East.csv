@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-18,Green Peas,50,Manipur,14,Imphal East,278,3300,4000,3500
+2015-02-02,Green Peas,50,Manipur,14,Imphal East,278,,8600,8600

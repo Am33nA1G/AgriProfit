@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-01,Coconut,138,Odisha,21,Baleshwar,377,1100,1300,1200
+2020-12-03,Coconut,138,Odisha,21,Baleshwar,377,2500,3000,2800
+2020-10-13,Coconut,138,Odisha,21,Baleshwar,377,26000,30000,27000
+2020-09-07,Coconut,138,Odisha,21,Baleshwar,377,3000,3500,3200
+2020-09-01,Coconut,138,Odisha,21,Baleshwar,377,900,1200,1000
+2019-11-29,Coconut,138,Odisha,21,Baleshwar,377,2300,2500,2400
+2019-11-23,Coconut,138,Odisha,21,Baleshwar,377,2200,2500,2300

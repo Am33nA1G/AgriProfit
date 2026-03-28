@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-27,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Tiruchirappalli,614,13009,16500,15600
+2024-06-20,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Tiruchirappalli,614,13000,17000,15000
+2024-06-18,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Tiruchirappalli,614,12500,14666,14000
+2024-06-06,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Tiruchirappalli,614,13200,13500,13350

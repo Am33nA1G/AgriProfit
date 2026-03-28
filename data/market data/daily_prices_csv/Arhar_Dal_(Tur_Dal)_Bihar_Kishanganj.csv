@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Arhar Dal (Tur Dal),260,Bihar,10,Kishanganj,210,11900,13100,12600
+2023-09-05,Arhar Dal (Tur Dal),260,Bihar,10,Kishanganj,210,11500,12500,12000
+2023-09-04,Arhar Dal (Tur Dal),260,Bihar,10,Kishanganj,210,11500,13000,12800
+2023-09-03,Arhar Dal (Tur Dal),260,Bihar,10,Kishanganj,210,10500,12250,12000
+2023-09-01,Arhar Dal (Tur Dal),260,Bihar,10,Kishanganj,210,12000,13500,12500

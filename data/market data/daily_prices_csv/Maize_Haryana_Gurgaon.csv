@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-30,Maize,4,Haryana,6,Gurgaon,86,1200,1250,1225
+2017-12-29,Maize,4,Haryana,6,Gurgaon,86,1200,1250,1225
+2017-10-27,Maize,4,Haryana,6,Gurgaon,86,1200,1200,1200
+2016-07-07,Maize,4,Haryana,6,Gurgaon,86,1280,1280,1280
+2015-08-18,Maize,4,Haryana,6,Gurgaon,86,1000,1000,1000
+2015-07-24,Maize,4,Haryana,6,Gurgaon,86,1010,1155,1120
+2015-06-30,Maize,4,Haryana,6,Gurgaon,86,1169,1169,1169

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-31,Lime,180,Uttar Pradesh,9,Firozabad,147,3800,3940,3860
+2019-10-07,Lime,180,Uttar Pradesh,9,Firozabad,147,4200,4400,4300
+2019-04-22,Lime,180,Uttar Pradesh,9,Firozabad,147,5900,6150,6000
+2018-08-13,Lime,180,Uttar Pradesh,9,Firozabad,147,4080,4200,4120

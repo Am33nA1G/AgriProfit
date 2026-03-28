@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-28,Fish,366,Haryana,6,Yamunanagar,71,9250,11500,10250
+2016-02-27,Fish,366,Haryana,6,Yamunanagar,71,10000,12000,11000
+2016-02-26,Fish,366,Haryana,6,Yamunanagar,71,9000,10000,9500
+2016-02-24,Fish,366,Haryana,6,Yamunanagar,71,9500,10750,10250
+2016-02-11,Fish,366,Haryana,6,Yamunanagar,71,10000,12000,11000
+2016-02-10,Fish,366,Haryana,6,Yamunanagar,71,6000,7500,6500

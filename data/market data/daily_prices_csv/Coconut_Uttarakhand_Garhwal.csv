@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-31,Coconut,138,Uttarakhand,5,Garhwal,61,2500,3000,2800
+2024-05-20,Coconut,138,Uttarakhand,5,Garhwal,61,2300,2800,2500

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-13,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,2000,6000,4500
+2022-07-12,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,2000,6000,3000
+2022-07-11,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,2000,6000,4000
+2022-07-01,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,3000,5000,4000
+2022-06-30,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2022-06-29,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,3500,5000,4500
+2022-06-24,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,3000,6000,5000
+2022-01-28,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,3000,5000,4000
+2022-01-20,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2019-03-04,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,3000,4000,3500
+2015-12-05,Leafy Vegetable,171,Andaman & Nicobar Islands,35,South Andaman,640,2000,4000,3000

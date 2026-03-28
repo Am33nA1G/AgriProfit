@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-03,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,16000,20000,18000
+2019-04-06,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2019-04-01,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2019-03-29,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,15000,20000,18000
+2019-03-23,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,16000,18000,17000
+2019-03-18,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,15000,16000,15500
+2019-03-09,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,13000,15000,14000
+2019-03-07,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,15000,20000,18000
+2018-08-30,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2018-08-27,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2018-08-24,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2018-08-22,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2018-08-20,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,18000,20000,19000
+2017-10-31,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,10,12,11
+2017-10-17,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,10,12,11
+2017-09-07,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,12000,13000,12500
+2017-09-06,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,13000,15000,14000
+2017-08-31,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,13000,16000,14500
+2017-08-18,Apple,17,Andaman & Nicobar Islands,35,South Andaman,640,17500,20000,18800

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-04,Mataki,93,Maharashtra,27,Osmanabad,525,5001,5001,5001
+2023-08-07,Mataki,93,Maharashtra,27,Osmanabad,525,6001,6001,6001
+2023-04-01,Mataki,93,Maharashtra,27,Osmanabad,525,7000,7000,7000
+2015-11-16,Mataki,93,Maharashtra,27,Osmanabad,525,7900,7990,7900

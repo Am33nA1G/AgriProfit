@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-12,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2700
+2019-07-10,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2700
+2019-07-08,Maize,4,Meghalaya,17,West Garo Hills,293,2000,2500,2400
+2019-07-05,Maize,4,Meghalaya,17,West Garo Hills,293,2250,2750,2500
+2019-07-04,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2700
+2019-07-03,Maize,4,Meghalaya,17,West Garo Hills,293,2250,2750,2450
+2019-07-02,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2700
+2019-06-27,Maize,4,Meghalaya,17,West Garo Hills,293,3000,3500,3400
+2019-06-26,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2850
+2019-06-25,Maize,4,Meghalaya,17,West Garo Hills,293,3000,3500,3400
+2017-07-14,Maize,4,Meghalaya,17,West Garo Hills,293,2500,3000,2800
+2015-08-07,Maize,4,Meghalaya,17,West Garo Hills,293,2600,3500,3000
+2015-06-26,Maize,4,Meghalaya,17,West Garo Hills,293,2500,2800,2600

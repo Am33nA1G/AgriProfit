@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-06,Guava,185,Karnataka,29,Bangalore,572,1000,2200,1600
+2019-10-31,Guava,185,Karnataka,29,Bangalore,572,500,1500,1000
+2016-09-01,Guava,185,Karnataka,29,Bangalore,572,500,1500,1000
+2015-08-14,Guava,185,Karnataka,29,Bangalore,572,2800,3800,3400

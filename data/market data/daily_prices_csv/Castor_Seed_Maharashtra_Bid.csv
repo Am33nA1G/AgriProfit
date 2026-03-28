@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-05,Castor Seed,123,Maharashtra,27,Bid,523,4800,4800,4800
+2019-04-26,Castor Seed,123,Maharashtra,27,Bid,523,4000,4400,4400
+2018-06-07,Castor Seed,123,Maharashtra,27,Bid,523,3261,3286,3265
+2018-05-25,Castor Seed,123,Maharashtra,27,Bid,523,3150,3270,3254
+2018-05-24,Castor Seed,123,Maharashtra,27,Bid,523,3200,3251,3200
+2018-05-22,Castor Seed,123,Maharashtra,27,Bid,523,3152,3300,3299
+2018-05-18,Castor Seed,123,Maharashtra,27,Bid,523,3280,3300,3280
+2018-05-16,Castor Seed,123,Maharashtra,27,Bid,523,3200,3300,3231
+2018-05-08,Castor Seed,123,Maharashtra,27,Bid,523,3200,3311,3228
+2018-05-04,Castor Seed,123,Maharashtra,27,Bid,523,3200,3341,3290
+2016-08-03,Castor Seed,123,Maharashtra,27,Bid,523,2600,2600,2600
+2016-04-26,Castor Seed,123,Maharashtra,27,Bid,523,2880,2880,2880
+2016-04-21,Castor Seed,123,Maharashtra,27,Bid,523,2900,2900,2900
+2016-04-05,Castor Seed,123,Maharashtra,27,Bid,523,2800,2852,2800
+2016-03-18,Castor Seed,123,Maharashtra,27,Bid,523,2861,2861,2861
+2016-01-08,Castor Seed,123,Maharashtra,27,Bid,523,3200,3200,3200
+2015-10-26,Castor Seed,123,Maharashtra,27,Bid,523,3400,3400,3400
+2015-05-30,Castor Seed,123,Maharashtra,27,Bid,523,3000,3300,3100
+2015-05-22,Castor Seed,123,Maharashtra,27,Bid,523,2400,2400,2400

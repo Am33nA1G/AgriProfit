@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-21,Red Gram,7,Karnataka,29,Chikmagalur,570,6000,8200,8000
+2015-10-20,Red Gram,7,Karnataka,29,Chikmagalur,570,6200,8100,8000
+2015-07-10,Red Gram,7,Karnataka,29,Chikmagalur,570,7000,9000,8000
+2015-03-07,Red Gram,7,Karnataka,29,Chikmagalur,570,4650,4650,4650
+2015-02-19,Red Gram,7,Karnataka,29,Chikmagalur,570,3938,3938,3938
+2015-02-06,Red Gram,7,Karnataka,29,Chikmagalur,570,6050,9600,7413
+2015-01-30,Red Gram,7,Karnataka,29,Chikmagalur,570,4235,4235,4235

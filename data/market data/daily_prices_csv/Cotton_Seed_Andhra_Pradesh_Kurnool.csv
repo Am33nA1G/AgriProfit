@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-18,Cotton Seed,99,Andhra Pradesh,28,Kurnool,552,3562,4126,4071
+2015-10-21,Cotton Seed,99,Andhra Pradesh,28,Kurnool,552,2808,3642,3496
+2015-08-14,Cotton Seed,99,Andhra Pradesh,28,Kurnool,552,1610,1610,1610
+2015-07-19,Cotton Seed,99,Andhra Pradesh,28,Kurnool,552,3505,3735,3605

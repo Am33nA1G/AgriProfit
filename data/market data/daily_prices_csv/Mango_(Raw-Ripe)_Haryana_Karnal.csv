@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-16,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,5000,5000,5000
+2025-08-14,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,5000,5000,5000
+2025-08-12,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,6000,6000,6000
+2025-08-09,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,5000,5000,5000
+2025-08-05,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,5000,5000,5000
+2025-07-23,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,3500,3500,3500
+2025-07-22,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1500,3500,2500
+2025-07-21,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1200,3500,2500
+2025-07-14,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1000,3000,2000
+2025-07-12,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1200,3000,2200
+2025-07-08,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1000,3000,2000
+2025-07-04,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1000,3000,2000
+2025-07-02,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,1000,3000,2000
+2025-07-01,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,800,3000,1900
+2025-06-30,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,2000,3000,2500
+2025-06-26,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,800,1500,1200
+2025-06-25,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,800,1500,1150
+2025-06-23,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,800,1500,1200
+2025-06-22,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,800,1500,1100
+2025-06-21,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,600,900,800
+2025-06-19,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,600,1500,900
+2025-06-18,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,600,800,700
+2025-06-16,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,600,700,650
+2025-06-15,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,400,700,500
+2025-06-13,Mango (Raw-Ripe),172,Haryana,6,Karnal,74,600,800,700

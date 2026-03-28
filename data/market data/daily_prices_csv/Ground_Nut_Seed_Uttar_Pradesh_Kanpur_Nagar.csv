@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-31,Ground Nut Seed,268,Uttar Pradesh,9,Kanpur Nagar,164,5100,5400,5200
+2019-03-31,Ground Nut Seed,268,Uttar Pradesh,9,Kanpur Nagar,164,5000,6000,5500
+2019-03-30,Ground Nut Seed,268,Uttar Pradesh,9,Kanpur Nagar,164,5000,6000,5500

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-24,Tamarind Seed,208,Karnataka,29,Bellary,565,1235,1235,1235
+2019-02-19,Tamarind Seed,208,Karnataka,29,Bellary,565,4500,12599,7259
+2016-03-02,Tamarind Seed,208,Karnataka,29,Bellary,565,5900,5900,5900

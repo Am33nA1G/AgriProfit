@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-22,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,400,500,500
+2020-08-07,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1500,1900,1700
+2020-08-06,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1500,1700,1600
+2020-08-05,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1600,1800,1700
+2020-08-04,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1800,2000,1900
+2020-08-03,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1600,2000,1800
+2020-08-02,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1800,2000,1900
+2020-08-01,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1800,2000,1900
+2020-07-31,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1500,1700,1600
+2020-07-29,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2550,2500
+2020-07-27,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1400,1600,1500
+2020-07-26,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1400,1600,1500
+2020-07-25,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1500,1700,1600
+2020-07-23,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1800,2000,1900
+2020-07-22,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,1900,2100,2000
+2020-07-21,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2200,2100
+2020-07-20,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2200,2100
+2020-07-19,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2400,2300
+2020-07-18,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2400,2300
+2020-07-17,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2400,2300
+2020-07-16,Indian Beans (Seam),299,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2400,2300

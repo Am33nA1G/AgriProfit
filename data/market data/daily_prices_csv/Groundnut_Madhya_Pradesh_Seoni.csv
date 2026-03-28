@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-04,Groundnut,10,Madhya Pradesh,23,Seoni,456,3800,3825,3812
+2018-04-09,Groundnut,10,Madhya Pradesh,23,Seoni,456,3200,3250,3225
+2016-09-28,Groundnut,10,Madhya Pradesh,23,Seoni,456,2600,2600,2600
+2016-09-27,Groundnut,10,Madhya Pradesh,23,Seoni,456,2600,2600,2600
+2016-01-22,Groundnut,10,Madhya Pradesh,23,Seoni,456,4025,4050,4035
+2015-12-31,Groundnut,10,Madhya Pradesh,23,Seoni,456,4031,4040,4035
+2015-12-15,Groundnut,10,Madhya Pradesh,23,Seoni,456,5000,5100,5050
+2015-10-16,Groundnut,10,Madhya Pradesh,23,Seoni,456,4200,4300,4250
+2015-10-03,Groundnut,10,Madhya Pradesh,23,Seoni,456,4200,4400,4300
+2015-06-26,Groundnut,10,Madhya Pradesh,23,Seoni,456,5100,5100,5100

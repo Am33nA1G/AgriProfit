@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-02,Mustard,12,Odisha,21,Jajapur,382,4200,4800,4800
+2019-08-13,Mustard,12,Odisha,21,Jajapur,382,5000,5000,5000
+2017-12-09,Mustard,12,Odisha,21,Jajapur,382,5000,6000,6000
+2016-04-10,Mustard,12,Odisha,21,Jajapur,382,5500,6500,6500
+2016-01-24,Mustard,12,Odisha,21,Jajapur,382,4000,5000,4500
+2015-12-11,Mustard,12,Odisha,21,Jajapur,382,3100,4000,3400
+2015-07-11,Mustard,12,Odisha,21,Jajapur,382,5000,5500,5500
+2015-05-13,Mustard,12,Odisha,21,Jajapur,382,4500,5000,5000
+2015-05-10,Mustard,12,Odisha,21,Jajapur,382,5000,5500,5500
+2015-05-09,Mustard,12,Odisha,21,Jajapur,382,4500,5000,5000
+2015-05-02,Mustard,12,Odisha,21,Jajapur,382,5000,5000,5000

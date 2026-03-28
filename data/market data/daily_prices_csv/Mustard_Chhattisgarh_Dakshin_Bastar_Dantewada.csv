@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-31,Mustard,12,Chhattisgarh,22,Dakshin Bastar Dantewada,416,7000,7000,7000
+2016-02-29,Mustard,12,Chhattisgarh,22,Dakshin Bastar Dantewada,416,4000,4000,4000

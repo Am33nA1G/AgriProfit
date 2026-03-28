@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-07,Sajje,271,Karnataka,29,Chikmagalur,570,1900,2500,2300
+2016-03-29,Sajje,271,Karnataka,29,Chikmagalur,570,1300,1400,1350
+2016-02-23,Sajje,271,Karnataka,29,Chikmagalur,570,1400,1600,1500
+2015-02-23,Sajje,271,Karnataka,29,Chikmagalur,570,1100,1400,1250

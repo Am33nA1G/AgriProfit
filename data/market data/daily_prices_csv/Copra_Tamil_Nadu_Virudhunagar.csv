@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-01,Copra,129,Tamil Nadu,33,Virudhunagar,625,8500,8700,8700
+2024-06-28,Copra,129,Tamil Nadu,33,Virudhunagar,625,6500,7000,6800
+2024-06-27,Copra,129,Tamil Nadu,33,Virudhunagar,625,6900,7100,7000
+2024-06-12,Copra,129,Tamil Nadu,33,Virudhunagar,625,7000,7300,7100
+2024-06-06,Copra,129,Tamil Nadu,33,Virudhunagar,625,6900,7300,7000
+2024-06-05,Copra,129,Tamil Nadu,33,Virudhunagar,625,6500,6800,6600

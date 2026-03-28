@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-25,Little gourd (Kundru),302,Bihar,10,Vaishali,220,400,500,400
+2022-10-24,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1200,1300,1200
+2022-10-17,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1200,1100
+2022-10-13,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1010,1000
+2022-10-06,Little gourd (Kundru),302,Bihar,10,Vaishali,220,800,900,850
+2022-10-03,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1200,1100
+2022-09-29,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1200,1300,1250
+2022-09-19,Little gourd (Kundru),302,Bihar,10,Vaishali,220,800,1000,900
+2022-09-12,Little gourd (Kundru),302,Bihar,10,Vaishali,220,500,800,600
+2022-08-29,Little gourd (Kundru),302,Bihar,10,Vaishali,220,600,800,700
+2022-08-25,Little gourd (Kundru),302,Bihar,10,Vaishali,220,500,700,600
+2022-08-15,Little gourd (Kundru),302,Bihar,10,Vaishali,220,300,500,400
+2022-08-11,Little gourd (Kundru),302,Bihar,10,Vaishali,220,300,500,400
+2022-08-04,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1050,1000
+2022-07-28,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1200,1100
+2022-07-18,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1400,1500,1500
+2022-07-14,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1300,1200
+2022-07-11,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1200,1300,1250
+2022-06-30,Little gourd (Kundru),302,Bihar,10,Vaishali,220,1000,1200,1200

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-08,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1995,2000,1995
+2021-11-26,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2021-03-09,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,4900,5240,5070
+2019-03-29,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1750,1750,1750
+2017-05-20,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,2800,3000,2900
+2015-12-14,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1033,1033,1033
+2015-11-24,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1780,1780,1780
+2015-11-18,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,2111,2111,2111
+2015-01-27,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1100,1130,1115
+2015-01-21,Jowar (Sorghum),5,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000

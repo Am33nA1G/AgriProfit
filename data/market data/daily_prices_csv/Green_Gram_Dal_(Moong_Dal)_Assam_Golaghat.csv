@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-03,Green Gram Dal (Moong Dal),265,Assam,18,Golaghat,313,7800,8100,8000
+2017-03-16,Green Gram Dal (Moong Dal),265,Assam,18,Golaghat,313,7200,8000,7500
+2016-10-28,Green Gram Dal (Moong Dal),265,Assam,18,Golaghat,313,8400,8900,8600

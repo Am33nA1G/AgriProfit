@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-30,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8590,8665,8620
+2021-04-23,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8540,8640,8590
+2021-04-16,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8570,8660,8610
+2021-04-09,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8570,8650,8610
+2021-04-02,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8580,8659,8620
+2021-03-26,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8560,8640,8600
+2021-03-12,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8550,8650,8600
+2021-02-26,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8610,8690,8650
+2021-02-19,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8645,8720,8680
+2021-02-12,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8610,8685,8640
+2021-01-29,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8510,8575,8540
+2020-05-22,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8400,8500,8450
+2020-05-15,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8450,8550,8500
+2020-03-20,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8615,8685,8650
+2020-03-06,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8650,8720,8690
+2020-02-28,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8650,8730,8695
+2020-02-21,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8715,8795,8750
+2020-02-14,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8810,8880,8850
+2020-01-24,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8490,8530,8515
+2020-01-17,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8490,8545,8515
+2019-12-06,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8300,8355,8325
+2019-11-29,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,9050,9140,9100
+2019-11-26,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8250,8320,8295
+2019-11-23,Coriander seed,108,Uttar Pradesh,9,Pilibhit,151,8680,8740,8710

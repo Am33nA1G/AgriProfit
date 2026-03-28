@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-23,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,6000,6200,6100
+2015-12-09,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,6000,6500,6250
+2015-12-04,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,,,9500
+2015-12-03,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,6000,6400,6200
+2015-11-20,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,6000,6500,6200
+2015-11-06,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,8000,9000,8500
+2015-11-04,Lentil (Masur)(Whole),63,Punjab,3,Patiala,48,8000,9000,8500

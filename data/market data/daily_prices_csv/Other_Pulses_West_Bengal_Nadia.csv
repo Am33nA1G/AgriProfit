@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-30,Other Pulses,97,West Bengal,19,Nadia,336,13500,13500,13500
+2015-11-28,Other Pulses,97,West Bengal,19,Nadia,336,13000,13000,13000
+2015-11-27,Other Pulses,97,West Bengal,19,Nadia,336,12000,12000,12000
+2015-11-26,Other Pulses,97,West Bengal,19,Nadia,336,12000,12000,12000

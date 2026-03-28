@@ -1,0 +1,1 @@
+"""Directional farmer advisory module."""

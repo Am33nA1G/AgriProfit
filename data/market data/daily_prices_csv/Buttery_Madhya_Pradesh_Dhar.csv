@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-12,Buttery,416,Madhya Pradesh,23,Dhar,438,8805,8805,8805
+2025-03-01,Buttery,416,Madhya Pradesh,23,Dhar,438,8600,8600,8600
+2024-12-12,Buttery,416,Madhya Pradesh,23,Dhar,438,6105,6105,6105

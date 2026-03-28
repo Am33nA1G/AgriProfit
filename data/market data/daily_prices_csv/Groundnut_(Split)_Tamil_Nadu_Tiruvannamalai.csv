@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-17,Groundnut (Split),314,Tamil Nadu,33,Tiruvannamalai,606,8975,9483,9229
+2023-05-12,Groundnut (Split),314,Tamil Nadu,33,Tiruvannamalai,606,8333,8940,8636

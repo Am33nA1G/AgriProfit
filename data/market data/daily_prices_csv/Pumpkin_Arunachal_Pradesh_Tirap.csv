@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-23,Pumpkin,84,Arunachal Pradesh,12,Tirap,254,1400,1500,1400
+2015-03-18,Pumpkin,84,Arunachal Pradesh,12,Tirap,254,1280,1350,1300
+2015-03-17,Pumpkin,84,Arunachal Pradesh,12,Tirap,254,1250,1300,1250
+2015-03-04,Pumpkin,84,Arunachal Pradesh,12,Tirap,254,1350,1400,1350

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-17,Wheat Atta,287,Uttar Pradesh,9,Pilibhit,151,2365,2405,2385
+2019-12-06,Wheat Atta,287,Uttar Pradesh,9,Pilibhit,151,2110,2180,2150
+2019-11-30,Wheat Atta,287,Uttar Pradesh,9,Pilibhit,151,2215,2280,2250
+2019-11-29,Wheat Atta,287,Uttar Pradesh,9,Pilibhit,151,2250,2310,2280

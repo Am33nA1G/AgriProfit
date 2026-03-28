@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-25,Pumpkin,84,Odisha,21,Subarnapur,392,1200,1350,1300
+2019-08-16,Pumpkin,84,Odisha,21,Subarnapur,392,900,1000,1000
+2019-08-15,Pumpkin,84,Odisha,21,Subarnapur,392,850,1000,950
+2017-07-17,Pumpkin,84,Odisha,21,Subarnapur,392,1300,1400,1350

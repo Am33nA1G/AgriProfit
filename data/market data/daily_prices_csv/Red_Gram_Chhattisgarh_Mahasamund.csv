@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-11-30,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-10-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-09-30,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-08-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-07-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-06-30,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-05-30,Red Gram,7,Chhattisgarh,22,Mahasamund,411,4000,4000,4000
+2015-04-30,Red Gram,7,Chhattisgarh,22,Mahasamund,411,3800,4000,3900
+2015-03-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,3793,4000,3897
+2015-02-28,Red Gram,7,Chhattisgarh,22,Mahasamund,411,3793,3800,3797
+2015-01-31,Red Gram,7,Chhattisgarh,22,Mahasamund,411,3700,4000,3850

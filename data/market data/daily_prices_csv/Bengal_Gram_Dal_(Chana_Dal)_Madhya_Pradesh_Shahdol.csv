@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-25,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,3300,3302,3301
+2019-10-31,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,3500,3702,3600
+2019-09-07,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,3600,3605,3605
+2019-04-22,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,3800,3800,3800
+2019-04-20,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,3800,3910,3800
+2019-04-19,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Shahdol,460,4610,4610,4610

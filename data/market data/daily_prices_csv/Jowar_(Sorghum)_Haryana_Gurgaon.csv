@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-15,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1180,1180,1180
+2017-11-25,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1210,1210,1210
+2016-09-08,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1700,1700,1700
+2015-12-07,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1500,1500,1500
+2015-11-17,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1500,1500,1500
+2015-09-19,Jowar (Sorghum),5,Haryana,6,Gurgaon,86,1700,1700,1700

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-04,Mustard Oil,324,West Bengal,19,Maldah,332,10900,11100,11000
+2016-01-13,Mustard Oil,324,West Bengal,19,Maldah,332,10900,11100,11000
+2016-01-12,Mustard Oil,324,West Bengal,19,Maldah,332,10900,11100,11000

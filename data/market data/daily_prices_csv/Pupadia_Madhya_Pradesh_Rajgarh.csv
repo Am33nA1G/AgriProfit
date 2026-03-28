@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-07,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2500,2600,2600
+2024-12-25,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2825,2840,2825
+2024-12-11,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2301,2400,2305
+2024-12-08,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,28,2870,2870
+2024-12-04,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2800,2915,2800
+2024-12-03,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2510,2600,2600
+2024-11-23,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2500,2890,2890
+2024-11-21,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2800,2915,2915
+2024-11-20,Pupadia,447,Madhya Pradesh,23,Rajgarh,442,2600,2600,2600

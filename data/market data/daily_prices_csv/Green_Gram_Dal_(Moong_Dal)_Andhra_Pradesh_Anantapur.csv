@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-18,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Anantapur,553,6000,6200,6100
+2024-11-13,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Anantapur,553,5000,5500,5300
+2024-10-17,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Anantapur,553,4500,5500,5000
+2024-10-16,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Anantapur,553,5000,5500,5300
+2024-10-14,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Anantapur,553,2000,3000,2500

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-23,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Nainital,66,1645,1645,1645
+2016-02-17,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Nainital,66,1500,1520,1510
+2015-12-20,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Nainital,66,1410,1410,1410

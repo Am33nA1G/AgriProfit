@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-25,Mahua,335,Madhya Pradesh,23,Narsimhapur,452,3900,4050,4000
+2024-10-25,Mahua,335,Madhya Pradesh,23,Narsimhapur,452,4000,4000,4000
+2022-12-13,Mahua,335,Madhya Pradesh,23,Narsimhapur,452,2550,3051,2950

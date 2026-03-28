@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-21,Coriander seed,108,Maharashtra,27,Akola,501,5700,5700,5700
+2025-08-03,Coriander seed,108,Maharashtra,27,Akola,501,6000,6000,6000
+2024-03-31,Coriander seed,108,Maharashtra,27,Akola,501,5700,5700,5700
+2024-03-17,Coriander seed,108,Maharashtra,27,Akola,501,5000,5000,5000

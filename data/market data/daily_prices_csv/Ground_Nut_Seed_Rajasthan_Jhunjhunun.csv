@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-06,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,4400,4500,4450
+2015-04-29,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3500,3600,3550
+2015-04-28,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3500,3600,3550
+2015-04-27,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3400,3500,3450
+2015-04-25,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3400,3500,3450
+2015-04-24,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3400,3500,3450
+2015-04-23,Ground Nut Seed,268,Rajasthan,8,Jhunjhunun,103,3350,3460,3410

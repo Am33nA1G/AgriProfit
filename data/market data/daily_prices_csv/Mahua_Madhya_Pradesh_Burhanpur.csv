@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-07,Mahua,335,Madhya Pradesh,23,Burhanpur,467,1500,1700,1700
+2025-05-14,Mahua,335,Madhya Pradesh,23,Burhanpur,467,1600,1600,1600
+2025-04-08,Mahua,335,Madhya Pradesh,23,Burhanpur,467,1960,2000,2000

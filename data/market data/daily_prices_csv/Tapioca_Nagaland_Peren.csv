@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-29,Tapioca,100,Nagaland,13,Peren,271,2000,2300,2200
+2019-11-22,Tapioca,100,Nagaland,13,Peren,271,1900,2200,2000
+2019-11-01,Tapioca,100,Nagaland,13,Peren,271,1900,2200,2000
+2019-10-25,Tapioca,100,Nagaland,13,Peren,271,2000,2300,2200
+2019-10-18,Tapioca,100,Nagaland,13,Peren,271,1900,2200,2000

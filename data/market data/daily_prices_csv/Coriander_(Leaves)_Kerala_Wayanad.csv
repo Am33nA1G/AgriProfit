@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-24,Coriander (Leaves),43,Kerala,32,Wayanad,590,380,480,430
+2023-04-14,Coriander (Leaves),43,Kerala,32,Wayanad,590,620,720,670
+2023-03-01,Coriander (Leaves),43,Kerala,32,Wayanad,590,900,1000,950
+2023-01-21,Coriander (Leaves),43,Kerala,32,Wayanad,590,1500,1600,1550
+2023-01-20,Coriander (Leaves),43,Kerala,32,Wayanad,590,2500,2600,2550
+2022-12-06,Coriander (Leaves),43,Kerala,32,Wayanad,590,2200,2300,2250

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-02,Radish,161,Odisha,21,Sundargarh,374,3200,3600,3500
+2024-10-16,Radish,161,Odisha,21,Sundargarh,374,3600,4000,3900
+2024-03-08,Radish,161,Odisha,21,Sundargarh,374,1200,1600,1500
+2018-11-28,Radish,161,Odisha,21,Sundargarh,374,500,800,700

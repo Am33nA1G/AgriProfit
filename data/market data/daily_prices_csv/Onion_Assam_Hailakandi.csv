@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-30,Onion,23,Assam,18,Hailakandi,318,2200,2500,2350
+2022-05-10,Onion,23,Assam,18,Hailakandi,318,1600,2000,1800
+2022-04-08,Onion,23,Assam,18,Hailakandi,318,2000,2500,2400

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-11,Sugarcane,150,Tamil Nadu,33,Erode,610,4300,4500,4400
+2022-08-10,Sugarcane,150,Tamil Nadu,33,Erode,610,3800,4220,4010
+2022-08-09,Sugarcane,150,Tamil Nadu,33,Erode,610,4300,4566,4400
+2022-08-08,Sugarcane,150,Tamil Nadu,33,Erode,610,3910,4100,4005
+2022-08-02,Sugarcane,150,Tamil Nadu,33,Erode,610,4250,4336,4300
+2022-07-28,Sugarcane,150,Tamil Nadu,33,Erode,610,3700,3900,3800
+2022-07-27,Sugarcane,150,Tamil Nadu,33,Erode,610,3600,3726,3650
+2022-07-25,Sugarcane,150,Tamil Nadu,33,Erode,610,4000,4060,4030
+2022-07-23,Sugarcane,150,Tamil Nadu,33,Erode,610,3333,3922,3627
+2022-07-22,Sugarcane,150,Tamil Nadu,33,Erode,610,3900,4000,3950
+2022-07-21,Sugarcane,150,Tamil Nadu,33,Erode,610,3700,3900,3800
+2022-07-19,Sugarcane,150,Tamil Nadu,33,Erode,610,3400,3833,3616
+2022-07-10,Sugarcane,150,Tamil Nadu,33,Erode,610,3750,4000,3850
+2022-07-04,Sugarcane,150,Tamil Nadu,33,Erode,610,3700,3900,3800
+2015-07-16,Sugarcane,150,Tamil Nadu,33,Erode,610,1000,1200,1000

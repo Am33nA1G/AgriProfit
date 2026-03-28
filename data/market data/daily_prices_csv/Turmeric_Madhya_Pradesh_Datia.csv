@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-06,Turmeric,39,Madhya Pradesh,23,Datia,422,5000,5000,5000
+2025-08-07,Turmeric,39,Madhya Pradesh,23,Datia,422,11881,11881,11881
+2025-08-06,Turmeric,39,Madhya Pradesh,23,Datia,422,13367,13367,13367
+2025-02-26,Turmeric,39,Madhya Pradesh,23,Datia,422,11428,11619,11619
+2025-02-07,Turmeric,39,Madhya Pradesh,23,Datia,422,14800,14800,14800
+2024-12-05,Turmeric,39,Madhya Pradesh,23,Datia,422,14800,14800,14800
+2024-07-05,Turmeric,39,Madhya Pradesh,23,Datia,422,19468,19468,19468
+2024-05-29,Turmeric,39,Madhya Pradesh,23,Datia,422,15524,15524,15524
+2024-03-20,Turmeric,39,Madhya Pradesh,23,Datia,422,16095,16141,16141

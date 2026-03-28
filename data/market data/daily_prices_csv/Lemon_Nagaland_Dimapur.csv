@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-07,Lemon,310,Nagaland,13,Dimapur,265,4300,5000,4500
+2023-11-20,Lemon,310,Nagaland,13,Dimapur,265,4300,5000,4500
+2023-11-18,Lemon,310,Nagaland,13,Dimapur,265,4000,5000,4500
+2023-11-17,Lemon,310,Nagaland,13,Dimapur,265,4500,5000,4800
+2023-11-16,Lemon,310,Nagaland,13,Dimapur,265,4200,5000,4500
+2023-11-15,Lemon,310,Nagaland,13,Dimapur,265,4000,4500,4300
+2023-10-09,Lemon,310,Nagaland,13,Dimapur,265,3500,4200,4000
+2023-10-06,Lemon,310,Nagaland,13,Dimapur,265,3500,4300,4000

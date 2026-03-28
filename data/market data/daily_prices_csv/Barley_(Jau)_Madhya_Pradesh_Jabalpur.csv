@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-03-24,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1020,1020,1020
+2020-11-19,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,2700,2700,2700
+2019-12-07,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,2500,2500,2500
+2017-10-06,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1700,1700,1700
+2016-12-30,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1608,1608,1608
+2016-12-21,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1900,1900,1900
+2016-12-19,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,2126,2126,2126
+2016-12-17,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,2300,2300,2300
+2016-02-08,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,961,961,961
+2016-02-06,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1001,1001,1001
+2015-08-07,Barley (Jau),29,Madhya Pradesh,23,Jabalpur,451,1364,1364,1364

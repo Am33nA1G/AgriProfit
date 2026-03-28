@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-14,Maize,4,Haryana,6,Sirsa,79,1000,1000,1000
+2023-07-11,Maize,4,Haryana,6,Sirsa,79,500,500,500
+2019-07-17,Maize,4,Haryana,6,Sirsa,79,1400,1400,1400
+2017-07-05,Maize,4,Haryana,6,Sirsa,79,1200,1200,1200
+2015-11-30,Maize,4,Haryana,6,Sirsa,79,1425,1425,1425

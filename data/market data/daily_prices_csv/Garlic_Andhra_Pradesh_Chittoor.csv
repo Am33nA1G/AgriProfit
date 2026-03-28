@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-02,Garlic,25,Andhra Pradesh,28,Chittoor,554,3750,4000,3875
+2017-10-22,Garlic,25,Andhra Pradesh,28,Chittoor,554,3375,3750,3500
+2016-04-13,Garlic,25,Andhra Pradesh,28,Chittoor,554,4375,4750,4500

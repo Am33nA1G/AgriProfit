@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-31,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,2450,2510,2510
+2024-12-31,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,1900,1995,1995
+2024-12-26,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,5000,5100,5100
+2024-12-12,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,1820,2150,2150
+2021-12-03,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,1350,1400,1400
+2021-11-27,Jowar (Sorghum),5,Madhya Pradesh,23,Damoh,428,1300,1300,1300

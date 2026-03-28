@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-02,Tinda,349,Uttarakhand,5,Garhwal,61,1800,2200,2000
+2024-06-21,Tinda,349,Uttarakhand,5,Garhwal,61,1300,1500,1400
+2024-05-31,Tinda,349,Uttarakhand,5,Garhwal,61,800,1000,900
+2023-06-08,Tinda,349,Uttarakhand,5,Garhwal,61,1200,2000,1500
+2023-06-05,Tinda,349,Uttarakhand,5,Garhwal,61,900,1200,1000
+2023-05-24,Tinda,349,Uttarakhand,5,Garhwal,61,1000,1200,1100
+2023-05-21,Tinda,349,Uttarakhand,5,Garhwal,61,700,900,800
+2023-05-19,Tinda,349,Uttarakhand,5,Garhwal,61,700,900,800

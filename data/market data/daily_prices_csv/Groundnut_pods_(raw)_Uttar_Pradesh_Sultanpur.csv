@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-19,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,6800,7200,7000
+2019-04-12,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,6500,7000,6800
+2019-03-29,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,6200,6700,6350
+2019-03-22,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,6000,6500,6200
+2019-03-15,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,6800,7000,6850
+2019-03-08,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,5400,5600,5500
+2019-03-01,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,5350,5600,5425
+2019-02-15,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,5300,5400,5350
+2019-02-08,Groundnut pods (raw),312,Uttar Pradesh,9,Sultanpur,179,5300,5500,5400

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-19,Ginger (Dry),27,Assam,18,Dhubri,301,4000,4400,4300
+2016-04-20,Ginger (Dry),27,Assam,18,Dhubri,301,3200,3650,3500
+2016-04-05,Ginger (Dry),27,Assam,18,Dhubri,301,,3600,3500
+2016-03-19,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3400
+2016-03-17,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3400
+2016-03-08,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3500
+2016-02-17,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3400
+2016-02-05,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3400
+2016-02-01,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3400
+2016-01-28,Ginger (Dry),27,Assam,18,Dhubri,301,3000,3500,3500
+2015-02-20,Ginger (Dry),27,Assam,18,Dhubri,301,6000,8200,7000
+2015-02-19,Ginger (Dry),27,Assam,18,Dhubri,301,6000,9000,8000
+2015-02-13,Ginger (Dry),27,Assam,18,Dhubri,301,6000,9000,8000
+2015-01-27,Ginger (Dry),27,Assam,18,Dhubri,301,6000,9000,8000

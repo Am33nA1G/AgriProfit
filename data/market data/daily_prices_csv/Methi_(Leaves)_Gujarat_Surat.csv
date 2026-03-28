@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-05,Methi (Leaves),46,Gujarat,24,Surat,492,950,950,950
+2019-02-17,Methi (Leaves),46,Gujarat,24,Surat,492,400,400,400
+2019-02-16,Methi (Leaves),46,Gujarat,24,Surat,492,400,500,450
+2019-02-13,Methi (Leaves),46,Gujarat,24,Surat,492,800,1000,900
+2019-02-12,Methi (Leaves),46,Gujarat,24,Surat,492,850,850,850
+2019-02-08,Methi (Leaves),46,Gujarat,24,Surat,492,400,400,400
+2019-02-04,Methi (Leaves),46,Gujarat,24,Surat,492,500,500,500
+2019-02-01,Methi (Leaves),46,Gujarat,24,Surat,492,575,575,575
+2019-01-31,Methi (Leaves),46,Gujarat,24,Surat,492,925,925,925
+2019-01-30,Methi (Leaves),46,Gujarat,24,Surat,492,1250,1250,1250
+2019-01-28,Methi (Leaves),46,Gujarat,24,Surat,492,500,925,712
+2019-01-25,Methi (Leaves),46,Gujarat,24,Surat,492,250,300,275
+2019-01-24,Methi (Leaves),46,Gujarat,24,Surat,492,500,750,652
+2019-01-23,Methi (Leaves),46,Gujarat,24,Surat,492,500,775,638

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-18,Beans,94,Haryana,6,Sirsa,79,3000,3000,3000
+2016-08-16,Beans,94,Haryana,6,Sirsa,79,1200,3876,3500

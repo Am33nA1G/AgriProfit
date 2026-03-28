@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-02,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-08-01,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-30,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-29,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-27,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-26,Mango,20,Jammu & Kashmir,1,Pulwama,12,6250,8750,7500
+2019-07-25,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-24,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,6250,5000
+2019-07-23,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,5000,4375
+2019-07-22,Mango,20,Jammu & Kashmir,1,Pulwama,12,3125,4375,3750
+2019-07-20,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,5000,4375
+2019-07-18,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,6875,5625
+2019-07-17,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,5000,4375
+2019-07-16,Mango,20,Jammu & Kashmir,1,Pulwama,12,5000,7500,6250
+2019-07-13,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,5625,5000
+2019-07-12,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,6875,5625
+2019-07-11,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,6875,5625
+2019-07-10,Mango,20,Jammu & Kashmir,1,Pulwama,12,3750,5000,4375
+2019-07-09,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,6875,5625
+2019-07-08,Mango,20,Jammu & Kashmir,1,Pulwama,12,4375,6875,5625
+2019-06-28,Mango,20,Jammu & Kashmir,1,Pulwama,12,5000,6250,5625
+2019-06-27,Mango,20,Jammu & Kashmir,1,Pulwama,12,5625,6875,6250
+2019-06-25,Mango,20,Jammu & Kashmir,1,Pulwama,12,5000,6250,5625
+2019-06-24,Mango,20,Jammu & Kashmir,1,Pulwama,12,5625,6875,6250
+2019-06-22,Mango,20,Jammu & Kashmir,1,Pulwama,12,6562.5,7812.5,7187.5

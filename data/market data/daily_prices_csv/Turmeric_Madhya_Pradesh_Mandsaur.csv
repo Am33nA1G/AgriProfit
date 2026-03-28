@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-08,Turmeric,39,Madhya Pradesh,23,Mandsaur,433,10000,10000,10000
+2025-04-10,Turmeric,39,Madhya Pradesh,23,Mandsaur,433,15400,15400,15400
+2024-08-27,Turmeric,39,Madhya Pradesh,23,Mandsaur,433,14500,14500,14500

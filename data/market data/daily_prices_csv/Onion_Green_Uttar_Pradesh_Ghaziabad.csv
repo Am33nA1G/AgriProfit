@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-09,Onion Green,358,Uttar Pradesh,9,Ghaziabad,140,2060,2170,2150
+2019-12-12,Onion Green,358,Uttar Pradesh,9,Ghaziabad,140,1600,1700,1680
+2019-11-25,Onion Green,358,Uttar Pradesh,9,Ghaziabad,140,3800,3925,3900
+2019-01-29,Onion Green,358,Uttar Pradesh,9,Ghaziabad,140,784,941,826

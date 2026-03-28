@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-20,Pepper - garbled,109,Uttarakhand,5,Udham Singh Nagar,67,900,1100,1000
+2023-12-09,Pepper - garbled,109,Uttarakhand,5,Udham Singh Nagar,67,1200,1400,1300

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-23,Bullar,284,Karnataka,29,Bangalore,572,3400,3400,3400
+2016-02-20,Bullar,284,Karnataka,29,Bangalore,572,3000,3200,3100
+2016-02-16,Bullar,284,Karnataka,29,Bangalore,572,2600,2600,2600
+2015-03-31,Bullar,284,Karnataka,29,Bangalore,572,4200,4200,4200

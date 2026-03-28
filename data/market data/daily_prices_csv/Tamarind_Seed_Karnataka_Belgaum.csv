@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-22,Tamarind Seed,208,Karnataka,29,Belgaum,555,1100,1300,1200
+2019-04-29,Tamarind Seed,208,Karnataka,29,Belgaum,555,1100,1300,1250
+2019-04-27,Tamarind Seed,208,Karnataka,29,Belgaum,555,1250,1450,1350
+2019-03-30,Tamarind Seed,208,Karnataka,29,Belgaum,555,1200,1400,1350
+2019-03-23,Tamarind Seed,208,Karnataka,29,Belgaum,555,1200,1500,1350
+2019-01-28,Tamarind Seed,208,Karnataka,29,Belgaum,555,5600,5600,5600
+2018-04-06,Tamarind Seed,208,Karnataka,29,Belgaum,555,1705,1705,1705

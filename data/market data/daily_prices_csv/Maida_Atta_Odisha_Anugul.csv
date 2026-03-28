@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-19,Maida Atta,288,Odisha,21,Anugul,384,3000,3500,3200
+2022-03-11,Maida Atta,288,Odisha,21,Anugul,384,3000,3200,3100
+2022-03-02,Maida Atta,288,Odisha,21,Anugul,384,3000,3200,3100
+2022-02-08,Maida Atta,288,Odisha,21,Anugul,384,3000,3200,3100
+2022-02-06,Maida Atta,288,Odisha,21,Anugul,384,3100,3300,3200

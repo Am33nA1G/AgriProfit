@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-02,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,4000,4200,4100
+2019-08-01,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,4000,4200,4100
+2019-07-27,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,3500,3700,3600
+2019-07-06,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,1100,1300,1200
+2019-07-03,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,1100,1200,1150
+2019-06-26,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,1200,1400,1300
+2019-06-25,Water Melon,73,Jammu & Kashmir,1,Pulwama,12,1500,1700,1600

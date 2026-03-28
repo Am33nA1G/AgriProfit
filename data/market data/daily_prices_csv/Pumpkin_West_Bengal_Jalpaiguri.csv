@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-05,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1100,1200,1150
+2023-12-04,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1100,1300,1200
+2023-12-03,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1700,1900,1800
+2023-12-02,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1800,2000,1900
+2023-12-01,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1800,2000,1900
+2023-11-30,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1700,1800,1750
+2023-11-29,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1300,1500,1400
+2023-11-28,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1900,2100,2000
+2023-11-27,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1100,1300,1200
+2023-11-24,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1200,1400,1300
+2023-11-23,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1000,1100,1050
+2023-11-22,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1300,1500,1400
+2023-11-21,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1400,1500,1450
+2023-11-19,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1050,1150,1100
+2023-11-18,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1400,1600,1500
+2023-11-17,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1500,1600,1550
+2023-11-16,Pumpkin,84,West Bengal,19,Jalpaiguri,328,1500,1600,1550

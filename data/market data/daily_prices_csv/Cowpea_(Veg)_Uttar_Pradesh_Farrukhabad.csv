@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-07,Cowpea (Veg),89,Uttar Pradesh,9,Farrukhabad,159,1800,2000,1900
+2019-09-06,Cowpea (Veg),89,Uttar Pradesh,9,Farrukhabad,159,1800,1900,1850
+2019-09-05,Cowpea (Veg),89,Uttar Pradesh,9,Farrukhabad,159,2000,2200,2100
+2019-09-04,Cowpea (Veg),89,Uttar Pradesh,9,Farrukhabad,159,2000,2200,2100

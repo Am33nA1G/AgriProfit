@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-17,Mustard,12,Punjab,3,Muktsar,44,5405,6470,6350
+2025-07-16,Mustard,12,Punjab,3,Muktsar,44,6365,6465,6430
+2024-05-14,Mustard,12,Punjab,3,Muktsar,44,4700,6590,6380
+2019-04-10,Mustard,12,Punjab,3,Muktsar,44,3485,3485,3485
+2019-04-08,Mustard,12,Punjab,3,Muktsar,44,3460,3495,3495
+2019-04-05,Mustard,12,Punjab,3,Muktsar,44,3530,3530,3530
+2019-04-04,Mustard,12,Punjab,3,Muktsar,44,3556,3556,3556
+2016-04-11,Mustard,12,Punjab,3,Muktsar,44,3560,3815,3755

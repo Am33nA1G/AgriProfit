@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-08,Onion,23,Andhra Pradesh,28,Srikakulam,542,1200,1500,1400
+2017-11-07,Onion,23,Andhra Pradesh,28,Srikakulam,542,1200,1500,1400
+2017-11-05,Onion,23,Andhra Pradesh,28,Srikakulam,542,1200,1500,1400
+2017-11-02,Onion,23,Andhra Pradesh,28,Srikakulam,542,1300,1500,1400
+2017-10-30,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-10-28,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-10-25,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-10-23,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-10-18,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-10-17,Onion,23,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2017-09-26,Onion,23,Andhra Pradesh,28,Srikakulam,542,1300,1500,1400
+2016-11-09,Onion,23,Andhra Pradesh,28,Srikakulam,542,600,800,700
+2016-11-08,Onion,23,Andhra Pradesh,28,Srikakulam,542,600,800,700
+2016-11-06,Onion,23,Andhra Pradesh,28,Srikakulam,542,600,800,700
+2016-11-03,Onion,23,Andhra Pradesh,28,Srikakulam,542,600,800,700
+2016-09-30,Onion,23,Andhra Pradesh,28,Srikakulam,542,5500,6000,5600
+2015-11-27,Onion,23,Andhra Pradesh,28,Srikakulam,542,1000,1500,1200
+2015-11-10,Onion,23,Andhra Pradesh,28,Srikakulam,542,1500,2000,1600
+2015-09-17,Onion,23,Andhra Pradesh,28,Srikakulam,542,2500,3000,2800

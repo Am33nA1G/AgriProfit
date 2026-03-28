@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-12,Jack Fruit,182,Nagaland,13,Dimapur,265,2000,2400,2200
+2016-08-05,Jack Fruit,182,Nagaland,13,Dimapur,265,2200,2500,2400
+2016-07-22,Jack Fruit,182,Nagaland,13,Dimapur,265,2000,2400,2200
+2016-07-15,Jack Fruit,182,Nagaland,13,Dimapur,265,2000,2500,2200
+2016-07-08,Jack Fruit,182,Nagaland,13,Dimapur,265,2000,2500,2200
+2015-08-14,Jack Fruit,182,Nagaland,13,Dimapur,265,2500,2800,2700
+2015-07-31,Jack Fruit,182,Nagaland,13,Dimapur,265,2400,2700,2600
+2015-07-17,Jack Fruit,182,Nagaland,13,Dimapur,265,6000,6500,6250

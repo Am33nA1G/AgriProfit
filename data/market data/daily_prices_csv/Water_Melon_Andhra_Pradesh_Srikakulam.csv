@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-01,Water Melon,73,Andhra Pradesh,28,Srikakulam,542,3800,4000,3800
+2016-02-18,Water Melon,73,Andhra Pradesh,28,Srikakulam,542,400,500,400
+2016-02-13,Water Melon,73,Andhra Pradesh,28,Srikakulam,542,100,200,150

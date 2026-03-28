@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "census_district_id": 289,
+      "census_district_name": "West Tripura"
+    },
+    {
+      "census_district_id": 290,
+      "census_district_name": "South Tripura"
+    },
+    {
+      "census_district_id": 291,
+      "census_district_name": "Dhalai"
+    },
+    {
+      "census_district_id": 292,
+      "census_district_name": "North Tripura"
+    }
+  ]
+}

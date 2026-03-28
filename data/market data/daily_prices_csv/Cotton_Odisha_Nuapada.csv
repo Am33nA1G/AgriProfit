@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-18,Cotton,15,Odisha,21,Nuapada,394,3500,4000,4000
+2017-12-29,Cotton,15,Odisha,21,Nuapada,394,5025,5025,5025
+2017-12-22,Cotton,15,Odisha,21,Nuapada,394,5021,5021,5021

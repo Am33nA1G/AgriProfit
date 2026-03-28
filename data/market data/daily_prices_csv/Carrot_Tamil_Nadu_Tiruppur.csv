@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-31,Carrot,153,Tamil Nadu,33,Tiruppur,633,9500,10500,10500
+2024-07-30,Carrot,153,Tamil Nadu,33,Tiruppur,633,10000,11125,11125
+2024-07-29,Carrot,153,Tamil Nadu,33,Tiruppur,633,9250,10250,10250
+2024-07-28,Carrot,153,Tamil Nadu,33,Tiruppur,633,9625,10250,10250
+2024-07-27,Carrot,153,Tamil Nadu,33,Tiruppur,633,9500,10175,10175
+2024-07-26,Carrot,153,Tamil Nadu,33,Tiruppur,633,9250,10100,10100
+2024-07-25,Carrot,153,Tamil Nadu,33,Tiruppur,633,9125,10000,10000
+2024-07-24,Carrot,153,Tamil Nadu,33,Tiruppur,633,8875,9925,9925
+2024-07-23,Carrot,153,Tamil Nadu,33,Tiruppur,633,8250,9000,9000
+2024-07-22,Carrot,153,Tamil Nadu,33,Tiruppur,633,7750,8575,8575
+2024-07-21,Carrot,153,Tamil Nadu,33,Tiruppur,633,8625,9175,9175
+2024-07-20,Carrot,153,Tamil Nadu,33,Tiruppur,633,8375,8875,8875
+2024-07-19,Carrot,153,Tamil Nadu,33,Tiruppur,633,8125,8900,8900
+2024-07-18,Carrot,153,Tamil Nadu,33,Tiruppur,633,7875,8625,8625
+2024-07-17,Carrot,153,Tamil Nadu,33,Tiruppur,633,7625,8375,8375
+2024-07-16,Carrot,153,Tamil Nadu,33,Tiruppur,633,7875,8500,8500

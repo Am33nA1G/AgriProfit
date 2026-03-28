@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-01,Turmeric,39,Karnataka,29,Dakshina Kannada,575,21300,28500,25900
+2022-03-23,Turmeric,39,Karnataka,29,Dakshina Kannada,575,14000,28500,26000
+2022-03-10,Turmeric,39,Karnataka,29,Dakshina Kannada,575,20000,28500,25500
+2021-11-23,Turmeric,39,Karnataka,29,Dakshina Kannada,575,8000,9700,8700

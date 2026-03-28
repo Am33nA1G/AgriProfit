@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-01,Jowar (Sorghum),5,Uttar Pradesh,9,Muzaffarnagar,133,770,7900,785
+2018-07-11,Jowar (Sorghum),5,Uttar Pradesh,9,Muzaffarnagar,133,,,1730
+2018-06-18,Jowar (Sorghum),5,Uttar Pradesh,9,Muzaffarnagar,133,,,1735
+2017-06-20,Jowar (Sorghum),5,Uttar Pradesh,9,Muzaffarnagar,133,4200,4400,4300

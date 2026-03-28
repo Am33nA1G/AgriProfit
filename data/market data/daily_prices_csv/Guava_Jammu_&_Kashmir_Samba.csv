@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-02,Guava,185,Jammu & Kashmir,1,Samba,22,3000,4000,3500
+2018-02-23,Guava,185,Jammu & Kashmir,1,Samba,22,3000,3500,3250
+2018-02-22,Guava,185,Jammu & Kashmir,1,Samba,22,3000,4000,3500
+2018-02-21,Guava,185,Jammu & Kashmir,1,Samba,22,4500,5000,4750
+2017-11-06,Guava,185,Jammu & Kashmir,1,Samba,22,3000,4000,3500
+2017-11-03,Guava,185,Jammu & Kashmir,1,Samba,22,3500,4000,3750
+2017-11-02,Guava,185,Jammu & Kashmir,1,Samba,22,3000,3200,3100
+2016-01-09,Guava,185,Jammu & Kashmir,1,Samba,22,2400,2800,2600
+2016-01-08,Guava,185,Jammu & Kashmir,1,Samba,22,2500,3000,2750

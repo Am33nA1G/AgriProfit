@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-07,Sponge gourd,311,Gujarat,24,Anand,482,1750,2250,2000
+2015-02-13,Sponge gourd,311,Gujarat,24,Anand,482,1150,1300,1225
+2015-02-09,Sponge gourd,311,Gujarat,24,Anand,482,1100,1250,1175
+2015-02-06,Sponge gourd,311,Gujarat,24,Anand,482,1300,1400,1350
+2015-02-05,Sponge gourd,311,Gujarat,24,Anand,482,1300,1500,1400
+2015-02-04,Sponge gourd,311,Gujarat,24,Anand,482,1250,1500,1375
+2015-01-29,Sponge gourd,311,Gujarat,24,Anand,482,1000,1400,1200
+2015-01-28,Sponge gourd,311,Gujarat,24,Anand,482,900,1200,1050
+2015-01-23,Sponge gourd,311,Gujarat,24,Anand,482,1100,1200,1150
+2015-01-12,Sponge gourd,311,Gujarat,24,Anand,482,1000,1250,1125
+2015-01-11,Sponge gourd,311,Gujarat,24,Anand,482,1250,1500,1375

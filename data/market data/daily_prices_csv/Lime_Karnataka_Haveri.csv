@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-02,Lime,180,Karnataka,29,Haveri,564,3800,4600,4400
+2020-05-01,Lime,180,Karnataka,29,Haveri,564,3800,4200,4000
+2020-04-30,Lime,180,Karnataka,29,Haveri,564,4200,4800,4400
+2020-04-29,Lime,180,Karnataka,29,Haveri,564,3600,3800,3650
+2020-04-28,Lime,180,Karnataka,29,Haveri,564,3600,3800,3700
+2020-04-27,Lime,180,Karnataka,29,Haveri,564,1200,1400,1300
+2020-04-25,Lime,180,Karnataka,29,Haveri,564,3600,3800,3700

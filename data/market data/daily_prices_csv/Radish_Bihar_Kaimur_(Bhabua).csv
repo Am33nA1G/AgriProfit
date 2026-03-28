@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-16,Radish,161,Bihar,10,Kaimur (Bhabua),233,1200,1400,1300
+2022-12-08,Radish,161,Bihar,10,Kaimur (Bhabua),233,900,1100,1000
+2022-12-05,Radish,161,Bihar,10,Kaimur (Bhabua),233,1000,1200,1100
+2022-04-15,Radish,161,Bihar,10,Kaimur (Bhabua),233,3000,3200,3100
+2022-04-14,Radish,161,Bihar,10,Kaimur (Bhabua),233,2200,2400,2300
+2022-04-13,Radish,161,Bihar,10,Kaimur (Bhabua),233,3400,3500,3450
+2022-04-11,Radish,161,Bihar,10,Kaimur (Bhabua),233,3350,3550,3450

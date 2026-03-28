@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-11,Paddy (Dhan)(Basmati),414,Punjab,3,Sahibzada Ajit Singh Nagar,52,3150,3350,3250
+2024-12-09,Paddy (Dhan)(Basmati),414,Punjab,3,Sahibzada Ajit Singh Nagar,52,3400,3600,3550
+2024-12-03,Paddy (Dhan)(Basmati),414,Punjab,3,Sahibzada Ajit Singh Nagar,52,3250,3700,3450

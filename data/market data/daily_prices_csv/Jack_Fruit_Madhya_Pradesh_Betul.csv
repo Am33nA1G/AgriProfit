@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-15,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1500,2000,1800
+2018-06-14,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1500,2000,1800
+2018-06-12,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1500,2000,1800
+2018-06-07,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1400,1600,1500
+2017-07-14,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1800,2000,2000
+2017-07-06,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1500,1800,1600
+2017-06-23,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1400,1600,1500
+2017-06-21,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1400,1600,1500
+2017-05-23,Jack Fruit,182,Madhya Pradesh,23,Betul,447,1500,2000,1800

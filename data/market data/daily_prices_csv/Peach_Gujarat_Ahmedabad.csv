@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-29,Peach,331,Gujarat,24,Ahmedabad,474,5000,6000,5500
+2017-05-26,Peach,331,Gujarat,24,Ahmedabad,474,6000,8000,7500
+2015-07-07,Peach,331,Gujarat,24,Ahmedabad,474,5000,7000,6500
+2015-06-18,Peach,331,Gujarat,24,Ahmedabad,474,6000,8000,7500
+2015-06-02,Peach,331,Gujarat,24,Ahmedabad,474,5000,9000,8000

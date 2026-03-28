@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-06,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,5000,5500,5200
+2023-03-13,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,5000,6000,5600
+2022-06-27,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,5000,5500,5300
+2022-02-02,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,10000,11000,10500
+2022-01-31,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,9000,10000,9600
+2022-01-25,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,9000,10000,9750
+2021-01-29,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,4500,6000,5100
+2020-03-13,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,7000,8000,7600
+2017-02-28,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,7000,8000,7640
+2017-02-27,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,6000,7000,6400
+2017-02-25,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,6000,7000,6600
+2017-02-23,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,9000,8600
+2017-02-21,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,9000,8560
+2017-02-20,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,9000,8650
+2017-02-18,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,9000,8560
+2017-02-16,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,9000,8700
+2017-02-15,Gram Raw (Chholia),359,Punjab,3,Shahid Bhagat Singh Nagar,39,8000,10000,9000

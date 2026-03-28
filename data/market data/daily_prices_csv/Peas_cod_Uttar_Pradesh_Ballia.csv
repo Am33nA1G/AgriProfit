@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-09,Peas cod,308,Uttar Pradesh,9,Ballia,193,2150,2300,2200
+2018-01-08,Peas cod,308,Uttar Pradesh,9,Ballia,193,2150,2300,2200
+2018-01-06,Peas cod,308,Uttar Pradesh,9,Ballia,193,2000,2200,2150
+2018-01-05,Peas cod,308,Uttar Pradesh,9,Ballia,193,2000,2200,2125
+2018-01-04,Peas cod,308,Uttar Pradesh,9,Ballia,193,2000,2250,2150
+2018-01-03,Peas cod,308,Uttar Pradesh,9,Ballia,193,2020,2200,2125
+2018-01-02,Peas cod,308,Uttar Pradesh,9,Ballia,193,2025,2250,2150
+2018-01-01,Peas cod,308,Uttar Pradesh,9,Ballia,193,2000,2200,2100

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-15,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,540,600,570
+2017-09-18,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,500,525,510
+2017-07-07,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,450,550,490
+2017-07-06,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,450,550,500
+2017-07-05,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,500,600,530
+2017-07-04,White Pumpkin,158,Uttar Pradesh,9,Saharanpur,132,500,600,540

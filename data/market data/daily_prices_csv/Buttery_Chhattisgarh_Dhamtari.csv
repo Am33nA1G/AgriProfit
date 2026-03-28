@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-04,Buttery,416,Chhattisgarh,22,Dhamtari,412,2500,2500,2500
+2024-03-09,Buttery,416,Chhattisgarh,22,Dhamtari,412,2000,2000,2000

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-29,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3960,4020,3980
+2017-09-14,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4500,4560,4530
+2017-08-07,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4250,4350,4300
+2016-11-22,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4500,5400,5000
+2016-10-19,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4200,4600,4400
+2016-10-17,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4200,4500,4350
+2016-07-15,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3000,3200,3100
+2016-06-20,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3000,3075,3040
+2016-05-18,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3050,3175,3112
+2016-04-25,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3000,3200,3100
+2015-04-24,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3525,3605,3565
+2015-02-23,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3550,3630,3590
+2015-02-18,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3650,3745,3697
+2015-02-14,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3750,3805,3777
+2015-02-13,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3750,3855,3802
+2015-02-05,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3750,3950,3850
+2015-01-28,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,3750,3925,3837
+2015-01-17,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4250,4350,4300
+2015-01-15,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4250,4340,4295
+2015-01-03,Cotton Seed,99,Gujarat,24,Sabar Kantha,472,4250,4530,4390

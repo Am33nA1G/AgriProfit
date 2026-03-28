@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-09,Jowar (Sorghum),5,Uttarakhand,5,Udham Singh Nagar,67,1625,1625,1625
+2016-08-29,Jowar (Sorghum),5,Uttarakhand,5,Udham Singh Nagar,67,1570,1570,1570
+2016-08-15,Jowar (Sorghum),5,Uttarakhand,5,Udham Singh Nagar,67,1570,1570,1570

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-19,Green Gram (Moong)(Whole),9,Karnataka,29,Bangalore Rural,583,10600,10600,10600
+2015-07-14,Green Gram (Moong)(Whole),9,Karnataka,29,Bangalore Rural,583,10000,10200,10100
+2015-06-20,Green Gram (Moong)(Whole),9,Karnataka,29,Bangalore Rural,583,7500,9500,9000

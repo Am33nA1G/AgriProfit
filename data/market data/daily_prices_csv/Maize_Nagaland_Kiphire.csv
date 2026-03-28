@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-20,Maize,4,Nagaland,13,Kiphire,269,3500,3700,3600
+2018-04-13,Maize,4,Nagaland,13,Kiphire,269,3000,3200,3100
+2018-04-06,Maize,4,Nagaland,13,Kiphire,269,3500,3700,3600
+2018-03-23,Maize,4,Nagaland,13,Kiphire,269,3600,3800,3700
+2018-03-16,Maize,4,Nagaland,13,Kiphire,269,3500,3700,3600
+2018-03-09,Maize,4,Nagaland,13,Kiphire,269,3600,3900,3800
+2018-03-02,Maize,4,Nagaland,13,Kiphire,269,3300,3500,3400
+2018-02-23,Maize,4,Nagaland,13,Kiphire,269,3100,3300,3200
+2018-02-16,Maize,4,Nagaland,13,Kiphire,269,2900,3300,3200
+2018-02-09,Maize,4,Nagaland,13,Kiphire,269,2600,2800,2700
+2018-02-02,Maize,4,Nagaland,13,Kiphire,269,2400,2600,2500
+2018-01-19,Maize,4,Nagaland,13,Kiphire,269,4200,4400,4300
+2018-01-12,Maize,4,Nagaland,13,Kiphire,269,1700,1900,1800
+2017-09-15,Maize,4,Nagaland,13,Kiphire,269,1400,1600,1500
+2017-09-08,Maize,4,Nagaland,13,Kiphire,269,1500,1800,1600

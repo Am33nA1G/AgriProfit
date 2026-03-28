@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-05,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3630,4201,4200
+2016-03-04,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,4075,4075,4075
+2016-03-03,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3950,4190,4185
+2016-03-02,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3821,4086,4026
+2016-03-01,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3951,3962,3951
+2016-02-29,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3960,3960,3960
+2016-02-24,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3881,4000,4000
+2016-02-23,Big Gram,113,Madhya Pradesh,23,Hoshangabad,449,3630,3960,3850

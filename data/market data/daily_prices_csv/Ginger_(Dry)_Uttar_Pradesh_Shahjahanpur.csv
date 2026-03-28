@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-19,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,2600,2800,2700
+2017-05-15,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,2800,2900,2840
+2016-11-21,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,5500,5800,5660
+2016-06-04,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,4200,4260,4230
+2016-05-07,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,4000,4050,4030
+2016-05-02,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3950,4030,4000
+2016-04-25,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3930,3980,3960
+2016-04-13,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3900,3960,3920
+2016-03-28,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3820,3885,3850
+2016-03-21,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3765,3845,3800
+2016-03-17,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3700,3780,3740
+2016-02-17,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3580,3650,3600
+2016-02-13,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3520,3580,3550
+2016-01-23,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3500,3580,3540
+2016-01-15,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3500,3560,3530
+2016-01-12,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3500,3540,3520
+2016-01-11,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3450,3540,3500
+2015-12-10,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3400,3500,3450
+2015-12-08,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3440,3500,3480
+2015-12-07,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3460,3535,3500
+2015-11-23,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3550,3650,3600
+2015-10-19,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3200,3285,3260
+2015-10-15,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3200,3300,3250
+2015-10-06,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,3200,3280,3240
+2015-09-30,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,2960,3060,3000
+2015-09-01,Ginger (Dry),27,Uttar Pradesh,9,Shahjahanpur,152,1450,1550,1500

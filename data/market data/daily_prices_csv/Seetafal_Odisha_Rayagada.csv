@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-11-04,Seetafal,201,Odisha,21,Rayagada,396,1500,2500,2000
+2016-10-25,Seetafal,201,Odisha,21,Rayagada,396,1500,2500,2000
+2016-10-10,Seetafal,201,Odisha,21,Rayagada,396,2000,2500,2500
+2016-10-08,Seetafal,201,Odisha,21,Rayagada,396,2000,3000,2500
+2016-09-20,Seetafal,201,Odisha,21,Rayagada,396,1200,1800,1500
+2016-09-02,Seetafal,201,Odisha,21,Rayagada,396,3000,4000,3500
+2015-09-29,Seetafal,201,Odisha,21,Rayagada,396,2000,3000,2500
+2015-09-18,Seetafal,201,Odisha,21,Rayagada,396,2000,3000,2500
+2015-09-15,Seetafal,201,Odisha,21,Rayagada,396,3000,3500,3500
+2015-09-08,Seetafal,201,Odisha,21,Rayagada,396,2000,3000,2500
+2015-08-28,Seetafal,201,Odisha,21,Rayagada,396,2500,3000,3000
+2015-08-26,Seetafal,201,Odisha,21,Rayagada,396,2500,3500,3000
+2015-08-24,Seetafal,201,Odisha,21,Rayagada,396,3000,4000,3500
+2015-08-21,Seetafal,201,Odisha,21,Rayagada,396,2500,3500,3500

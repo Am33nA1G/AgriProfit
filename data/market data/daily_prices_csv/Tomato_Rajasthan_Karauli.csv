@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-28,Tomato,78,Rajasthan,8,Karauli,107,1460,1500,1480
+2019-03-27,Tomato,78,Rajasthan,8,Karauli,107,1890,1930,1910
+2019-03-26,Tomato,78,Rajasthan,8,Karauli,107,1920,1960,1940
+2019-03-25,Tomato,78,Rajasthan,8,Karauli,107,1900,1940,1920
+2019-03-23,Tomato,78,Rajasthan,8,Karauli,107,1830,1870,1850
+2019-03-20,Tomato,78,Rajasthan,8,Karauli,107,1800,1840,1820

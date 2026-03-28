@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-20,Other Pulses,97,Punjab,3,Sangrur,53,9000,9000,9000
+2015-11-19,Other Pulses,97,Punjab,3,Sangrur,53,9500,9500,9500
+2015-11-18,Other Pulses,97,Punjab,3,Sangrur,53,9000,9800,9800
+2015-11-17,Other Pulses,97,Punjab,3,Sangrur,53,9000,9800,9000
+2015-11-16,Other Pulses,97,Punjab,3,Sangrur,53,9000,9800,9800
+2015-11-14,Other Pulses,97,Punjab,3,Sangrur,53,9000,9800,9000
+2015-11-13,Other Pulses,97,Punjab,3,Sangrur,53,9800,9800,9800

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-29,Green Chilli,87,Rajasthan,8,Tonk,120,1500,1600,1550
+2020-03-31,Green Chilli,87,Rajasthan,8,Tonk,120,500,1000,800
+2020-03-30,Green Chilli,87,Rajasthan,8,Tonk,120,1000,1200,1100

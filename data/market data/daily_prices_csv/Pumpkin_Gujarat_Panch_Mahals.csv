@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-14,Pumpkin,84,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-28,Pumpkin,84,Gujarat,24,Panch Mahals,484,800,1000,900
+2015-02-19,Pumpkin,84,Gujarat,24,Panch Mahals,484,400,500,450

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-29,Soapnut (Antawala/Retha),207,Telangana,36,Warangal,540,16052,16159,16159
+2023-12-28,Soapnut (Antawala/Retha),207,Telangana,36,Warangal,540,12522,16021,16021
+2023-12-22,Soapnut (Antawala/Retha),207,Telangana,36,Warangal,540,15323,15539,15539

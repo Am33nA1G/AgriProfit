@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-16,Jamun (Narale Hannu),184,Gujarat,24,Anand,482,5000,7000,6000
+2019-05-13,Jamun (Narale Hannu),184,Gujarat,24,Anand,482,5000,5500,5250

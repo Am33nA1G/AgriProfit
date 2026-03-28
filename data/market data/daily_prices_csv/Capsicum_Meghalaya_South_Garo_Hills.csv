@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-04,Capsicum,164,Meghalaya,17,South Garo Hills,295,6000,6200,6100
+2017-05-03,Capsicum,164,Meghalaya,17,South Garo Hills,295,5000,6000,5500
+2017-04-05,Capsicum,164,Meghalaya,17,South Garo Hills,295,5000,6000,5500
+2017-04-03,Capsicum,164,Meghalaya,17,South Garo Hills,295,5000,6000,5500
+2015-07-08,Capsicum,164,Meghalaya,17,South Garo Hills,295,8700,8800,8750
+2015-07-06,Capsicum,164,Meghalaya,17,South Garo Hills,295,8900,9000,8950
+2015-07-02,Capsicum,164,Meghalaya,17,South Garo Hills,295,8900,9000,8950

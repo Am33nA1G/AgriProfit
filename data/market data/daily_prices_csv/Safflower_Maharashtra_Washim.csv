@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-25,Safflower,59,Maharashtra,27,Washim,502,5940,6711,6200
+2025-08-04,Safflower,59,Maharashtra,27,Washim,502,5950,7100,6500
+2025-08-01,Safflower,59,Maharashtra,27,Washim,502,5780,5800,5785
+2025-07-30,Safflower,59,Maharashtra,27,Washim,502,5940,7500,6500
+2024-04-25,Safflower,59,Maharashtra,27,Washim,502,3050,3636,3350
+2024-04-22,Safflower,59,Maharashtra,27,Washim,502,2930,3300,3000
+2019-02-08,Safflower,59,Maharashtra,27,Washim,502,4200,4450,4300
+2018-10-31,Safflower,59,Maharashtra,27,Washim,502,2000,2400,2200

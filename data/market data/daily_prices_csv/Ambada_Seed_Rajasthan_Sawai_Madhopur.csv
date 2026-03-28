@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-17,Ambada Seed,130,Rajasthan,8,Sawai Madhopur,108,1980,2030,2005
+2022-05-04,Ambada Seed,130,Rajasthan,8,Sawai Madhopur,108,2130,2295,2235
+2022-02-19,Ambada Seed,130,Rajasthan,8,Sawai Madhopur,108,1765,1945,1920
+2021-03-24,Ambada Seed,130,Rajasthan,8,Sawai Madhopur,108,1575,1655,1600

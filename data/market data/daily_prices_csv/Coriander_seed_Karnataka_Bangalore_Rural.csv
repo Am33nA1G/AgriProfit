@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-30,Coriander seed,108,Karnataka,29,Bangalore Rural,583,10000,13000,12000
+2015-04-29,Coriander seed,108,Karnataka,29,Bangalore Rural,583,5000,5000,5000
+2015-03-30,Coriander seed,108,Karnataka,29,Bangalore Rural,583,5000,5000,5000
+2015-02-27,Coriander seed,108,Karnataka,29,Bangalore Rural,583,5000,5000,5000
+2015-02-02,Coriander seed,108,Karnataka,29,Bangalore Rural,583,7000,11000,10000
+2015-01-31,Coriander seed,108,Karnataka,29,Bangalore Rural,583,5000,5000,5000

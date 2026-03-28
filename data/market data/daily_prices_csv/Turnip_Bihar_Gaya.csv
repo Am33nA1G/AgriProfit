@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Turnip,341,Bihar,10,Gaya,236,1600,2400,2000
+2023-09-05,Turnip,341,Bihar,10,Gaya,236,1400,1800,1600
+2023-09-02,Turnip,341,Bihar,10,Gaya,236,3200,3600,3400
+2022-11-06,Turnip,341,Bihar,10,Gaya,236,2300,2800,2500

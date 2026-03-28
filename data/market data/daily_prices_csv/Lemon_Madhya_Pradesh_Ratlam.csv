@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-17,Lemon,310,Madhya Pradesh,23,Ratlam,434,450,800,600
+2018-01-16,Lemon,310,Madhya Pradesh,23,Ratlam,434,440,780,600
+2018-01-15,Lemon,310,Madhya Pradesh,23,Ratlam,434,460,750,580
+2017-10-14,Lemon,310,Madhya Pradesh,23,Ratlam,434,800,1200,1000
+2017-10-13,Lemon,310,Madhya Pradesh,23,Ratlam,434,900,1300,1100
+2017-10-12,Lemon,310,Madhya Pradesh,23,Ratlam,434,550,980,750
+2017-10-11,Lemon,310,Madhya Pradesh,23,Ratlam,434,600,1000,800
+2017-10-10,Lemon,310,Madhya Pradesh,23,Ratlam,434,800,1200,1000
+2017-10-09,Lemon,310,Madhya Pradesh,23,Ratlam,434,1000,1300,1200
+2017-10-07,Lemon,310,Madhya Pradesh,23,Ratlam,434,550,980,750
+2017-10-06,Lemon,310,Madhya Pradesh,23,Ratlam,434,600,1000,800

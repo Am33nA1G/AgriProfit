@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-23,Lentil (Masur)(Whole),63,Madhya Pradesh,23,Balaghat,457,3100,3100,3100
+2018-06-18,Lentil (Masur)(Whole),63,Madhya Pradesh,23,Balaghat,457,3000,3000,3000
+2017-07-25,Lentil (Masur)(Whole),63,Madhya Pradesh,23,Balaghat,457,2600,2600,2600

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-16,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,2000,2000,2000
+2025-04-07,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,2050,2100,2100
+2025-03-17,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,2050,2050,2050
+2025-03-01,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,2000,2010,2010
+2022-04-04,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,2470,2535,2510
+2017-03-08,Tamarind Fruit,261,Madhya Pradesh,23,Barwani,441,1400,1400,1400

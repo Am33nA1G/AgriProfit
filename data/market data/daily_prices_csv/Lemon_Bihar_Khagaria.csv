@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Lemon,310,Bihar,10,Khagaria,223,1400,1600,1500
+2023-09-05,Lemon,310,Bihar,10,Khagaria,223,7300,7500,7400
+2023-09-04,Lemon,310,Bihar,10,Khagaria,223,8300,8500,8400
+2023-09-03,Lemon,310,Bihar,10,Khagaria,223,6000,8000,7000
+2023-09-02,Lemon,310,Bihar,10,Khagaria,223,7300,7500,7400

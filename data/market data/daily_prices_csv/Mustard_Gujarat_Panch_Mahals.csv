@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-25,Mustard,12,Gujarat,24,Panch Mahals,484,5205,5250,5230
+2025-03-24,Mustard,12,Gujarat,24,Panch Mahals,484,5280,5350,5305
+2025-03-21,Mustard,12,Gujarat,24,Panch Mahals,484,5150,5255,5205

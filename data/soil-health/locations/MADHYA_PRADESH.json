@@ -1,0 +1,428 @@
+{
+  "AGAR MALWA": {
+    "AGAR - 4000": [],
+    "BAROD - 4001": [],
+    "NALKHEDA - 4004": [],
+    "SUSNER - 4007": []
+  },
+  "ALIRAJPUR": {
+    "ALIRAJPUR - 3873": [],
+    "BHABRA - 3874": [],
+    "JOBAT - 3876": [],
+    "KATTHIWADA - 3877": [],
+    "SONDWA - 3882": [],
+    "UDAIGARH - 3884": []
+  },
+  "ANUPPUR": {
+    "ANUPPUR - 3736": [],
+    "JAITHARI - 3737": [],
+    "KOTMA - 3738": [],
+    "PUSHPRAJGARH - 3739": []
+  },
+  "ASHOKNAGAR": {
+    "ASHOKNAGAR - 3740": [],
+    "CHANDERI - 3741": [],
+    "ISAGARH - 3742": [],
+    "MUNGAOLI - 3743": []
+  },
+  "BALAGHAT": {
+    "BAIHAR - 3744": [],
+    "BALAGHAT - 3745": [],
+    "BIRSA - 3746": [],
+    "KATANGI - 3747": [],
+    "KHAIRLANJI - 3748": [],
+    "KIRNAPUR - 3749": [],
+    "LALBARRA - 3750": [],
+    "LANJI - 3751": [],
+    "PARASWADA - 3752": [],
+    "WARASEONI - 3753": []
+  },
+  "BARWANI": {
+    "BARWANI - 3754": [],
+    "NEWALI - 3755": [],
+    "PANSEMAL - 3756": [],
+    "PATI - 3757": [],
+    "RAJPUR - 3758": [],
+    "SENDHAWA - 3759": [],
+    "THIKRI - 3760": []
+  },
+  "BETUL": {
+    "AMLA - 3761": [],
+    "ATHNER - 3762": [],
+    "BETUL - 3763": [],
+    "BHAINSDEHI - 3764": [],
+    "BHIMPUR - 3765": [],
+    "CHICHOLI - 3766": [],
+    "GHORADONGRI - 3767": [],
+    "MULTAI - 3768": [],
+    "PRABHAT PATTAN - 3769": [],
+    "SHAHPUR - 3770": []
+  },
+  "BHIND": {
+    "ATER - 3771": [],
+    "BHIND - 3772": [],
+    "GOHAD - 3773": [],
+    "LAHAR - 3774": [],
+    "MEHGAON - 3775": [],
+    "RAON - 3776": []
+  },
+  "BHOPAL": {
+    "BERASIA - 3777": [],
+    "PHANDA - 3778": []
+  },
+  "BURHANPUR": {
+    "BURHANPUR - 3779": [],
+    "KHAKNAR - 3780": []
+  },
+  "CHHATARPUR": {
+    "BADA MALEHARA - 3781": [],
+    "BARIGARH - 3782": [],
+    "BIJAWAR - 3783": [],
+    "BUXWAHA - 3784": [],
+    "CHHATARPUR - 3785": [],
+    "LAUNDI - 3786": [],
+    "NOWGONG - 3787": [],
+    "RAJNAGAR - 3788": []
+  },
+  "CHHINDWARA": {
+    "AMARWARA - 3789": [],
+    "BICHHUA - 3790": [],
+    "CHAURAI - 3791": [],
+    "CHHINDWARA - 3792": [],
+    "HARRAI - 3793": [],
+    "JAMAI - 3794": [],
+    "MOHKHED - 3795": [],
+    "PANDHURNA - 3796": [],
+    "PARASIA - 3797": [],
+    "SAUSAR - 3798": [],
+    "TAMIA - 3799": []
+  },
+  "DAMOH": {
+    "BATIYAGARH - 3800": [],
+    "DAMOH - 3801": [],
+    "HATTA - 3802": [],
+    "JABERA - 3803": [],
+    "PATERA - 3804": [],
+    "PATHARIYA - 3805": [],
+    "TENDUKHEDA - 3806": []
+  },
+  "DATIA": {
+    "BHANDER - 3807": [],
+    "DATIA - 3808": [],
+    "SEONDHA - 3809": []
+  },
+  "DEWAS": {
+    "BAGLI - 3810": [],
+    "DEWAS - 3811": [],
+    "KANNOD - 3812": [],
+    "KHATEGAON - 3813": [],
+    "SONKATCH - 3814": [],
+    "TONK KHURD - 3815": []
+  },
+  "DHAR": {
+    "BADNAWAR - 3816": [],
+    "BAGH - 3817": [],
+    "DAHI - 3818": [],
+    "DHAR - 3819": [],
+    "DHARAMPURI - 3820": [],
+    "GANDHWANI - 3821": [],
+    "KUKSHI - 3822": [],
+    "MANAWAR - 3823": [],
+    "NALCHHA - 3824": [],
+    "NISARPUR - 3825": [],
+    "SARDARPUR - 3826": [],
+    "TIRLA - 3827": [],
+    "UMARBAN - 3828": []
+  },
+  "DINDORI": {
+    "AMARPUR - 3829": [],
+    "BAJAG - 3830": [],
+    "DINDORI - 3831": [],
+    "KARANJIYA - 3832": [],
+    "MEHANDWANI - 3833": [],
+    "SAMNAPUR - 3834": [],
+    "SHAHPURA - 3835": []
+  },
+  "GUNA": {
+    "ARON - 3843": [],
+    "BAMORI - 3844": [],
+    "CHANCHODA - 3845": [],
+    "GUNA - 3846": [],
+    "RAGHOGARH - 3847": []
+  },
+  "GWALIOR": {
+    "BHITARWAR - 3848": [],
+    "DABRA - 3849": [],
+    "GHATIGAON - 3850": [],
+    "MORAR - 3851": []
+  },
+  "HARDA": {
+    "HARDA - 3852": [],
+    "KHIRKIYA - 3853": [],
+    "TIMARNI - 3854": []
+  },
+  "INDORE": {
+    "DEPALPUR - 3862": [],
+    "INDORE - 3863": [],
+    "MHOW - 3864 - 3864": [],
+    "SANWER - 3865": []
+  },
+  "JABALPUR": {
+    "JABALPUR - 3866": [],
+    "KUNDAM - 3867": [],
+    "MAJHOULI - 3868": [],
+    "PANAGAR - 3869": [],
+    "PATAN - 3870": [],
+    "SHAHPURA - 3871": [],
+    "SIHORA - 3872": []
+  },
+  "JHABUA": {
+    "JHABUA - 3875": [],
+    "MEGHNAGAR - 3878": [],
+    "PETLAWAD - 3879": [],
+    "RAMA - 3880": [],
+    "RANAPUR - 3881": [],
+    "THANDLA - 3883": []
+  },
+  "KATNI": {
+    "BADWARA - 3885": [],
+    "BAHORIBAND - 3886": [],
+    "DHEEMERKHEDA - 3887": [],
+    "KATNI - 3888": [],
+    "RITHI - 3889": [],
+    "VIJAYRAGHAVGARH - 3890": []
+  },
+  "KHANDWA (EAST NIMAR)": {
+    "BALADI - 3836": [],
+    "CHHAIGAON MAKHAN - 3837": [],
+    "HARSUD - 3838": [],
+    "KHALWA - 3839": [],
+    "KHANDWA - 3840": [],
+    "PANDHANA - 3841": [],
+    "PUNASA - 3842": []
+  },
+  "KHARGON(WEST NIMAR)": {
+    "BARWAH - 3891": [],
+    "BHAGVANPURA - 3892": [],
+    "BHIKANGAON - 3893": [],
+    "GOGAWAN - 3894": [],
+    "KASRAWAD - 3895": [],
+    "KHARGONE - 3896": [],
+    "MAHESHWAR - 3897": [],
+    "SEGAON - 3898": [],
+    "ZIRANYA - 3899": []
+  },
+  "MAIHAR": {
+    "AMARPATAN - 3974": [],
+    "MAIHAR - 3975": [],
+    "RAMNAGAR - 3978": []
+  },
+  "MANDLA": {
+    "BICHHIYA - 3900": [],
+    "BIJADANDI - 3901": [],
+    "GHUGHRI - 3902": [],
+    "MANDLA - 3903": [],
+    "MAWAI - 3904": [],
+    "MOHGAON - 3905": [],
+    "NAINPUR - 3906": [],
+    "NARAYANGANJ - 3907": [],
+    "NIWAS - 3908": []
+  },
+  "MANDSAUR": {
+    "BHANPURA - 3909": [],
+    "GAROTH - 3910": [],
+    "MALHARGARH - 3911": [],
+    "MANDSAUR - 3912": [],
+    "SITAMAU - 3913": []
+  },
+  "MAUGANJ": {
+    "HANUMANA - 3955 - 3955": [],
+    "MAUGANJ - 3957": [],
+    "NAIGARHI - 3958": []
+  },
+  "MORENA": {
+    "AMBAH - 3914": [],
+    "JOURA - 3915": [],
+    "KAILARAS - 3916": [],
+    "MORENA - 3917": [],
+    "PAHADGARH - 3918": [],
+    "PORSA - 3919": [],
+    "SABALGARH - 3920": []
+  },
+  "NARMADAPURAM": {
+    "BABAI - 3855": [],
+    "BANKHEDI - 3856": [],
+    "KESLA - 3858": [],
+    "NARMADAPURAM - 3857": [],
+    "PIPARIYA - 3859": [],
+    "SEONI MALWA - 3860": [],
+    "SOHAGPUR - 3861": []
+  },
+  "NARSINGHPUR": {
+    "BABAI CHICHALI - 3921": [],
+    "CHAWARPATHA - 3922": [],
+    "GOTEGAON - 3923": [],
+    "KARELI - 3924": [],
+    "NARSIMHAPUR - 3925": [],
+    "SAINKHEDA - 3926": []
+  },
+  "NEEMUCH": {
+    "JAWAD - 3927": [],
+    "MANASA - 3928": [],
+    "NEEMUCH - 3929": []
+  },
+  "Niwari": {
+    "NIWARI - 4029": [],
+    "PRITHVIPUR - 4031": []
+  },
+  "PANDHURNA": {
+    "PANDHURNA - 3796": [],
+    "SAUSAR - 3798": []
+  },
+  "PANNA": {
+    "AJAIGARH - 3930": [],
+    "GUNOUR - 3931": [],
+    "PANNA - 3932": [],
+    "PAWAI - 3933": [],
+    "SHAHNAGAR - 3934": []
+  },
+  "RAISEN": {
+    "BADI - 3935": [],
+    "BEGAMGANJ - 3936": [],
+    "GAIRATGANJ - 3937": [],
+    "OBAIDALLAGANJ - 3938": [],
+    "SANCHI - 3939": [],
+    "SILWANI - 3940": [],
+    "UDAIPURA - 3941": []
+  },
+  "RAJGARH": {
+    "BIAORA - 3942": [],
+    "KHILCHIPUR - 3943": [],
+    "NARSINGHGARH - 3944": [],
+    "RAJGARH - 3945": [],
+    "SARANGPUR - 3946": [],
+    "ZIRAPUR - 3947": []
+  },
+  "RATLAM": {
+    "ALOT - 3948": [],
+    "BAJNA - 3949": [],
+    "JAORA - 3950": [],
+    "PIPLODA - 3951": [],
+    "RATLAM - 3952": [],
+    "SAILANA - 3953": []
+  },
+  "REWA": {
+    "GANGEV - 3954": [],
+    "JAWA - 3956": [],
+    "RAIPUR KARCHULIYAN - 3959": [],
+    "REWA - 3960": [],
+    "SIRMOUR - 3961": [],
+    "TEONTHAR - 3962": []
+  },
+  "SAGAR": {
+    "BANDA - 3963": [],
+    "BINA - 3964": [],
+    "DEORI - 3965": [],
+    "JAISINAGAR - 3966": [],
+    "KESLI - 3967": [],
+    "KHURAI - 3968": [],
+    "MALTHONE - 3969": [],
+    "RAHATGARH - 3970": [],
+    "REHLI - 3971": [],
+    "SAGAR - 3972": [],
+    "SHAHGARH - 3973": []
+  },
+  "SATNA": {
+    "AMARPATAN - 3974": [],
+    "MAJHGAWAN - 3976": [],
+    "NAGOD - 3977": [],
+    "RAMPUR BAGHELAN - 3979": [],
+    "SOHAWAL - 3980": [],
+    "UNCHAHARA - 3981": []
+  },
+  "SEHORE": {
+    "ASHTA - 3982": [],
+    "BUDNI - 3983": [],
+    "ICHHAWAR - 3984": [],
+    "NASRULLAGANJ - 3985": [],
+    "SEHORE - 3986": []
+  },
+  "SEONI": {
+    "BARGHAT - 3987": [],
+    "CHHAPARA - 3988": [],
+    "DHANAURA - 3989": [],
+    "KAHNAPAS(GHANSAUR) - 3990": [],
+    "KEOLARI - 3991": [],
+    "KURAI - 3992": [],
+    "LAKHNADON - 3993": [],
+    "SEONI - 3994": []
+  },
+  "SHAHDOL": {
+    "BEOHARI - 3995": [],
+    "BURHAR - 3996": [],
+    "GOHPARU - 3997": [],
+    "JAISINGHNAGAR - 3998": [],
+    "SOHAGPUR - 3999": []
+  },
+  "SHAJAPUR": {
+    "KALAPIPAL - 4002": [],
+    "MOMAN BADODIA - 4003": [],
+    "SHAJAPUR - 4005": [],
+    "SHUJALPUR - 4006": []
+  },
+  "SHEOPUR": {
+    "KARAHAL - 4008": [],
+    "SHEOPUR - 4009": [],
+    "VIJAYPUR - 4010": []
+  },
+  "SHIVPURI": {
+    "BADARWAS - 4011": [],
+    "KARERA - 4012": [],
+    "KHANIADHANA - 4013": [],
+    "KOLARAS - 4014": [],
+    "NARWAR - 4015": [],
+    "PICHHORE - 4016": [],
+    "POHRI - 4017": [],
+    "SHIVPURI - 4018": []
+  },
+  "SIDHI": {
+    "KUSMI - 4021": [],
+    "MAJHAULI - 4022": [],
+    "RAMPUR NAIKIN - 4023": [],
+    "SIDHI - 4024": [],
+    "SIHAWAL - 4025": []
+  },
+  "SINGRAULI": {
+    "BAIDHAN - 4026": [],
+    "CHITRANGI - 4019": [],
+    "DEVSAR - 4020": []
+  },
+  "TIKAMGARH": {
+    "BALDEOGARH - 4027": [],
+    "JATARA - 4028": [],
+    "PALERA - 4030": [],
+    "TIKAMGARH - 4032": []
+  },
+  "UJJAIN": {
+    "BADNAGAR - 4033": [],
+    "GHATIYA - 4034": [],
+    "KHACHAROD - 4035": [],
+    "MAHIDPUR - 4036": [],
+    "TARANA - 4037": [],
+    "UJJAIN - 4038": []
+  },
+  "UMARIA": {
+    "KARKELI - 4039": [],
+    "MANPUR - 4040": [],
+    "PALI - 4041": []
+  },
+  "VIDISHA": {
+    "BASODA - 4042": [],
+    "GYARASPUR - 4043": [],
+    "KURWAI - 4044": [],
+    "LATERI - 4045": [],
+    "NATERAN - 4046": [],
+    "SIRONJ - 4047": [],
+    "VIDISHA - 4048": []
+  }
+}

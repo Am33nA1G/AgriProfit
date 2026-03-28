@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-11,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,3000,2500
+2019-06-05,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,2500,2200
+2019-05-31,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,2500,2200
+2016-12-28,Indian Beans (Seam),299,Punjab,3,Bathinda,46,1100,1200,1150
+2016-08-23,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,2900,2500
+2016-08-22,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,3000,2500
+2016-08-03,Indian Beans (Seam),299,Punjab,3,Bathinda,46,2000,2400,2200

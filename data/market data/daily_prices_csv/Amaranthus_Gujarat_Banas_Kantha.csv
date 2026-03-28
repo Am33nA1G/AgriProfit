@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-29,Amaranthus,86,Gujarat,24,Banas Kantha,469,1000,1300,1150
+2019-04-09,Amaranthus,86,Gujarat,24,Banas Kantha,469,300,625,500
+2016-10-13,Amaranthus,86,Gujarat,24,Banas Kantha,469,800,1000,900
+2015-02-10,Amaranthus,86,Gujarat,24,Banas Kantha,469,475,720,598
+2015-01-10,Amaranthus,86,Gujarat,24,Banas Kantha,469,555,930,743

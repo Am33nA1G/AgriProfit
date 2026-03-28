@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-25,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,900,1100,1000
+2020-06-24,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,700,850,800
+2020-05-11,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,800,900,850
+2018-07-06,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-07-05,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-06-30,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-06-28,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-06-27,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-06-26,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1000,1200,1100
+2018-06-21,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1500,1600,1550
+2017-07-13,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,3000,3300,3250
+2017-07-10,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,3000,4000,3300
+2017-06-26,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1800,2000,1900
+2017-06-23,Mango (Raw-Ripe),172,Uttar Pradesh,9,Auraiya,162,1300,1600,1500

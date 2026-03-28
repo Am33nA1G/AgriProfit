@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-15,Banana - Green,90,Karnataka,29,Hassan,574,7000,7000,7000
+2015-12-06,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-11-22,Banana - Green,90,Karnataka,29,Hassan,574,3000,3000,3000
+2015-11-15,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-11-08,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-10-18,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-09-27,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-09-13,Banana - Green,90,Karnataka,29,Hassan,574,3000,3333,3333
+2015-08-30,Banana - Green,90,Karnataka,29,Hassan,574,3000,3333,3333
+2015-08-16,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-08-02,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-07-19,Banana - Green,90,Karnataka,29,Hassan,574,3333,3333,3333
+2015-07-12,Banana - Green,90,Karnataka,29,Hassan,574,500,500,500
+2015-06-21,Banana - Green,90,Karnataka,29,Hassan,574,2000,2666,2666
+2015-06-07,Banana - Green,90,Karnataka,29,Hassan,574,3000,3000,3000
+2015-05-24,Banana - Green,90,Karnataka,29,Hassan,574,3000,3000,3000
+2015-05-10,Banana - Green,90,Karnataka,29,Hassan,574,3000,3000,3000
+2015-03-29,Banana - Green,90,Karnataka,29,Hassan,574,1500,1500,1500
+2015-03-08,Banana - Green,90,Karnataka,29,Hassan,574,2500,2500,2500
+2015-01-11,Banana - Green,90,Karnataka,29,Hassan,574,1333,1333,1333
+2015-01-04,Banana - Green,90,Karnataka,29,Hassan,574,2000,3000,2500

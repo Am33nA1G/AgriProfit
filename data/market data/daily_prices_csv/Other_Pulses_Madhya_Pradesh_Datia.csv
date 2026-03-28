@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-18,Other Pulses,97,Madhya Pradesh,23,Datia,422,6590,7160,7000
+2015-09-17,Other Pulses,97,Madhya Pradesh,23,Datia,422,6752,6971,6850
+2015-09-16,Other Pulses,97,Madhya Pradesh,23,Datia,422,5850,6525,6300

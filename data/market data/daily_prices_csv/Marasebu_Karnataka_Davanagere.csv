@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-05,Marasebu,181,Karnataka,29,Davanagere,567,2500,3000,2600
+2022-10-19,Marasebu,181,Karnataka,29,Davanagere,567,2000,2500,2200
+2022-08-06,Marasebu,181,Karnataka,29,Davanagere,567,3000,3500,3200
+2022-07-05,Marasebu,181,Karnataka,29,Davanagere,567,4000,4500,4200

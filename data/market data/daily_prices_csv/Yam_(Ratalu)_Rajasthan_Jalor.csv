@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-22,Yam (Ratalu),297,Rajasthan,8,Jalor,116,2500,2800,2600
+2015-12-19,Yam (Ratalu),297,Rajasthan,8,Jalor,116,2800,3000,2900
+2015-12-11,Yam (Ratalu),297,Rajasthan,8,Jalor,116,2200,2600,2400
+2015-12-10,Yam (Ratalu),297,Rajasthan,8,Jalor,116,1200,1500,1400
+2015-12-09,Yam (Ratalu),297,Rajasthan,8,Jalor,116,1600,2000,1800
+2015-12-02,Yam (Ratalu),297,Rajasthan,8,Jalor,116,1500,2500,2000
+2015-11-24,Yam (Ratalu),297,Rajasthan,8,Jalor,116,2000,2500,2200
+2015-11-20,Yam (Ratalu),297,Rajasthan,8,Jalor,116,2000,2500,2200

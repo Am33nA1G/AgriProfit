@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-10,Cow,212,Maharashtra,27,Akola,501,25000,26000,25600
+2015-12-27,Cow,212,Maharashtra,27,Akola,501,10000,15000,12500

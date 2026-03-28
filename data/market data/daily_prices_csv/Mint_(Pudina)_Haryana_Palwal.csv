@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-22,Mint (Pudina),360,Haryana,6,Palwal,89,2200,2200,2200
+2015-04-15,Mint (Pudina),360,Haryana,6,Palwal,89,1200,1300,1250
+2015-04-11,Mint (Pudina),360,Haryana,6,Palwal,89,5000,5000,5000

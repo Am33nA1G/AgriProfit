@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-22,Soyabean,13,Chhattisgarh,22,Uttar Bastar Kanker,413,4400,4400,4400
+2018-03-31,Soyabean,13,Chhattisgarh,22,Uttar Bastar Kanker,413,3800,3800,3800
+2018-03-14,Soyabean,13,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500
+2017-10-21,Soyabean,13,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500
+2017-10-02,Soyabean,13,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500

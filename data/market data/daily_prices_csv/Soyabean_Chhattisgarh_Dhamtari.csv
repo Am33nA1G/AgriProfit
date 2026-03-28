@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-24,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2400,2505,2480
+2017-04-20,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2400,2500,2460
+2017-04-17,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2410,2500,2480
+2017-04-15,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2410,2500,2485
+2017-04-13,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2407,2500,2483
+2017-04-10,Soyabean,13,Chhattisgarh,22,Dhamtari,412,2400,2500,2470

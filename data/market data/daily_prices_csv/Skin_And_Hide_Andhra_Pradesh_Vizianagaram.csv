@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-01,Skin And Hide,226,Andhra Pradesh,28,Vizianagaram,543,216,700,220
+2016-07-25,Skin And Hide,226,Andhra Pradesh,28,Vizianagaram,543,2500,2600,2585
+2015-10-21,Skin And Hide,226,Andhra Pradesh,28,Vizianagaram,543,1800,1825,1815

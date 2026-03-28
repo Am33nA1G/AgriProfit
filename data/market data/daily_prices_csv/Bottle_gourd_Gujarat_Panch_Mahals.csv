@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Bottle gourd,82,Gujarat,24,Panch Mahals,484,700,1100,850
+2021-01-02,Bottle gourd,82,Gujarat,24,Panch Mahals,484,800,1000,900
+2015-03-14,Bottle gourd,82,Gujarat,24,Panch Mahals,484,400,600,500
+2015-02-28,Bottle gourd,82,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-16,Bottle gourd,82,Gujarat,24,Panch Mahals,484,200,300,250

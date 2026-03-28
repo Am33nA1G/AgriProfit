@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-06,Sweet Potato,152,Goa,30,North Goa,585,1000,1000,1000
+2020-10-21,Sweet Potato,152,Goa,30,North Goa,585,2000,2000,2000
+2020-10-16,Sweet Potato,152,Goa,30,North Goa,585,2000,2000,2000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-14,Elephant Yam (Suran),296,Maharashtra,27,Ahmadnagar,522,6500,6500,6500
+2025-08-26,Elephant Yam (Suran),296,Maharashtra,27,Ahmadnagar,522,6000,6000,6000
+2024-09-10,Elephant Yam (Suran),296,Maharashtra,27,Ahmadnagar,522,8000,8000,8000

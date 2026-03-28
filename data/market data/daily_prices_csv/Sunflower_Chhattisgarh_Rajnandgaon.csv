@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-31,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,7000,7000,7000
+2022-05-19,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,4500,5800,5150
+2019-09-30,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,1850,1850,1850
+2018-06-30,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,2330,2410,2370
+2017-11-30,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,2375,2375,2375
+2017-11-18,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,2375,2375,2375
+2016-06-30,Sunflower,14,Chhattisgarh,22,Rajnandgaon,408,2500,2700,2600

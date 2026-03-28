@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-13,Mustard Oil,324,Uttar Pradesh,9,Lucknow,157,1100,1200,1150
+2015-11-04,Mustard Oil,324,Uttar Pradesh,9,Lucknow,157,10000,10200,10100

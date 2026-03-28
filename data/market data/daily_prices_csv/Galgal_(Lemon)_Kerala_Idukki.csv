@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-19,Galgal (Lemon),350,Kerala,32,Idukki,596,8000,12000,10000
+2023-06-13,Galgal (Lemon),350,Kerala,32,Idukki,596,7000,9000,8000
+2023-06-02,Galgal (Lemon),350,Kerala,32,Idukki,596,7000,8000,8000
+2023-03-11,Galgal (Lemon),350,Kerala,32,Idukki,596,6000,8000,7000

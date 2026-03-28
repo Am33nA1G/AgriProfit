@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-01,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,3000,3000,3000
+2020-06-22,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,3200,3200,3200
+2019-03-26,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,2000,2000,2000
+2018-12-31,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,2200,2200,2200
+2018-11-18,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,2820,2910,2900
+2018-10-25,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,2000,2000,2000
+2018-07-25,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Mahasamund,411,1990,2000,1995

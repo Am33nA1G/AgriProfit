@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-29,Pigs,220,Mizoram,15,Aizawl,283,22000,25000,23500
+2017-09-13,Pigs,220,Mizoram,15,Aizawl,283,22000,25000,23500
+2015-09-28,Pigs,220,Mizoram,15,Aizawl,283,22000,22000,22000
+2015-09-22,Pigs,220,Mizoram,15,Aizawl,283,25000,25000,25000
+2015-09-10,Pigs,220,Mizoram,15,Aizawl,283,22000,22000,22000
+2015-08-10,Pigs,220,Mizoram,15,Aizawl,283,22000,22000,22000

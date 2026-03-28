@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-04,Banana - Green,90,Himachal Pradesh,2,Mandi,27,2500,2500,2500
+2019-05-13,Banana - Green,90,Himachal Pradesh,2,Mandi,27,2500,2500,2500
+2018-10-25,Banana - Green,90,Himachal Pradesh,2,Mandi,27,2400,2400,2400
+2018-08-31,Banana - Green,90,Himachal Pradesh,2,Mandi,27,2500,2500,2500

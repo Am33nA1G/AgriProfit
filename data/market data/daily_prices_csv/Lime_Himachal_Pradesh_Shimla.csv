@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-10,Lime,180,Himachal Pradesh,2,Shimla,33,3000,4000,3500
+2020-01-30,Lime,180,Himachal Pradesh,2,Shimla,33,4000,4500,4250
+2019-06-03,Lime,180,Himachal Pradesh,2,Shimla,33,8000,9000,8500
+2019-06-01,Lime,180,Himachal Pradesh,2,Shimla,33,8000,9000,8500
+2019-05-31,Lime,180,Himachal Pradesh,2,Shimla,33,8500,9000,8750
+2019-05-30,Lime,180,Himachal Pradesh,2,Shimla,33,8500,9000,8750

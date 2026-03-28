@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-20,Thogrikai,170,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-06-27,Thogrikai,170,Karnataka,29,Shimoga,568,3600,4000,3800
+2024-05-02,Thogrikai,170,Karnataka,29,Shimoga,568,30,50,40

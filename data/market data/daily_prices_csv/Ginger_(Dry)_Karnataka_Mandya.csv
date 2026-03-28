@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-26,Ginger (Dry),27,Karnataka,29,Mandya,573,12000,12000,12000
+2024-10-12,Ginger (Dry),27,Karnataka,29,Mandya,573,2800,2800,2800
+2023-02-23,Ginger (Dry),27,Karnataka,29,Mandya,573,4000,4000,4000
+2022-06-16,Ginger (Dry),27,Karnataka,29,Mandya,573,1800,2000,1800
+2022-03-04,Ginger (Dry),27,Karnataka,29,Mandya,573,1800,1800,1800
+2021-12-22,Ginger (Dry),27,Karnataka,29,Mandya,573,1600,1600,1600
+2020-01-05,Ginger (Dry),27,Karnataka,29,Mandya,573,1800,1800,1800
+2019-12-24,Ginger (Dry),27,Karnataka,29,Mandya,573,2800,3300,3150
+2017-06-04,Ginger (Dry),27,Karnataka,29,Mandya,573,1000,1000,1000
+2017-02-20,Ginger (Dry),27,Karnataka,29,Mandya,573,3300,3300,3300
+2015-09-14,Ginger (Dry),27,Karnataka,29,Mandya,573,1046,1046,1046
+2015-08-20,Ginger (Dry),27,Karnataka,29,Mandya,573,10000,10000,10000
+2015-06-12,Ginger (Dry),27,Karnataka,29,Mandya,573,1000,1000,1000
+2015-04-17,Ginger (Dry),27,Karnataka,29,Mandya,573,2300,2500,2400

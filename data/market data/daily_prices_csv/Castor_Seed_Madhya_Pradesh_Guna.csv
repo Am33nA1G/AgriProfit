@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-30,Castor Seed,123,Madhya Pradesh,23,Guna,458,4600,5630,5350
+2016-12-15,Castor Seed,123,Madhya Pradesh,23,Guna,458,2500,2600,2550
+2016-08-17,Castor Seed,123,Madhya Pradesh,23,Guna,458,2585,2585,2585
+2016-08-16,Castor Seed,123,Madhya Pradesh,23,Guna,458,2190,2460,2190
+2016-08-11,Castor Seed,123,Madhya Pradesh,23,Guna,458,2300,2300,2300
+2016-08-10,Castor Seed,123,Madhya Pradesh,23,Guna,458,2505,2505,2505
+2016-08-06,Castor Seed,123,Madhya Pradesh,23,Guna,458,2450,2450,2450
+2016-07-30,Castor Seed,123,Madhya Pradesh,23,Guna,458,2315,2315,2315
+2016-07-23,Castor Seed,123,Madhya Pradesh,23,Guna,458,2225,2225,2225
+2016-07-15,Castor Seed,123,Madhya Pradesh,23,Guna,458,2505,2505,2505

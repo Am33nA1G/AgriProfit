@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-09,Water Melon,73,Karnataka,29,Shimoga,568,800,1000,900
+2020-04-04,Water Melon,73,Karnataka,29,Shimoga,568,800,1000,900
+2015-05-06,Water Melon,73,Karnataka,29,Shimoga,568,300,500,400
+2015-04-18,Water Melon,73,Karnataka,29,Shimoga,568,450,600,500
+2015-04-17,Water Melon,73,Karnataka,29,Shimoga,568,450,600,500
+2015-04-15,Water Melon,73,Karnataka,29,Shimoga,568,450,600,500
+2015-04-13,Water Melon,73,Karnataka,29,Shimoga,568,900,1100,1000
+2015-01-02,Water Melon,73,Karnataka,29,Shimoga,568,450,600,500

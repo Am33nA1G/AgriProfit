@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-30,Bitter gourd,81,Nagaland,13,Longleng,268,4000,4300,4100
+2021-10-29,Bitter gourd,81,Nagaland,13,Longleng,268,3600,3900,3800
+2021-10-22,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3800,3700
+2021-09-17,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3700,3600
+2019-10-04,Bitter gourd,81,Nagaland,13,Longleng,268,3600,3900,3800
+2019-09-27,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3800,3600
+2019-09-20,Bitter gourd,81,Nagaland,13,Longleng,268,3600,3900,3800
+2019-09-14,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3800,3600
+2019-09-06,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3800,3600
+2019-08-30,Bitter gourd,81,Nagaland,13,Longleng,268,3600,3900,3800
+2019-08-23,Bitter gourd,81,Nagaland,13,Longleng,268,3500,3800,3700
+2019-08-16,Bitter gourd,81,Nagaland,13,Longleng,268,3200,3500,3300
+2019-08-09,Bitter gourd,81,Nagaland,13,Longleng,268,3400,3700,3500
+2019-08-02,Bitter gourd,81,Nagaland,13,Longleng,268,3300,3600,3500

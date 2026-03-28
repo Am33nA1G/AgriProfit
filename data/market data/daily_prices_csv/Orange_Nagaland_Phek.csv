@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-18,Orange,18,Nagaland,13,Phek,266,7000,9000,8000
+2023-12-06,Orange,18,Nagaland,13,Phek,266,6000,8000,7000
+2023-11-21,Orange,18,Nagaland,13,Phek,266,6000,8000,7000

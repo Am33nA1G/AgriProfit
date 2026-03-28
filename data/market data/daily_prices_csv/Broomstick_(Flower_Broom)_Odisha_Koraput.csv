@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-17,Broomstick (Flower Broom),320,Odisha,21,Koraput,398,1500,2500,2000
+2015-06-02,Broomstick (Flower Broom),320,Odisha,21,Koraput,398,800,900,850
+2015-05-02,Broomstick (Flower Broom),320,Odisha,21,Koraput,398,800,900,850
+2015-03-25,Broomstick (Flower Broom),320,Odisha,21,Koraput,398,1200,1400,1300

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-28,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2020-01-25,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2019-07-29,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Koriya,400,1000,1000,1000

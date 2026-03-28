@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-24,Radish,161,Karnataka,29,Gadag,561,400,800,600
+2020-06-21,Radish,161,Karnataka,29,Gadag,561,600,1200,800
+2020-05-07,Radish,161,Karnataka,29,Gadag,561,400,1500,900
+2020-05-05,Radish,161,Karnataka,29,Gadag,561,500,1200,800
+2020-05-03,Radish,161,Karnataka,29,Gadag,561,300,1000,700
+2020-05-01,Radish,161,Karnataka,29,Gadag,561,300,1500,1200
+2020-04-29,Radish,161,Karnataka,29,Gadag,561,800,1200,1000
+2020-04-23,Radish,161,Karnataka,29,Gadag,561,1500,1800,1600
+2020-04-04,Radish,161,Karnataka,29,Gadag,561,2000,2200,2100

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-04,Onion,23,Karnataka,29,Kodagu,576,2220,2220,2220
+2016-10-25,Onion,23,Karnataka,29,Kodagu,576,1000,1000,1000
+2015-10-09,Onion,23,Karnataka,29,Kodagu,576,5300,5300,5300

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-25,Green Chilli,87,Gujarat,24,Jamnagar,477,1000,2500,1200
+2019-11-22,Green Chilli,87,Gujarat,24,Jamnagar,477,1000,1650,1500
+2019-11-21,Green Chilli,87,Gujarat,24,Jamnagar,477,1500,3500,1650
+2019-11-20,Green Chilli,87,Gujarat,24,Jamnagar,477,2000,3000,2500
+2019-11-19,Green Chilli,87,Gujarat,24,Jamnagar,477,2000,2650,2500
+2019-11-18,Green Chilli,87,Gujarat,24,Jamnagar,477,650,1350,1000
+2019-11-16,Green Chilli,87,Gujarat,24,Jamnagar,477,2450,2750,2650
+2019-11-15,Green Chilli,87,Gujarat,24,Jamnagar,477,1650,2350,1750
+2019-11-14,Green Chilli,87,Gujarat,24,Jamnagar,477,2000,2550,2450
+2019-11-13,Green Chilli,87,Gujarat,24,Jamnagar,477,1500,1700,1650

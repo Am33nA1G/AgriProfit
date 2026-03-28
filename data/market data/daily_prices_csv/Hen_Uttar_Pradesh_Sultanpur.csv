@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-29,Hen,369,Uttar Pradesh,9,Sultanpur,179,1310,1350,1330
+2019-11-22,Hen,369,Uttar Pradesh,9,Sultanpur,179,1300,1350,1325
+2019-11-15,Hen,369,Uttar Pradesh,9,Sultanpur,179,1280,1350,1300
+2019-11-08,Hen,369,Uttar Pradesh,9,Sultanpur,179,1280,1310,1300
+2019-11-01,Hen,369,Uttar Pradesh,9,Sultanpur,179,1290,1300,1295
+2019-10-25,Hen,369,Uttar Pradesh,9,Sultanpur,179,1230,1300,1250
+2019-10-18,Hen,369,Uttar Pradesh,9,Sultanpur,179,1230,1300,1260
+2019-10-11,Hen,369,Uttar Pradesh,9,Sultanpur,179,1200,1300,1250
+2019-10-04,Hen,369,Uttar Pradesh,9,Sultanpur,179,1200,1300,1240
+2019-09-27,Hen,369,Uttar Pradesh,9,Sultanpur,179,1200,1300,1250
+2019-09-20,Hen,369,Uttar Pradesh,9,Sultanpur,179,1240,1300,1260
+2019-09-13,Hen,369,Uttar Pradesh,9,Sultanpur,179,1200,1300,1250
+2019-09-06,Hen,369,Uttar Pradesh,9,Sultanpur,179,1380,1420,1400

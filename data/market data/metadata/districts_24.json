@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "census_district_id": 468,
+      "census_district_name": "Kachchh"
+    },
+    {
+      "census_district_id": 469,
+      "census_district_name": "Banas Kantha"
+    },
+    {
+      "census_district_id": 470,
+      "census_district_name": "Patan"
+    },
+    {
+      "census_district_id": 471,
+      "census_district_name": "Mahesana"
+    },
+    {
+      "census_district_id": 472,
+      "census_district_name": "Sabar Kantha"
+    },
+    {
+      "census_district_id": 473,
+      "census_district_name": "Gandhinagar"
+    },
+    {
+      "census_district_id": 474,
+      "census_district_name": "Ahmedabad"
+    },
+    {
+      "census_district_id": 475,
+      "census_district_name": "Surendranagar"
+    },
+    {
+      "census_district_id": 476,
+      "census_district_name": "Rajkot"
+    },
+    {
+      "census_district_id": 477,
+      "census_district_name": "Jamnagar"
+    },
+    {
+      "census_district_id": 478,
+      "census_district_name": "Porbandar"
+    },
+    {
+      "census_district_id": 479,
+      "census_district_name": "Junagadh"
+    },
+    {
+      "census_district_id": 480,
+      "census_district_name": "Amreli"
+    },
+    {
+      "census_district_id": 481,
+      "census_district_name": "Bhavnagar"
+    },
+    {
+      "census_district_id": 482,
+      "census_district_name": "Anand"
+    },
+    {
+      "census_district_id": 483,
+      "census_district_name": "Kheda"
+    },
+    {
+      "census_district_id": 484,
+      "census_district_name": "Panch Mahals"
+    },
+    {
+      "census_district_id": 485,
+      "census_district_name": "Dohad"
+    },
+    {
+      "census_district_id": 486,
+      "census_district_name": "Vadodara"
+    },
+    {
+      "census_district_id": 487,
+      "census_district_name": "Narmada"
+    },
+    {
+      "census_district_id": 488,
+      "census_district_name": "Bharuch"
+    },
+    {
+      "census_district_id": 489,
+      "census_district_name": "The Dangs"
+    },
+    {
+      "census_district_id": 490,
+      "census_district_name": "Navsari"
+    },
+    {
+      "census_district_id": 491,
+      "census_district_name": "Valsad"
+    },
+    {
+      "census_district_id": 492,
+      "census_district_name": "Surat"
+    },
+    {
+      "census_district_id": 493,
+      "census_district_name": "Tapi"
+    }
+  ]
+}

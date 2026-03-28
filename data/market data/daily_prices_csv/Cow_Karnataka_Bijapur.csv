@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-15,Cow,212,Karnataka,29,Bijapur,557,6000,25000,19000
+2015-09-01,Cow,212,Karnataka,29,Bijapur,557,15000,25000,18000
+2015-08-04,Cow,212,Karnataka,29,Bijapur,557,8000,25000,19000
+2015-07-14,Cow,212,Karnataka,29,Bijapur,557,20000,25000,22000
+2015-07-04,Cow,212,Karnataka,29,Bijapur,557,20000,25000,22000
+2015-06-22,Cow,212,Karnataka,29,Bijapur,557,20000,28000,26000
+2015-06-02,Cow,212,Karnataka,29,Bijapur,557,16000,25000,22000
+2015-05-26,Cow,212,Karnataka,29,Bijapur,557,21000,30000,26000
+2015-03-10,Cow,212,Karnataka,29,Bijapur,557,25000,35000,32000

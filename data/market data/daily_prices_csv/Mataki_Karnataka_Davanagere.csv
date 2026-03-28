@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-25,Mataki,93,Karnataka,29,Davanagere,567,6300,6300,6300
+2024-10-01,Mataki,93,Karnataka,29,Davanagere,567,8700,9000,8850
+2020-05-22,Mataki,93,Karnataka,29,Davanagere,567,8500,9000,8750
+2020-03-06,Mataki,93,Karnataka,29,Davanagere,567,5000,6000,5500
+2019-12-06,Mataki,93,Karnataka,29,Davanagere,567,4500,5000,4750
+2019-10-25,Mataki,93,Karnataka,29,Davanagere,567,4000,4500,4250
+2019-10-19,Mataki,93,Karnataka,29,Davanagere,567,4000,4500,4250
+2016-11-25,Mataki,93,Karnataka,29,Davanagere,567,4000,4200,4100
+2015-06-12,Mataki,93,Karnataka,29,Davanagere,567,2900,3000,2950

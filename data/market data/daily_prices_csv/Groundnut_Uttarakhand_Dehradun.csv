@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-26,Groundnut,10,Uttarakhand,5,Dehradun,60,5000,5000,5000
+2017-10-10,Groundnut,10,Uttarakhand,5,Dehradun,60,3200,4500,4500
+2016-10-16,Groundnut,10,Uttarakhand,5,Dehradun,60,4788,4803,4803
+2016-10-10,Groundnut,10,Uttarakhand,5,Dehradun,60,2700,2717,2717
+2016-10-09,Groundnut,10,Uttarakhand,5,Dehradun,60,3125,3137,3137
+2016-10-06,Groundnut,10,Uttarakhand,5,Dehradun,60,3037,3049,3049
+2016-10-05,Groundnut,10,Uttarakhand,5,Dehradun,60,3100,3117,3117
+2016-04-01,Groundnut,10,Uttarakhand,5,Dehradun,60,3350,3360,3360
+2015-10-28,Groundnut,10,Uttarakhand,5,Dehradun,60,3160,3200,3200
+2015-10-21,Groundnut,10,Uttarakhand,5,Dehradun,60,2400,2436,2436
+2015-10-19,Groundnut,10,Uttarakhand,5,Dehradun,60,4520,4568,4568
+2015-10-18,Groundnut,10,Uttarakhand,5,Dehradun,60,2900,2928,2928
+2015-10-16,Groundnut,10,Uttarakhand,5,Dehradun,60,3900,4000,4000
+2015-10-15,Groundnut,10,Uttarakhand,5,Dehradun,60,3450,3519,3519
+2015-10-09,Groundnut,10,Uttarakhand,5,Dehradun,60,4030,4050,4050
+2015-04-02,Groundnut,10,Uttarakhand,5,Dehradun,60,3500,4000,4000

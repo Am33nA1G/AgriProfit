@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-17,Linseed,67,Maharashtra,27,Pune,521,6500,6500,6500
+2021-06-03,Linseed,67,Maharashtra,27,Pune,521,4100,5000,4600
+2020-09-27,Linseed,67,Maharashtra,27,Pune,521,6000,6000,6000
+2018-12-30,Linseed,67,Maharashtra,27,Pune,521,5511,5511,5511
+2018-06-10,Linseed,67,Maharashtra,27,Pune,521,4147,5100,5100
+2017-07-30,Linseed,67,Maharashtra,27,Pune,521,6500,6500,6500
+2017-04-23,Linseed,67,Maharashtra,27,Pune,521,5201,5201,5201
+2015-07-03,Linseed,67,Maharashtra,27,Pune,521,2000,2000,2000

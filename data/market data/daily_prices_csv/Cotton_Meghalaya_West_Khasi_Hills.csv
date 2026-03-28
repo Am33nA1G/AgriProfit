@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-30,Cotton,15,Meghalaya,17,West Khasi Hills,296,36500,36800,36650
+2015-04-21,Cotton,15,Meghalaya,17,West Khasi Hills,296,36300,36400,36350
+2015-04-14,Cotton,15,Meghalaya,17,West Khasi Hills,296,36000,36200,36100
+2015-04-06,Cotton,15,Meghalaya,17,West Khasi Hills,296,35500,35800,35650
+2015-03-28,Cotton,15,Meghalaya,17,West Khasi Hills,296,35000,35300,35150
+2015-03-13,Cotton,15,Meghalaya,17,West Khasi Hills,296,22000,22300,22150
+2015-03-05,Cotton,15,Meghalaya,17,West Khasi Hills,296,22000,22300,22150
+2015-02-17,Cotton,15,Meghalaya,17,West Khasi Hills,296,5000,6000,5500
+2015-02-09,Cotton,15,Meghalaya,17,West Khasi Hills,296,7500,7800,7650
+2015-01-16,Cotton,15,Meghalaya,17,West Khasi Hills,296,22000,22500,22250
+2015-01-08,Cotton,15,Meghalaya,17,West Khasi Hills,296,22000,22300,22150

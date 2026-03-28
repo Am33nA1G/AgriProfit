@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-30,Kacholam,317,Punjab,3,Amritsar,49,500,700,600
+2022-07-29,Kacholam,317,Punjab,3,Amritsar,49,500,700,600
+2022-07-21,Kacholam,317,Punjab,3,Amritsar,49,400,600,500
+2022-07-13,Kacholam,317,Punjab,3,Amritsar,49,500,700,600
+2022-07-11,Kacholam,317,Punjab,3,Amritsar,49,500,700,600
+2022-07-08,Kacholam,317,Punjab,3,Amritsar,49,400,600,500
+2022-07-07,Kacholam,317,Punjab,3,Amritsar,49,400,600,500
+2022-06-28,Kacholam,317,Punjab,3,Amritsar,49,400,600,500
+2022-03-30,Kacholam,317,Punjab,3,Amritsar,49,500,700,600

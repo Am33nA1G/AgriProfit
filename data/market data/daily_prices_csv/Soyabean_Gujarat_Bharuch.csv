@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-10,Soyabean,13,Gujarat,24,Bharuch,488,2725,2875,2800
+2016-12-09,Soyabean,13,Gujarat,24,Bharuch,488,2800,2875,2835
+2016-12-03,Soyabean,13,Gujarat,24,Bharuch,488,2700,2850,2800
+2016-12-01,Soyabean,13,Gujarat,24,Bharuch,488,2700,2850,2750
+2015-10-19,Soyabean,13,Gujarat,24,Bharuch,488,3500,3625,3600

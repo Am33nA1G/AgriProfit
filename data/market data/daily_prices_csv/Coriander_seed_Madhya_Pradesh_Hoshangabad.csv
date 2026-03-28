@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-20,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,4100,9001,6610
+2022-11-25,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,10805,10805,10805
+2022-07-24,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,2000,5000,3000
+2022-05-19,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,4600,4600,4600
+2022-04-08,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,10000,10001,10000
+2021-11-08,Coriander seed,108,Madhya Pradesh,23,Hoshangabad,449,5901,11151,6501

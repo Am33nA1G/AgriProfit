@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-06,Groundnut (Split),314,Tamil Nadu,33,Namakkal,609,8000,8260,8130
+2018-01-10,Groundnut (Split),314,Tamil Nadu,33,Namakkal,609,4445,5625,5219
+2017-11-16,Groundnut (Split),314,Tamil Nadu,33,Namakkal,609,4020,4400,4200

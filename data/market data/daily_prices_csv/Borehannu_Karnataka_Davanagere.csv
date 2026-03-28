@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-11,Borehannu,189,Karnataka,29,Davanagere,567,2000,2500,2200
+2021-12-18,Borehannu,189,Karnataka,29,Davanagere,567,2200,2500,2300
+2021-09-13,Borehannu,189,Karnataka,29,Davanagere,567,1000,1500,1200
+2021-09-08,Borehannu,189,Karnataka,29,Davanagere,567,1000,2000,1800
+2021-09-07,Borehannu,189,Karnataka,29,Davanagere,567,1000,1500,1200

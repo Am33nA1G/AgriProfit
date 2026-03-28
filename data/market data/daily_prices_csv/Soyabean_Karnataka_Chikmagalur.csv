@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-06,Soyabean,13,Karnataka,29,Chikmagalur,570,4500,4500,4500
+2020-12-15,Soyabean,13,Karnataka,29,Chikmagalur,570,4500,4500,4500
+2020-11-05,Soyabean,13,Karnataka,29,Chikmagalur,570,4500,4500,4500
+2018-07-10,Soyabean,13,Karnataka,29,Chikmagalur,570,3400,3400,3400
+2018-06-23,Soyabean,13,Karnataka,29,Chikmagalur,570,2952,2952,2952

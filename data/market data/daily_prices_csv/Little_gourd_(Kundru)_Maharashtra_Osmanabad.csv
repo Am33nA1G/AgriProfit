@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-01,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,500,1200,850
+2015-10-20,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,800,1100,950
+2015-07-23,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,800,1000,900
+2015-07-21,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,600,1200,900
+2015-07-16,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,800,1000,900
+2015-07-12,Little gourd (Kundru),302,Maharashtra,27,Osmanabad,525,1200,2200,1700

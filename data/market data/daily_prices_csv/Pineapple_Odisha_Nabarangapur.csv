@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-28,Pineapple,21,Odisha,21,Nabarangapur,397,2000,3000,2500
+2015-07-18,Pineapple,21,Odisha,21,Nabarangapur,397,2000,3000,2500
+2015-07-13,Pineapple,21,Odisha,21,Nabarangapur,397,2000,3000,2500
+2015-07-09,Pineapple,21,Odisha,21,Nabarangapur,397,3000,5000,4000

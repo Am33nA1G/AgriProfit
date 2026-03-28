@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-07,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,4000,4000,4000
+2017-12-23,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,3001,3001,3001
+2017-12-15,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,2000,2700,2400
+2017-12-09,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,3000,3000,3000
+2017-11-16,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,2500,2500,2500
+2017-11-13,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,3500,3500,3500
+2017-11-09,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,2500,2505,2501
+2017-11-06,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,2250,2250,2250
+2017-10-31,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,3000,3000,3000
+2017-10-28,Black Gram (Urad Beans)(Whole),8,Madhya Pradesh,23,Singrauli,463,1600,2000,1600

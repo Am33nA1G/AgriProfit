@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-15,Arecanut (Betelnut/Supari),140,Mizoram,15,Aizawl,283,5000,6000,5500
+2015-10-12,Arecanut (Betelnut/Supari),140,Mizoram,15,Aizawl,283,40000,40000,40000
+2015-10-07,Arecanut (Betelnut/Supari),140,Mizoram,15,Aizawl,283,18000,18000,18000
+2015-07-14,Arecanut (Betelnut/Supari),140,Mizoram,15,Aizawl,283,17000,19000,17500
+2015-05-05,Arecanut (Betelnut/Supari),140,Mizoram,15,Aizawl,283,17000,18000,17500

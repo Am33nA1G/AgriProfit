@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Pumpkin,84,Bihar,10,Khagaria,223,2000,2000,2000
+2022-05-10,Pumpkin,84,Bihar,10,Khagaria,223,1100,1300,1200
+2022-05-08,Pumpkin,84,Bihar,10,Khagaria,223,900,1050,1000
+2022-05-07,Pumpkin,84,Bihar,10,Khagaria,223,1200,1400,1300
+2022-05-05,Pumpkin,84,Bihar,10,Khagaria,223,1200,1400,1300
+2022-04-30,Pumpkin,84,Bihar,10,Khagaria,223,1200,1400,1300
+2022-04-29,Pumpkin,84,Bihar,10,Khagaria,223,1200,1400,1300
+2022-04-27,Pumpkin,84,Bihar,10,Khagaria,223,1700,1900,1800
+2022-04-26,Pumpkin,84,Bihar,10,Khagaria,223,1200,1400,1300
+2022-04-25,Pumpkin,84,Bihar,10,Khagaria,223,1500,1700,1600
+2022-04-23,Pumpkin,84,Bihar,10,Khagaria,223,1700,1900,1800
+2022-04-22,Pumpkin,84,Bihar,10,Khagaria,223,2000,2500,2300
+2022-04-21,Pumpkin,84,Bihar,10,Khagaria,223,2400,2700,2600

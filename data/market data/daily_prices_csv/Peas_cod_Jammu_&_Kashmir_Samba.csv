@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-19,Peas cod,308,Jammu & Kashmir,1,Samba,22,1500,1700,1600
+2018-03-17,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1500,1350
+2018-03-16,Peas cod,308,Jammu & Kashmir,1,Samba,22,1100,1400,1250
+2018-03-14,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1400,1300
+2018-03-13,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1500,1350
+2018-03-12,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1400,1300
+2018-03-10,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1400,1300
+2018-03-09,Peas cod,308,Jammu & Kashmir,1,Samba,22,1100,1300,1200
+2018-03-08,Peas cod,308,Jammu & Kashmir,1,Samba,22,1000,1200,1100
+2018-03-07,Peas cod,308,Jammu & Kashmir,1,Samba,22,1300,1500,1400
+2018-03-06,Peas cod,308,Jammu & Kashmir,1,Samba,22,1200,1500,1350
+2018-03-02,Peas cod,308,Jammu & Kashmir,1,Samba,22,1600,1800,1700
+2018-02-26,Peas cod,308,Jammu & Kashmir,1,Samba,22,1000,1600,1300
+2018-02-24,Peas cod,308,Jammu & Kashmir,1,Samba,22,1800,2000,1900
+2018-02-23,Peas cod,308,Jammu & Kashmir,1,Samba,22,1800,2200,2000
+2018-02-21,Peas cod,308,Jammu & Kashmir,1,Samba,22,2000,2500,2250

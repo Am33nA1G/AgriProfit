@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-28,Litchi,351,Jammu & Kashmir,1,Udhampur,19,4000,4500,4000
+2016-06-16,Litchi,351,Jammu & Kashmir,1,Udhampur,19,4000,7000,5000
+2016-06-11,Litchi,351,Jammu & Kashmir,1,Udhampur,19,4000,4500,4500
+2016-06-09,Litchi,351,Jammu & Kashmir,1,Udhampur,19,4000,4500,4500
+2016-06-07,Litchi,351,Jammu & Kashmir,1,Udhampur,19,4000,4500,4500
+2016-06-05,Litchi,351,Jammu & Kashmir,1,Udhampur,19,3500,4500,4000
+2016-06-04,Litchi,351,Jammu & Kashmir,1,Udhampur,19,3500,4500,4000
+2016-06-03,Litchi,351,Jammu & Kashmir,1,Udhampur,19,3500,4500,4000

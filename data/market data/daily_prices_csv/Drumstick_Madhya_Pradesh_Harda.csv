@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-04,Drumstick,168,Madhya Pradesh,23,Harda,448,700,900,800
+2018-03-30,Drumstick,168,Madhya Pradesh,23,Harda,448,1000,1400,1200
+2018-03-10,Drumstick,168,Madhya Pradesh,23,Harda,448,1500,1900,1800
+2018-03-09,Drumstick,168,Madhya Pradesh,23,Harda,448,1900,2100,2000
+2018-03-08,Drumstick,168,Madhya Pradesh,23,Harda,448,1800,2000,1900
+2018-03-07,Drumstick,168,Madhya Pradesh,23,Harda,448,2000,2500,2200

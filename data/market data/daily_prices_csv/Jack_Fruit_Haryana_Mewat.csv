@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-22,Jack Fruit,182,Haryana,6,Mewat,87,1200,1500,1300
+2016-06-21,Jack Fruit,182,Haryana,6,Mewat,87,1100,1300,1200
+2016-06-20,Jack Fruit,182,Haryana,6,Mewat,87,1200,1500,1300

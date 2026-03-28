@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-18,Karbuja (Musk Melon),187,Madhya Pradesh,23,Katni,450,800,800,800
+2023-08-19,Karbuja (Musk Melon),187,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-08-02,Karbuja (Musk Melon),187,Madhya Pradesh,23,Katni,450,1500,1500,1500
+2023-07-19,Karbuja (Musk Melon),187,Madhya Pradesh,23,Katni,450,2000,2000,2000
+2023-07-05,Karbuja (Musk Melon),187,Madhya Pradesh,23,Katni,450,2000,2000,2000

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-28,Castor Seed,123,Uttar Pradesh,9,Etah,201,3400,3500,3450
+2018-04-27,Castor Seed,123,Uttar Pradesh,9,Etah,201,3350,3550,3400
+2018-04-26,Castor Seed,123,Uttar Pradesh,9,Etah,201,3300,3500,3400
+2018-04-25,Castor Seed,123,Uttar Pradesh,9,Etah,201,3300,3550,3400
+2018-01-29,Castor Seed,123,Uttar Pradesh,9,Etah,201,3400,3600,3500
+2017-12-04,Castor Seed,123,Uttar Pradesh,9,Etah,201,3100,3200,3150
+2017-09-15,Castor Seed,123,Uttar Pradesh,9,Etah,201,3200,3500,3400

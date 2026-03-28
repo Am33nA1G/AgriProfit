@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-30,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,3000,4000,3500
+2017-07-01,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,3200,3400,3300
+2016-07-21,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,4000,4400,4200
+2016-07-15,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,4000,4400,4200
+2016-02-29,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,4500,5000,4700
+2015-09-07,Groundnut pods (raw),312,Maharashtra,27,Mumbai,519,4200,4600,4500

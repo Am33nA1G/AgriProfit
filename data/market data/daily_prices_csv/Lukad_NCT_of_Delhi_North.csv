@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-03,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-05-02,Lukad,337,NCT of Delhi,7,North,91,2857,8714,5000
+2025-04-30,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-26,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-25,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-24,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-23,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-22,Lukad,337,NCT of Delhi,7,North,91,2857,5714,5000
+2025-04-19,Lukad,337,NCT of Delhi,7,North,91,3571,5000,4286
+2025-04-15,Lukad,337,NCT of Delhi,7,North,91,3571,5000,4286
+2025-04-14,Lukad,337,NCT of Delhi,7,North,91,4286,7143,5000
+2025-04-12,Lukad,337,NCT of Delhi,7,North,91,4286,7143,5000
+2025-04-11,Lukad,337,NCT of Delhi,7,North,91,4286,7143,5000
+2025-04-10,Lukad,337,NCT of Delhi,7,North,91,5000,7143,5714
+2025-04-09,Lukad,337,NCT of Delhi,7,North,91,5000,7143,5714
+2025-04-08,Lukad,337,NCT of Delhi,7,North,91,5000,7143,6429
+2025-04-05,Lukad,337,NCT of Delhi,7,North,91,5000,7143,6429
+2025-04-04,Lukad,337,NCT of Delhi,7,North,91,3571,6429,5714

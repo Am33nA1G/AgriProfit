@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-11,Indian Colza (Sarson),344,Haryana,6,Jhajjar,83,3300,3500,3400
+2015-01-26,Indian Colza (Sarson),344,Haryana,6,Jhajjar,83,3800,4000,3900
+2015-01-05,Indian Colza (Sarson),344,Haryana,6,Jhajjar,83,3800,4000,3900

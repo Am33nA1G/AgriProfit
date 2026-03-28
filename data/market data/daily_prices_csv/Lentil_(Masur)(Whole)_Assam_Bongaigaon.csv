@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-27,Lentil (Masur)(Whole),63,Assam,18,Bongaigaon,319,3200,3500,3300
+2016-03-14,Lentil (Masur)(Whole),63,Assam,18,Bongaigaon,319,6625,6750,6700
+2015-12-22,Lentil (Masur)(Whole),63,Assam,18,Bongaigaon,319,5750,6050,6000

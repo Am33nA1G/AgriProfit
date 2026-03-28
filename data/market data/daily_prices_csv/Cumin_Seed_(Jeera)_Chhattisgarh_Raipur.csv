@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-30,Cumin Seed (Jeera),42,Chhattisgarh,22,Raipur,410,16000,16400,16247
+2025-03-31,Cumin Seed (Jeera),42,Chhattisgarh,22,Raipur,410,16000,16300,16101
+2025-02-28,Cumin Seed (Jeera),42,Chhattisgarh,22,Raipur,410,11000,11450,11078
+2025-01-31,Cumin Seed (Jeera),42,Chhattisgarh,22,Raipur,410,19900,21000,20908
+2024-12-31,Cumin Seed (Jeera),42,Chhattisgarh,22,Raipur,410,17800,18100,17949

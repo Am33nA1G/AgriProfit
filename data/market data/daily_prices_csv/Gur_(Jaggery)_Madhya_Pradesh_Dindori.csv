@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-19,Gur (Jaggery),74,Madhya Pradesh,23,Dindori,453,2500,2600,2550
+2022-01-18,Gur (Jaggery),74,Madhya Pradesh,23,Dindori,453,1820,1820,1820
+2019-07-12,Gur (Jaggery),74,Madhya Pradesh,23,Dindori,453,4000,4000,4000
+2015-12-27,Gur (Jaggery),74,Madhya Pradesh,23,Dindori,453,1900,2100,2000

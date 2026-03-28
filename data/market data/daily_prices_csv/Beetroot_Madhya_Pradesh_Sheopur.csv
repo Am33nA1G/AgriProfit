@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-29,Beetroot,157,Madhya Pradesh,23,Sheopur,418,900,1000,950
+2017-11-18,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1000,1300,1200
+2017-11-13,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1200,1300,1250
+2017-11-09,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1400,1500,1450
+2017-11-08,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1400,1500,1450
+2017-11-07,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1200,1300,1250
+2017-11-06,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1200,1300,1250
+2017-11-01,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1000,1200,1100
+2017-10-31,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1400,1500,1450
+2017-10-30,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1200,1300,1250
+2017-10-28,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1400,1500,1450
+2017-10-14,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1800,2000,1900
+2017-10-13,Beetroot,157,Madhya Pradesh,23,Sheopur,418,2000,2200,2100
+2016-04-02,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2015-12-14,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2015-12-07,Beetroot,157,Madhya Pradesh,23,Sheopur,418,400,500,450
+2015-12-04,Beetroot,157,Madhya Pradesh,23,Sheopur,418,750,800,780
+2015-12-02,Beetroot,157,Madhya Pradesh,23,Sheopur,418,700,800,750
+2015-11-30,Beetroot,157,Madhya Pradesh,23,Sheopur,418,800,900,850
+2015-11-26,Beetroot,157,Madhya Pradesh,23,Sheopur,418,500,600,550
+2015-11-25,Beetroot,157,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2015-11-19,Beetroot,157,Madhya Pradesh,23,Sheopur,418,700,800,750
+2015-11-17,Beetroot,157,Madhya Pradesh,23,Sheopur,418,600,700,650
+2015-11-09,Beetroot,157,Madhya Pradesh,23,Sheopur,418,700,800,750
+2015-11-04,Beetroot,157,Madhya Pradesh,23,Sheopur,418,600,700,650
+2015-11-03,Beetroot,157,Madhya Pradesh,23,Sheopur,418,800,900,850

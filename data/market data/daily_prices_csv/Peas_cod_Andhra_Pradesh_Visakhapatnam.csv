@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-15,Peas cod,308,Andhra Pradesh,28,Visakhapatnam,544,3400,3600,3500
+2017-03-24,Peas cod,308,Andhra Pradesh,28,Visakhapatnam,544,3200,3400,3300
+2016-06-22,Peas cod,308,Andhra Pradesh,28,Visakhapatnam,544,2900,3100,3000

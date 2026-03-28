@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-05,Spinach,342,Tamil Nadu,33,Vellore,605,1000,1000,1000
+2023-11-21,Spinach,342,Tamil Nadu,33,Vellore,605,800,800,800
+2023-11-18,Spinach,342,Tamil Nadu,33,Vellore,605,800,1000,1000

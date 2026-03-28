@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-02,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1700,1900,1800
+2019-08-01,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1500,1700,1600
+2019-07-30,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1600,1800,1700
+2019-07-26,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1400,1600,1500
+2019-07-25,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1500,1700,1600
+2019-07-24,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1500,1700,1600
+2019-07-23,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1500,1700,1600
+2019-07-22,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1400,1500,1450
+2019-07-20,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1300,1500,1400
+2019-07-18,Cucumber (Kheera),159,Jammu & Kashmir,1,Pulwama,12,1400,1500,1450

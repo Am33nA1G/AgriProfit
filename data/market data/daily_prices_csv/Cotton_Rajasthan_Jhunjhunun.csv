@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-09,Cotton,15,Rajasthan,8,Jhunjhunun,103,5250,5250,5250
+2019-11-05,Cotton,15,Rajasthan,8,Jhunjhunun,103,5250,5250,5250
+2019-10-31,Cotton,15,Rajasthan,8,Jhunjhunun,103,5180,5200,5190
+2019-10-28,Cotton,15,Rajasthan,8,Jhunjhunun,103,5190,5200,5195
+2019-10-24,Cotton,15,Rajasthan,8,Jhunjhunun,103,5150,5150,5150
+2019-10-22,Cotton,15,Rajasthan,8,Jhunjhunun,103,5250,5250,5250
+2019-10-18,Cotton,15,Rajasthan,8,Jhunjhunun,103,5250,5300,5275
+2019-10-13,Cotton,15,Rajasthan,8,Jhunjhunun,103,5270,5270,5270
+2019-10-12,Cotton,15,Rajasthan,8,Jhunjhunun,103,5250,5300,5275

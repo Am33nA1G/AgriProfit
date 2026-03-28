@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "census_district_id": 90,
+      "census_district_name": "North West"
+    },
+    {
+      "census_district_id": 91,
+      "census_district_name": "North"
+    },
+    {
+      "census_district_id": 92,
+      "census_district_name": "North East"
+    },
+    {
+      "census_district_id": 93,
+      "census_district_name": "East"
+    },
+    {
+      "census_district_id": 94,
+      "census_district_name": "New Delhi"
+    },
+    {
+      "census_district_id": 95,
+      "census_district_name": "Central"
+    },
+    {
+      "census_district_id": 96,
+      "census_district_name": "West"
+    },
+    {
+      "census_district_id": 97,
+      "census_district_name": "South West"
+    },
+    {
+      "census_district_id": 98,
+      "census_district_name": "South"
+    }
+  ]
+}

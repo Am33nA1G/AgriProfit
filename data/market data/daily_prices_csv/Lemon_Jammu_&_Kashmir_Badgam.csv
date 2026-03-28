@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-03,Lemon,310,Jammu & Kashmir,1,Badgam,2,7000,7200,7100
+2019-08-01,Lemon,310,Jammu & Kashmir,1,Badgam,2,7000,7200,7100
+2019-07-31,Lemon,310,Jammu & Kashmir,1,Badgam,2,7000,7200,7100
+2019-07-30,Lemon,310,Jammu & Kashmir,1,Badgam,2,6700,6900,6800
+2019-07-29,Lemon,310,Jammu & Kashmir,1,Badgam,2,6000,6200,6100
+2019-07-27,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,6700,6600
+2019-07-25,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,6700,6600
+2019-07-17,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,6700,6600
+2019-07-12,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,7500,7000
+2019-07-11,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,6700,6600
+2019-07-10,Lemon,310,Jammu & Kashmir,1,Badgam,2,6500,6700,6600
+2019-07-08,Lemon,310,Jammu & Kashmir,1,Badgam,2,6000,6200,6100

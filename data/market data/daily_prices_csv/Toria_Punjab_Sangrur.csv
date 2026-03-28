@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-30,Toria,66,Punjab,3,Sangrur,53,1766.6666666666667,1933.3333333333333,1833.3333333333333
+2019-06-17,Toria,66,Punjab,3,Sangrur,53,2000,3000,2500
+2019-06-06,Toria,66,Punjab,3,Sangrur,53,2300,2300,2300
+2019-06-05,Toria,66,Punjab,3,Sangrur,53,1800,2000,2000
+2019-06-04,Toria,66,Punjab,3,Sangrur,53,2000,2000,2000

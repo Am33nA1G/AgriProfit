@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-24,Linseed,67,Maharashtra,27,Akola,501,2700,2700,2700
+2025-05-09,Linseed,67,Maharashtra,27,Akola,501,3515,3515,3515
+2025-05-02,Linseed,67,Maharashtra,27,Akola,501,3000,3000,3000
+2024-12-30,Linseed,67,Maharashtra,27,Akola,501,5100,5100,5100
+2024-11-16,Linseed,67,Maharashtra,27,Akola,501,4020,4020,4020
+2024-08-30,Linseed,67,Maharashtra,27,Akola,501,4200,4200,4200

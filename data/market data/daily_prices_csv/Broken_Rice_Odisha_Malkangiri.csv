@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-07,Broken Rice,293,Odisha,21,Malkangiri,399,500,700,600
+2016-08-06,Broken Rice,293,Odisha,21,Malkangiri,399,2300,2500,2400

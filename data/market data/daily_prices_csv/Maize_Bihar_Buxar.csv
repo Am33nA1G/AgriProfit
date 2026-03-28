@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-26,Maize,4,Bihar,10,Buxar,232,900,1500,1100
+2022-10-25,Maize,4,Bihar,10,Buxar,232,900,1100,1000
+2022-10-23,Maize,4,Bihar,10,Buxar,232,900,1200,1000
+2022-10-19,Maize,4,Bihar,10,Buxar,232,900,1800,1500
+2022-10-18,Maize,4,Bihar,10,Buxar,232,900,1500,1200
+2022-10-17,Maize,4,Bihar,10,Buxar,232,1200,1600,1500
+2022-10-16,Maize,4,Bihar,10,Buxar,232,4500,6000,5000
+2022-10-15,Maize,4,Bihar,10,Buxar,232,900,1200,1000
+2022-10-10,Maize,4,Bihar,10,Buxar,232,3500,6000,4500

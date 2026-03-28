@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-26,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,5800,6300,6300
+2025-06-25,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,5800,6300,6300
+2024-07-01,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,6500,8500,7500
+2017-01-10,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,2000,2200,2100
+2016-06-20,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,8500,10500,9500
+2015-07-21,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,6900,7300,7000
+2015-07-18,Groundnut,10,Tamil Nadu,33,Kanniyakumari,629,6700,7300,7000

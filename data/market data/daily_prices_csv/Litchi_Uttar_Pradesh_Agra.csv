@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-20,Litchi,351,Uttar Pradesh,9,Agra,146,8000,8500,8200
+2025-06-18,Litchi,351,Uttar Pradesh,9,Agra,146,8000,8600,8250
+2025-06-17,Litchi,351,Uttar Pradesh,9,Agra,146,8000,8500,8200
+2025-06-16,Litchi,351,Uttar Pradesh,9,Agra,146,8200,8800,8400
+2025-06-14,Litchi,351,Uttar Pradesh,9,Agra,146,8300,9000,8500
+2025-06-13,Litchi,351,Uttar Pradesh,9,Agra,146,8000,8500,8150
+2025-06-12,Litchi,351,Uttar Pradesh,9,Agra,146,7900,8400,8100
+2025-06-09,Litchi,351,Uttar Pradesh,9,Agra,146,7700,8000,7900
+2025-06-07,Litchi,351,Uttar Pradesh,9,Agra,146,7800,8200,8000
+2025-06-06,Litchi,351,Uttar Pradesh,9,Agra,146,7600,8000,7700
+2025-06-05,Litchi,351,Uttar Pradesh,9,Agra,146,7500,7850,7600
+2020-07-09,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5100,5000
+2020-07-08,Litchi,351,Uttar Pradesh,9,Agra,146,4950,5150,5000
+2020-07-06,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5100,5000
+2020-07-03,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5200,5050
+2020-06-30,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5200,5050
+2020-06-27,Litchi,351,Uttar Pradesh,9,Agra,146,4950,5150,5050
+2020-06-25,Litchi,351,Uttar Pradesh,9,Agra,146,4950,5200,5075
+2020-06-24,Litchi,351,Uttar Pradesh,9,Agra,146,4950,5200,5080
+2020-06-22,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5100,5000
+2020-06-20,Litchi,351,Uttar Pradesh,9,Agra,146,4900,5100,5020
+2020-06-18,Litchi,351,Uttar Pradesh,9,Agra,146,4950,5150,5050
+2020-06-16,Litchi,351,Uttar Pradesh,9,Agra,146,5000,5200,5100
+2015-06-05,Litchi,351,Uttar Pradesh,9,Agra,146,4200,4280,4250
+2015-06-04,Litchi,351,Uttar Pradesh,9,Agra,146,4100,4255,4230
+2015-06-02,Litchi,351,Uttar Pradesh,9,Agra,146,4210,4280,4250

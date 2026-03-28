@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-01,Amaranthus,86,Gujarat,24,Junagadh,479,4125,4700,4500
+2016-06-01,Amaranthus,86,Gujarat,24,Junagadh,479,18500,18750,18700

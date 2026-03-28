@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-09,Safflower,59,Chhattisgarh,22,Narayanpur,415,1600,1800,1700
+2020-09-18,Safflower,59,Chhattisgarh,22,Narayanpur,415,1200,1500,1400
+2020-09-06,Safflower,59,Chhattisgarh,22,Narayanpur,415,1200,1300,1250
+2020-08-24,Safflower,59,Chhattisgarh,22,Narayanpur,415,1250,1300,1250

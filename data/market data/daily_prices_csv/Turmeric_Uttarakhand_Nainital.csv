@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-28,Turmeric,39,Uttarakhand,5,Nainital,66,6500,6500,6500
+2017-08-11,Turmeric,39,Uttarakhand,5,Nainital,66,6500,6500,6500
+2016-03-26,Turmeric,39,Uttarakhand,5,Nainital,66,9500,9500,9500
+2016-01-11,Turmeric,39,Uttarakhand,5,Nainital,66,7100,7210,7155
+2016-01-01,Turmeric,39,Uttarakhand,5,Nainital,66,5000,5250,5125
+2015-12-04,Turmeric,39,Uttarakhand,5,Nainital,66,2300,2600,2450
+2015-03-23,Turmeric,39,Uttarakhand,5,Nainital,66,9700,9700,9700
+2015-03-16,Turmeric,39,Uttarakhand,5,Nainital,66,9700,9700,9700

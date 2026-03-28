@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-31,Sugarcane,150,Chhattisgarh,22,Raigarh,403,200,200,200
+2023-04-30,Sugarcane,150,Chhattisgarh,22,Raigarh,403,300,400,300
+2023-03-31,Sugarcane,150,Chhattisgarh,22,Raigarh,403,300,300,300
+2015-11-21,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000
+2015-06-04,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000
+2015-05-12,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000
+2015-05-11,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000
+2015-05-04,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000
+2015-05-01,Sugarcane,150,Chhattisgarh,22,Raigarh,403,1000,1000,1000

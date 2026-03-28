@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-14,Ginger (Green),103,Assam,18,Kokrajhar,300,7500,9000,8000
+2024-10-06,Ginger (Green),103,Assam,18,Kokrajhar,300,7000,8000,7500
+2024-10-05,Ginger (Green),103,Assam,18,Kokrajhar,300,7000,8000,7500
+2024-10-03,Ginger (Green),103,Assam,18,Kokrajhar,300,8500,10000,9000
+2024-09-24,Ginger (Green),103,Assam,18,Kokrajhar,300,9000,11000,10000
+2024-09-21,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,12000,11000
+2024-09-19,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,12000,11000
+2024-09-18,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,13000,12000
+2024-09-14,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,12000,11000
+2024-09-11,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,12000,11000
+2024-09-06,Ginger (Green),103,Assam,18,Kokrajhar,300,10000,12000,11000

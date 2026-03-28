@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-30,Amla (Nelli Kai),355,Uttar Pradesh,9,Gonda,183,2800,2855,2850
+2024-11-29,Amla (Nelli Kai),355,Uttar Pradesh,9,Gonda,183,2460,2600,2500
+2024-11-22,Amla (Nelli Kai),355,Uttar Pradesh,9,Gonda,183,1975,2200,2000
+2024-11-15,Amla (Nelli Kai),355,Uttar Pradesh,9,Gonda,183,2260,2400,2300
+2024-11-14,Amla (Nelli Kai),355,Uttar Pradesh,9,Gonda,183,2250,2450,2300

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-28,Duster Beans,163,Odisha,21,Sundargarh,374,6600,7000,6900
+2022-08-02,Duster Beans,163,Odisha,21,Sundargarh,374,5600,6000,5900
+2020-06-29,Duster Beans,163,Odisha,21,Sundargarh,374,5600,6000,5900
+2020-04-02,Duster Beans,163,Odisha,21,Sundargarh,374,1600,2000,1900
+2020-04-01,Duster Beans,163,Odisha,21,Sundargarh,374,2600,3000,2900

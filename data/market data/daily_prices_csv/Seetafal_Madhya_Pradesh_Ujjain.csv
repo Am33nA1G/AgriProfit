@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-25,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1500,1700,1625
+2021-10-15,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2000,3000,2500
+2021-10-11,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1800,2500,2000
+2021-10-09,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1500,2000,1871
+2021-10-08,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2000,2000,2000
+2021-10-07,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2100,2100,2100
+2021-10-02,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1500,2000,1500
+2019-12-20,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2300,2800,2519
+2019-11-07,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2000,2000,2000
+2019-11-02,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-10-31,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-10-30,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-10-24,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1500,1500,1500
+2019-10-22,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1000,1000,1000
+2019-10-21,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1000,3000,2065
+2019-10-19,Seetafal,201,Madhya Pradesh,23,Ujjain,435,1500,2500,2000
+2019-10-14,Seetafal,201,Madhya Pradesh,23,Ujjain,435,5000,5000,5000
+2018-11-19,Seetafal,201,Madhya Pradesh,23,Ujjain,435,4640,4640,4640
+2017-11-11,Seetafal,201,Madhya Pradesh,23,Ujjain,435,3000,3000,3000
+2017-10-17,Seetafal,201,Madhya Pradesh,23,Ujjain,435,2000,2300,2160

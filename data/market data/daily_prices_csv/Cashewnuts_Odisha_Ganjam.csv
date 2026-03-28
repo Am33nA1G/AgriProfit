@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-20,Cashewnuts,36,Odisha,21,Ganjam,388,11000,12000,11500
+2018-04-21,Cashewnuts,36,Odisha,21,Ganjam,388,85000,88000,87000
+2018-03-24,Cashewnuts,36,Odisha,21,Ganjam,388,70000,75000,72000
+2018-02-11,Cashewnuts,36,Odisha,21,Ganjam,388,72000,78000,74000
+2018-01-05,Cashewnuts,36,Odisha,21,Ganjam,388,78000,84000,82000
+2017-11-03,Cashewnuts,36,Odisha,21,Ganjam,388,72000,89000,76000
+2017-07-07,Cashewnuts,36,Odisha,21,Ganjam,388,18000,21000,20000
+2017-05-22,Cashewnuts,36,Odisha,21,Ganjam,388,42000,52000,48000

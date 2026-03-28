@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-01,Mango,20,Bihar,10,Madhepura,213,3500,4500,4000
+2016-06-30,Mango,20,Bihar,10,Madhepura,213,3000,4000,3500
+2016-06-28,Mango,20,Bihar,10,Madhepura,213,3500,4500,4000
+2016-06-19,Mango,20,Bihar,10,Madhepura,213,3000,4000,3500
+2016-06-13,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2016-06-08,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2016-06-06,Mango,20,Bihar,10,Madhepura,213,3000,3000,3000
+2016-05-27,Mango,20,Bihar,10,Madhepura,213,4000,6000,5000
+2016-05-25,Mango,20,Bihar,10,Madhepura,213,5000,7000,6000
+2016-05-21,Mango,20,Bihar,10,Madhepura,213,6000,8000,7000
+2016-05-14,Mango,20,Bihar,10,Madhepura,213,6000,8000,7000
+2015-06-17,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2015-06-16,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2015-06-15,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2015-06-14,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000
+2015-06-11,Mango,20,Bihar,10,Madhepura,213,2500,3500,3000

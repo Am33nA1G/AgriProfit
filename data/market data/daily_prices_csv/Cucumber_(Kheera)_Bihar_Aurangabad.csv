@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-08,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1800,2000,1900
+2023-06-02,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-29,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-26,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1800,2000,1900
+2023-05-23,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-17,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-16,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-15,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-12,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-07,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-04,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,2000,2000,2000
+2023-05-01,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1200,1100
+2023-04-25,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1200,1100
+2023-04-22,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1200,1100
+2023-04-21,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1200,1100
+2023-04-20,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1000,1000
+2023-04-19,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1100,1100
+2023-04-11,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1200,1400,1300
+2023-04-08,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1200,1200,1200
+2023-04-06,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1200,1400,1300
+2023-03-29,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1200,1400,1300
+2023-03-27,Cucumber (Kheera),159,Bihar,10,Aurangabad,235,1000,1200,1100

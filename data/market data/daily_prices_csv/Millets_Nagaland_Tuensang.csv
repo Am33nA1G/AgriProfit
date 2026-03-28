@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-29,Millets,237,Nagaland,13,Tuensang,267,10600,10900,10700
+2025-08-26,Millets,237,Nagaland,13,Tuensang,267,10600,11000,10800
+2025-07-31,Millets,237,Nagaland,13,Tuensang,267,11000,11500,11200
+2025-07-18,Millets,237,Nagaland,13,Tuensang,267,11700,12000,11900

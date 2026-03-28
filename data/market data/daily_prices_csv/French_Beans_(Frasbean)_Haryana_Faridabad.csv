@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-05,French Beans (Frasbean),298,Haryana,6,Faridabad,88,3000,5000,4000
+2025-04-20,French Beans (Frasbean),298,Haryana,6,Faridabad,88,3000,5000,4000
+2018-05-09,French Beans (Frasbean),298,Haryana,6,Faridabad,88,1400,1600,1500

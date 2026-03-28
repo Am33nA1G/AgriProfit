@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-14,Galgal (Lemon),350,Himachal Pradesh,2,Sirmaur,32,2000,2500,2200
+2019-04-27,Galgal (Lemon),350,Himachal Pradesh,2,Sirmaur,32,5500,6500,6000

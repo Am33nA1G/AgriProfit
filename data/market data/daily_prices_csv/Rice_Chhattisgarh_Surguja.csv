@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-12,Rice,3,Chhattisgarh,22,Surguja,401,2500,2500,2500
+2018-11-19,Rice,3,Chhattisgarh,22,Surguja,401,2000,2000,2000
+2017-11-24,Rice,3,Chhattisgarh,22,Surguja,401,3240,3240,3240
+2016-12-27,Rice,3,Chhattisgarh,22,Surguja,401,2000,2000,2000

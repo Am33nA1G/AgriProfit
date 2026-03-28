@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-13,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4000,4500,4100
+2022-03-19,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4150,4500,4451
+2022-03-17,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4399,4570,4470
+2021-09-24,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4731,4925,4760
+2021-07-26,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,3500,4865,4510
+2021-06-15,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4101,4648,4426
+2021-06-14,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Khandwa (East Nimar),466,4550,4727,4626

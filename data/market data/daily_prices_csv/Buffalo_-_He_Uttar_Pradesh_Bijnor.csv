@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-23,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,1800,2000,1900
+2024-01-20,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,1795,1975,1887.5
+2024-01-13,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,1500,1700,1600
+2023-12-19,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,2225,2425,2300
+2023-12-18,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,2400,2600,2500
+2023-12-16,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,1800,2000,1900
+2023-12-11,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,2400,2800,2600
+2023-12-08,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,2000,2400,2200
+2023-12-06,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,2150,2350,2250
+2023-12-03,Buffalo - He,216,Uttar Pradesh,9,Bijnor,134,1500,1900,1700

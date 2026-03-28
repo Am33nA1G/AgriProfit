@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-27,Ground Nut Seed,268,Telangana,36,Khammam,541,2800,2800,2800
+2016-04-25,Ground Nut Seed,268,Telangana,36,Khammam,541,3400,3800,3500
+2016-01-28,Ground Nut Seed,268,Telangana,36,Khammam,541,5000,5050,5025

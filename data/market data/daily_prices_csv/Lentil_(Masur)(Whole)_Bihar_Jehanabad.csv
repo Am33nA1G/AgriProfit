@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-03,Lentil (Masur)(Whole),63,Bihar,10,Jehanabad,239,1600,1800,1700
+2022-04-24,Lentil (Masur)(Whole),63,Bihar,10,Jehanabad,239,6400,6600,6500
+2022-03-16,Lentil (Masur)(Whole),63,Bihar,10,Jehanabad,239,2300,2500,2400
+2015-06-29,Lentil (Masur)(Whole),63,Bihar,10,Jehanabad,239,6400,6800,6500
+2015-06-20,Lentil (Masur)(Whole),63,Bihar,10,Jehanabad,239,6400,6800,6500

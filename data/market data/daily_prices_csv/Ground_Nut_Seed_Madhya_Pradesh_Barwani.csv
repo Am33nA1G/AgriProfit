@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-29,Ground Nut Seed,268,Madhya Pradesh,23,Barwani,441,5000,5200,5200
+2019-11-11,Ground Nut Seed,268,Madhya Pradesh,23,Barwani,441,4850,4875,4862
+2019-11-09,Ground Nut Seed,268,Madhya Pradesh,23,Barwani,441,4500,4695,4600

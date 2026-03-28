@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-30,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,11000,12000,12000
+2023-06-26,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,12000,13000,12000
+2023-06-23,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,18000,19000,19000
+2017-03-25,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000
+2017-03-24,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,7000,10000,8000
+2017-03-11,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000
+2017-03-08,Beetroot,157,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000

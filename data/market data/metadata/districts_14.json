@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "census_district_id": 272,
+      "census_district_name": "Senapati"
+    },
+    {
+      "census_district_id": 273,
+      "census_district_name": "Tamenglong"
+    },
+    {
+      "census_district_id": 274,
+      "census_district_name": "Churachandpur"
+    },
+    {
+      "census_district_id": 275,
+      "census_district_name": "Bishnupur"
+    },
+    {
+      "census_district_id": 276,
+      "census_district_name": "Thoubal"
+    },
+    {
+      "census_district_id": 277,
+      "census_district_name": "Imphal West"
+    },
+    {
+      "census_district_id": 278,
+      "census_district_name": "Imphal East"
+    },
+    {
+      "census_district_id": 279,
+      "census_district_name": "Ukhrul"
+    },
+    {
+      "census_district_id": 280,
+      "census_district_name": "Chandel"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-26,Chili Red,26,Maharashtra,27,Thane,517,3200,3700,3400
+2023-02-23,Chili Red,26,Maharashtra,27,Thane,517,3200,3600,3400
+2021-12-17,Chili Red,26,Maharashtra,27,Thane,517,2600,3200,2900
+2021-11-04,Chili Red,26,Maharashtra,27,Thane,517,3000,3500,3250
+2020-02-20,Chili Red,26,Maharashtra,27,Thane,517,2000,2400,2200
+2020-01-09,Chili Red,26,Maharashtra,27,Thane,517,2200,2400,2300
+2019-02-18,Chili Red,26,Maharashtra,27,Thane,517,3600,4000,3800
+2018-07-01,Chili Red,26,Maharashtra,27,Thane,517,2500,3200,2800
+2018-05-25,Chili Red,26,Maharashtra,27,Thane,517,2000,2400,2200
+2017-09-12,Chili Red,26,Maharashtra,27,Thane,517,1500,2000,1750
+2017-02-06,Chili Red,26,Maharashtra,27,Thane,517,2200,2400,2300
+2016-09-05,Chili Red,26,Maharashtra,27,Thane,517,500,600,550
+2016-09-04,Chili Red,26,Maharashtra,27,Thane,517,1500,2500,2200
+2016-08-31,Chili Red,26,Maharashtra,27,Thane,517,1000,1200,1100
+2016-08-29,Chili Red,26,Maharashtra,27,Thane,517,1000,1500,1200
+2016-08-25,Chili Red,26,Maharashtra,27,Thane,517,2000,2200,2100
+2016-08-23,Chili Red,26,Maharashtra,27,Thane,517,2000,2500,2350
+2016-08-19,Chili Red,26,Maharashtra,27,Thane,517,2500,2800,2600
+2016-08-12,Chili Red,26,Maharashtra,27,Thane,517,3500,4000,3700
+2016-08-11,Chili Red,26,Maharashtra,27,Thane,517,4000,5000,4500
+2016-08-10,Chili Red,26,Maharashtra,27,Thane,517,4000,5000,4500
+2016-07-16,Chili Red,26,Maharashtra,27,Thane,517,8000,9000,8500
+2016-07-13,Chili Red,26,Maharashtra,27,Thane,517,5000,6000,5500
+2016-07-12,Chili Red,26,Maharashtra,27,Thane,517,7000,9000,8000
+2016-06-07,Chili Red,26,Maharashtra,27,Thane,517,4000,5000,4500
+2016-05-18,Chili Red,26,Maharashtra,27,Thane,517,6000,7000,6500

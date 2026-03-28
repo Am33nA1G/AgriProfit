@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-27,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,20,40,30
+2024-02-12,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,1.5,3,2
+2023-12-26,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,15,25,20
+2023-12-14,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,10,25,20
+2023-11-23,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,8,25,15
+2023-11-06,Tender Coconut,200,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,7,35,15

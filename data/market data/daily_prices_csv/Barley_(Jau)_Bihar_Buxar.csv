@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-31,Barley (Jau),29,Bihar,10,Buxar,232,600,800,700
+2022-05-19,Barley (Jau),29,Bihar,10,Buxar,232,600,0,700
+2022-05-10,Barley (Jau),29,Bihar,10,Buxar,232,1200,1400,1300
+2022-05-07,Barley (Jau),29,Bihar,10,Buxar,232,1600,2000,1800
+2022-04-30,Barley (Jau),29,Bihar,10,Buxar,232,1600,1800,1700
+2022-04-25,Barley (Jau),29,Bihar,10,Buxar,232,3200,3500,3400
+2022-04-16,Barley (Jau),29,Bihar,10,Buxar,232,2000,2400,2200
+2022-04-07,Barley (Jau),29,Bihar,10,Buxar,232,2000,2400,2200
+2022-04-04,Barley (Jau),29,Bihar,10,Buxar,232,4200,4500,4400
+2022-03-29,Barley (Jau),29,Bihar,10,Buxar,232,2000,2400,2200
+2022-03-28,Barley (Jau),29,Bihar,10,Buxar,232,1400,1600,1500
+2022-03-10,Barley (Jau),29,Bihar,10,Buxar,232,1000,1400,1200
+2022-02-11,Barley (Jau),29,Bihar,10,Buxar,232,1000,1400,1200
+2022-01-30,Barley (Jau),29,Bihar,10,Buxar,232,1000,1500,1200
+2022-01-14,Barley (Jau),29,Bihar,10,Buxar,232,1400,1600,1500

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-06,Season Leaves,277,Himachal Pradesh,2,Shimla,33,1500,2000,1500
+2025-01-23,Season Leaves,277,Himachal Pradesh,2,Shimla,33,2000,2500,2000
+2025-01-15,Season Leaves,277,Himachal Pradesh,2,Shimla,33,2800,3000,2800
+2025-01-13,Season Leaves,277,Himachal Pradesh,2,Shimla,33,2000,2500,2000

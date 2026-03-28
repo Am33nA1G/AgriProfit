@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-08,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,2000,1600
+2023-12-04,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,2000,1600
+2023-11-26,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,2500,2000
+2023-11-21,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1500,3000,2500
+2023-10-19,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,2500,1800
+2023-10-18,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,2500,1800
+2022-12-05,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,800,1600,1200
+2021-03-11,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,600,1200,1000
+2021-03-10,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,600,1200,1000
+2021-03-08,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,400,1000,800
+2021-03-06,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,600,1200,800
+2015-01-14,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,1000,1000
+2015-01-10,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1000,1000,1000
+2015-01-08,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,800,1200,1000
+2015-01-01,Yam (Ratalu),297,Madhya Pradesh,23,Indore,439,1200,1200,1200

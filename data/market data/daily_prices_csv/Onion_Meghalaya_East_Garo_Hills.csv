@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-06,Onion,23,Meghalaya,17,East Garo Hills,294,4000,4500,4250
+2024-08-05,Onion,23,Meghalaya,17,East Garo Hills,294,4500,5000,4750
+2024-07-30,Onion,23,Meghalaya,17,East Garo Hills,294,4000,4500,4250
+2024-07-29,Onion,23,Meghalaya,17,East Garo Hills,294,5000,6000,5500
+2024-07-23,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4500,4000
+2024-07-22,Onion,23,Meghalaya,17,East Garo Hills,294,4000,5000,4500
+2024-07-15,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4500,4000
+2024-07-12,Onion,23,Meghalaya,17,East Garo Hills,294,3000,4500,3500
+2024-07-11,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4500,4000
+2024-07-09,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4000,3750
+2024-07-06,Onion,23,Meghalaya,17,East Garo Hills,294,4000,4500,4250
+2024-07-01,Onion,23,Meghalaya,17,East Garo Hills,294,4500,5000,4750
+2024-06-27,Onion,23,Meghalaya,17,East Garo Hills,294,4500,6000,5000
+2024-06-13,Onion,23,Meghalaya,17,East Garo Hills,294,4000,4500,4250
+2024-06-10,Onion,23,Meghalaya,17,East Garo Hills,294,3000,4000,3500
+2024-05-18,Onion,23,Meghalaya,17,East Garo Hills,294,6000,8000,7000
+2024-05-04,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4000,3750
+2024-04-08,Onion,23,Meghalaya,17,East Garo Hills,294,3500,4500,4000
+2024-04-06,Onion,23,Meghalaya,17,East Garo Hills,294,4000,5000,4500
+2024-03-21,Onion,23,Meghalaya,17,East Garo Hills,294,3000,5000,4000

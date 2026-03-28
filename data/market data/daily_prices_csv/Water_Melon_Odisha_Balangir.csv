@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-17,Water Melon,73,Odisha,21,Balangir,393,800,1000,1000
+2023-04-15,Water Melon,73,Odisha,21,Balangir,393,800,1000,1000

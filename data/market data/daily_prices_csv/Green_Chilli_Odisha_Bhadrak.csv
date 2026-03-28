@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-06,Green Chilli,87,Odisha,21,Bhadrak,378,6000,8000,7000
+2019-12-11,Green Chilli,87,Odisha,21,Bhadrak,378,1400,2500,2000
+2019-12-02,Green Chilli,87,Odisha,21,Bhadrak,378,1400,2700,2000
+2019-11-11,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2500
+2019-09-02,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2500
+2018-11-26,Green Chilli,87,Odisha,21,Bhadrak,378,1200,2500,2000
+2018-11-18,Green Chilli,87,Odisha,21,Bhadrak,378,2000,4000,3000
+2017-11-11,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2500
+2017-03-20,Green Chilli,87,Odisha,21,Bhadrak,378,1200,2000,1600
+2016-11-27,Green Chilli,87,Odisha,21,Bhadrak,378,1600,2500,2000
+2016-11-15,Green Chilli,87,Odisha,21,Bhadrak,378,1000,2500,1500
+2016-01-20,Green Chilli,87,Odisha,21,Bhadrak,378,1500,2500,2000
+2016-01-18,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2500
+2015-12-31,Green Chilli,87,Odisha,21,Bhadrak,378,1500,2600,2000
+2015-12-01,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2500
+2015-09-24,Green Chilli,87,Odisha,21,Bhadrak,378,4000,6000,5000
+2015-09-22,Green Chilli,87,Odisha,21,Bhadrak,378,4000,6000,5000
+2015-03-06,Green Chilli,87,Odisha,21,Bhadrak,378,1200,2200,1600
+2015-02-26,Green Chilli,87,Odisha,21,Bhadrak,378,2000,3000,2600

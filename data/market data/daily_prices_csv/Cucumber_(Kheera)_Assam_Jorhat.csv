@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-18,Cucumber (Kheera),159,Assam,18,Jorhat,312,2600,3000,2800
+2022-04-13,Cucumber (Kheera),159,Assam,18,Jorhat,312,3000,3500,3250
+2022-04-04,Cucumber (Kheera),159,Assam,18,Jorhat,312,2000,3000,2500
+2022-03-28,Cucumber (Kheera),159,Assam,18,Jorhat,312,2000,2400,2200
+2022-03-16,Cucumber (Kheera),159,Assam,18,Jorhat,312,2500,2600,2550
+2022-01-05,Cucumber (Kheera),159,Assam,18,Jorhat,312,3000,3200,3100

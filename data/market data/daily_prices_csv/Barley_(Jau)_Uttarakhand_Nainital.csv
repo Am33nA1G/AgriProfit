@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-17,Barley (Jau),29,Uttarakhand,5,Nainital,66,2100,2100,2100
+2019-08-08,Barley (Jau),29,Uttarakhand,5,Nainital,66,2475,2475,2475
+2017-12-19,Barley (Jau),29,Uttarakhand,5,Nainital,66,1200,1200,1200
+2017-07-10,Barley (Jau),29,Uttarakhand,5,Nainital,66,2000,2200,2100
+2017-06-22,Barley (Jau),29,Uttarakhand,5,Nainital,66,1280,1480,1380
+2015-12-24,Barley (Jau),29,Uttarakhand,5,Nainital,66,1690,1710,1700
+2015-11-19,Barley (Jau),29,Uttarakhand,5,Nainital,66,1970,1990,1980
+2015-10-12,Barley (Jau),29,Uttarakhand,5,Nainital,66,1810,1848,1829
+2015-09-22,Barley (Jau),29,Uttarakhand,5,Nainital,66,1630,1670,1650
+2015-09-21,Barley (Jau),29,Uttarakhand,5,Nainital,66,1600,1700,1650
+2015-08-25,Barley (Jau),29,Uttarakhand,5,Nainital,66,1880,1950,1900
+2015-08-21,Barley (Jau),29,Uttarakhand,5,Nainital,66,1800,1800,1800
+2015-08-07,Barley (Jau),29,Uttarakhand,5,Nainital,66,1300,1500,1400
+2015-04-10,Barley (Jau),29,Uttarakhand,5,Nainital,66,1700,1750,1720

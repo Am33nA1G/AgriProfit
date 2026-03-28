@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-09,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,2000,2500,2300
+2018-01-25,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,1500,1700,1600
+2016-12-27,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,3500,4000,3800
+2016-11-05,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,1600,2000,1700
+2016-10-26,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,1500,2000,1800
+2016-10-17,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,1700,2000,1800
+2016-01-22,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,1500,1700,1600
+2015-12-21,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,950,1000,975
+2015-12-16,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,950,1000,975
+2015-12-11,Long Melon (Kakri),304,Rajasthan,8,Jalor,116,900,1000,950

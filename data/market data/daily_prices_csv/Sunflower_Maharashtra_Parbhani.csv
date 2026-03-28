@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-11,Sunflower,14,Maharashtra,27,Parbhani,513,4351,4700,4425
+2023-11-01,Sunflower,14,Maharashtra,27,Parbhani,513,3900,3900,3900
+2023-04-24,Sunflower,14,Maharashtra,27,Parbhani,513,4500,5073,5000
+2018-12-24,Sunflower,14,Maharashtra,27,Parbhani,513,3021,3175,3151
+2018-11-19,Sunflower,14,Maharashtra,27,Parbhani,513,2700,3300,3201

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-23,Groundnut,10,Maharashtra,27,Akola,501,3600,5500,5450
+2025-06-20,Groundnut,10,Maharashtra,27,Akola,501,3500,5895,5800
+2024-06-06,Groundnut,10,Maharashtra,27,Akola,501,5200,5600,5426
+2021-06-21,Groundnut,10,Maharashtra,27,Akola,501,3200,3200,3200
+2019-07-05,Groundnut,10,Maharashtra,27,Akola,501,5900,5900,5900
+2019-06-27,Groundnut,10,Maharashtra,27,Akola,501,4600,4650,4600
+2019-06-13,Groundnut,10,Maharashtra,27,Akola,501,5000,5050,5000
+2019-05-11,Groundnut,10,Maharashtra,27,Akola,501,4100,4500,4450

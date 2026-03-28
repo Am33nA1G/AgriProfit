@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-01,Buffalo - He,216,Karnataka,29,Dharwad,562,15000,15000,15000
+2017-06-05,Buffalo - He,216,Karnataka,29,Dharwad,562,10000,10000,10000
+2017-05-18,Buffalo - He,216,Karnataka,29,Dharwad,562,60000,60000,60000
+2017-04-20,Buffalo - He,216,Karnataka,29,Dharwad,562,14400,14400,14400
+2015-05-07,Buffalo - He,216,Karnataka,29,Dharwad,562,35000,50000,40000
+2015-03-26,Buffalo - He,216,Karnataka,29,Dharwad,562,20000,25000,22000

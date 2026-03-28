@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-26,Field Pea,64,Punjab,3,Jalandhar,37,1200,1500,1500
+2020-12-25,Field Pea,64,Punjab,3,Jalandhar,37,1200,1500,1500
+2020-12-19,Field Pea,64,Punjab,3,Jalandhar,37,1200,1500,1500
+2020-12-12,Field Pea,64,Punjab,3,Jalandhar,37,1500,2000,2000
+2019-11-12,Field Pea,64,Punjab,3,Jalandhar,37,3000,3200,3200

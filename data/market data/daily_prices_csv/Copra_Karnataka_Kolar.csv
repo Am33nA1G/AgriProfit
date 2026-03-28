@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-19,Copra,129,Karnataka,29,Kolar,581,10000,13000,11900
+2024-12-31,Copra,129,Karnataka,29,Kolar,581,8000,10000,9000
+2024-09-03,Copra,129,Karnataka,29,Kolar,581,5000,6000,5555
+2023-07-07,Copra,129,Karnataka,29,Kolar,581,5800,6500,6097
+2019-01-04,Copra,129,Karnataka,29,Kolar,581,7000,9000,8792

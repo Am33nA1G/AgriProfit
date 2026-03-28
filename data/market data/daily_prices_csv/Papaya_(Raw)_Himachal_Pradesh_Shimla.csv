@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-05,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,6000,7000,6000
+2024-06-04,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,5000,6000,5500
+2024-05-31,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,6000,7000,6000
+2024-05-30,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,6000,7000,6500
+2024-05-07,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,5500,6000,5700
+2024-04-06,Papaya (Raw),313,Himachal Pradesh,2,Shimla,33,4500,5000,4700

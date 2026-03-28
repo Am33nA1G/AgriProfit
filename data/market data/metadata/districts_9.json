@@ -1,0 +1,288 @@
+{
+  "data": [
+    {
+      "census_district_id": 132,
+      "census_district_name": "Saharanpur"
+    },
+    {
+      "census_district_id": 133,
+      "census_district_name": "Muzaffarnagar"
+    },
+    {
+      "census_district_id": 134,
+      "census_district_name": "Bijnor"
+    },
+    {
+      "census_district_id": 135,
+      "census_district_name": "Moradabad"
+    },
+    {
+      "census_district_id": 136,
+      "census_district_name": "Rampur"
+    },
+    {
+      "census_district_id": 137,
+      "census_district_name": "Jyotiba Phule Nagar"
+    },
+    {
+      "census_district_id": 138,
+      "census_district_name": "Meerut"
+    },
+    {
+      "census_district_id": 139,
+      "census_district_name": "Baghpat"
+    },
+    {
+      "census_district_id": 140,
+      "census_district_name": "Ghaziabad"
+    },
+    {
+      "census_district_id": 141,
+      "census_district_name": "Gautam Buddha Nagar"
+    },
+    {
+      "census_district_id": 142,
+      "census_district_name": "Bulandshahr"
+    },
+    {
+      "census_district_id": 143,
+      "census_district_name": "Aligarh"
+    },
+    {
+      "census_district_id": 144,
+      "census_district_name": "Mahamaya Nagar"
+    },
+    {
+      "census_district_id": 145,
+      "census_district_name": "Mathura"
+    },
+    {
+      "census_district_id": 146,
+      "census_district_name": "Agra"
+    },
+    {
+      "census_district_id": 147,
+      "census_district_name": "Firozabad"
+    },
+    {
+      "census_district_id": 148,
+      "census_district_name": "Mainpuri"
+    },
+    {
+      "census_district_id": 149,
+      "census_district_name": "Budaun"
+    },
+    {
+      "census_district_id": 150,
+      "census_district_name": "Bareilly"
+    },
+    {
+      "census_district_id": 151,
+      "census_district_name": "Pilibhit"
+    },
+    {
+      "census_district_id": 152,
+      "census_district_name": "Shahjahanpur"
+    },
+    {
+      "census_district_id": 153,
+      "census_district_name": "Kheri"
+    },
+    {
+      "census_district_id": 154,
+      "census_district_name": "Sitapur"
+    },
+    {
+      "census_district_id": 155,
+      "census_district_name": "Hardoi"
+    },
+    {
+      "census_district_id": 156,
+      "census_district_name": "Unnao"
+    },
+    {
+      "census_district_id": 157,
+      "census_district_name": "Lucknow"
+    },
+    {
+      "census_district_id": 158,
+      "census_district_name": "Rae Bareli"
+    },
+    {
+      "census_district_id": 159,
+      "census_district_name": "Farrukhabad"
+    },
+    {
+      "census_district_id": 160,
+      "census_district_name": "Kannauj"
+    },
+    {
+      "census_district_id": 161,
+      "census_district_name": "Etawah"
+    },
+    {
+      "census_district_id": 162,
+      "census_district_name": "Auraiya"
+    },
+    {
+      "census_district_id": 163,
+      "census_district_name": "Kanpur Dehat"
+    },
+    {
+      "census_district_id": 164,
+      "census_district_name": "Kanpur Nagar"
+    },
+    {
+      "census_district_id": 165,
+      "census_district_name": "Jalaun"
+    },
+    {
+      "census_district_id": 166,
+      "census_district_name": "Jhansi"
+    },
+    {
+      "census_district_id": 167,
+      "census_district_name": "Lalitpur"
+    },
+    {
+      "census_district_id": 168,
+      "census_district_name": "Hamirpur"
+    },
+    {
+      "census_district_id": 169,
+      "census_district_name": "Mahoba"
+    },
+    {
+      "census_district_id": 170,
+      "census_district_name": "Banda"
+    },
+    {
+      "census_district_id": 171,
+      "census_district_name": "Chitrakoot"
+    },
+    {
+      "census_district_id": 172,
+      "census_district_name": "Fatehpur"
+    },
+    {
+      "census_district_id": 173,
+      "census_district_name": "Pratapgarh"
+    },
+    {
+      "census_district_id": 174,
+      "census_district_name": "Kaushambi"
+    },
+    {
+      "census_district_id": 175,
+      "census_district_name": "Allahabad"
+    },
+    {
+      "census_district_id": 176,
+      "census_district_name": "Bara Banki"
+    },
+    {
+      "census_district_id": 177,
+      "census_district_name": "Faizabad"
+    },
+    {
+      "census_district_id": 178,
+      "census_district_name": "Ambedkar Nagar"
+    },
+    {
+      "census_district_id": 179,
+      "census_district_name": "Sultanpur"
+    },
+    {
+      "census_district_id": 180,
+      "census_district_name": "Bahraich"
+    },
+    {
+      "census_district_id": 181,
+      "census_district_name": "Shrawasti"
+    },
+    {
+      "census_district_id": 182,
+      "census_district_name": "Balrampur"
+    },
+    {
+      "census_district_id": 183,
+      "census_district_name": "Gonda"
+    },
+    {
+      "census_district_id": 184,
+      "census_district_name": "Siddharthnagar"
+    },
+    {
+      "census_district_id": 185,
+      "census_district_name": "Basti"
+    },
+    {
+      "census_district_id": 186,
+      "census_district_name": "Sant Kabir Nagar"
+    },
+    {
+      "census_district_id": 187,
+      "census_district_name": "Mahrajganj"
+    },
+    {
+      "census_district_id": 188,
+      "census_district_name": "Gorakhpur"
+    },
+    {
+      "census_district_id": 189,
+      "census_district_name": "Kushinagar"
+    },
+    {
+      "census_district_id": 190,
+      "census_district_name": "Deoria"
+    },
+    {
+      "census_district_id": 191,
+      "census_district_name": "Azamgarh"
+    },
+    {
+      "census_district_id": 192,
+      "census_district_name": "Mau"
+    },
+    {
+      "census_district_id": 193,
+      "census_district_name": "Ballia"
+    },
+    {
+      "census_district_id": 194,
+      "census_district_name": "Jaunpur"
+    },
+    {
+      "census_district_id": 195,
+      "census_district_name": "Ghazipur"
+    },
+    {
+      "census_district_id": 196,
+      "census_district_name": "Chandauli"
+    },
+    {
+      "census_district_id": 197,
+      "census_district_name": "Varanasi"
+    },
+    {
+      "census_district_id": 198,
+      "census_district_name": "Sant Ravidas Nagar (Bhadohi)"
+    },
+    {
+      "census_district_id": 199,
+      "census_district_name": "Mirzapur"
+    },
+    {
+      "census_district_id": 200,
+      "census_district_name": "Sonbhadra"
+    },
+    {
+      "census_district_id": 201,
+      "census_district_name": "Etah"
+    },
+    {
+      "census_district_id": 202,
+      "census_district_name": "Kanshiram Nagar"
+    }
+  ]
+}

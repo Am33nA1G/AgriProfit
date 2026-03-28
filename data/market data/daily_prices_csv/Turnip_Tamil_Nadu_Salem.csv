@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-02,Turnip,341,Tamil Nadu,33,Salem,608,1500,2000,2000
+2025-03-01,Turnip,341,Tamil Nadu,33,Salem,608,1800,2000,2000
+2025-02-24,Turnip,341,Tamil Nadu,33,Salem,608,1800,2000,2000
+2025-02-23,Turnip,341,Tamil Nadu,33,Salem,608,1800,2000,2000
+2025-02-22,Turnip,341,Tamil Nadu,33,Salem,608,1800,2000,2000
+2025-02-20,Turnip,341,Tamil Nadu,33,Salem,608,2000,2500,2500
+2025-01-05,Turnip,341,Tamil Nadu,33,Salem,608,9000,10000,10000

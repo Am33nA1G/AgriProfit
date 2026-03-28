@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-22,Coconut Seed,112,Tamil Nadu,33,Coimbatore,632,1800,1850,1800
+2018-05-15,Coconut Seed,112,Tamil Nadu,33,Coimbatore,632,1780,1800,1790
+2018-05-14,Coconut Seed,112,Tamil Nadu,33,Coimbatore,632,1800,1860,1800

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-22,Rice,3,Telangana,36,Rangareddy,537,3360,3360,3360
+2016-01-30,Rice,3,Telangana,36,Rangareddy,537,2600,2600,2600
+2015-12-23,Rice,3,Telangana,36,Rangareddy,537,3500,3500,3500

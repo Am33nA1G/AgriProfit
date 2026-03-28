@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-20,Foxtail Millet (Navane),121,Karnataka,29,Belgaum,555,3160,3160,3160
+2019-12-17,Foxtail Millet (Navane),121,Karnataka,29,Belgaum,555,2450,2450,2450
+2018-08-10,Foxtail Millet (Navane),121,Karnataka,29,Belgaum,555,1580,1650,1630

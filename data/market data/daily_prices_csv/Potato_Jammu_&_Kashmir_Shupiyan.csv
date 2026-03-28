@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-02,Potato,24,Jammu & Kashmir,1,Shupiyan,13,1200,1400,1300
+2015-01-28,Potato,24,Jammu & Kashmir,1,Shupiyan,13,1150,1250,1200
+2015-01-16,Potato,24,Jammu & Kashmir,1,Shupiyan,13,1600,1800,1700
+2015-01-15,Potato,24,Jammu & Kashmir,1,Shupiyan,13,2300,2500,2400
+2015-01-08,Potato,24,Jammu & Kashmir,1,Shupiyan,13,1200,1200,1200

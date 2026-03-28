@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-15,Arhar (Tur/Red Gram)(Whole),49,Haryana,6,Fatehabad,78,3620,3786,3660
+2018-05-18,Arhar (Tur/Red Gram)(Whole),49,Haryana,6,Fatehabad,78,3610,3755,3650
+2017-08-02,Arhar (Tur/Red Gram)(Whole),49,Haryana,6,Fatehabad,78,3361,3479,3434
+2017-07-19,Arhar (Tur/Red Gram)(Whole),49,Haryana,6,Fatehabad,78,3081,3327,3269

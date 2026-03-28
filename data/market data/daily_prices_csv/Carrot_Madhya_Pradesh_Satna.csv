@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-03,Carrot,153,Madhya Pradesh,23,Satna,429,2000,2000,2000
+2022-12-31,Carrot,153,Madhya Pradesh,23,Satna,429,1000,1000,1000
+2022-12-03,Carrot,153,Madhya Pradesh,23,Satna,429,2000,2000,2000
+2022-11-30,Carrot,153,Madhya Pradesh,23,Satna,429,2200,2200,2200

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-09,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,8000,8000,8000
+2019-11-16,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,6249,8000,8000

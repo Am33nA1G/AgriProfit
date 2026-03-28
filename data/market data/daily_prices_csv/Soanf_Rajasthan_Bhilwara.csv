@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-06,Soanf,135,Rajasthan,8,Bhilwara,122,5000,7000,6000
+2017-04-01,Soanf,135,Rajasthan,8,Bhilwara,122,7800,8000,7900
+2017-01-13,Soanf,135,Rajasthan,8,Bhilwara,122,6000,6000,6000

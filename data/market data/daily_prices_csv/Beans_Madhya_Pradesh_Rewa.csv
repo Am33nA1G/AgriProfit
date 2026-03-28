@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-09,Beans,94,Madhya Pradesh,23,Rewa,430,1600,1800,1700
+2017-06-12,Beans,94,Madhya Pradesh,23,Rewa,430,1550,1630,1575

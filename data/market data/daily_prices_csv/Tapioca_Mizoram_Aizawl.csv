@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-21,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-06-06,Tapioca,100,Mizoram,15,Aizawl,283,1500,4000,2150
+2018-06-01,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-04-12,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-04-11,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-04-06,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-03-27,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2018-03-15,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2016-10-19,Tapioca,100,Mizoram,15,Aizawl,283,1600,3000,2300
+2016-04-05,Tapioca,100,Mizoram,15,Aizawl,283,1000,2000,1500
+2016-03-29,Tapioca,100,Mizoram,15,Aizawl,283,1000,1500,1250
+2015-07-01,Tapioca,100,Mizoram,15,Aizawl,283,1200,1200,1200
+2015-05-21,Tapioca,100,Mizoram,15,Aizawl,283,1000,1000,1000

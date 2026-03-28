@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-05,Chili Red,26,Bihar,10,Samastipur,221,3000,4000,3500
+2022-11-16,Chili Red,26,Bihar,10,Samastipur,221,2500,3500,3000
+2022-09-15,Chili Red,26,Bihar,10,Samastipur,221,6000,7000,6500
+2015-12-10,Chili Red,26,Bihar,10,Samastipur,221,10000,12500,11000

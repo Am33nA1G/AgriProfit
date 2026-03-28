@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-01,Mango (Raw-Ripe),172,Uttar Pradesh,9,Etawah,161,1300,1450,1400
+2017-06-27,Mango (Raw-Ripe),172,Uttar Pradesh,9,Etawah,161,1300,1500,1400
+2017-06-25,Mango (Raw-Ripe),172,Uttar Pradesh,9,Etawah,161,1300,1450,1400
+2017-06-23,Mango (Raw-Ripe),172,Uttar Pradesh,9,Etawah,161,1200,1350,1300
+2017-06-22,Mango (Raw-Ripe),172,Uttar Pradesh,9,Etawah,161,1300,1400,1350

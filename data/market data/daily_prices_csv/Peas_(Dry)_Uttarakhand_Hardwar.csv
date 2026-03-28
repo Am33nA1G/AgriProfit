@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-01,Peas (Dry),347,Uttarakhand,5,Hardwar,68,2500,2700,2600
+2019-02-18,Peas (Dry),347,Uttarakhand,5,Hardwar,68,800,1000,900
+2017-05-15,Peas (Dry),347,Uttarakhand,5,Hardwar,68,2900,2900,2900
+2016-12-31,Peas (Dry),347,Uttarakhand,5,Hardwar,68,3000,3000,3000
+2016-12-27,Peas (Dry),347,Uttarakhand,5,Hardwar,68,3500,3500,3500
+2016-05-31,Peas (Dry),347,Uttarakhand,5,Hardwar,68,3420,3420,3420
+2016-04-26,Peas (Dry),347,Uttarakhand,5,Hardwar,68,3400,3400,3400

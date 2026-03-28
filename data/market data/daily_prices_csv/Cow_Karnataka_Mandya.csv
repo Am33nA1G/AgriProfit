@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-18,Cow,212,Karnataka,29,Mandya,573,5,5,5
+2017-02-08,Cow,212,Karnataka,29,Mandya,573,8000,12000,10000
+2016-09-17,Cow,212,Karnataka,29,Mandya,573,20000,50000,35000
+2016-09-10,Cow,212,Karnataka,29,Mandya,573,20000,50000,30000
+2016-07-23,Cow,212,Karnataka,29,Mandya,573,35000,35000,35000
+2016-06-18,Cow,212,Karnataka,29,Mandya,573,25000,50000,25000
+2016-06-04,Cow,212,Karnataka,29,Mandya,573,9000,9000,9000
+2016-06-03,Cow,212,Karnataka,29,Mandya,573,2800,11000,9000
+2015-08-01,Cow,212,Karnataka,29,Mandya,573,30000,40000,35000
+2015-07-25,Cow,212,Karnataka,29,Mandya,573,30000,40000,35000
+2015-06-20,Cow,212,Karnataka,29,Mandya,573,12000,20000,15000
+2015-06-12,Cow,212,Karnataka,29,Mandya,573,3500,7000,6600
+2015-02-27,Cow,212,Karnataka,29,Mandya,573,3700,7100,6700

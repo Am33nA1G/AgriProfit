@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-14,Chennangi Dal,295,Punjab,3,Rupnagar,51,200,220,210
+2016-09-13,Chennangi Dal,295,Punjab,3,Rupnagar,51,3000,3030,3020
+2016-05-07,Chennangi Dal,295,Punjab,3,Rupnagar,51,1500,1530,1520

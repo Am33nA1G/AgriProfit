@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-28,Garlic,25,Jharkhand,20,Ramgarh,361,3000,4000,3500
+2015-08-24,Garlic,25,Jharkhand,20,Ramgarh,361,4000,4500,4200
+2015-04-16,Garlic,25,Jharkhand,20,Ramgarh,361,4000,4500,4200
+2015-03-27,Garlic,25,Jharkhand,20,Ramgarh,361,3000,4000,3500
+2015-03-12,Garlic,25,Jharkhand,20,Ramgarh,361,3500,4500,4000
+2015-03-04,Garlic,25,Jharkhand,20,Ramgarh,361,3200,4000,3500
+2015-02-24,Garlic,25,Jharkhand,20,Ramgarh,361,2500,4000,3500

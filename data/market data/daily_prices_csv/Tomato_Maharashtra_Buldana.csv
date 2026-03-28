@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-14,Tomato,78,Maharashtra,27,Buldana,500,1000,1400,1200
+2019-09-13,Tomato,78,Maharashtra,27,Buldana,500,600,1200,800
+2019-09-01,Tomato,78,Maharashtra,27,Buldana,500,700,1200,900
+2019-07-16,Tomato,78,Maharashtra,27,Buldana,500,1300,2000,1900

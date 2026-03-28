@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-19,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,700,900,800
+2021-06-17,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,1100,1300,1200
+2020-06-24,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2020-06-23,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2020-06-21,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2020-06-20,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,400,600,500
+2020-06-14,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,700,650
+2020-06-11,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2020-06-10,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2020-06-07,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,500,700,600
+2020-06-06,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,500,700,600
+2020-05-29,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,983,1183,1083
+2020-05-07,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,800,1200,1000
+2020-04-30,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,917,1117,1017
+2019-06-27,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,400,600,500
+2019-06-25,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,700,900,800
+2019-06-18,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,400,600,500
+2019-05-25,Jack Fruit,182,Madhya Pradesh,23,Chhindwara,455,1400,1600,1500

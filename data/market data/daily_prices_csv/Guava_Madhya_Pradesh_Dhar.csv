@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-22,Guava,185,Madhya Pradesh,23,Dhar,438,900,1200,1000
+2022-04-10,Guava,185,Madhya Pradesh,23,Dhar,438,600,1000,750
+2022-01-31,Guava,185,Madhya Pradesh,23,Dhar,438,950,1100,1000
+2022-01-18,Guava,185,Madhya Pradesh,23,Dhar,438,900,1100,1000
+2022-01-09,Guava,185,Madhya Pradesh,23,Dhar,438,900,1100,1000
+2022-01-05,Guava,185,Madhya Pradesh,23,Dhar,438,900,1100,1000
+2022-01-03,Guava,185,Madhya Pradesh,23,Dhar,438,800,1100,1000
+2022-01-01,Guava,185,Madhya Pradesh,23,Dhar,438,900,1100,1000
+2021-12-30,Guava,185,Madhya Pradesh,23,Dhar,438,900,1200,1000

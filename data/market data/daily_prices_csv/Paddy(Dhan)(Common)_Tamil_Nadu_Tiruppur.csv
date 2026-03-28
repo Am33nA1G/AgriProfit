@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-01,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2000,2200,2100
+2021-08-31,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2000,2200,2100
+2021-07-27,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2000,2200,2100
+2021-07-26,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2000,2200,2100
+2021-07-15,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2000,2200,2100
+2021-07-02,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1800,2200,2000
+2020-12-30,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,2100,2300,2200
+2020-10-07,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1800,2000,1900
+2020-10-06,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1800,2000,1900
+2020-09-15,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1800,2000,1850
+2015-09-19,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1350,1550,1450
+2015-09-16,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1400,1600,1500
+2015-09-13,Paddy(Dhan)(Common),2,Tamil Nadu,33,Tiruppur,633,1400,1600,1500

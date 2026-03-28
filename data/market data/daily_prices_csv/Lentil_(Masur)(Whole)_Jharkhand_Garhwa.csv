@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-08,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4475,4476.5,4476
+2019-06-30,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4475,4475.5,4475.25
+2019-06-26,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4474,4477,4475
+2019-06-23,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4475,4477,4476
+2019-06-21,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4475,4477,4476
+2019-06-18,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,4474,4476,4475
+2016-12-10,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,6020,6500,6220
+2016-12-08,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,6010,6500,6200
+2016-12-06,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,6000,6500,6200
+2016-12-05,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,6620,7000,6820
+2016-12-04,Lentil (Masur)(Whole),63,Jharkhand,20,Garhwa,346,6600,7000,6800

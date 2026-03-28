@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-12,Ox,213,Karnataka,29,Tumkur,571,2900,6900,5800
+2019-05-07,Ox,213,Karnataka,29,Tumkur,571,38000,50000,44000
+2015-07-14,Ox,213,Karnataka,29,Tumkur,571,3000,7500,6000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-15,Beetroot,157,Bihar,10,Vaishali,220,3000,3010,3000
+2022-12-12,Beetroot,157,Bihar,10,Vaishali,220,3000,3010,3000
+2022-05-16,Beetroot,157,Bihar,10,Vaishali,220,2000,2005,2000

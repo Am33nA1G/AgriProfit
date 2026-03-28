@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-01,Water Melon,73,Karnataka,29,Hassan,574,2148,2148,2148
+2019-08-06,Water Melon,73,Karnataka,29,Hassan,574,1333,1333,1333
+2017-10-04,Water Melon,73,Karnataka,29,Hassan,574,1000,1000,1000
+2017-05-17,Water Melon,73,Karnataka,29,Hassan,574,2000,2000,2000

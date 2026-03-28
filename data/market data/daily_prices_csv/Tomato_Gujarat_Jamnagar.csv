@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-25,Tomato,78,Gujarat,24,Jamnagar,477,1600,1950,1750
+2019-11-22,Tomato,78,Gujarat,24,Jamnagar,477,1500,3500,1850
+2019-11-21,Tomato,78,Gujarat,24,Jamnagar,477,2000,3500,2500
+2019-11-20,Tomato,78,Gujarat,24,Jamnagar,477,1500,1850,1500
+2019-11-19,Tomato,78,Gujarat,24,Jamnagar,477,2500,3550,3000
+2019-11-18,Tomato,78,Gujarat,24,Jamnagar,477,2000,3600,2500
+2019-11-16,Tomato,78,Gujarat,24,Jamnagar,477,2000,3000,2850
+2019-11-15,Tomato,78,Gujarat,24,Jamnagar,477,2500,3000,2650
+2019-11-14,Tomato,78,Gujarat,24,Jamnagar,477,3450,3650,3550
+2019-11-13,Tomato,78,Gujarat,24,Jamnagar,477,4000,4500,4250

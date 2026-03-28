@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-02,Marigold (Calcutta),235,Maharashtra,27,Satara,527,1000,2500,1700
+2025-10-01,Marigold (Calcutta),235,Maharashtra,27,Satara,527,4000,6000,5000
+2024-10-12,Marigold (Calcutta),235,Maharashtra,27,Satara,527,5000,6000,5500
+2024-10-11,Marigold (Calcutta),235,Maharashtra,27,Satara,527,3000,7000,5000
+2022-10-05,Marigold (Calcutta),235,Maharashtra,27,Satara,527,6000,8000,7000
+2022-10-03,Marigold (Calcutta),235,Maharashtra,27,Satara,527,5000,6000,5500

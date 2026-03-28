@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-08,Paddy(Dhan)(Common),2,Maharashtra,27,Nanded,511,750,750,750
+2018-05-29,Paddy(Dhan)(Common),2,Maharashtra,27,Nanded,511,4000,4000,4000
+2018-04-02,Paddy(Dhan)(Common),2,Maharashtra,27,Nanded,511,1000,1000,1000
+2017-06-02,Paddy(Dhan)(Common),2,Maharashtra,27,Nanded,511,4100,4100,4100

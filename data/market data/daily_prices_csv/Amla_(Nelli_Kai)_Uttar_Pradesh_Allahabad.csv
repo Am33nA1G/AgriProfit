@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-09,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1975,1975,1975
+2021-02-24,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,600,650,620
+2021-01-29,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,650,750,700
+2020-12-15,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1750,1850,1800
+2020-12-08,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1200,1300,1250
+2020-06-29,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1350,1450,1400
+2020-06-23,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1800,1900,1850
+2020-06-22,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1800,1900,1850
+2020-06-20,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1750,1850,1800
+2020-02-08,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1500,1650,1600
+2020-01-16,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1300,1400,1350
+2020-01-03,Amla (Nelli Kai),355,Uttar Pradesh,9,Allahabad,175,1300,1400,1350

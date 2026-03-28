@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-07,Linseed,67,Bihar,10,Aurangabad,235,10300,10550,10500
+2023-05-03,Linseed,67,Bihar,10,Aurangabad,235,10100,10500,10200
+2023-04-29,Linseed,67,Bihar,10,Aurangabad,235,7250,7350,7300
+2023-04-24,Linseed,67,Bihar,10,Aurangabad,235,7450,7550,7500
+2023-04-18,Linseed,67,Bihar,10,Aurangabad,235,6500,6600,6550
+2023-04-13,Linseed,67,Bihar,10,Aurangabad,235,7150,7250,7200
+2023-04-09,Linseed,67,Bihar,10,Aurangabad,235,6450,6550,6500
+2023-04-05,Linseed,67,Bihar,10,Aurangabad,235,6850,6950,6900
+2023-04-02,Linseed,67,Bihar,10,Aurangabad,235,6750,6850,6800
+2023-03-24,Linseed,67,Bihar,10,Aurangabad,235,5550,5600,5600
+2022-12-06,Linseed,67,Bihar,10,Aurangabad,235,6200,6400,6350

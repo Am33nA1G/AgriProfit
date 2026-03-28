@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-02,Guar,75,Haryana,6,Jhajjar,83,3500,4000,3800
+2025-01-30,Guar,75,Haryana,6,Jhajjar,83,2800,3000,2900
+2023-09-18,Guar,75,Haryana,6,Jhajjar,83,1500,2000,1800
+2023-09-12,Guar,75,Haryana,6,Jhajjar,83,3000,3500,3200
+2023-09-11,Guar,75,Haryana,6,Jhajjar,83,1500,2000,1800
+2019-09-26,Guar,75,Haryana,6,Jhajjar,83,4800,4800,4800
+2018-08-21,Guar,75,Haryana,6,Jhajjar,83,2000,2000,2000
+2015-08-18,Guar,75,Haryana,6,Jhajjar,83,3000,3000,3000
+2015-08-01,Guar,75,Haryana,6,Jhajjar,83,1200,1200,1200
+2015-07-18,Guar,75,Haryana,6,Jhajjar,83,1200,1200,1200
+2015-06-27,Guar,75,Haryana,6,Jhajjar,83,1000,1000,1000
+2015-06-15,Guar,75,Haryana,6,Jhajjar,83,,900,900
+2015-06-12,Guar,75,Haryana,6,Jhajjar,83,1000,1200,1100
+2015-02-05,Guar,75,Haryana,6,Jhajjar,83,4200,4200,4200
+2015-01-13,Guar,75,Haryana,6,Jhajjar,83,4000,4000,4000

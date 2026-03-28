@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-14,Guava,185,Odisha,21,Nuapada,394,2000,2500,2000
+2017-12-11,Guava,185,Odisha,21,Nuapada,394,2000,2000,2000
+2017-12-07,Guava,185,Odisha,21,Nuapada,394,2000,2100,2000

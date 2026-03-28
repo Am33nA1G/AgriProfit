@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-27,Papaya,72,Uttarakhand,5,Champawat,65,400,500,450
+2024-05-25,Papaya,72,Uttarakhand,5,Champawat,65,500,600,550
+2024-01-10,Papaya,72,Uttarakhand,5,Champawat,65,1200,1200,1200

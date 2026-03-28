@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-24,Banana,19,Karnataka,29,Tumkur,571,1000,4000,2000
+2019-04-20,Banana,19,Karnataka,29,Tumkur,571,1000,4000,2000
+2019-04-10,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2000
+2019-04-03,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2000
+2019-03-27,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2000
+2019-03-20,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2500
+2019-03-13,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2000
+2019-03-06,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2000
+2019-02-27,Banana,19,Karnataka,29,Tumkur,571,1000,3000,2500
+2017-12-13,Banana,19,Karnataka,29,Tumkur,571,1000,4000,2800
+2017-12-06,Banana,19,Karnataka,29,Tumkur,571,1000,4000,2800

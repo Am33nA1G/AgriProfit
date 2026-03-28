@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-13,Coriander (Leaves),43,Chhattisgarh,22,Janjgir - Champa,405,1550,1550,1550
+2018-02-28,Coriander (Leaves),43,Chhattisgarh,22,Janjgir - Champa,405,5000,5000,5000

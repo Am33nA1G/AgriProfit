@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-05,Gram Raw (Chholia),359,Haryana,6,Ambala,70,2000,2000,2000
+2015-02-25,Gram Raw (Chholia),359,Haryana,6,Ambala,70,1200,1200,1200
+2015-01-09,Gram Raw (Chholia),359,Haryana,6,Ambala,70,4000,4000,4000
+2015-01-07,Gram Raw (Chholia),359,Haryana,6,Ambala,70,5000,5000,5000

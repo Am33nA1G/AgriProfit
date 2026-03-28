@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-21,Coffee,45,Odisha,21,Koraput,398,24000,25000,24500
+2016-07-01,Coffee,45,Odisha,21,Koraput,398,24000,25000,24500
+2016-06-21,Coffee,45,Odisha,21,Koraput,398,22000,24000,23000
+2016-06-09,Coffee,45,Odisha,21,Koraput,398,24000,26000,25000
+2015-05-30,Coffee,45,Odisha,21,Koraput,398,24000,25000,24500
+2015-04-30,Coffee,45,Odisha,21,Koraput,398,22000,24000,23000
+2015-04-26,Coffee,45,Odisha,21,Koraput,398,22000,24000,23000
+2015-04-18,Coffee,45,Odisha,21,Koraput,398,24000,26000,25000
+2015-03-10,Coffee,45,Odisha,21,Koraput,398,21000,22000,21500

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-03,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1500,1600,1600
+2021-11-06,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1500,2200,2200
+2020-10-19,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1800,2800,2500
+2019-12-23,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,2100,2100,2100
+2019-01-16,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,7000,7500,7200
+2018-06-25,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1700,2000,1700
+2017-09-18,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,2000,2300,2000
+2016-11-14,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,2000,2900,2850
+2016-07-13,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1000,1650,1600
+2015-05-20,Bajra (Pearl Millet/Cumbu),28,Karnataka,29,Tumkur,571,1000,1250,1200

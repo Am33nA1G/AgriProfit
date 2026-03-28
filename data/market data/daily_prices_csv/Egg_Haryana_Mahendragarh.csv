@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-02-28,Egg,367,Haryana,6,Mahendragarh,84,85,90,90
+2018-01-29,Egg,367,Haryana,6,Mahendragarh,84,80,90,90

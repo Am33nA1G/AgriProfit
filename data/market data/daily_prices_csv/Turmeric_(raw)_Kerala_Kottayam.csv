@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-27,Turmeric (raw),309,Kerala,32,Kottayam,597,2200,2800,2500
+2025-02-23,Turmeric (raw),309,Kerala,32,Kottayam,597,2500,3000,2500
+2025-02-20,Turmeric (raw),309,Kerala,32,Kottayam,597,2500,3000,3000

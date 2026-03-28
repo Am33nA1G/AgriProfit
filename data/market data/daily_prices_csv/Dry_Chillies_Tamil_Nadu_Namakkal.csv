@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-23,Dry Chillies,132,Tamil Nadu,33,Namakkal,609,9000,11000,9500
+2024-05-17,Dry Chillies,132,Tamil Nadu,33,Namakkal,609,19000,20000,19500
+2023-11-15,Dry Chillies,132,Tamil Nadu,33,Namakkal,609,23500,24000,23700

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-08,Mango,20,Madhya Pradesh,23,Rajgarh,442,3500,5575,4250
+2021-06-11,Mango,20,Madhya Pradesh,23,Rajgarh,442,2100,2500,2300

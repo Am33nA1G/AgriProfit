@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-22,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1650,2210,2010
+2022-11-21,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1650,2200,2030
+2022-11-20,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1650,2200,2020
+2022-11-19,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,2040
+2022-11-18,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1640,2220,2020
+2022-11-17,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,2040
+2022-11-16,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2210,2040
+2022-11-15,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,2040
+2022-11-14,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1620,2200,2020
+2022-11-13,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,2000
+2022-11-11,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,2100
+2022-11-10,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1600,2200,2100
+2022-11-09,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1600,2210,2040
+2022-11-08,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1610,2200,1900
+2022-11-01,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1510,1600,1520
+2015-06-17,Paddy(Dhan)(Common),2,Bihar,10,Muzaffarpur,216,1496.6666666666667,1663.3333333333333,1586.6666666666667

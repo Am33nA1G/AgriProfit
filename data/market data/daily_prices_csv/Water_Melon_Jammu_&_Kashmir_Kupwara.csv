@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-24,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,3500,4000,3800
+2022-06-10,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,1300,1500,1400
+2022-06-07,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,1400,1600,1500
+2022-05-28,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,1200,1400,1300
+2022-05-17,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2300,2800,2500
+2022-05-11,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2500,2800,2700
+2022-04-28,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2500,2700,2600
+2022-04-23,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2500,3000,2700
+2022-04-18,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2500,3000,2700
+2022-04-11,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,3000,3600,3400
+2022-03-26,Water Melon,73,Jammu & Kashmir,1,Kupwara,1,2000,3000,2500

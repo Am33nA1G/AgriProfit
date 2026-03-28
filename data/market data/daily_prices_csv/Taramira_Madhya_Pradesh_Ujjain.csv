@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-08,Taramira,76,Madhya Pradesh,23,Ujjain,435,7025,7025,7025
+2020-08-26,Taramira,76,Madhya Pradesh,23,Ujjain,435,3100,3100,3100
+2019-05-29,Taramira,76,Madhya Pradesh,23,Ujjain,435,3200,3200,3200
+2018-04-05,Taramira,76,Madhya Pradesh,23,Ujjain,435,2420,2420,2420
+2015-04-16,Taramira,76,Madhya Pradesh,23,Ujjain,435,1919,2200,2200

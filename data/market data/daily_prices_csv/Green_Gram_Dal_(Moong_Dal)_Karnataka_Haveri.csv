@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-14,Green Gram Dal (Moong Dal),265,Karnataka,29,Haveri,564,5000,5000,5000
+2019-05-31,Green Gram Dal (Moong Dal),265,Karnataka,29,Haveri,564,8200,8200,8200
+2018-01-25,Green Gram Dal (Moong Dal),265,Karnataka,29,Haveri,564,8100,8100,8100
+2017-07-21,Green Gram Dal (Moong Dal),265,Karnataka,29,Haveri,564,5400,5400,5400
+2016-10-14,Green Gram Dal (Moong Dal),265,Karnataka,29,Haveri,564,3800,6600,6000

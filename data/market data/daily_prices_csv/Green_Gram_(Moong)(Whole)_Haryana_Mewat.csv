@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-30,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,4000,5000,4000
+2015-06-30,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,5000,5000,5000
+2015-05-25,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,3000,3000,3000
+2015-04-27,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,5000,5000,5000
+2015-03-11,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,4000,4000,4000
+2015-02-17,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,6000,6500,6500
+2015-02-04,Green Gram (Moong)(Whole),9,Haryana,6,Mewat,87,4800,5000,4900

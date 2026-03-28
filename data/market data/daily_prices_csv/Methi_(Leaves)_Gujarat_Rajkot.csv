@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-15,Methi (Leaves),46,Gujarat,24,Rajkot,476,3555,4680,4355
+2022-09-12,Methi (Leaves),46,Gujarat,24,Rajkot,476,3000,4500,4025
+2017-01-04,Methi (Leaves),46,Gujarat,24,Rajkot,476,2250,2900,2700
+2015-05-18,Methi (Leaves),46,Gujarat,24,Rajkot,476,4500,7000,6255
+2015-01-01,Methi (Leaves),46,Gujarat,24,Rajkot,476,2250,3525,3000

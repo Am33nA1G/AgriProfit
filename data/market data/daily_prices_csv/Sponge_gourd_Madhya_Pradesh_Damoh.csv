@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-07,Sponge gourd,311,Madhya Pradesh,23,Damoh,428,1200,1200,1200
+2022-10-19,Sponge gourd,311,Madhya Pradesh,23,Damoh,428,1000,1200,1200
+2022-10-18,Sponge gourd,311,Madhya Pradesh,23,Damoh,428,1000,1000,1000
+2022-10-07,Sponge gourd,311,Madhya Pradesh,23,Damoh,428,500,500,500
+2022-10-06,Sponge gourd,311,Madhya Pradesh,23,Damoh,428,700,700,700

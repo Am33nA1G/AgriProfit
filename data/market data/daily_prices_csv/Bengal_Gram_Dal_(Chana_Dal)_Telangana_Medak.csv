@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-17,Bengal Gram Dal (Chana Dal),263,Telangana,36,Medak,535,3436,3436,3436
+2018-04-03,Bengal Gram Dal (Chana Dal),263,Telangana,36,Medak,535,3500,3759,3600
+2018-02-20,Bengal Gram Dal (Chana Dal),263,Telangana,36,Medak,535,3652,3652,3652
+2017-12-06,Bengal Gram Dal (Chana Dal),263,Telangana,36,Medak,535,3703,3703,3703
+2017-04-04,Bengal Gram Dal (Chana Dal),263,Telangana,36,Medak,535,4500,4500,4500

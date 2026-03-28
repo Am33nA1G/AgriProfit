@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-30,Green Gram (Moong)(Whole),9,Chhattisgarh,22,Bastar,414,2500,2600,2500
+2018-05-25,Green Gram (Moong)(Whole),9,Chhattisgarh,22,Bastar,414,4000,4500,4250
+2016-06-16,Green Gram (Moong)(Whole),9,Chhattisgarh,22,Bastar,414,4000,4500,4200
+2015-06-28,Green Gram (Moong)(Whole),9,Chhattisgarh,22,Bastar,414,4000,5000,4500
+2015-06-27,Green Gram (Moong)(Whole),9,Chhattisgarh,22,Bastar,414,4000,5000,4500

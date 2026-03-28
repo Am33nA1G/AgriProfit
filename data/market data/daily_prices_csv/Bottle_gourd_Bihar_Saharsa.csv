@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-13,Bottle gourd,82,Bihar,10,Saharsa,214,1200,1500,1350
+2022-05-11,Bottle gourd,82,Bihar,10,Saharsa,214,1200,1400,1300
+2022-05-09,Bottle gourd,82,Bihar,10,Saharsa,214,1600,1800,1700
+2022-05-07,Bottle gourd,82,Bihar,10,Saharsa,214,1700,1800,1750
+2022-05-04,Bottle gourd,82,Bihar,10,Saharsa,214,1800,2000,1900
+2022-04-26,Bottle gourd,82,Bihar,10,Saharsa,214,1800,2400,2100
+2022-03-31,Bottle gourd,82,Bihar,10,Saharsa,214,2500,3000,2750
+2022-03-24,Bottle gourd,82,Bihar,10,Saharsa,214,2200,2500,2350
+2022-03-16,Bottle gourd,82,Bihar,10,Saharsa,214,2000,2200,2100
+2022-03-11,Bottle gourd,82,Bihar,10,Saharsa,214,2000,2500,2250
+2022-03-07,Bottle gourd,82,Bihar,10,Saharsa,214,2700,3000,2850
+2022-03-01,Bottle gourd,82,Bihar,10,Saharsa,214,3000,4000,3500
+2022-02-24,Bottle gourd,82,Bihar,10,Saharsa,214,2000,3000,2500
+2022-02-23,Bottle gourd,82,Bihar,10,Saharsa,214,2500,3000,2750
+2022-02-16,Bottle gourd,82,Bihar,10,Saharsa,214,3000,4000,3500
+2022-02-15,Bottle gourd,82,Bihar,10,Saharsa,214,3000,3500,3250
+2022-02-14,Bottle gourd,82,Bihar,10,Saharsa,214,2800,3000,2900
+2022-02-13,Bottle gourd,82,Bihar,10,Saharsa,214,2800,3000,2900
+2022-02-12,Bottle gourd,82,Bihar,10,Saharsa,214,2500,3000,2750

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-04,Tamarind Fruit,261,Chhattisgarh,22,Korba,404,1000,1000,1000
+2015-04-24,Tamarind Fruit,261,Chhattisgarh,22,Korba,404,1100,1100,1100

@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-12,Banana,19,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-08-27,Banana,19,Madhya Pradesh,23,Satna,429,1400,1400,1400
+2022-08-04,Banana,19,Madhya Pradesh,23,Satna,429,1300,1300,1300
+2022-06-18,Banana,19,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-06-12,Banana,19,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-06-11,Banana,19,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-03-10,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-10-23,Banana,19,Madhya Pradesh,23,Satna,429,800,1400,1100
+2020-08-29,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-08-24,Banana,19,Madhya Pradesh,23,Satna,429,775,1500,1100
+2020-07-27,Banana,19,Madhya Pradesh,23,Satna,429,120,1120,1120
+2020-07-22,Banana,19,Madhya Pradesh,23,Satna,429,1150,1150,1150
+2020-07-20,Banana,19,Madhya Pradesh,23,Satna,429,1143,1143,1143
+2020-07-13,Banana,19,Madhya Pradesh,23,Satna,429,1111,1111,1111
+2020-07-04,Banana,19,Madhya Pradesh,23,Satna,429,1000,1200,1100
+2020-06-17,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-06-15,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-06-14,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-06-09,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-06-04,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-05-30,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2020-05-21,Banana,19,Madhya Pradesh,23,Satna,429,1250,1250,1250
+2020-02-24,Banana,19,Madhya Pradesh,23,Satna,429,1000,1000,1000
+2020-01-26,Banana,19,Madhya Pradesh,23,Satna,429,1500,1500,1500
+2019-12-30,Banana,19,Madhya Pradesh,23,Satna,429,1100,1100,1100

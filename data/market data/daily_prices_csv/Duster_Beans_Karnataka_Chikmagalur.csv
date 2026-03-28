@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-24,Duster Beans,163,Karnataka,29,Chikmagalur,570,2000,3000,2400
+2021-08-21,Duster Beans,163,Karnataka,29,Chikmagalur,570,2000,2500,2300
+2021-06-03,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1200,1100
+2020-06-28,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1600,1280
+2020-06-27,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1310
+2020-06-25,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1200
+2020-06-24,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1200
+2020-06-23,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1200
+2020-06-22,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1240
+2020-06-21,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1245
+2020-06-20,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1250
+2020-06-11,Duster Beans,163,Karnataka,29,Chikmagalur,570,1600,1800,1600
+2020-06-06,Duster Beans,163,Karnataka,29,Chikmagalur,570,1400,1800,1600
+2020-06-04,Duster Beans,163,Karnataka,29,Chikmagalur,570,1000,1400,1200

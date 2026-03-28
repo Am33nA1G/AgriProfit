@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-14,Groundnut,10,Punjab,3,Hoshiarpur,38,4247,4350,4298.5
+2017-12-01,Groundnut,10,Punjab,3,Hoshiarpur,38,4343,4952,4647.5
+2017-11-17,Groundnut,10,Punjab,3,Hoshiarpur,38,4200,4600,4400
+2017-10-24,Groundnut,10,Punjab,3,Hoshiarpur,38,2880,3150,3015
+2017-10-18,Groundnut,10,Punjab,3,Hoshiarpur,38,3100,3300,3200

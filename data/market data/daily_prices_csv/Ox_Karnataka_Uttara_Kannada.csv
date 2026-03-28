@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-07,Ox,213,Karnataka,29,Uttara Kannada,563,40000,40000,40000
+2015-06-22,Ox,213,Karnataka,29,Uttara Kannada,563,20000,35000,27500

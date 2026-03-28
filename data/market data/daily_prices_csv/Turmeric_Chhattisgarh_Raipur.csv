@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-30,Turmeric,39,Chhattisgarh,22,Raipur,410,10300,10700,10580
+2025-03-31,Turmeric,39,Chhattisgarh,22,Raipur,410,10100,10500,10387
+2025-02-28,Turmeric,39,Chhattisgarh,22,Raipur,410,8000,8000,8000
+2025-01-31,Turmeric,39,Chhattisgarh,22,Raipur,410,7450,7650,7583
+2024-12-31,Turmeric,39,Chhattisgarh,22,Raipur,410,7800,8200,8000

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-16,Lemon,310,Uttarakhand,5,Garhwal,61,2000,2500,2200
+2023-05-21,Lemon,310,Uttarakhand,5,Garhwal,61,2000,2200,2100
+2023-05-19,Lemon,310,Uttarakhand,5,Garhwal,61,1500,1700,1600
+2018-06-01,Lemon,310,Uttarakhand,5,Garhwal,61,2500,3500,3000
+2018-05-11,Lemon,310,Uttarakhand,5,Garhwal,61,2000,3000,2500

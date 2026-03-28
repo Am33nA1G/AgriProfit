@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-04,Peas cod,308,Bihar,10,Madhepura,213,1500,1700,1600
+2023-02-01,Peas cod,308,Bihar,10,Madhepura,213,1400,1600,1500
+2023-01-29,Peas cod,308,Bihar,10,Madhepura,213,1500,1700,1600
+2023-01-28,Peas cod,308,Bihar,10,Madhepura,213,2100,2300,2200
+2023-01-20,Peas cod,308,Bihar,10,Madhepura,213,1900,2200,2000
+2023-01-18,Peas cod,308,Bihar,10,Madhepura,213,1800,2000,1900
+2023-01-06,Peas cod,308,Bihar,10,Madhepura,213,1600,1800,1700
+2023-01-04,Peas cod,308,Bihar,10,Madhepura,213,1500,1800,1600
+2023-01-03,Peas cod,308,Bihar,10,Madhepura,213,1700,1900,1800
+2022-12-31,Peas cod,308,Bihar,10,Madhepura,213,1800,2000,1900
+2022-12-30,Peas cod,308,Bihar,10,Madhepura,213,2000,2200,2100
+2022-12-22,Peas cod,308,Bihar,10,Madhepura,213,2100,2400,2200
+2022-03-26,Peas cod,308,Bihar,10,Madhepura,213,1500,1800,1600
+2022-03-21,Peas cod,308,Bihar,10,Madhepura,213,1400,1600,1500
+2022-03-19,Peas cod,308,Bihar,10,Madhepura,213,1300,1500,1400
+2022-03-17,Peas cod,308,Bihar,10,Madhepura,213,1500,1700,1600
+2022-03-15,Peas cod,308,Bihar,10,Madhepura,213,1800,2000,1900
+2022-03-11,Peas cod,308,Bihar,10,Madhepura,213,1600,1800,1700
+2022-03-09,Peas cod,308,Bihar,10,Madhepura,213,1800,2000,1900
+2022-03-06,Peas cod,308,Bihar,10,Madhepura,213,2400,2600,2500
+2022-03-04,Peas cod,308,Bihar,10,Madhepura,213,2000,2200,2100
+2022-03-03,Peas cod,308,Bihar,10,Madhepura,213,1800,2000,1900
+2022-03-02,Peas cod,308,Bihar,10,Madhepura,213,1900,2200,2000
+2022-03-01,Peas cod,308,Bihar,10,Madhepura,213,1700,1900,1800

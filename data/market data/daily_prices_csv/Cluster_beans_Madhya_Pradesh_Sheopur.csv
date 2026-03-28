@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-04,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2020-06-03,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2019-08-05,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2019-02-23,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1000,1100,1050
+2017-09-01,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1500,2000,1650
+2017-08-23,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1000,1200,1100
+2017-08-21,Cluster beans,80,Madhya Pradesh,23,Sheopur,418,1200,1300,1250

@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-19,White Pumpkin,158,Punjab,3,Moga,42,300,500,400
+2018-06-18,White Pumpkin,158,Punjab,3,Moga,42,300,500,400
+2018-06-17,White Pumpkin,158,Punjab,3,Moga,42,200,400,300
+2018-06-15,White Pumpkin,158,Punjab,3,Moga,42,400,600,500
+2018-06-14,White Pumpkin,158,Punjab,3,Moga,42,300,500,400
+2018-06-13,White Pumpkin,158,Punjab,3,Moga,42,500,700,600
+2018-06-12,White Pumpkin,158,Punjab,3,Moga,42,1000,1200,1100
+2018-06-11,White Pumpkin,158,Punjab,3,Moga,42,500,700,600
+2018-06-10,White Pumpkin,158,Punjab,3,Moga,42,500,700,600
+2018-06-09,White Pumpkin,158,Punjab,3,Moga,42,500,700,600
+2018-06-08,White Pumpkin,158,Punjab,3,Moga,42,500,700,600
+2018-06-07,White Pumpkin,158,Punjab,3,Moga,42,600,800,700
+2018-06-06,White Pumpkin,158,Punjab,3,Moga,42,800,1000,900

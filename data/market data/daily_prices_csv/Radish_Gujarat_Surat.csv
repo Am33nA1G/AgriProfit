@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-12,Radish,161,Gujarat,24,Surat,492,250,875,562
+2019-02-08,Radish,161,Gujarat,24,Surat,492,285,285,285
+2019-02-04,Radish,161,Gujarat,24,Surat,492,450,450,450
+2019-02-02,Radish,161,Gujarat,24,Surat,492,250,250,250
+2019-01-31,Radish,161,Gujarat,24,Surat,492,250,775,512
+2019-01-25,Radish,161,Gujarat,24,Surat,492,200,250,225

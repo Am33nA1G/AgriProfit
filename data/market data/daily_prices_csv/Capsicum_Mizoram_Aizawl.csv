@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-28,Capsicum,164,Mizoram,15,Aizawl,283,1500,4000,2200
+2017-08-03,Capsicum,164,Mizoram,15,Aizawl,283,7500,14000,10750
+2017-03-21,Capsicum,164,Mizoram,15,Aizawl,283,3000,5000,4500
+2016-08-31,Capsicum,164,Mizoram,15,Aizawl,283,6000,8000,7000
+2016-06-29,Capsicum,164,Mizoram,15,Aizawl,283,6000,8000,7000
+2016-06-22,Capsicum,164,Mizoram,15,Aizawl,283,5000,8000,6500
+2016-06-13,Capsicum,164,Mizoram,15,Aizawl,283,5000,8000,6500
+2016-03-10,Capsicum,164,Mizoram,15,Aizawl,283,3000,3000,3000
+2016-03-08,Capsicum,164,Mizoram,15,Aizawl,283,2500,2500,2500
+2015-08-19,Capsicum,164,Mizoram,15,Aizawl,283,4000,4500,4000
+2015-08-17,Capsicum,164,Mizoram,15,Aizawl,283,3500,3500,3500
+2015-08-10,Capsicum,164,Mizoram,15,Aizawl,283,6000,6000,6000
+2015-06-29,Capsicum,164,Mizoram,15,Aizawl,283,6000,6000,6000
+2015-05-26,Capsicum,164,Mizoram,15,Aizawl,283,4000,4000,4000
+2015-01-28,Capsicum,164,Mizoram,15,Aizawl,283,6500,6500,6500

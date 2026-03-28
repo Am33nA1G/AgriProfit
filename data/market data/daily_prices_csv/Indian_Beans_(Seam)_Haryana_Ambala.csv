@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-02,Indian Beans (Seam),299,Haryana,6,Ambala,70,1500,2000,1800
+2022-01-08,Indian Beans (Seam),299,Haryana,6,Ambala,70,3500,4500,4100
+2017-08-13,Indian Beans (Seam),299,Haryana,6,Ambala,70,1800,3000,2500
+2017-08-11,Indian Beans (Seam),299,Haryana,6,Ambala,70,1800,2800,2400
+2017-08-10,Indian Beans (Seam),299,Haryana,6,Ambala,70,1800,2500,2200
+2017-08-09,Indian Beans (Seam),299,Haryana,6,Ambala,70,1200,3000,2400
+2017-08-08,Indian Beans (Seam),299,Haryana,6,Ambala,70,1500,2300,2000
+2017-08-07,Indian Beans (Seam),299,Haryana,6,Ambala,70,1800,3000,2500
+2017-08-06,Indian Beans (Seam),299,Haryana,6,Ambala,70,1000,2200,1600
+2017-08-03,Indian Beans (Seam),299,Haryana,6,Ambala,70,1400,1900,1600
+2017-08-02,Indian Beans (Seam),299,Haryana,6,Ambala,70,900,2200,1750
+2017-08-01,Indian Beans (Seam),299,Haryana,6,Ambala,70,900,2000,1500
+2017-07-31,Indian Beans (Seam),299,Haryana,6,Ambala,70,1400,2200,1800
+2016-08-22,Indian Beans (Seam),299,Haryana,6,Ambala,70,1200,2700,2500
+2016-08-21,Indian Beans (Seam),299,Haryana,6,Ambala,70,1500,3300,3200
+2016-08-20,Indian Beans (Seam),299,Haryana,6,Ambala,70,2500,2800,2600
+2016-08-16,Indian Beans (Seam),299,Haryana,6,Ambala,70,1400,2500,1950
+2016-06-21,Indian Beans (Seam),299,Haryana,6,Ambala,70,2600,2700,2650

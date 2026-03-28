@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-03,Beetroot,157,Assam,18,Nagaon,305,2000,2200,2000
+2025-03-01,Beetroot,157,Assam,18,Nagaon,305,2000,2500,2200
+2025-01-29,Beetroot,157,Assam,18,Nagaon,305,2500,2600,2500
+2025-01-27,Beetroot,157,Assam,18,Nagaon,305,2200,2500,2400
+2025-01-22,Beetroot,157,Assam,18,Nagaon,305,2500,2600,2500
+2025-01-15,Beetroot,157,Assam,18,Nagaon,305,3000,3500,3200
+2025-01-09,Beetroot,157,Assam,18,Nagaon,305,3500,4000,3800

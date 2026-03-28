@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-11,Ground Nut Oil,267,Tamil Nadu,33,Viluppuram,607,5549,5549,5549
+2015-01-08,Ground Nut Oil,267,Tamil Nadu,33,Viluppuram,607,3814,3814,3814
+2015-01-05,Ground Nut Oil,267,Tamil Nadu,33,Viluppuram,607,3897,3897,3897

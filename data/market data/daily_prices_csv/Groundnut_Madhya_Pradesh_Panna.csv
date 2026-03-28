@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-11,Groundnut,10,Madhya Pradesh,23,Panna,426,4350,4380,4370
+2025-03-04,Groundnut,10,Madhya Pradesh,23,Panna,426,4300,4500,4500
+2025-03-03,Groundnut,10,Madhya Pradesh,23,Panna,426,4280,4315,4300
+2025-03-01,Groundnut,10,Madhya Pradesh,23,Panna,426,4600,4720,4700
+2025-02-28,Groundnut,10,Madhya Pradesh,23,Panna,426,4300,4300,4300
+2025-02-18,Groundnut,10,Madhya Pradesh,23,Panna,426,4270,4300,4300
+2025-02-17,Groundnut,10,Madhya Pradesh,23,Panna,426,4150,4175,4150
+2025-02-11,Groundnut,10,Madhya Pradesh,23,Panna,426,4150,4200,4200
+2025-02-07,Groundnut,10,Madhya Pradesh,23,Panna,426,4180,4200,4180
+2025-02-06,Groundnut,10,Madhya Pradesh,23,Panna,426,4175,4200,4200
+2025-01-28,Groundnut,10,Madhya Pradesh,23,Panna,426,4160,4185,4185
+2025-01-27,Groundnut,10,Madhya Pradesh,23,Panna,426,4160,4180,4180
+2025-01-24,Groundnut,10,Madhya Pradesh,23,Panna,426,4170,4180,4180
+2025-01-23,Groundnut,10,Madhya Pradesh,23,Panna,426,4170,4180,4180
+2025-01-22,Groundnut,10,Madhya Pradesh,23,Panna,426,4150,4175,4175
+2025-01-16,Groundnut,10,Madhya Pradesh,23,Panna,426,4100,4180,4180
+2025-01-01,Groundnut,10,Madhya Pradesh,23,Panna,426,3700,3800,3800
+2024-12-27,Groundnut,10,Madhya Pradesh,23,Panna,426,4175,4200,4200
+2024-12-24,Groundnut,10,Madhya Pradesh,23,Panna,426,4180,4200,4200
+2024-12-13,Groundnut,10,Madhya Pradesh,23,Panna,426,4170,4210,4200
+2024-12-12,Groundnut,10,Madhya Pradesh,23,Panna,426,4170,4200,4200
+2023-12-05,Groundnut,10,Madhya Pradesh,23,Panna,426,4800,4900,4850

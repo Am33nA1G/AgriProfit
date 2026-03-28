@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-29,Maize,4,Nagaland,13,Mokokchung,262,1800,2100,2000
+2019-07-22,Maize,4,Nagaland,13,Mokokchung,262,1700,2000,1900
+2019-07-15,Maize,4,Nagaland,13,Mokokchung,262,1700,2000,1800
+2019-07-08,Maize,4,Nagaland,13,Mokokchung,262,1800,2100,2000
+2019-07-01,Maize,4,Nagaland,13,Mokokchung,262,1500,1800,1700
+2018-07-21,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-07-07,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-06-23,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-06-16,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-06-09,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-06-02,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400
+2018-05-26,Maize,4,Nagaland,13,Mokokchung,262,6200,6600,6400

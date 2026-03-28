@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-26,Bitter gourd,81,Nagaland,13,Mon,261,1500,1700,1600
+2022-08-10,Bitter gourd,81,Nagaland,13,Mon,261,2000,2500,2250
+2022-08-03,Bitter gourd,81,Nagaland,13,Mon,261,2800,3500,3150
+2022-07-27,Bitter gourd,81,Nagaland,13,Mon,261,3300,4400,3850
+2020-10-28,Bitter gourd,81,Nagaland,13,Mon,261,3200,4000,3680
+2020-10-14,Bitter gourd,81,Nagaland,13,Mon,261,3300,4400,3850
+2020-07-15,Bitter gourd,81,Nagaland,13,Mon,261,3200,4000,3680
+2020-05-27,Bitter gourd,81,Nagaland,13,Mon,261,4800,6000,5520
+2020-05-13,Bitter gourd,81,Nagaland,13,Mon,261,3900,4550,4290
+2020-04-29,Bitter gourd,81,Nagaland,13,Mon,261,4000,5000,4600

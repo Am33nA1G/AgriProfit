@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-30,Bael,418,Uttar Pradesh,9,Allahabad,175,770,845,815
+2025-05-29,Bael,418,Uttar Pradesh,9,Allahabad,175,775,800,785
+2025-05-23,Bael,418,Uttar Pradesh,9,Allahabad,175,400,475,435

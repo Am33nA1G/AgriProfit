@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-26,Water Melon,73,Bihar,10,Aurangabad,235,3850,4000,3900
+2023-05-18,Water Melon,73,Bihar,10,Aurangabad,235,4500,4650,4500
+2023-05-09,Water Melon,73,Bihar,10,Aurangabad,235,1650,1750,1700
+2023-05-04,Water Melon,73,Bihar,10,Aurangabad,235,1650,1750,1700
+2023-04-30,Water Melon,73,Bihar,10,Aurangabad,235,3450,3550,3500
+2023-04-26,Water Melon,73,Bihar,10,Aurangabad,235,1800,1900,1850
+2023-04-23,Water Melon,73,Bihar,10,Aurangabad,235,1850,2000,1950
+2023-04-20,Water Melon,73,Bihar,10,Aurangabad,235,1850,1950,1900
+2023-04-15,Water Melon,73,Bihar,10,Aurangabad,235,1850,2000,1900
+2023-04-10,Water Melon,73,Bihar,10,Aurangabad,235,1650,1750,1700
+2023-03-30,Water Melon,73,Bihar,10,Aurangabad,235,1800,1900,1850
+2023-03-26,Water Melon,73,Bihar,10,Aurangabad,235,2050,2150,2100
+2023-03-18,Water Melon,73,Bihar,10,Aurangabad,235,2000,2100,2050
+2023-03-10,Water Melon,73,Bihar,10,Aurangabad,235,1850,1950,1900

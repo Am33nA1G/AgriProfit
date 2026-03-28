@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-13,Beans,94,Maharashtra,27,Jalgaon,499,700,1200,1000
+2021-11-13,Beans,94,Maharashtra,27,Jalgaon,499,2500,2500,2500
+2021-11-10,Beans,94,Maharashtra,27,Jalgaon,499,2000,2000,2000
+2021-11-06,Beans,94,Maharashtra,27,Jalgaon,499,2500,2500,2500
+2021-10-31,Beans,94,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-04-21,Beans,94,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-03-25,Beans,94,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-01-05,Beans,94,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-01-03,Beans,94,Maharashtra,27,Jalgaon,499,1000,1000,1000

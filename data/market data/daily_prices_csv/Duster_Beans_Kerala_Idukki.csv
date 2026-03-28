@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-25,Duster Beans,163,Kerala,32,Idukki,596,3200,3400,3400
+2023-06-19,Duster Beans,163,Kerala,32,Idukki,596,8500,3250,10500
+2023-06-12,Duster Beans,163,Kerala,32,Idukki,596,8000,10000,8750

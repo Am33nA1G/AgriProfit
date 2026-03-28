@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-06,Turmeric,39,Karnataka,29,Udupi,569,15500,15500,15500
+2020-06-03,Turmeric,39,Karnataka,29,Udupi,569,10000,10000,10000
+2020-05-06,Turmeric,39,Karnataka,29,Udupi,569,15000,15000,15000
+2020-04-30,Turmeric,39,Karnataka,29,Udupi,569,15445,15445,15445
+2020-04-29,Turmeric,39,Karnataka,29,Udupi,569,18000,18000,18000
+2020-04-23,Turmeric,39,Karnataka,29,Udupi,569,19600,19600,19600
+2020-04-22,Turmeric,39,Karnataka,29,Udupi,569,16500,20000,18000

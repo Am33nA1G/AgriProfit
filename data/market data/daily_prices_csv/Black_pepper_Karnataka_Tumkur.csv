@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-02,Black pepper,38,Karnataka,29,Tumkur,571,35000,36000,35500
+2017-04-03,Black pepper,38,Karnataka,29,Tumkur,571,12000,12000,12000
+2016-02-29,Black pepper,38,Karnataka,29,Tumkur,571,50000,62000,60184

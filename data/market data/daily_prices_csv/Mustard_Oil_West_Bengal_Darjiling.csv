@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-20,Mustard Oil,324,West Bengal,19,Darjiling,327,1600,1800,1700
+2015-08-24,Mustard Oil,324,West Bengal,19,Darjiling,327,2300,2500,2400

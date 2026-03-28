@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-04,Bamboo,204,Telangana,36,Khammam,541,420,420,420
+2022-07-15,Bamboo,204,Telangana,36,Khammam,541,420,420,420
+2022-05-22,Bamboo,204,Telangana,36,Khammam,541,250,250,250
+2022-05-21,Bamboo,204,Telangana,36,Khammam,541,470,470,470
+2022-05-18,Bamboo,204,Telangana,36,Khammam,541,1250,1250,1250
+2019-02-24,Bamboo,204,Telangana,36,Khammam,541,400,600,600
+2019-02-18,Bamboo,204,Telangana,36,Khammam,541,1500,1700,1500

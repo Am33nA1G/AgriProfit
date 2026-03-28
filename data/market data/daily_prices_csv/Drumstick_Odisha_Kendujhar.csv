@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-04,Drumstick,168,Odisha,21,Kendujhar,375,3000,4000,3500
+2024-03-18,Drumstick,168,Odisha,21,Kendujhar,375,4000,6000,5000
+2024-03-13,Drumstick,168,Odisha,21,Kendujhar,375,4000,6000,5000

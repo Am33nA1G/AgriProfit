@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-16,Cow,212,Maharashtra,27,Nashik,516,40000,55000,45000
+2025-07-11,Cow,212,Maharashtra,27,Nashik,516,25000,29000,27000
+2025-04-04,Cow,212,Maharashtra,27,Nashik,516,50000,65000,55000
+2025-03-27,Cow,212,Maharashtra,27,Nashik,516,25000,30000,27000
+2025-01-25,Cow,212,Maharashtra,27,Nashik,516,40000,60000,50000
+2025-01-24,Cow,212,Maharashtra,27,Nashik,516,21000,45000,23500

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-07,Seetafal,201,Odisha,21,Malkangiri,399,1500,2000,1800
+2016-10-12,Seetafal,201,Odisha,21,Malkangiri,399,2500,2700,2600
+2016-10-11,Seetafal,201,Odisha,21,Malkangiri,399,2500,2800,2700

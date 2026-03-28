@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-24,Gram Raw (Chholia),359,Madhya Pradesh,23,Jhabua,464,5335,5335,5335
+2023-04-21,Gram Raw (Chholia),359,Madhya Pradesh,23,Jhabua,464,4600,5335,4752
+2023-01-29,Gram Raw (Chholia),359,Madhya Pradesh,23,Jhabua,464,1000,1600,1300

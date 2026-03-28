@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-24,Mousambi (Sweet Lime),77,Assam,18,Tinsukia,309,3000,4000,3500
+2015-03-21,Mousambi (Sweet Lime),77,Assam,18,Tinsukia,309,6000,7000,6500

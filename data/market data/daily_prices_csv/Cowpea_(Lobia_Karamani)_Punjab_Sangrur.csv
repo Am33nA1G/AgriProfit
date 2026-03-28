@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-16,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,1400,1400,1400
+2023-12-13,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,2000,2500,2200
+2023-11-22,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,2700,3000,2900
+2023-06-27,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,1200,1700,1500
+2023-06-26,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,1200,1500,1200
+2023-06-14,Cowpea (Lobia/Karamani),92,Punjab,3,Sangrur,53,1000,1500,1200

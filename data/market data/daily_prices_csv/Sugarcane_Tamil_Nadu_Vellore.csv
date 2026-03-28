@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-22,Sugarcane,150,Tamil Nadu,33,Vellore,605,2050,2050,2050
+2021-09-16,Sugarcane,150,Tamil Nadu,33,Vellore,605,3300,3300,3300
+2021-04-28,Sugarcane,150,Tamil Nadu,33,Vellore,605,3000,3000,3000
+2021-04-20,Sugarcane,150,Tamil Nadu,33,Vellore,605,3050,4400,4400
+2020-09-18,Sugarcane,150,Tamil Nadu,33,Vellore,605,2200,3910,3500
+2020-04-09,Sugarcane,150,Tamil Nadu,33,Vellore,605,3675,3675,3675

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-20,Taramira,76,NCT of Delhi,7,South West,97,3711,3711,3711
+2019-04-13,Taramira,76,NCT of Delhi,7,South West,97,3700,3700,3700
+2019-04-11,Taramira,76,NCT of Delhi,7,South West,97,3950,3950,3950
+2019-04-06,Taramira,76,NCT of Delhi,7,South West,97,3500,3500,3500
+2018-05-04,Taramira,76,NCT of Delhi,7,South West,97,3600,3600,3600
+2018-04-15,Taramira,76,NCT of Delhi,7,South West,97,3850,3850,3850
+2018-04-08,Taramira,76,NCT of Delhi,7,South West,97,3750,3750,3750
+2018-04-01,Taramira,76,NCT of Delhi,7,South West,97,3870,3870,3870
+2018-03-26,Taramira,76,NCT of Delhi,7,South West,97,3600,3600,3600

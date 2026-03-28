@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-20,Paddy(Dhan)(Common),2,Jharkhand,20,Kodarma,348,1750,1850,1800
+2019-01-19,Paddy(Dhan)(Common),2,Jharkhand,20,Kodarma,348,1750,1800,1775
+2019-01-16,Paddy(Dhan)(Common),2,Jharkhand,20,Kodarma,348,1750,1760,1755
+2019-01-08,Paddy(Dhan)(Common),2,Jharkhand,20,Kodarma,348,1800,2000,1900

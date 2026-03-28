@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-21,Grapes,22,Bihar,10,Bhagalpur,224,6000,6000,6000
+2023-01-07,Grapes,22,Bihar,10,Bhagalpur,224,7500,7500,7500
+2023-01-05,Grapes,22,Bihar,10,Bhagalpur,224,8000,8000,8000

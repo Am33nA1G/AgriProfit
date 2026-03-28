@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-19,Peas Wet,174,Karnataka,29,Mandya,573,15000,16000,15000
+2022-03-09,Peas Wet,174,Karnataka,29,Mandya,573,3000,3000,3000
+2022-03-04,Peas Wet,174,Karnataka,29,Mandya,573,3000,3000,3000
+2022-02-24,Peas Wet,174,Karnataka,29,Mandya,573,2000,2000,2000
+2022-02-23,Peas Wet,174,Karnataka,29,Mandya,573,4000,4000,4000
+2022-02-17,Peas Wet,174,Karnataka,29,Mandya,573,4000,4000,4000
+2021-12-30,Peas Wet,174,Karnataka,29,Mandya,573,4000,4500,4000
+2021-12-29,Peas Wet,174,Karnataka,29,Mandya,573,4000,6000,4000

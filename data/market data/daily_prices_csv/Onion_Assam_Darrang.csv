@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-30,Onion,23,Assam,18,Darrang,325,5000,5500,5300
+2019-09-26,Onion,23,Assam,18,Darrang,325,4500,5200,5100
+2019-09-24,Onion,23,Assam,18,Darrang,325,4000,5000,4800
+2019-09-19,Onion,23,Assam,18,Darrang,325,4000,4500,4400
+2019-09-16,Onion,23,Assam,18,Darrang,325,4000,4500,4400
+2017-08-26,Onion,23,Assam,18,Darrang,325,2800,3200,3000
+2017-08-25,Onion,23,Assam,18,Darrang,325,2800,3300,3200

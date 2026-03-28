@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-09,Spinach,342,Haryana,6,Faridabad,88,800,1400,1000
+2022-01-07,Spinach,342,Haryana,6,Faridabad,88,800,1500,1000
+2019-05-18,Spinach,342,Haryana,6,Faridabad,88,900,1100,1000

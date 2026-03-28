@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-10,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,6500,7500,7000
+2017-06-07,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,7000,7500,7250
+2017-06-06,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,7000,7500,7250
+2017-06-05,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,8000,8500,8250
+2017-06-02,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,8000,8100,8050
+2017-06-01,Green Gram Dal (Moong Dal),265,Bihar,10,Saharsa,214,7900,8100,8000

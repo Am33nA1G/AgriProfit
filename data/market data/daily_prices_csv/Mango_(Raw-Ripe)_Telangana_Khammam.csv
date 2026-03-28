@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-06,Mango (Raw-Ripe),172,Telangana,36,Khammam,541,2500,3000,2500
+2015-06-05,Mango (Raw-Ripe),172,Telangana,36,Khammam,541,2000,2500,2000
+2015-06-01,Mango (Raw-Ripe),172,Telangana,36,Khammam,541,800,1000,800

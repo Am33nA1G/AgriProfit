@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-31,Banana - Green,90,Nagaland,13,Longleng,268,4300,4600,4500
+2015-07-17,Banana - Green,90,Nagaland,13,Longleng,268,7500,7700,7600

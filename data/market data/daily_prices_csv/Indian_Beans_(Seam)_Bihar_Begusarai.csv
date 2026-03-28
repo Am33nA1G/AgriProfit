@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-22,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1800,2000,1900
+2023-02-09,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1900,2150,2000
+2023-02-06,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1600,1800,1700
+2023-02-05,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1900,2100,2000
+2023-02-03,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1700,1900,1800
+2023-01-31,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1500,1800,1600
+2023-01-28,Indian Beans (Seam),299,Bihar,10,Begusarai,222,2100,2300,2200
+2023-01-25,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1700,2000,1800
+2023-01-11,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1500,1700,1600
+2023-01-10,Indian Beans (Seam),299,Bihar,10,Begusarai,222,2100,2350,2250
+2023-01-07,Indian Beans (Seam),299,Bihar,10,Begusarai,222,2200,2450,2300
+2023-01-06,Indian Beans (Seam),299,Bihar,10,Begusarai,222,2000,2200,2100
+2023-01-01,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1500,1700,1600
+2022-12-28,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1000,1200,1100
+2022-12-27,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1400,1600,1500
+2022-12-25,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1600,1800,1700
+2022-12-21,Indian Beans (Seam),299,Bihar,10,Begusarai,222,2200,2400,2300
+2022-12-18,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1600,1800,1700
+2022-12-08,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1500,1800,1700
+2022-11-20,Indian Beans (Seam),299,Bihar,10,Begusarai,222,1900,2100,2000

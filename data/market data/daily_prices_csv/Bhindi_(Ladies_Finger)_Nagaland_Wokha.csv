@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-06,Bhindi (Ladies Finger),85,Nagaland,13,Wokha,264,2500,3000,2800
+2015-07-16,Bhindi (Ladies Finger),85,Nagaland,13,Wokha,264,2500,3000,2800
+2015-07-09,Bhindi (Ladies Finger),85,Nagaland,13,Wokha,264,2500,3000,2800
+2015-07-04,Bhindi (Ladies Finger),85,Nagaland,13,Wokha,264,2000,2500,2300
+2015-07-02,Bhindi (Ladies Finger),85,Nagaland,13,Wokha,264,2800,3200,3000

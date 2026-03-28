@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-27,Yam,244,Meghalaya,17,West Garo Hills,293,2200,2500,2300
+2018-10-20,Yam,244,Meghalaya,17,West Garo Hills,293,2200,2500,2300
+2018-10-13,Yam,244,Meghalaya,17,West Garo Hills,293,2300,2500,2400
+2018-10-06,Yam,244,Meghalaya,17,West Garo Hills,293,2400,2500,2400
+2018-09-29,Yam,244,Meghalaya,17,West Garo Hills,293,2000,2200,2000
+2018-09-22,Yam,244,Meghalaya,17,West Garo Hills,293,2200,2400,2200
+2018-09-15,Yam,244,Meghalaya,17,West Garo Hills,293,2000,2200,2000
+2015-11-27,Yam,244,Meghalaya,17,West Garo Hills,293,600,1000,800
+2015-11-20,Yam,244,Meghalaya,17,West Garo Hills,293,1200,1500,1300
+2015-11-06,Yam,244,Meghalaya,17,West Garo Hills,293,1500,2500,2000
+2015-10-30,Yam,244,Meghalaya,17,West Garo Hills,293,1500,2000,1700
+2015-10-16,Yam,244,Meghalaya,17,West Garo Hills,293,2000,3000,2900
+2015-10-09,Yam,244,Meghalaya,17,West Garo Hills,293,1500,2000,1900

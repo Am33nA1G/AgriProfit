@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-29,Wood,203,Karnataka,29,Tumkur,571,1800,2000,1920
+2016-03-31,Wood,203,Karnataka,29,Tumkur,571,1200,1650,1600
+2016-03-28,Wood,203,Karnataka,29,Tumkur,571,1550,1700,1650

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-18,Ajwan,137,Rajasthan,8,Nagaur,112,1800,1900,1850
+2019-03-27,Ajwan,137,Rajasthan,8,Nagaur,112,2011,2011,2011
+2017-03-15,Ajwan,137,Rajasthan,8,Nagaur,112,1325,1350,1335
+2016-04-15,Ajwan,137,Rajasthan,8,Nagaur,112,3950,3950,3950
+2015-06-23,Ajwan,137,Rajasthan,8,Nagaur,112,1050,1050,1050
+2015-05-12,Ajwan,137,Rajasthan,8,Nagaur,112,8000,8000,8000

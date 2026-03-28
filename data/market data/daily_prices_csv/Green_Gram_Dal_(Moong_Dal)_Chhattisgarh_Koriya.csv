@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-30,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Koriya,400,4000,4000,4000
+2019-02-28,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Koriya,400,4000,4000,4000
+2018-12-31,Green Gram Dal (Moong Dal),265,Chhattisgarh,22,Koriya,400,3000,3000,3000

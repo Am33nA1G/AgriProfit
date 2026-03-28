@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-08,Wheat,1,Odisha,21,Kalahandi,395,1550,1600,1600
+2016-04-28,Wheat,1,Odisha,21,Kalahandi,395,2000,2500,2500
+2016-04-05,Wheat,1,Odisha,21,Kalahandi,395,1550,1650,1650
+2016-02-26,Wheat,1,Odisha,21,Kalahandi,395,2000,2500,2200
+2015-11-24,Wheat,1,Odisha,21,Kalahandi,395,1450,1500,1500
+2015-11-02,Wheat,1,Odisha,21,Kalahandi,395,1450,1550,1550
+2015-10-10,Wheat,1,Odisha,21,Kalahandi,395,1450,1500,1500
+2015-09-28,Wheat,1,Odisha,21,Kalahandi,395,1450,1550,1550
+2015-09-21,Wheat,1,Odisha,21,Kalahandi,395,1450,1600,1600
+2015-09-09,Wheat,1,Odisha,21,Kalahandi,395,1450,1500,1500
+2015-08-31,Wheat,1,Odisha,21,Kalahandi,395,1450,1500,1500
+2015-08-07,Wheat,1,Odisha,21,Kalahandi,395,1500,1600,1600
+2015-08-05,Wheat,1,Odisha,21,Kalahandi,395,1450,1550,1500
+2015-08-01,Wheat,1,Odisha,21,Kalahandi,395,1450,1550,1550
+2015-06-22,Wheat,1,Odisha,21,Kalahandi,395,1500,1600,1600

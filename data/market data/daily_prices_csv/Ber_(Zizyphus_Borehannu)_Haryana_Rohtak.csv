@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-14,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,2000,4000,3000
+2023-02-28,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,2000,4000,3000
+2019-02-02,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,1000,1500,1200
+2015-03-19,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,800,1500,900
+2015-03-18,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,500,1000,800
+2015-03-09,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,800,1000,900
+2015-03-04,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,500,800,600
+2015-02-24,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,500,1000,600
+2015-02-23,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,500,1000,800
+2015-02-06,Ber (Zizyphus/Borehannu),357,Haryana,6,Rohtak,82,1000,1500,1500

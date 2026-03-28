@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-07,Peas (Dry),347,Madhya Pradesh,23,Rewa,430,3511,3675,3511
+2023-03-21,Peas (Dry),347,Madhya Pradesh,23,Rewa,430,3873,3873,3873
+2023-03-14,Peas (Dry),347,Madhya Pradesh,23,Rewa,430,3543,3543,3543
+2022-11-29,Peas (Dry),347,Madhya Pradesh,23,Rewa,430,1700,1700,1700

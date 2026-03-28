@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-10,Linseed,67,Uttar Pradesh,9,Bahraich,180,4500,4600,4600
+2019-05-09,Linseed,67,Uttar Pradesh,9,Bahraich,180,4500,4600,4600
+2019-03-13,Linseed,67,Uttar Pradesh,9,Bahraich,180,4320,4370,4350
+2019-01-14,Linseed,67,Uttar Pradesh,9,Bahraich,180,4200,4500,4300
+2018-11-29,Linseed,67,Uttar Pradesh,9,Bahraich,180,3940,3975,3960
+2017-06-29,Linseed,67,Uttar Pradesh,9,Bahraich,180,4130,4170,4150

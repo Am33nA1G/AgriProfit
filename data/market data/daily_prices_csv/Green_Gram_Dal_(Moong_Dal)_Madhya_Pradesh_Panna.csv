@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-13,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Panna,426,7250,7250,7250
+2022-12-08,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Panna,426,5000,5050,5040
+2022-07-22,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Panna,426,4350,4400,4380
+2019-02-06,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Panna,426,4500,6950,4550
+2019-02-05,Green Gram Dal (Moong Dal),265,Madhya Pradesh,23,Panna,426,4500,4630,4600

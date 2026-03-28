@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-08,Maize,4,Haryana,6,Faridabad,88,600,900,750
+2016-09-07,Maize,4,Haryana,6,Faridabad,88,600,900,750
+2016-08-10,Maize,4,Haryana,6,Faridabad,88,600,1000,800
+2015-09-30,Maize,4,Haryana,6,Faridabad,88,1500,,
+2015-06-09,Maize,4,Haryana,6,Faridabad,88,1400,,
+2015-06-02,Maize,4,Haryana,6,Faridabad,88,1600,,

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-19,Big Gram,113,Madhya Pradesh,23,Shahdol,460,3300,3300,3300
+2015-04-19,Big Gram,113,Madhya Pradesh,23,Shahdol,460,3200,3200,3200
+2015-04-15,Big Gram,113,Madhya Pradesh,23,Shahdol,460,3260,3260,3260
+2015-03-13,Big Gram,113,Madhya Pradesh,23,Shahdol,460,5500,5500,5500
+2015-02-10,Big Gram,113,Madhya Pradesh,23,Shahdol,460,2100,2100,2100
+2015-01-22,Big Gram,113,Madhya Pradesh,23,Shahdol,460,2150,2150,2150

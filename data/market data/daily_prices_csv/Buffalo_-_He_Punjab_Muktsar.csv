@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-19,Buffalo - He,216,Punjab,3,Muktsar,44,1100,1500,1300
+2024-01-16,Buffalo - He,216,Punjab,3,Muktsar,44,1700,2000,1800
+2024-01-02,Buffalo - He,216,Punjab,3,Muktsar,44,8000,8400,8200
+2023-12-27,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2200,2100
+2023-12-23,Buffalo - He,216,Punjab,3,Muktsar,44,2100,2400,2200
+2023-12-22,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2200,2100
+2023-12-20,Buffalo - He,216,Punjab,3,Muktsar,44,2100,2500,2300
+2023-12-19,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2400,2200
+2023-12-16,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2300,2100
+2023-12-14,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2400,2200
+2023-12-13,Buffalo - He,216,Punjab,3,Muktsar,44,1800,2500,2000
+2023-12-11,Buffalo - He,216,Punjab,3,Muktsar,44,2200,2600,2400
+2023-12-09,Buffalo - He,216,Punjab,3,Muktsar,44,2100,2400,2200
+2023-12-07,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2400,2200
+2023-12-06,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2400,2200
+2023-12-04,Buffalo - He,216,Punjab,3,Muktsar,44,2000,2500,2200
+2023-12-01,Buffalo - He,216,Punjab,3,Muktsar,44,1800,2200,2000

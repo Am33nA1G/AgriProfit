@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-01,Water Melon,73,Andhra Pradesh,28,Kurnool,552,400,500,450
+2015-05-12,Water Melon,73,Andhra Pradesh,28,Kurnool,552,400,500,450
+2015-05-11,Water Melon,73,Andhra Pradesh,28,Kurnool,552,400,500,450
+2015-05-01,Water Melon,73,Andhra Pradesh,28,Kurnool,552,400,500,450
+2015-04-15,Water Melon,73,Andhra Pradesh,28,Kurnool,552,300,500,400

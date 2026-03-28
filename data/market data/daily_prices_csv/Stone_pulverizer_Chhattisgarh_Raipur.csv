@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-30,Stone pulverizer,430,Chhattisgarh,22,Raipur,410,8300,9000,8430
+2025-03-31,Stone pulverizer,430,Chhattisgarh,22,Raipur,410,8650,8950,8742
+2025-02-28,Stone pulverizer,430,Chhattisgarh,22,Raipur,410,9650,9850,9771
+2025-01-31,Stone pulverizer,430,Chhattisgarh,22,Raipur,410,6450,6700,6559
+2024-12-31,Stone pulverizer,430,Chhattisgarh,22,Raipur,410,7350,7750,7572

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-10,Ginger (Dry),27,Andhra Pradesh,28,Srikakulam,542,4500,6000,5000
+2016-07-05,Ginger (Dry),27,Andhra Pradesh,28,Srikakulam,542,2000,3000,2500
+2015-10-24,Ginger (Dry),27,Andhra Pradesh,28,Srikakulam,542,1000,1500,1200
+2015-07-02,Ginger (Dry),27,Andhra Pradesh,28,Srikakulam,542,4000,5000,4500
+2015-06-28,Ginger (Dry),27,Andhra Pradesh,28,Srikakulam,542,5000,6000,5500

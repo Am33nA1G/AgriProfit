@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "census_district_id": 588,
+      "census_district_name": "Kasaragod"
+    },
+    {
+      "census_district_id": 589,
+      "census_district_name": "Kannur"
+    },
+    {
+      "census_district_id": 590,
+      "census_district_name": "Wayanad"
+    },
+    {
+      "census_district_id": 591,
+      "census_district_name": "Kozhikode"
+    },
+    {
+      "census_district_id": 592,
+      "census_district_name": "Malappuram"
+    },
+    {
+      "census_district_id": 593,
+      "census_district_name": "Palakkad"
+    },
+    {
+      "census_district_id": 594,
+      "census_district_name": "Thrissur"
+    },
+    {
+      "census_district_id": 595,
+      "census_district_name": "Ernakulam"
+    },
+    {
+      "census_district_id": 596,
+      "census_district_name": "Idukki"
+    },
+    {
+      "census_district_id": 597,
+      "census_district_name": "Kottayam"
+    },
+    {
+      "census_district_id": 598,
+      "census_district_name": "Alappuzha"
+    },
+    {
+      "census_district_id": 599,
+      "census_district_name": "Pathanamthitta"
+    },
+    {
+      "census_district_id": 600,
+      "census_district_name": "Kollam"
+    },
+    {
+      "census_district_id": 601,
+      "census_district_name": "Thiruvananthapuram"
+    }
+  ]
+}

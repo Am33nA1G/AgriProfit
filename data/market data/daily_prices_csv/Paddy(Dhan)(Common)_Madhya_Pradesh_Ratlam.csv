@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-02,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Ratlam,434,2600,2600,2600
+2024-12-31,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Ratlam,434,1400,1400,1400
+2024-04-03,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Ratlam,434,2400,2400,2400

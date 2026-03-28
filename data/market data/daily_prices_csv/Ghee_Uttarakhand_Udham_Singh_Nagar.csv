@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-27,Ghee,249,Uttarakhand,5,Udham Singh Nagar,67,36000,38000,37000
+2018-09-23,Ghee,249,Uttarakhand,5,Udham Singh Nagar,67,37000,39000,38000
+2018-09-18,Ghee,249,Uttarakhand,5,Udham Singh Nagar,67,37000,38000,37800

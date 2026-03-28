@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-15,Plum,329,Madhya Pradesh,23,Tikamgarh,424,700,800,800
+2024-11-14,Plum,329,Madhya Pradesh,23,Tikamgarh,424,700,800,725
+2024-05-17,Plum,329,Madhya Pradesh,23,Tikamgarh,424,680,710,710
+2024-05-14,Plum,329,Madhya Pradesh,23,Tikamgarh,424,750,780,780
+2024-04-22,Plum,329,Madhya Pradesh,23,Tikamgarh,424,600,690,600
+2024-04-08,Plum,329,Madhya Pradesh,23,Tikamgarh,424,600,785,650
+2024-02-16,Plum,329,Madhya Pradesh,23,Tikamgarh,424,620,640,620
+2024-02-12,Plum,329,Madhya Pradesh,23,Tikamgarh,424,610,620,610
+2024-02-08,Plum,329,Madhya Pradesh,23,Tikamgarh,424,500,550,500
+2023-12-29,Plum,329,Madhya Pradesh,23,Tikamgarh,424,595,665,595
+2023-12-27,Plum,329,Madhya Pradesh,23,Tikamgarh,424,580,580,580
+2023-12-25,Plum,329,Madhya Pradesh,23,Tikamgarh,424,560,565,560

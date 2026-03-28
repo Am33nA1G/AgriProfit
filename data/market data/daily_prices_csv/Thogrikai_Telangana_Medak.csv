@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-24,Thogrikai,170,Telangana,36,Medak,535,600,1000,900
+2016-05-14,Thogrikai,170,Telangana,36,Medak,535,1200,1200,1200
+2016-04-27,Thogrikai,170,Telangana,36,Medak,535,800,1000,800
+2016-03-30,Thogrikai,170,Telangana,36,Medak,535,400,700,600
+2016-03-29,Thogrikai,170,Telangana,36,Medak,535,300,600,400
+2016-03-26,Thogrikai,170,Telangana,36,Medak,535,250,700,400
+2016-03-12,Thogrikai,170,Telangana,36,Medak,535,600,1000,800
+2016-03-05,Thogrikai,170,Telangana,36,Medak,535,500,1200,1100
+2016-03-04,Thogrikai,170,Telangana,36,Medak,535,600,1000,600
+2016-03-03,Thogrikai,170,Telangana,36,Medak,535,400,1100,500
+2016-03-02,Thogrikai,170,Telangana,36,Medak,535,500,1000,700
+2016-02-27,Thogrikai,170,Telangana,36,Medak,535,900,1200,1100

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-06,Mango,20,Madhya Pradesh,23,Damoh,428,700,1000,850
+2015-07-05,Mango,20,Madhya Pradesh,23,Damoh,428,500,725,650
+2015-07-04,Mango,20,Madhya Pradesh,23,Damoh,428,450,675,550
+2015-07-03,Mango,20,Madhya Pradesh,23,Damoh,428,500,700,650
+2015-07-01,Mango,20,Madhya Pradesh,23,Damoh,428,500,800,550

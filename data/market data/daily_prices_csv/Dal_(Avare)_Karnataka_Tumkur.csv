@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-28,Dal (Avare),91,Karnataka,29,Tumkur,571,3500,3650,3600
+2015-06-30,Dal (Avare),91,Karnataka,29,Tumkur,571,3000,5000,4000
+2015-04-17,Dal (Avare),91,Karnataka,29,Tumkur,571,2200,3000,2500

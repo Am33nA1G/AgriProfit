@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-24,Kulthi (Horse Gram),114,Madhya Pradesh,23,Satna,429,3200,3200,3200
+2016-01-22,Kulthi (Horse Gram),114,Madhya Pradesh,23,Satna,429,3900,3900,3900
+2016-01-20,Kulthi (Horse Gram),114,Madhya Pradesh,23,Satna,429,3988,4015,4000

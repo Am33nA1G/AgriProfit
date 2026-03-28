@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Radish,161,Bihar,10,Katihar,212,2300,2500,2400
+2023-09-05,Radish,161,Bihar,10,Katihar,212,2300,2500,2400
+2023-09-04,Radish,161,Bihar,10,Katihar,212,2300,2500,2400
+2023-09-02,Radish,161,Bihar,10,Katihar,212,2300,2500,2400
+2023-09-01,Radish,161,Bihar,10,Katihar,212,2300,2500,2400
+2023-08-31,Radish,161,Bihar,10,Katihar,212,2800,3000,2900
+2023-08-29,Radish,161,Bihar,10,Katihar,212,3800,4000,3900
+2023-08-28,Radish,161,Bihar,10,Katihar,212,3800,4000,3900
+2022-12-21,Radish,161,Bihar,10,Katihar,212,1500,1500,1500
+2022-12-18,Radish,161,Bihar,10,Katihar,212,2000,2000,2000
+2022-12-17,Radish,161,Bihar,10,Katihar,212,2000,2000,2000
+2022-12-14,Radish,161,Bihar,10,Katihar,212,2500,2500,2500

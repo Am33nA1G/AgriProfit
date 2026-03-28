@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-26,Papaya,72,Bihar,10,Muzaffarpur,216,3300,3500,3400
+2024-01-15,Papaya,72,Bihar,10,Muzaffarpur,216,3000,3200,3100
+2024-01-09,Papaya,72,Bihar,10,Muzaffarpur,216,3200,3400,3300
+2024-01-01,Papaya,72,Bihar,10,Muzaffarpur,216,4000,4200,4100
+2023-12-27,Papaya,72,Bihar,10,Muzaffarpur,216,4200,4400,4300
+2023-12-13,Papaya,72,Bihar,10,Muzaffarpur,216,4500,5000,4800
+2023-12-12,Papaya,72,Bihar,10,Muzaffarpur,216,6000,6200,6100
+2023-12-11,Papaya,72,Bihar,10,Muzaffarpur,216,6000,6200,6100
+2023-12-08,Papaya,72,Bihar,10,Muzaffarpur,216,4500,4700,4600
+2023-12-04,Papaya,72,Bihar,10,Muzaffarpur,216,4500,4700,4600
+2023-12-02,Papaya,72,Bihar,10,Muzaffarpur,216,4500,4700,4600
+2023-12-01,Papaya,72,Bihar,10,Muzaffarpur,216,4000,4200,4100
+2023-09-05,Papaya,72,Bihar,10,Muzaffarpur,216,2650,2750,2700
+2023-09-01,Papaya,72,Bihar,10,Muzaffarpur,216,2650,2950,2750
+2023-08-30,Papaya,72,Bihar,10,Muzaffarpur,216,2500,2700,2600

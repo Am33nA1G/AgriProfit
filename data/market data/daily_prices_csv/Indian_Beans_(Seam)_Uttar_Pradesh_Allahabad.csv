@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-16,Indian Beans (Seam),299,Uttar Pradesh,9,Allahabad,175,2800,3100,3000
+2019-11-19,Indian Beans (Seam),299,Uttar Pradesh,9,Allahabad,175,2750,2850,2800

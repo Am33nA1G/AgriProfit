@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-31,Knool Khol,177,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-12-30,Knool Khol,177,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-12-26,Knool Khol,177,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-12-24,Knool Khol,177,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-12-12,Knool Khol,177,Karnataka,29,Shimoga,568,2800,3000,2900
+2024-12-03,Knool Khol,177,Karnataka,29,Shimoga,568,2000,3000,2500
+2024-10-08,Knool Khol,177,Karnataka,29,Shimoga,568,4000,5000,4500
+2024-09-06,Knool Khol,177,Karnataka,29,Shimoga,568,4000,5000,4500
+2024-08-05,Knool Khol,177,Karnataka,29,Shimoga,568,1500,2000,1750
+2024-07-12,Knool Khol,177,Karnataka,29,Shimoga,568,4000,5000,4500
+2024-07-11,Knool Khol,177,Karnataka,29,Shimoga,568,4000,5000,4500
+2024-07-09,Knool Khol,177,Karnataka,29,Shimoga,568,5000,6000,5500
+2024-07-08,Knool Khol,177,Karnataka,29,Shimoga,568,4600,5000,4800
+2024-05-20,Knool Khol,177,Karnataka,29,Shimoga,568,4500,5000,4800
+2024-05-16,Knool Khol,177,Karnataka,29,Shimoga,568,4600,5000,4800
+2024-05-13,Knool Khol,177,Karnataka,29,Shimoga,568,4400,5000,4950
+2024-03-05,Knool Khol,177,Karnataka,29,Shimoga,568,16,18,17
+2023-11-17,Knool Khol,177,Karnataka,29,Shimoga,568,50,60,55
+2023-10-09,Knool Khol,177,Karnataka,29,Shimoga,568,18,20,19
+2023-09-22,Knool Khol,177,Karnataka,29,Shimoga,568,18,22,20

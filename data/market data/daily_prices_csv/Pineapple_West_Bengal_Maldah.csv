@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-13,Pineapple,21,West Bengal,19,Maldah,332,2470,2520,2500
+2015-08-11,Pineapple,21,West Bengal,19,Maldah,332,1780,1820,1800
+2015-08-06,Pineapple,21,West Bengal,19,Maldah,332,1990,2020,2000
+2015-08-04,Pineapple,21,West Bengal,19,Maldah,332,1990,2020,2000
+2015-07-29,Pineapple,21,West Bengal,19,Maldah,332,2900,3100,3000
+2015-07-28,Pineapple,21,West Bengal,19,Maldah,332,2990,3020,3000
+2015-07-21,Pineapple,21,West Bengal,19,Maldah,332,3990,4020,4000
+2015-07-20,Pineapple,21,West Bengal,19,Maldah,332,1980,2030,2000
+2015-07-19,Pineapple,21,West Bengal,19,Maldah,332,2600,2640,2620
+2015-07-16,Pineapple,21,West Bengal,19,Maldah,332,2230,2320,2300

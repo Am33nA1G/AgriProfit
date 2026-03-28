@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-01,Banana - Green,90,Karnataka,29,Uttara Kannada,563,1195,1267,1200
+2020-05-04,Banana - Green,90,Karnataka,29,Uttara Kannada,563,500,1900,1500
+2020-05-01,Banana - Green,90,Karnataka,29,Uttara Kannada,563,850,1500,1250
+2020-04-29,Banana - Green,90,Karnataka,29,Uttara Kannada,563,700,1500,1200
+2020-04-24,Banana - Green,90,Karnataka,29,Uttara Kannada,563,600,1200,900
+2020-04-17,Banana - Green,90,Karnataka,29,Uttara Kannada,563,5000,8000,7000
+2020-04-13,Banana - Green,90,Karnataka,29,Uttara Kannada,563,500,1200,1000
+2020-04-10,Banana - Green,90,Karnataka,29,Uttara Kannada,563,800,1500,1000
+2020-04-09,Banana - Green,90,Karnataka,29,Uttara Kannada,563,500,1200,1000
+2020-04-08,Banana - Green,90,Karnataka,29,Uttara Kannada,563,800,1600,1400

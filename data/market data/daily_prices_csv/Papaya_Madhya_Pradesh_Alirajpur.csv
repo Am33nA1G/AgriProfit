@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-17,Papaya,72,Madhya Pradesh,23,Alirajpur,465,2500,3050,3000
+2023-12-14,Papaya,72,Madhya Pradesh,23,Alirajpur,465,2500,3000,2500
+2023-12-12,Papaya,72,Madhya Pradesh,23,Alirajpur,465,2500,3000,3000
+2023-12-10,Papaya,72,Madhya Pradesh,23,Alirajpur,465,2500,3100,3000
+2023-12-07,Papaya,72,Madhya Pradesh,23,Alirajpur,465,3500,4500,4000
+2023-12-02,Papaya,72,Madhya Pradesh,23,Alirajpur,465,3000,4000,3500

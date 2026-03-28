@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-01,Cowpea (Veg),89,Karnataka,29,Bangalore,572,2000,2400,2200
+2016-02-25,Cowpea (Veg),89,Karnataka,29,Bangalore,572,2000,2400,2200
+2016-02-19,Cowpea (Veg),89,Karnataka,29,Bangalore,572,2000,2400,2200

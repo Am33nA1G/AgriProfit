@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-03,Turmeric,39,Karnataka,29,Bangalore Rural,583,9000,9000,9000
+2016-08-02,Turmeric,39,Karnataka,29,Bangalore Rural,583,9000,9000,9000
+2016-05-27,Turmeric,39,Karnataka,29,Bangalore Rural,583,9200,9200,9200
+2016-04-02,Turmeric,39,Karnataka,29,Bangalore Rural,583,4000,4000,4000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-08,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Rajgarh,442,2440,2440,2440
+2025-05-06,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Rajgarh,442,2450,2450,2450
+2025-03-18,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Rajgarh,442,2530,2530,2530

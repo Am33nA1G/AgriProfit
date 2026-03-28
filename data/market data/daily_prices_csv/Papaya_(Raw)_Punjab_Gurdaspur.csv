@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-28,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2500,3000,2750
+2020-02-17,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2500,3000,2750
+2020-02-13,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2400,2600,2500
+2020-02-10,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2000,2500,2250
+2020-01-18,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2500,3000,2750
+2020-01-10,Papaya (Raw),313,Punjab,3,Gurdaspur,35,1000,1200,1100
+2019-12-21,Papaya (Raw),313,Punjab,3,Gurdaspur,35,2800,3000,2900
+2019-12-11,Papaya (Raw),313,Punjab,3,Gurdaspur,35,3500,4000,3750

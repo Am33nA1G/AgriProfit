@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-01,Indian Beans (Seam),299,Punjab,3,Jalandhar,37,750,1000,900
+2019-06-26,Indian Beans (Seam),299,Punjab,3,Jalandhar,37,300,700,500
+2019-06-25,Indian Beans (Seam),299,Punjab,3,Jalandhar,37,900,1200,1000
+2019-06-23,Indian Beans (Seam),299,Punjab,3,Jalandhar,37,1200,2000,1600

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-13,Bottle gourd,82,Bihar,10,Samastipur,221,400,600,500
+2022-11-06,Bottle gourd,82,Bihar,10,Samastipur,221,800,1000,1000
+2022-09-10,Bottle gourd,82,Bihar,10,Samastipur,221,800,1000,900

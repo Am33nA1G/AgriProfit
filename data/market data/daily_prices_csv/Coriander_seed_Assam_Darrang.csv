@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-31,Coriander seed,108,Assam,18,Darrang,325,4000,4300,4200
+2016-06-29,Coriander seed,108,Assam,18,Darrang,325,4800,5000,4900
+2016-05-11,Coriander seed,108,Assam,18,Darrang,325,6800,7000,6900
+2016-03-16,Coriander seed,108,Assam,18,Darrang,325,4600,4700,4650
+2016-03-02,Coriander seed,108,Assam,18,Darrang,325,4400,4500,4450
+2015-04-15,Coriander seed,108,Assam,18,Darrang,325,4500,5000,4800
+2015-04-01,Coriander seed,108,Assam,18,Darrang,325,4000,5000,4500
+2015-03-25,Coriander seed,108,Assam,18,Darrang,325,5000,5200,5100
+2015-03-11,Coriander seed,108,Assam,18,Darrang,325,4400,4500,4450

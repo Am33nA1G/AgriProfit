@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "census_district_id": 293,
+      "census_district_name": "West Garo Hills"
+    },
+    {
+      "census_district_id": 294,
+      "census_district_name": "East Garo Hills"
+    },
+    {
+      "census_district_id": 295,
+      "census_district_name": "South Garo Hills"
+    },
+    {
+      "census_district_id": 296,
+      "census_district_name": "West Khasi Hills"
+    },
+    {
+      "census_district_id": 297,
+      "census_district_name": "Ribhoi"
+    },
+    {
+      "census_district_id": 298,
+      "census_district_name": "East Khasi Hills"
+    },
+    {
+      "census_district_id": 299,
+      "census_district_name": "Jaintia Hills"
+    }
+  ]
+}

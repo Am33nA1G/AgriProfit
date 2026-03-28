@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-01,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,16000,17300,16650
+2020-04-29,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,14000,26000,22000
+2020-04-18,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,24000,24000,24000
+2020-04-17,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,1825,9090,9000
+2020-04-16,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,20000,21000,20500
+2017-01-30,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,600,17400,8000
+2016-12-31,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,7500,18300,8100
+2016-11-30,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,5800,22500,6900
+2016-10-28,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,6300,21700,7200
+2016-09-29,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,6300,21600,7200
+2016-08-31,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,6000,20300,6800
+2016-07-30,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,6000,17500,6500
+2016-06-30,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,6000,17400,6700
+2016-05-31,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,5000,17900,6300
+2016-04-30,Dry Chillies,132,Karnataka,29,Uttara Kannada,563,5800,16800,6500

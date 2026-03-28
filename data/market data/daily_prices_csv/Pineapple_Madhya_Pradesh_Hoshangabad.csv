@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-05,Pineapple,21,Madhya Pradesh,23,Hoshangabad,449,2960,3090,3000
+2021-03-31,Pineapple,21,Madhya Pradesh,23,Hoshangabad,449,2880,3180,3050
+2021-03-26,Pineapple,21,Madhya Pradesh,23,Hoshangabad,449,2900,3200,3090
+2021-03-25,Pineapple,21,Madhya Pradesh,23,Hoshangabad,449,2400,3200,2850
+2021-03-24,Pineapple,21,Madhya Pradesh,23,Hoshangabad,449,2400,3200,2850

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-30,Capsicum,164,Madhya Pradesh,23,Damoh,428,700,750,750
+2023-06-09,Capsicum,164,Madhya Pradesh,23,Damoh,428,600,600,600
+2023-06-04,Capsicum,164,Madhya Pradesh,23,Damoh,428,1000,1000,1000
+2023-04-14,Capsicum,164,Madhya Pradesh,23,Damoh,428,500,1200,600
+2023-04-03,Capsicum,164,Madhya Pradesh,23,Damoh,428,1000,1000,1000
+2023-03-31,Capsicum,164,Madhya Pradesh,23,Damoh,428,600,600,600
+2023-03-27,Capsicum,164,Madhya Pradesh,23,Damoh,428,1000,1000,1000
+2023-03-24,Capsicum,164,Madhya Pradesh,23,Damoh,428,700,700,700
+2023-02-03,Capsicum,164,Madhya Pradesh,23,Damoh,428,1200,1200,1200
+2022-10-13,Capsicum,164,Madhya Pradesh,23,Damoh,428,700,700,700
+2022-04-29,Capsicum,164,Madhya Pradesh,23,Damoh,428,800,800,800
+2022-04-12,Capsicum,164,Madhya Pradesh,23,Damoh,428,1200,1200,1200
+2022-03-25,Capsicum,164,Madhya Pradesh,23,Damoh,428,1200,1200,1200
+2022-03-05,Capsicum,164,Madhya Pradesh,23,Damoh,428,1500,1500,1500

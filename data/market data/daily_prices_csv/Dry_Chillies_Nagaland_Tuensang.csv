@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-05,Dry Chillies,132,Nagaland,13,Tuensang,267,5100,5400,5200
+2023-05-05,Dry Chillies,132,Nagaland,13,Tuensang,267,1700,2000,1800
+2023-04-28,Dry Chillies,132,Nagaland,13,Tuensang,267,2500,2800,2600
+2023-04-24,Dry Chillies,132,Nagaland,13,Tuensang,267,2400,2800,2600

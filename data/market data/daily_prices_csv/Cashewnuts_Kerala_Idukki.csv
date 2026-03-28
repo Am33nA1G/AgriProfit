@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-18,Cashewnuts,36,Kerala,32,Idukki,596,80000,100000,90000
+2023-06-15,Cashewnuts,36,Kerala,32,Idukki,596,150000,200000,180000
+2023-06-08,Cashewnuts,36,Kerala,32,Idukki,596,200000,350000,300000

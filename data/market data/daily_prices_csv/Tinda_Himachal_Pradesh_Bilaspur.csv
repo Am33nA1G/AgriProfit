@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-05-12,Tinda,349,Himachal Pradesh,2,Bilaspur,30,2500,3000,2800
+2020-06-25,Tinda,349,Himachal Pradesh,2,Bilaspur,30,1500,2000,1800
+2020-06-17,Tinda,349,Himachal Pradesh,2,Bilaspur,30,1600,2000,2000
+2020-06-13,Tinda,349,Himachal Pradesh,2,Bilaspur,30,1500,1900,1800
+2019-05-04,Tinda,349,Himachal Pradesh,2,Bilaspur,30,3000,5000,4000
+2015-09-04,Tinda,349,Himachal Pradesh,2,Bilaspur,30,1000,1500,1200
+2015-08-21,Tinda,349,Himachal Pradesh,2,Bilaspur,30,900,1800,1200
+2015-06-24,Tinda,349,Himachal Pradesh,2,Bilaspur,30,1000,1600,1200

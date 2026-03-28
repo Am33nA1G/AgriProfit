@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-27,Garlic,25,Tamil Nadu,33,Erode,610,10000,12000,12000
+2025-02-26,Garlic,25,Tamil Nadu,33,Erode,610,13000,13500,13500
+2025-02-25,Garlic,25,Tamil Nadu,33,Erode,610,12000,13000,13000
+2025-02-24,Garlic,25,Tamil Nadu,33,Erode,610,12000,13000,13000
+2024-09-12,Garlic,25,Tamil Nadu,33,Erode,610,1200,1600,1600

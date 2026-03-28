@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-26,Castor Seed,123,Karnataka,29,Chikmagalur,570,4582,4582,4582
+2021-07-13,Castor Seed,123,Karnataka,29,Chikmagalur,570,4500,4500,4500
+2021-04-01,Castor Seed,123,Karnataka,29,Chikmagalur,570,3490,3490,3490
+2021-02-18,Castor Seed,123,Karnataka,29,Chikmagalur,570,3300,3300,3300
+2020-07-16,Castor Seed,123,Karnataka,29,Chikmagalur,570,3000,3000,3000
+2018-07-20,Castor Seed,123,Karnataka,29,Chikmagalur,570,3290,3290,3290
+2017-03-07,Castor Seed,123,Karnataka,29,Chikmagalur,570,1800,2200,2000
+2015-08-18,Castor Seed,123,Karnataka,29,Chikmagalur,570,3900,4500,3900

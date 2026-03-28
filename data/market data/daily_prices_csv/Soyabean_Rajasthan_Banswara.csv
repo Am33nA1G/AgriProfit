@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-11-20,Soyabean,13,Rajasthan,8,Banswara,125,3399,3399,3399
+2018-11-15,Soyabean,13,Rajasthan,8,Banswara,125,3399,3399,3399
+2018-11-03,Soyabean,13,Rajasthan,8,Banswara,125,3399,3399,3399
+2018-11-01,Soyabean,13,Rajasthan,8,Banswara,125,3399,3399,3399
+2018-10-31,Soyabean,13,Rajasthan,8,Banswara,125,3399,3399,3399

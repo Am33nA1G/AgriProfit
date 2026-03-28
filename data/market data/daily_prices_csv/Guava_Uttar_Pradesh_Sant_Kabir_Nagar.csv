@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-26,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,800,1000,900
+2020-08-24,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,850,750
+2020-08-21,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,750,700
+2020-08-20,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,625,700,650
+2020-08-19,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,600,700,650
+2020-08-16,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,800,700
+2020-08-14,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,750,700
+2020-08-13,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,750,700
+2020-08-11,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,650,800,700
+2020-08-10,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,625,700,650
+2020-08-08,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,700,800,750
+2020-08-07,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,700,800,750
+2020-08-06,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,700,900,800
+2020-08-05,Guava,185,Uttar Pradesh,9,Sant Kabir Nagar,186,700,900,800

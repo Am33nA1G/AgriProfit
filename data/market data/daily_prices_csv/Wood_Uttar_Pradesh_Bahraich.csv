@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-19,Wood,203,Uttar Pradesh,9,Bahraich,180,1000,1100,1050
+2017-07-27,Wood,203,Uttar Pradesh,9,Bahraich,180,400,600,500
+2017-07-16,Wood,203,Uttar Pradesh,9,Bahraich,180,4900,5100,4950
+2017-06-16,Wood,203,Uttar Pradesh,9,Bahraich,180,1000,1200,1100

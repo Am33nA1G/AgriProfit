@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-05,Leafy Vegetable,171,Gujarat,24,Gandhinagar,473,2000,4000,2500
+2025-07-04,Leafy Vegetable,171,Gujarat,24,Gandhinagar,473,2500,3000,2750
+2025-07-03,Leafy Vegetable,171,Gujarat,24,Gandhinagar,473,2500,3500,3000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-23,Grapes,22,Jammu & Kashmir,1,Baramula,8,7000,7500,7250
+2015-03-19,Grapes,22,Jammu & Kashmir,1,Baramula,8,7,,
+2015-03-14,Grapes,22,Jammu & Kashmir,1,Baramula,8,8000,9000,8500
+2015-03-12,Grapes,22,Jammu & Kashmir,1,Baramula,8,7500,7750,7625
+2015-02-05,Grapes,22,Jammu & Kashmir,1,Baramula,8,6000,7000,6500
+2015-02-02,Grapes,22,Jammu & Kashmir,1,Baramula,8,7000,8000,7500
+2015-01-28,Grapes,22,Jammu & Kashmir,1,Baramula,8,6000,7000,6500
+2015-01-14,Grapes,22,Jammu & Kashmir,1,Baramula,8,8000,8000,8000

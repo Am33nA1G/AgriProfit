@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-29,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,250,400,300
+2022-06-28,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,300,450,350
+2022-06-27,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,350,510,400
+2022-06-24,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,500,750,700
+2022-06-23,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,400,700,600
+2022-06-22,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,500,700,600
+2022-06-21,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,400,500,500
+2022-06-20,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,300,470,400
+2022-06-16,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,350,400,400
+2022-06-15,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,400,450,400
+2022-06-14,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,450,500,450
+2022-06-13,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,400,450,400
+2022-06-08,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,200,350,300
+2022-06-07,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,190,340,230
+2022-06-04,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,230,300,250
+2022-06-03,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,250,400,300
+2022-06-02,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,370,500,400
+2022-06-01,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,400,600,500
+2020-06-22,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,600,800,700
+2020-06-20,Cucumber (Kheera),159,Madhya Pradesh,23,Guna,458,600,800,750

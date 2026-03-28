@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-24,Green Peas,50,Madhya Pradesh,23,Balaghat,457,2700,2700,2700
+2025-04-05,Green Peas,50,Madhya Pradesh,23,Balaghat,457,5400,5500,5400
+2018-08-23,Green Peas,50,Madhya Pradesh,23,Balaghat,457,2400,3500,2400
+2018-06-20,Green Peas,50,Madhya Pradesh,23,Balaghat,457,2400,2400,2400
+2017-07-29,Green Peas,50,Madhya Pradesh,23,Balaghat,457,1600,1700,1700

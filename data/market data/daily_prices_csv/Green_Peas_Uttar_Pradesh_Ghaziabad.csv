@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-15,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2980,3100,3040
+2025-04-14,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2900,3080,3010
+2025-04-03,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2500,2825,2660
+2025-04-02,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2500,2820,2650
+2025-03-28,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2400,2500,2440
+2025-03-09,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,1700,1800,1740
+2025-03-08,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,1600,1750,1700
+2025-02-10,Green Peas,50,Uttar Pradesh,9,Ghaziabad,140,2000,2100,2070

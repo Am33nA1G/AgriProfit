@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-14,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3610,3650,3620
+2018-06-01,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3300,3800,3550
+2018-05-31,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3700,3880,3790
+2018-04-03,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,4210,4300,4255
+2018-03-24,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3950,4000,3975
+2018-03-23,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3970,4000,3985
+2018-03-22,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3980,4005,3993
+2017-09-22,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,2950,3120,3060
+2017-09-19,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3100,3110,3105
+2017-09-18,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3100,3115,3108
+2017-09-11,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3120,3295,3240
+2017-09-10,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,3125,3305,3215
+2015-03-25,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,2000,2200,2100
+2015-01-21,Taramira,76,Madhya Pradesh,23,Chhatarpur,425,2200,2300,2275

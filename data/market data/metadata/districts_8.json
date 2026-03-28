@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "census_district_id": 99,
+      "census_district_name": "Ganganagar"
+    },
+    {
+      "census_district_id": 100,
+      "census_district_name": "Hanumangarh"
+    },
+    {
+      "census_district_id": 101,
+      "census_district_name": "Bikaner"
+    },
+    {
+      "census_district_id": 102,
+      "census_district_name": "Churu"
+    },
+    {
+      "census_district_id": 103,
+      "census_district_name": "Jhunjhunun"
+    },
+    {
+      "census_district_id": 104,
+      "census_district_name": "Alwar"
+    },
+    {
+      "census_district_id": 105,
+      "census_district_name": "Bharatpur"
+    },
+    {
+      "census_district_id": 106,
+      "census_district_name": "Dhaulpur"
+    },
+    {
+      "census_district_id": 107,
+      "census_district_name": "Karauli"
+    },
+    {
+      "census_district_id": 108,
+      "census_district_name": "Sawai Madhopur"
+    },
+    {
+      "census_district_id": 109,
+      "census_district_name": "Dausa"
+    },
+    {
+      "census_district_id": 110,
+      "census_district_name": "Jaipur"
+    },
+    {
+      "census_district_id": 111,
+      "census_district_name": "Sikar"
+    },
+    {
+      "census_district_id": 112,
+      "census_district_name": "Nagaur"
+    },
+    {
+      "census_district_id": 113,
+      "census_district_name": "Jodhpur"
+    },
+    {
+      "census_district_id": 114,
+      "census_district_name": "Jaisalmer"
+    },
+    {
+      "census_district_id": 115,
+      "census_district_name": "Barmer"
+    },
+    {
+      "census_district_id": 116,
+      "census_district_name": "Jalor"
+    },
+    {
+      "census_district_id": 117,
+      "census_district_name": "Sirohi"
+    },
+    {
+      "census_district_id": 118,
+      "census_district_name": "Pali"
+    },
+    {
+      "census_district_id": 119,
+      "census_district_name": "Ajmer"
+    },
+    {
+      "census_district_id": 120,
+      "census_district_name": "Tonk"
+    },
+    {
+      "census_district_id": 121,
+      "census_district_name": "Bundi"
+    },
+    {
+      "census_district_id": 122,
+      "census_district_name": "Bhilwara"
+    },
+    {
+      "census_district_id": 123,
+      "census_district_name": "Rajsamand"
+    },
+    {
+      "census_district_id": 124,
+      "census_district_name": "Dungarpur"
+    },
+    {
+      "census_district_id": 125,
+      "census_district_name": "Banswara"
+    },
+    {
+      "census_district_id": 126,
+      "census_district_name": "Chittaurgarh"
+    },
+    {
+      "census_district_id": 127,
+      "census_district_name": "Kota"
+    },
+    {
+      "census_district_id": 128,
+      "census_district_name": "Baran"
+    },
+    {
+      "census_district_id": 129,
+      "census_district_name": "Jhalawar"
+    },
+    {
+      "census_district_id": 130,
+      "census_district_name": "Udaipur"
+    },
+    {
+      "census_district_id": 131,
+      "census_district_name": "Pratapgarh"
+    }
+  ]
+}

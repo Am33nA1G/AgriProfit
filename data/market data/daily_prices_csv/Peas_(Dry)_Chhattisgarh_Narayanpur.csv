@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-25,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,5800,6000,5900
+2024-02-28,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,3300,3500,3400
+2022-12-30,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,6800,7100,7000
+2021-12-30,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,6000,6200,6100
+2020-12-29,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,4300,4500,4400
+2020-11-27,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,5200,5400,5300
+2019-06-26,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,3600,3900,3700
+2017-08-07,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,4500,5000,4800
+2017-05-05,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,4500,5000,4800
+2016-06-22,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,1100,1300,1200
+2016-05-08,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,3500,4000,3800
+2016-04-14,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,3500,4000,3800
+2015-06-19,Peas (Dry),347,Chhattisgarh,22,Narayanpur,415,2800,3000,2900

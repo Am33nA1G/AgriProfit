@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-08,Other Pulses,97,Chhattisgarh,22,Uttar Bastar Kanker,413,3000,4000,3500
+2016-01-15,Other Pulses,97,Chhattisgarh,22,Uttar Bastar Kanker,413,1300,1500,1400
+2015-02-06,Other Pulses,97,Chhattisgarh,22,Uttar Bastar Kanker,413,1900,2000,1950

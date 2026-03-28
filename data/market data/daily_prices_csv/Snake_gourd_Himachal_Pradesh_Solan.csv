@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-01,Snake gourd,156,Himachal Pradesh,2,Solan,31,600,1200,900
+2015-05-30,Snake gourd,156,Himachal Pradesh,2,Solan,31,1000,1200,1100
+2015-05-29,Snake gourd,156,Himachal Pradesh,2,Solan,31,800,1200,1000
+2015-05-28,Snake gourd,156,Himachal Pradesh,2,Solan,31,1200,1500,1350
+2015-05-20,Snake gourd,156,Himachal Pradesh,2,Solan,31,2000,2500,2250

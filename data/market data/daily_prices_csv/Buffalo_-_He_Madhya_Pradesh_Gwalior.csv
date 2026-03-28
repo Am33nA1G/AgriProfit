@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-14,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,700,1000,850
+2023-12-13,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,700,1100,800
+2023-12-12,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,800,1200,1000
+2023-12-10,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,800,1100,950
+2023-12-08,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,800,1000,900
+2023-12-01,Buffalo - He,216,Madhya Pradesh,23,Gwalior,421,1000,1500,1250

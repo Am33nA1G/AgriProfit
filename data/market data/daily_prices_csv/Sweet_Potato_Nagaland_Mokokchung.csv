@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-23,Sweet Potato,152,Nagaland,13,Mokokchung,262,1100,1300,1200
+2018-04-09,Sweet Potato,152,Nagaland,13,Mokokchung,262,1200,1400,1300
+2018-04-02,Sweet Potato,152,Nagaland,13,Mokokchung,262,1200,1400,1300
+2018-03-26,Sweet Potato,152,Nagaland,13,Mokokchung,262,1000,1200,1100
+2018-02-05,Sweet Potato,152,Nagaland,13,Mokokchung,262,1000,1200,1100
+2018-01-22,Sweet Potato,152,Nagaland,13,Mokokchung,262,1500,1700,1600

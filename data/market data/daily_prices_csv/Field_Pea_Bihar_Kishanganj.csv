@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-25,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-22,Field Pea,64,Bihar,10,Kishanganj,210,1600,1700,1650
+2023-02-19,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-18,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-17,Field Pea,64,Bihar,10,Kishanganj,210,1500,1700,1600
+2023-02-13,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-12,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-08,Field Pea,64,Bihar,10,Kishanganj,210,1400,1600,1500
+2023-02-06,Field Pea,64,Bihar,10,Kishanganj,210,1200,1600,1400
+2023-02-05,Field Pea,64,Bihar,10,Kishanganj,210,1200,1500,1400
+2023-01-18,Field Pea,64,Bihar,10,Kishanganj,210,5600,6000,5800
+2022-11-17,Field Pea,64,Bihar,10,Kishanganj,210,11000,11300,11200
+2022-11-14,Field Pea,64,Bihar,10,Kishanganj,210,10500,10800,10700
+2022-11-10,Field Pea,64,Bihar,10,Kishanganj,210,10500,10700,10600
+2022-11-08,Field Pea,64,Bihar,10,Kishanganj,210,11200,11400,11300
+2022-04-24,Field Pea,64,Bihar,10,Kishanganj,210,2200,2500,2300
+2022-04-02,Field Pea,64,Bihar,10,Kishanganj,210,3000,3400,3200
+2022-03-14,Field Pea,64,Bihar,10,Kishanganj,210,1300,1600,1500
+2022-03-04,Field Pea,64,Bihar,10,Kishanganj,210,4000,5000,4500
+2022-02-24,Field Pea,64,Bihar,10,Kishanganj,210,2400,2800,2500

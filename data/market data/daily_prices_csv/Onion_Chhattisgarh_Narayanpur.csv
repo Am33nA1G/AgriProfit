@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-28,Onion,23,Chhattisgarh,22,Narayanpur,415,1100,1300,1200
+2022-12-30,Onion,23,Chhattisgarh,22,Narayanpur,415,1800,2100,2000
+2021-12-30,Onion,23,Chhattisgarh,22,Narayanpur,415,2200,2400,2300
+2020-11-27,Onion,23,Chhattisgarh,22,Narayanpur,415,2100,2300,2200
+2019-06-27,Onion,23,Chhattisgarh,22,Narayanpur,415,900,1100,1000
+2017-05-07,Onion,23,Chhattisgarh,22,Narayanpur,415,800,1000,900
+2016-06-24,Onion,23,Chhattisgarh,22,Narayanpur,415,1200,1500,1400
+2016-04-14,Onion,23,Chhattisgarh,22,Narayanpur,415,1500,2000,1800

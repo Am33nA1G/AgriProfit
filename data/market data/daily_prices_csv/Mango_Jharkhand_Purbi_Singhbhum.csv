@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-21,Mango,20,Jharkhand,20,Purbi Singhbhum,357,2400,2600,2500
+2017-08-01,Mango,20,Jharkhand,20,Purbi Singhbhum,357,10000,11500,11200
+2017-07-14,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3400,3600,3500
+2017-07-12,Mango,20,Jharkhand,20,Purbi Singhbhum,357,2800,3000,2900
+2017-07-10,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3400,3800,3600
+2017-07-08,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3000,3400,3200
+2017-07-04,Mango,20,Jharkhand,20,Purbi Singhbhum,357,5000,5500,5300
+2017-07-03,Mango,20,Jharkhand,20,Purbi Singhbhum,357,5000,5500,5200
+2017-06-27,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3300,3800,3600
+2017-06-22,Mango,20,Jharkhand,20,Purbi Singhbhum,357,4000,4500,4200
+2017-06-21,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3300,3800,3500
+2017-06-20,Mango,20,Jharkhand,20,Purbi Singhbhum,357,3500,3900,3600
+2017-06-19,Mango,20,Jharkhand,20,Purbi Singhbhum,357,4000,4600,4400
+2017-06-17,Mango,20,Jharkhand,20,Purbi Singhbhum,357,4500,5200,5000
+2017-06-16,Mango,20,Jharkhand,20,Purbi Singhbhum,357,5500,6000,5800

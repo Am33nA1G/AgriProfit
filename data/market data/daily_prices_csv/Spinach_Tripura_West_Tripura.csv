@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-06,Spinach,342,Tripura,16,West Tripura,289,900,1000,970
+2020-02-02,Spinach,342,Tripura,16,West Tripura,289,960,1000,975
+2020-01-30,Spinach,342,Tripura,16,West Tripura,289,900,1000,950
+2020-01-26,Spinach,342,Tripura,16,West Tripura,289,1000,1100,1050
+2020-01-23,Spinach,342,Tripura,16,West Tripura,289,1000,1200,1100
+2020-01-19,Spinach,342,Tripura,16,West Tripura,289,900,1000,940
+2020-01-12,Spinach,342,Tripura,16,West Tripura,289,1400,1500,1480
+2020-01-09,Spinach,342,Tripura,16,West Tripura,289,1300,1400,1350
+2020-01-05,Spinach,342,Tripura,16,West Tripura,289,1300,1500,1450

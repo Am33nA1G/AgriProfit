@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-11,Green Chilli,87,Andhra Pradesh,28,Kurnool,552,1600,1600,1600
+2015-11-07,Green Chilli,87,Andhra Pradesh,28,Kurnool,552,1400,1400,1400
+2015-10-27,Green Chilli,87,Andhra Pradesh,28,Kurnool,552,1400,1800,1600

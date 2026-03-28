@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-19,Spinach,342,Gujarat,24,Surat,492,550,550,550
+2019-02-07,Spinach,342,Gujarat,24,Surat,492,250,500,375
+2019-01-30,Spinach,342,Gujarat,24,Surat,492,750,1125,937
+2019-01-29,Spinach,342,Gujarat,24,Surat,492,1325,1325,1325
+2019-01-25,Spinach,342,Gujarat,24,Surat,492,300,300,300

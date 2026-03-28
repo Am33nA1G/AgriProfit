@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-31,Castor Seed,123,Madhya Pradesh,23,Harda,448,2150,2150,2150
+2017-05-24,Castor Seed,123,Madhya Pradesh,23,Harda,448,2550,2550,2550
+2017-04-06,Castor Seed,123,Madhya Pradesh,23,Harda,448,2200,2200,2200
+2017-03-23,Castor Seed,123,Madhya Pradesh,23,Harda,448,1101,3711,1101
+2016-05-23,Castor Seed,123,Madhya Pradesh,23,Harda,448,2500,2500,2500

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-27,Masur Dal,259,Haryana,6,Sirsa,79,5400,5600,5400
+2016-12-15,Masur Dal,259,Haryana,6,Sirsa,79,5950,5950,5950
+2016-12-07,Masur Dal,259,Haryana,6,Sirsa,79,6100,6100,6100
+2016-12-05,Masur Dal,259,Haryana,6,Sirsa,79,6021,6021,6021

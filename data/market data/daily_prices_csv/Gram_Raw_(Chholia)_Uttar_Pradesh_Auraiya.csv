@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-18,Gram Raw (Chholia),359,Uttar Pradesh,9,Auraiya,162,3900,3990,3950
+2018-07-17,Gram Raw (Chholia),359,Uttar Pradesh,9,Auraiya,162,3000,3300,3300
+2018-01-18,Gram Raw (Chholia),359,Uttar Pradesh,9,Auraiya,162,4500,5500,5500

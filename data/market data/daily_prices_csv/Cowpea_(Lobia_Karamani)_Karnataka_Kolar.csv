@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-26,Cowpea (Lobia/Karamani),92,Karnataka,29,Kolar,581,8000,9000,8500
+2017-11-13,Cowpea (Lobia/Karamani),92,Karnataka,29,Kolar,581,5600,6000,5690
+2017-06-01,Cowpea (Lobia/Karamani),92,Karnataka,29,Kolar,581,6400,6600,6500

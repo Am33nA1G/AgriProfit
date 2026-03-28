@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-13,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2017-03-16,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,1000,1200,1100
+2017-03-07,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,1200,1400,1300
+2017-02-27,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2017-02-22,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2017-02-18,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2016-04-08,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,600,800,700
+2016-03-26,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2016-03-22,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2016-03-21,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,800,1000,900
+2016-02-24,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,1200,1500,1300
+2016-02-20,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,1200,1500,1300
+2015-02-25,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,2000,2500,2250
+2015-01-01,Onion Green,358,Himachal Pradesh,2,Sirmaur,32,1800,2000,1900

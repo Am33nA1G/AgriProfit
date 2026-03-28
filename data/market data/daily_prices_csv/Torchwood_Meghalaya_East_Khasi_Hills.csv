@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-09,Torchwood,323,Meghalaya,17,East Khasi Hills,298,2000,2000,2000
+2025-09-23,Torchwood,323,Meghalaya,17,East Khasi Hills,298,1500,1500,1500
+2025-09-22,Torchwood,323,Meghalaya,17,East Khasi Hills,298,1400,1500,1500
+2025-09-17,Torchwood,323,Meghalaya,17,East Khasi Hills,298,1400,1500,1400

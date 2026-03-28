@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-06,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,9000,9600,9500
+2016-05-09,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,9500,10500,10000
+2016-04-16,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,9300,10500,10000
+2016-03-16,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,9500,10200,10100
+2016-02-24,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,5275,6500,6400
+2016-02-17,Green Gram Dal (Moong Dal),265,Andhra Pradesh,28,Krishna,547,8800,9300,9200

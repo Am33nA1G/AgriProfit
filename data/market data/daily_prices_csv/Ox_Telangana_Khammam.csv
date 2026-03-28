@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-07,Ox,213,Telangana,36,Khammam,541,200,500,300
+2018-02-26,Ox,213,Telangana,36,Khammam,541,1000,1000,1000
+2016-06-19,Ox,213,Telangana,36,Khammam,541,100,100,100

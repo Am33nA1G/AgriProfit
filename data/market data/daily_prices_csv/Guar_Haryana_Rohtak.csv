@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-18,Guar,75,Haryana,6,Rohtak,82,3200,3500,3500
+2015-02-18,Guar,75,Haryana,6,Rohtak,82,3501,3501,3501
+2015-02-11,Guar,75,Haryana,6,Rohtak,82,3049,3452,3452
+2015-02-10,Guar,75,Haryana,6,Rohtak,82,3200,3431,3431
+2015-02-09,Guar,75,Haryana,6,Rohtak,82,3300,3701,3300
+2015-01-30,Guar,75,Haryana,6,Rohtak,82,3500,,3562
+2015-01-29,Guar,75,Haryana,6,Rohtak,82,3600,,3699

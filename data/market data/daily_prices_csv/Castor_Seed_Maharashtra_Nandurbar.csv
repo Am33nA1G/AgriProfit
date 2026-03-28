@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-02,Castor Seed,123,Maharashtra,27,Nandurbar,497,2840,3140,3020
+2020-06-01,Castor Seed,123,Maharashtra,27,Nandurbar,497,2800,3210,3000
+2020-05-29,Castor Seed,123,Maharashtra,27,Nandurbar,497,2840,3200,3060
+2020-05-27,Castor Seed,123,Maharashtra,27,Nandurbar,497,2950,3210,3100
+2020-05-26,Castor Seed,123,Maharashtra,27,Nandurbar,497,2850,3160,3100
+2020-05-23,Castor Seed,123,Maharashtra,27,Nandurbar,497,2900,3200,3110
+2020-05-22,Castor Seed,123,Maharashtra,27,Nandurbar,497,2920,3210,3150
+2020-05-21,Castor Seed,123,Maharashtra,27,Nandurbar,497,2950,3260,3100
+2020-05-20,Castor Seed,123,Maharashtra,27,Nandurbar,497,2980,3300,3180
+2020-05-19,Castor Seed,123,Maharashtra,27,Nandurbar,497,3000,3320,3160
+2020-05-18,Castor Seed,123,Maharashtra,27,Nandurbar,497,3240,3360,3280
+2020-05-16,Castor Seed,123,Maharashtra,27,Nandurbar,497,3100,3240,3160
+2020-05-15,Castor Seed,123,Maharashtra,27,Nandurbar,497,3220,3380,3300
+2018-02-12,Castor Seed,123,Maharashtra,27,Nandurbar,497,3600,3770,3700
+2018-01-16,Castor Seed,123,Maharashtra,27,Nandurbar,497,3570,3770,3600
+2017-02-03,Castor Seed,123,Maharashtra,27,Nandurbar,497,3700,3700,3700
+2016-03-02,Castor Seed,123,Maharashtra,27,Nandurbar,497,2700,3000,2800
+2015-12-09,Castor Seed,123,Maharashtra,27,Nandurbar,497,3325,3325,3325
+2015-08-18,Castor Seed,123,Maharashtra,27,Nandurbar,497,3100,3100,3100

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-24,Linseed,67,Chhattisgarh,22,Korba,404,5100,5100,5100
+2021-01-01,Linseed,67,Chhattisgarh,22,Korba,404,5200,5200,5200
+2020-10-28,Linseed,67,Chhattisgarh,22,Korba,404,4050,4050,4050
+2020-08-14,Linseed,67,Chhattisgarh,22,Korba,404,5200,5200,5200
+2020-08-08,Linseed,67,Chhattisgarh,22,Korba,404,5200,5200,5200
+2020-07-13,Linseed,67,Chhattisgarh,22,Korba,404,4000,4000,4000
+2019-11-22,Linseed,67,Chhattisgarh,22,Korba,404,5000,5000,5000
+2019-11-07,Linseed,67,Chhattisgarh,22,Korba,404,5000,5000,5000
+2019-10-18,Linseed,67,Chhattisgarh,22,Korba,404,5000,5000,5000
+2019-08-27,Linseed,67,Chhattisgarh,22,Korba,404,5000,5000,5000
+2019-02-14,Linseed,67,Chhattisgarh,22,Korba,404,4000,4000,4000
+2017-09-19,Linseed,67,Chhattisgarh,22,Korba,404,4500,4500,4500
+2015-02-26,Linseed,67,Chhattisgarh,22,Korba,404,3000,3000,3000
+2015-01-29,Linseed,67,Chhattisgarh,22,Korba,404,4000,4000,4000

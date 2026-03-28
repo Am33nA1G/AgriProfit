@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-09,Copra,129,Karnataka,29,Uttara Kannada,563,7591,7591,7591
+2016-11-30,Copra,129,Karnataka,29,Uttara Kannada,563,8200,8200,8200
+2016-10-28,Copra,129,Karnataka,29,Uttara Kannada,563,8100,8100,8100
+2016-07-30,Copra,129,Karnataka,29,Uttara Kannada,563,9100,9100,9100
+2016-05-31,Copra,129,Karnataka,29,Uttara Kannada,563,9800,9800,9800

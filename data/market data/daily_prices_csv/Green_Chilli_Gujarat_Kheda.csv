@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-10,Green Chilli,87,Gujarat,24,Kheda,483,700,800,750
+2015-02-05,Green Chilli,87,Gujarat,24,Kheda,483,650,750,700
+2015-01-30,Green Chilli,87,Gujarat,24,Kheda,483,500,650,600
+2015-01-29,Green Chilli,87,Gujarat,24,Kheda,483,600,800,700
+2015-01-23,Green Chilli,87,Gujarat,24,Kheda,483,550,650,600

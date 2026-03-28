@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-04,Turmeric,39,Maharashtra,27,Buldana,500,10200,11300,10750
+2025-09-27,Turmeric,39,Maharashtra,27,Buldana,500,10000,11000,10500
+2025-09-20,Turmeric,39,Maharashtra,27,Buldana,500,10200,11100,10650
+2025-09-13,Turmeric,39,Maharashtra,27,Buldana,500,10400,11475,10937
+2025-08-02,Turmeric,39,Maharashtra,27,Buldana,500,10500,11675,11087
+2025-07-19,Turmeric,39,Maharashtra,27,Buldana,500,10500,11700,11100
+2025-06-28,Turmeric,39,Maharashtra,27,Buldana,500,10900,12000,11450
+2025-06-21,Turmeric,39,Maharashtra,27,Buldana,500,1100,12300,11650
+2025-06-09,Turmeric,39,Maharashtra,27,Buldana,500,11300,13000,12150
+2025-05-31,Turmeric,39,Maharashtra,27,Buldana,500,11300,12800,12050
+2025-05-24,Turmeric,39,Maharashtra,27,Buldana,500,11000,12225,11612
+2025-05-17,Turmeric,39,Maharashtra,27,Buldana,500,11800,13300,12550
+2025-05-10,Turmeric,39,Maharashtra,27,Buldana,500,11375,12600,11987
+2025-05-03,Turmeric,39,Maharashtra,27,Buldana,500,11500,12725,12112
+2025-04-26,Turmeric,39,Maharashtra,27,Buldana,500,11500,13375,12437
+2025-04-19,Turmeric,39,Maharashtra,27,Buldana,500,11800,13800,12800

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "census_district_id": 35,
+      "census_district_name": "Gurdaspur"
+    },
+    {
+      "census_district_id": 36,
+      "census_district_name": "Kapurthala"
+    },
+    {
+      "census_district_id": 37,
+      "census_district_name": "Jalandhar"
+    },
+    {
+      "census_district_id": 38,
+      "census_district_name": "Hoshiarpur"
+    },
+    {
+      "census_district_id": 39,
+      "census_district_name": "Shahid Bhagat Singh Nagar"
+    },
+    {
+      "census_district_id": 40,
+      "census_district_name": "Fatehgarh Sahib"
+    },
+    {
+      "census_district_id": 41,
+      "census_district_name": "Ludhiana"
+    },
+    {
+      "census_district_id": 42,
+      "census_district_name": "Moga"
+    },
+    {
+      "census_district_id": 43,
+      "census_district_name": "Firozpur"
+    },
+    {
+      "census_district_id": 44,
+      "census_district_name": "Muktsar"
+    },
+    {
+      "census_district_id": 45,
+      "census_district_name": "Faridkot"
+    },
+    {
+      "census_district_id": 46,
+      "census_district_name": "Bathinda"
+    },
+    {
+      "census_district_id": 47,
+      "census_district_name": "Mansa"
+    },
+    {
+      "census_district_id": 48,
+      "census_district_name": "Patiala"
+    },
+    {
+      "census_district_id": 49,
+      "census_district_name": "Amritsar"
+    },
+    {
+      "census_district_id": 50,
+      "census_district_name": "Tarn Taran"
+    },
+    {
+      "census_district_id": 51,
+      "census_district_name": "Rupnagar"
+    },
+    {
+      "census_district_id": 52,
+      "census_district_name": "Sahibzada Ajit Singh Nagar"
+    },
+    {
+      "census_district_id": 53,
+      "census_district_name": "Sangrur"
+    },
+    {
+      "census_district_id": 54,
+      "census_district_name": "Barnala"
+    }
+  ]
+}

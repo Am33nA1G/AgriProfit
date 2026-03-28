@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-19,Orange,18,Karnataka,29,Bangalore Rural,583,4000,4000,4000
+2016-03-01,Orange,18,Karnataka,29,Bangalore Rural,583,2300,2600,2500
+2016-02-25,Orange,18,Karnataka,29,Bangalore Rural,583,4000,4200,4100
+2016-02-23,Orange,18,Karnataka,29,Bangalore Rural,583,2300,2600,2400
+2016-02-18,Orange,18,Karnataka,29,Bangalore Rural,583,4000,4000,4000
+2016-02-10,Orange,18,Karnataka,29,Bangalore Rural,583,2300,2500,2400
+2016-01-14,Orange,18,Karnataka,29,Bangalore Rural,583,1600,1700,1650
+2015-12-09,Orange,18,Karnataka,29,Bangalore Rural,583,1700,1800,1750
+2015-11-07,Orange,18,Karnataka,29,Bangalore Rural,583,2200,2400,2300
+2015-10-17,Orange,18,Karnataka,29,Bangalore Rural,583,2800,3000,2900
+2015-10-14,Orange,18,Karnataka,29,Bangalore Rural,583,3100,3100,3100
+2015-10-06,Orange,18,Karnataka,29,Bangalore Rural,583,6000,6500,6300
+2015-09-23,Orange,18,Karnataka,29,Bangalore Rural,583,4400,4400,4400
+2015-09-16,Orange,18,Karnataka,29,Bangalore Rural,583,4400,4600,4500
+2015-09-02,Orange,18,Karnataka,29,Bangalore Rural,583,5000,5500,5200
+2015-08-19,Orange,18,Karnataka,29,Bangalore Rural,583,5800,5800,5800
+2015-07-24,Orange,18,Karnataka,29,Bangalore Rural,583,6000,6000,6000
+2015-07-09,Orange,18,Karnataka,29,Bangalore Rural,583,5300,5500,5400
+2015-06-06,Orange,18,Karnataka,29,Bangalore Rural,583,6000,6000,6000
+2015-05-29,Orange,18,Karnataka,29,Bangalore Rural,583,5050,5400,5200
+2015-05-22,Orange,18,Karnataka,29,Bangalore Rural,583,5000,5500,5300
+2015-05-21,Orange,18,Karnataka,29,Bangalore Rural,583,5000,5300,5100

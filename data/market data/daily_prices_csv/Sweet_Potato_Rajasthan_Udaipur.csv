@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-09,Sweet Potato,152,Rajasthan,8,Udaipur,130,3000,3000,3000
+2025-04-19,Sweet Potato,152,Rajasthan,8,Udaipur,130,2000,2000,2000
+2025-03-30,Sweet Potato,152,Rajasthan,8,Udaipur,130,1000,1500,1250
+2025-03-20,Sweet Potato,152,Rajasthan,8,Udaipur,130,1500,2000,1750
+2025-03-18,Sweet Potato,152,Rajasthan,8,Udaipur,130,2800,2800,2800
+2025-03-13,Sweet Potato,152,Rajasthan,8,Udaipur,130,2000,2800,2400
+2025-03-10,Sweet Potato,152,Rajasthan,8,Udaipur,130,2000,2800,2400
+2025-03-09,Sweet Potato,152,Rajasthan,8,Udaipur,130,1500,2000,1750
+2025-03-08,Sweet Potato,152,Rajasthan,8,Udaipur,130,2000,2000,2000
+2025-02-24,Sweet Potato,152,Rajasthan,8,Udaipur,130,2000,3000,2500
+2025-02-23,Sweet Potato,152,Rajasthan,8,Udaipur,130,1000,2000,1500
+2025-02-22,Sweet Potato,152,Rajasthan,8,Udaipur,130,1000,2500,1750
+2025-02-21,Sweet Potato,152,Rajasthan,8,Udaipur,130,1000,2000,1500
+2025-02-19,Sweet Potato,152,Rajasthan,8,Udaipur,130,1000,2000,1500

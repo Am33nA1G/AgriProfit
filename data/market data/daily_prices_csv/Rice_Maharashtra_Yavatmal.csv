@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-06,Rice,3,Maharashtra,27,Yavatmal,510,1195,1195,1195
+2016-08-08,Rice,3,Maharashtra,27,Yavatmal,510,1225,1225,1225
+2016-08-03,Rice,3,Maharashtra,27,Yavatmal,510,695,695,695
+2016-06-03,Rice,3,Maharashtra,27,Yavatmal,510,1255,1255,1255
+2016-01-20,Rice,3,Maharashtra,27,Yavatmal,510,700,700,700
+2015-12-16,Rice,3,Maharashtra,27,Yavatmal,510,750,786,786
+2015-01-14,Rice,3,Maharashtra,27,Yavatmal,510,1350,,

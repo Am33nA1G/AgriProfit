@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-27,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,4000,3600
+2023-11-24,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,4000,4000,4000
+2023-11-23,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,4000,3600
+2023-11-22,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,4000,3600
+2023-11-21,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,4000,3700
+2023-11-18,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,3600,3600
+2023-11-16,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3400,4000,3600
+2023-11-15,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3400,4000,3600
+2023-11-10,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3600,4000,3600
+2023-11-09,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3400,4000,3600
+2023-11-07,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3400,4000,3400
+2023-11-02,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3500,3900,3800
+2023-10-20,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3500,3900,3500
+2023-10-19,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3500,3800,3500
+2023-10-18,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,3500,3900,3500
+2023-10-13,Leafy Vegetable,171,Karnataka,29,Chamarajanagar,578,2500,3900,3500

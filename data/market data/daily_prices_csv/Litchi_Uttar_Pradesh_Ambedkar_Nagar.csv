@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-27,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,7300,7600,7400
+2025-06-26,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,7100,7300,7200
+2025-06-25,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,6800,6920,6880
+2025-06-24,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,6840,6950,6900
+2025-06-23,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,6800,6900,6850
+2025-06-21,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,6860,6950,6900
+2025-06-20,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,7060,7200,7140
+2025-06-19,Litchi,351,Uttar Pradesh,9,Ambedkar Nagar,178,7110,7200,7150

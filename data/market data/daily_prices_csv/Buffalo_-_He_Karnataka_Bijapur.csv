@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-15,Buffalo - He,216,Karnataka,29,Bijapur,557,4000,15000,8000
+2015-09-01,Buffalo - He,216,Karnataka,29,Bijapur,557,3000,6000,4500
+2015-08-04,Buffalo - He,216,Karnataka,29,Bijapur,557,3000,10000,6000
+2015-07-04,Buffalo - He,216,Karnataka,29,Bijapur,557,10000,15000,12000
+2015-06-22,Buffalo - He,216,Karnataka,29,Bijapur,557,1500,1500,1500
+2015-05-26,Buffalo - He,216,Karnataka,29,Bijapur,557,3000,6000,4500
+2015-03-10,Buffalo - He,216,Karnataka,29,Bijapur,557,5000,5000,5000

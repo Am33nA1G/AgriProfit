@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-07,Jowar (Sorghum),5,Haryana,6,Mewat,87,5300,5400,5400
+2015-06-30,Jowar (Sorghum),5,Haryana,6,Mewat,87,1500,1500,1500
+2015-01-31,Jowar (Sorghum),5,Haryana,6,Mewat,87,1600,1700,1650

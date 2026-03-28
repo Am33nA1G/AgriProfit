@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-11,Banana - Green,90,Gujarat,24,Porbandar,478,4000,4500,4250
+2025-02-10,Banana - Green,90,Gujarat,24,Porbandar,478,4000,4500,4250
+2025-02-08,Banana - Green,90,Gujarat,24,Porbandar,478,3000,5000,4000
+2025-02-07,Banana - Green,90,Gujarat,24,Porbandar,478,3000,5000,4000
+2025-02-06,Banana - Green,90,Gujarat,24,Porbandar,478,3500,4500,4000
+2025-02-05,Banana - Green,90,Gujarat,24,Porbandar,478,3500,4500,4000
+2025-02-04,Banana - Green,90,Gujarat,24,Porbandar,478,3500,4500,4000
+2025-02-03,Banana - Green,90,Gujarat,24,Porbandar,478,3500,4500,4000
+2025-02-01,Banana - Green,90,Gujarat,24,Porbandar,478,2000,4000,3000
+2025-01-31,Banana - Green,90,Gujarat,24,Porbandar,478,2000,4000,3000
+2025-01-30,Banana - Green,90,Gujarat,24,Porbandar,478,2000,4000,3000
+2025-01-28,Banana - Green,90,Gujarat,24,Porbandar,478,2000,4000,3000
+2024-12-25,Banana - Green,90,Gujarat,24,Porbandar,478,2500,3500,3000

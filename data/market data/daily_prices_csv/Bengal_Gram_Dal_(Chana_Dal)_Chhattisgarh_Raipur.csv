@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-28,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Raipur,410,4000,4000,4000
+2019-04-15,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Raipur,410,3650,3750,3650

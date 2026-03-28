@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-21,Dry Grapes,278,Karnataka,29,Belgaum,555,15900,17000,16100
+2017-04-18,Dry Grapes,278,Karnataka,29,Belgaum,555,180,250,200

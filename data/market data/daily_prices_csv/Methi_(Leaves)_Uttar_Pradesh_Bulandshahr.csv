@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-16,Methi (Leaves),46,Uttar Pradesh,9,Bulandshahr,142,5400,5600,5500
+2022-12-16,Methi (Leaves),46,Uttar Pradesh,9,Bulandshahr,142,1500,1700,1600
+2022-01-27,Methi (Leaves),46,Uttar Pradesh,9,Bulandshahr,142,500,800,600
+2022-01-07,Methi (Leaves),46,Uttar Pradesh,9,Bulandshahr,142,800,1190,1000
+2022-01-04,Methi (Leaves),46,Uttar Pradesh,9,Bulandshahr,142,600,800,700

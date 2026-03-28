@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-24,Sunflower,14,Haryana,6,Yamunanagar,71,2800,2900,2850
+2015-06-19,Sunflower,14,Haryana,6,Yamunanagar,71,2850,2850,2850
+2015-06-16,Sunflower,14,Haryana,6,Yamunanagar,71,2600,2800,2700
+2015-06-15,Sunflower,14,Haryana,6,Yamunanagar,71,2700,2900,2800
+2015-06-14,Sunflower,14,Haryana,6,Yamunanagar,71,2700,2800,2750
+2015-06-10,Sunflower,14,Haryana,6,Yamunanagar,71,2800,2900,2850
+2015-06-09,Sunflower,14,Haryana,6,Yamunanagar,71,2800,2900,2850
+2015-06-08,Sunflower,14,Haryana,6,Yamunanagar,71,2500,2880,2800
+2015-06-06,Sunflower,14,Haryana,6,Yamunanagar,71,2500,2900,2800

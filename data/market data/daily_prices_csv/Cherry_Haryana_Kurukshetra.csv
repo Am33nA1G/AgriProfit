@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-12,Cherry,328,Haryana,6,Kurukshetra,72,3500,4750,4000
+2019-06-29,Cherry,328,Haryana,6,Kurukshetra,72,2100,2100,2100

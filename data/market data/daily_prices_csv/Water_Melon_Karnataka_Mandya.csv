@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-02-24,Water Melon,73,Karnataka,29,Mandya,573,225,225,225
+2018-02-10,Water Melon,73,Karnataka,29,Mandya,573,187,187,187
+2017-06-09,Water Melon,73,Karnataka,29,Mandya,573,600,600,600
+2016-07-20,Water Melon,73,Karnataka,29,Mandya,573,546,546,546
+2016-06-19,Water Melon,73,Karnataka,29,Mandya,573,500,500,500
+2015-10-07,Water Melon,73,Karnataka,29,Mandya,573,500,500,500
+2015-10-03,Water Melon,73,Karnataka,29,Mandya,573,400,400,400
+2015-09-21,Water Melon,73,Karnataka,29,Mandya,573,500,500,500
+2015-07-24,Water Melon,73,Karnataka,29,Mandya,573,468,468,468
+2015-07-03,Water Melon,73,Karnataka,29,Mandya,573,700,700,700
+2015-07-02,Water Melon,73,Karnataka,29,Mandya,573,440,440,440
+2015-06-23,Water Melon,73,Karnataka,29,Mandya,573,300,300,300
+2015-01-29,Water Melon,73,Karnataka,29,Mandya,573,4000,16000,10000

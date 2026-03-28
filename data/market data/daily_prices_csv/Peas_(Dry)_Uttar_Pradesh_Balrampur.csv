@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-11-20,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4470,4525,4500
+2018-11-17,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4500,4550,4530
+2018-11-16,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4500,4555,4530
+2018-11-15,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4500,4575,4540
+2018-11-14,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4520,4600,4560
+2018-11-13,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4550,4610,4580
+2018-11-12,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4550,4610,4580
+2018-11-03,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4600,4655,4630
+2018-11-01,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4570,4625,4600
+2018-10-31,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4550,4605,4580
+2018-10-30,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4550,4600,4570
+2018-10-20,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4410,4500,4450
+2018-10-08,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4310,4400,4350
+2018-10-05,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4320,4370,4350
+2018-10-04,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4305,4380,4340
+2018-10-03,Peas (Dry),347,Uttar Pradesh,9,Balrampur,182,4300,4355,4330

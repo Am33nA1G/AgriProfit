@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-24,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2600,2800,2700
+2025-09-23,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2450,2850,2650
+2021-10-22,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,1930,1950,1940
+2021-10-21,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,1930,1950,1940
+2020-01-13,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2250,2750,2550
+2019-12-28,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,2750,2550
+2019-12-23,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,2850,2650
+2019-12-21,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,2850,2520
+2019-12-18,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2450,2950,2540
+2019-12-17,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,2750,2550
+2019-12-13,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2450,3250,2580
+2019-12-12,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,2700,2460
+2019-12-11,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2350,3200,2500
+2019-12-06,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2250,2600,2340
+2019-12-05,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2250,2800,2350
+2019-12-02,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2200,2400,2300
+2017-12-06,Paddy(Dhan)(Common),2,Uttar Pradesh,9,Meerut,138,2220,3104,2493

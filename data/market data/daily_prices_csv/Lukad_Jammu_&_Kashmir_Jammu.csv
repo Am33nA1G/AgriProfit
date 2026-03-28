@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-19,Lukad,337,Jammu & Kashmir,1,Jammu,21,2500,3000,2750
+2018-04-12,Lukad,337,Jammu & Kashmir,1,Jammu,21,5000,6000,5500
+2018-04-10,Lukad,337,Jammu & Kashmir,1,Jammu,21,3000,3200,3100
+2018-04-09,Lukad,337,Jammu & Kashmir,1,Jammu,21,2500,3000,2750
+2018-04-06,Lukad,337,Jammu & Kashmir,1,Jammu,21,3000,4000,3500
+2018-04-05,Lukad,337,Jammu & Kashmir,1,Jammu,21,3000,4000,3500
+2018-04-03,Lukad,337,Jammu & Kashmir,1,Jammu,21,3000,4000,3500
+2018-03-31,Lukad,337,Jammu & Kashmir,1,Jammu,21,4500,5000,4750
+2018-03-27,Lukad,337,Jammu & Kashmir,1,Jammu,21,4500,5000,4750

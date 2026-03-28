@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-04,Sweet Potato,152,Uttar Pradesh,9,Gonda,183,2750,3000,2800
+2024-01-29,Sweet Potato,152,Uttar Pradesh,9,Gonda,183,2000,2400,2200
+2024-01-28,Sweet Potato,152,Uttar Pradesh,9,Gonda,183,2100,2400,2200
+2024-01-27,Sweet Potato,152,Uttar Pradesh,9,Gonda,183,2000,2200,2100
+2024-01-26,Sweet Potato,152,Uttar Pradesh,9,Gonda,183,1950,2200,2100

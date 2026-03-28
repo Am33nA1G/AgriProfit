@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-26,Guar,75,Haryana,6,Palwal,89,800,1000,900
+2023-06-24,Guar,75,Haryana,6,Palwal,89,1200,1400,1300
+2023-06-21,Guar,75,Haryana,6,Palwal,89,1200,1400,1300
+2023-06-20,Guar,75,Haryana,6,Palwal,89,1000,1200,1100
+2023-06-01,Guar,75,Haryana,6,Palwal,89,1500,1700,1600
+2023-05-29,Guar,75,Haryana,6,Palwal,89,1500,1700,1600

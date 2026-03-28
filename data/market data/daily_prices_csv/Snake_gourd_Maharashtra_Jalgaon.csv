@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-07,Snake gourd,156,Maharashtra,27,Jalgaon,499,1500,1500,1500
+2022-06-23,Snake gourd,156,Maharashtra,27,Jalgaon,499,2000,2000,2000
+2022-06-01,Snake gourd,156,Maharashtra,27,Jalgaon,499,1500,1500,1500
+2022-05-19,Snake gourd,156,Maharashtra,27,Jalgaon,499,1500,1500,1500
+2022-05-18,Snake gourd,156,Maharashtra,27,Jalgaon,499,1000,1000,1000

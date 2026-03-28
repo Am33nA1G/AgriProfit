@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-02,Red Gram,7,Gujarat,24,Ahmedabad,474,3450,3450,3450
+2015-07-11,Red Gram,7,Gujarat,24,Ahmedabad,474,3650,3650,3650
+2015-06-15,Red Gram,7,Gujarat,24,Ahmedabad,474,3205,3650,3428
+2015-06-12,Red Gram,7,Gujarat,24,Ahmedabad,474,5060,7550,6305
+2015-06-09,Red Gram,7,Gujarat,24,Ahmedabad,474,728,728,728
+2015-02-27,Red Gram,7,Gujarat,24,Ahmedabad,474,3320,3320,3320
+2015-02-26,Red Gram,7,Gujarat,24,Ahmedabad,474,3570,3570,3570

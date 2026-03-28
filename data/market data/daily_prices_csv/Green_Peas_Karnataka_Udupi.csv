@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-01,Green Peas,50,Karnataka,29,Udupi,569,3950,4280,3950
+2016-01-12,Green Peas,50,Karnataka,29,Udupi,569,2738,2738,2738
+2015-02-25,Green Peas,50,Karnataka,29,Udupi,569,3050,3050,3050
+2015-01-29,Green Peas,50,Karnataka,29,Udupi,569,3100,3100,3100

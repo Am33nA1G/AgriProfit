@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-23,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,2000,2300,2200
+2022-04-18,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,1500,1800,1600
+2022-04-11,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,2000,3500,3400
+2022-04-09,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,1500,3000,2500
+2022-04-08,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,3000,3500,3200
+2022-03-26,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,2000,3000,2500
+2022-01-29,Knool Khol,177,Jammu & Kashmir,1,Kupwara,1,2500,3500,3000

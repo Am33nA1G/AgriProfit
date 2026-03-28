@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-30,Jowar (Sorghum),5,Gujarat,24,Anand,482,1500,1500,1500
+2019-07-02,Jowar (Sorghum),5,Gujarat,24,Anand,482,1750,2855,2163
+2019-06-10,Jowar (Sorghum),5,Gujarat,24,Anand,482,1750,2180,2013
+2019-05-27,Jowar (Sorghum),5,Gujarat,24,Anand,482,1300,1750,1397
+2018-10-24,Jowar (Sorghum),5,Gujarat,24,Anand,482,1755,2025,1755
+2017-05-24,Jowar (Sorghum),5,Gujarat,24,Anand,482,2000,2000,2000
+2016-08-20,Jowar (Sorghum),5,Gujarat,24,Anand,482,1700,1700,1700
+2015-06-11,Jowar (Sorghum),5,Gujarat,24,Anand,482,1550,1550,1550

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-26,Green Gram (Moong)(Whole),9,Punjab,3,Bathinda,46,8000,8400,8300
+2015-12-19,Green Gram (Moong)(Whole),9,Punjab,3,Bathinda,46,7900,8200,8100
+2015-12-17,Green Gram (Moong)(Whole),9,Punjab,3,Bathinda,46,8000,8200,8150
+2015-12-14,Green Gram (Moong)(Whole),9,Punjab,3,Bathinda,46,7800,8100,8000

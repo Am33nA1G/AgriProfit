@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-28,Maragensu,225,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-08-30,Maragensu,225,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-03-26,Maragensu,225,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-03-17,Maragensu,225,Karnataka,29,Chikmagalur,570,800,800,800
+2015-02-09,Maragensu,225,Karnataka,29,Chikmagalur,570,1000,1000,1000

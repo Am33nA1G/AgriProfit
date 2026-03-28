@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-06,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-29,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-23,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,11000,13000,12000
+2019-03-18,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-09,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,12000,14000,13000
+2018-08-30,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2018-08-27,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2018-08-22,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2018-07-21,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-10-17,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-09-07,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-09-06,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-09-05,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-08-31,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-08-29,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-08-28,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-08-18,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2017-08-14,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2016-07-29,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,12000,10000
+2016-06-15,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,12000,15000,13000
+2015-07-30,Mango,20,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,8500

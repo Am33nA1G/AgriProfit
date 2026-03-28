@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-21,Almond (Badam),325,West Bengal,19,Darjiling,327,4000,6000,5000
+2023-06-09,Almond (Badam),325,West Bengal,19,Darjiling,327,2000,3000,2500
+2022-09-26,Almond (Badam),325,West Bengal,19,Darjiling,327,3000,4000,3500
+2022-08-12,Almond (Badam),325,West Bengal,19,Darjiling,327,6500,8500,7500
+2015-07-20,Almond (Badam),325,West Bengal,19,Darjiling,327,1800,2000,1900

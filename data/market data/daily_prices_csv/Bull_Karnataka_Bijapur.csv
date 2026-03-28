@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-15,Bull,214,Karnataka,29,Bijapur,557,16000,30000,25000
+2015-09-01,Bull,214,Karnataka,29,Bijapur,557,12000,25000,20000
+2015-08-04,Bull,214,Karnataka,29,Bijapur,557,4000,25000,18000
+2015-07-14,Bull,214,Karnataka,29,Bijapur,557,50000,60000,55000
+2015-07-04,Bull,214,Karnataka,29,Bijapur,557,50000,60000,55000
+2015-06-22,Bull,214,Karnataka,29,Bijapur,557,25000,45000,35000
+2015-06-02,Bull,214,Karnataka,29,Bijapur,557,23000,40000,32000
+2015-05-26,Bull,214,Karnataka,29,Bijapur,557,38000,48000,42000
+2015-03-10,Bull,214,Karnataka,29,Bijapur,557,35000,45000,39000

@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-06,Guava,185,Uttar Pradesh,9,Moradabad,135,2250,2300,2275
+2025-09-05,Guava,185,Uttar Pradesh,9,Moradabad,135,2300,2350,2325
+2025-08-30,Guava,185,Uttar Pradesh,9,Moradabad,135,2300,2400,2350
+2025-08-29,Guava,185,Uttar Pradesh,9,Moradabad,135,2300,2350,2325
+2025-08-20,Guava,185,Uttar Pradesh,9,Moradabad,135,2300,2400,2350
+2025-01-02,Guava,185,Uttar Pradesh,9,Moradabad,135,2250,2350,2300
+2024-09-21,Guava,185,Uttar Pradesh,9,Moradabad,135,2450,2550,2500
+2024-09-07,Guava,185,Uttar Pradesh,9,Moradabad,135,2250,2300,2275
+2024-09-06,Guava,185,Uttar Pradesh,9,Moradabad,135,2250,2300,2275
+2016-09-07,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1650
+2016-09-05,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1650
+2016-09-04,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1550
+2016-09-03,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1550
+2016-08-31,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1500
+2016-08-30,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1400
+2016-08-22,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1260
+2016-08-21,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1260
+2016-08-20,Guava,185,Uttar Pradesh,9,Moradabad,135,,,1250

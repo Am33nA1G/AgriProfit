@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-07,Jack Fruit,182,Kerala,32,Alappuzha,598,1100,1300,1200
+2025-08-04,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1200
+2025-08-02,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1200
+2025-07-29,Jack Fruit,182,Kerala,32,Alappuzha,598,800,1200,1000
+2025-07-15,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1200
+2025-07-14,Jack Fruit,182,Kerala,32,Alappuzha,598,1850,2500,2150
+2025-07-09,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1200
+2025-07-08,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1100
+2025-07-05,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,4000,3000
+2025-07-04,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-07-01,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1500,1200
+2025-06-25,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,2000,1500
+2025-06-17,Jack Fruit,182,Kerala,32,Alappuzha,598,2000,2500,2200
+2025-06-16,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3200,3000
+2025-06-12,Jack Fruit,182,Kerala,32,Alappuzha,598,2000,3000,2500
+2025-06-11,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-06-09,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-06-04,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-06-03,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-06-01,Jack Fruit,182,Kerala,32,Alappuzha,598,2500,3500,3000
+2025-05-19,Jack Fruit,182,Kerala,32,Alappuzha,598,2000,7200,7000
+2025-05-14,Jack Fruit,182,Kerala,32,Alappuzha,598,1000,1600,1300
+2025-05-13,Jack Fruit,182,Kerala,32,Alappuzha,598,2333.3333333333335,2433.3333333333335,2600

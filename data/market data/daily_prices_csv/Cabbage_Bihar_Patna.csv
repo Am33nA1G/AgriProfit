@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-15,Cabbage,154,Bihar,10,Patna,230,1800,2100,2000
+2022-03-05,Cabbage,154,Bihar,10,Patna,230,1500,2000,1800
+2022-02-25,Cabbage,154,Bihar,10,Patna,230,1200,1500,1400
+2022-02-24,Cabbage,154,Bihar,10,Patna,230,1000,1400,1200
+2022-02-09,Cabbage,154,Bihar,10,Patna,230,1200,1600,1400

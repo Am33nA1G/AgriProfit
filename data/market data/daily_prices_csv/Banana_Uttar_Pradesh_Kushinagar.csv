@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-25,Banana,19,Uttar Pradesh,9,Kushinagar,189,650,750,700
+2018-10-24,Banana,19,Uttar Pradesh,9,Kushinagar,189,700,800,750

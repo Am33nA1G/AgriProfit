@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-13,White Pumpkin,158,Nagaland,13,Kohima,270,2200,2800,2500
+2024-05-09,White Pumpkin,158,Nagaland,13,Kohima,270,2500,3000,2800
+2024-05-07,White Pumpkin,158,Nagaland,13,Kohima,270,2500,3000,2800
+2024-05-01,White Pumpkin,158,Nagaland,13,Kohima,270,2500,3000,2800
+2024-04-23,White Pumpkin,158,Nagaland,13,Kohima,270,2500,3000,2800
+2023-12-21,White Pumpkin,158,Nagaland,13,Kohima,270,3500,4300,4000
+2023-12-02,White Pumpkin,158,Nagaland,13,Kohima,270,3500,4000,3800
+2023-11-29,White Pumpkin,158,Nagaland,13,Kohima,270,3500,4500,4000
+2023-11-15,White Pumpkin,158,Nagaland,13,Kohima,270,3500,4500,4000
+2023-11-09,White Pumpkin,158,Nagaland,13,Kohima,270,3500,4000,3800
+2023-09-06,White Pumpkin,158,Nagaland,13,Kohima,270,300,3800,3500

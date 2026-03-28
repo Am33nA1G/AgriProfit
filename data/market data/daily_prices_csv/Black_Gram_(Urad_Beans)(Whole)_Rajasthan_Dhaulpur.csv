@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-26,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Dhaulpur,106,2820,2870,2850
+2015-06-05,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Dhaulpur,106,4375,4425,4400
+2015-05-30,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Dhaulpur,106,4250,4350,4300

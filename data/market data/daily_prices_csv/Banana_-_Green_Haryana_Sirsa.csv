@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-19,Banana - Green,90,Haryana,6,Sirsa,79,2500,3200,2700
+2025-06-11,Banana - Green,90,Haryana,6,Sirsa,79,1700,3200,2800
+2025-03-07,Banana - Green,90,Haryana,6,Sirsa,79,2100,3200,2700
+2022-01-25,Banana - Green,90,Haryana,6,Sirsa,79,1800,2000,2000
+2015-12-29,Banana - Green,90,Haryana,6,Sirsa,79,1800,1900,1850
+2015-12-28,Banana - Green,90,Haryana,6,Sirsa,79,1800,1900,1850
+2015-12-25,Banana - Green,90,Haryana,6,Sirsa,79,1900,1900,1900

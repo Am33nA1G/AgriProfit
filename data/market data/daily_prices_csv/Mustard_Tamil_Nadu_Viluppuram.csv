@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-10,Mustard,12,Tamil Nadu,33,Viluppuram,607,4205,4205,4205
+2017-03-13,Mustard,12,Tamil Nadu,33,Viluppuram,607,3899,3899,3899
+2017-02-15,Mustard,12,Tamil Nadu,33,Viluppuram,607,3969,3969,3969
+2017-02-08,Mustard,12,Tamil Nadu,33,Viluppuram,607,4039,4039,4039

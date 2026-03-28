@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-19,Pomegranate,190,Jammu & Kashmir,1,Baramula,8,11500,11500,11500
+2015-03-18,Pomegranate,190,Jammu & Kashmir,1,Baramula,8,10000,12000,11000
+2015-03-14,Pomegranate,190,Jammu & Kashmir,1,Baramula,8,11000,11000,11000
+2015-03-12,Pomegranate,190,Jammu & Kashmir,1,Baramula,8,1200,1200,1200

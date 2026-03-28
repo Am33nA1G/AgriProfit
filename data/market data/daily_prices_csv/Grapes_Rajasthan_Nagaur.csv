@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-23,Grapes,22,Rajasthan,8,Nagaur,112,3500,4500,4000
+2024-04-05,Grapes,22,Rajasthan,8,Nagaur,112,3000,5000,4000
+2024-04-01,Grapes,22,Rajasthan,8,Nagaur,112,5000,7000,6000
+2024-03-30,Grapes,22,Rajasthan,8,Nagaur,112,4800,5600,5200

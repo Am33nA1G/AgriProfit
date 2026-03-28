@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-26,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1100,1300,1200
+2023-06-25,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1300,1450,1400
+2023-06-24,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1250,1275,1275
+2023-06-23,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1321,1321,1321
+2023-06-21,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1500,1500,1500
+2023-06-19,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1250,1452,1300
+2023-06-17,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1300,1549,1500
+2023-06-15,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1550,1550,1550
+2023-06-14,Mustard Oil,324,Madhya Pradesh,23,Khargone (West Nimar),440,1000,1100,1100

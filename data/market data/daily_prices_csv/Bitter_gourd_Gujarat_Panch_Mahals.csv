@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-14,Bitter gourd,81,Gujarat,24,Panch Mahals,484,1500,1600,1550
+2015-02-28,Bitter gourd,81,Gujarat,24,Panch Mahals,484,1300,1400,1350
+2015-02-19,Bitter gourd,81,Gujarat,24,Panch Mahals,484,1400,1600,1500

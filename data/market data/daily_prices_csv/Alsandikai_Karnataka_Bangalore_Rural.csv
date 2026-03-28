@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-14,Alsandikai,166,Karnataka,29,Bangalore Rural,583,1800,2200,2000
+2015-10-06,Alsandikai,166,Karnataka,29,Bangalore Rural,583,1800,2000,1900
+2015-09-16,Alsandikai,166,Karnataka,29,Bangalore Rural,583,3300,3300,3300
+2015-09-02,Alsandikai,166,Karnataka,29,Bangalore Rural,583,2600,2600,2600
+2015-08-31,Alsandikai,166,Karnataka,29,Bangalore Rural,583,2000,2000,2000
+2015-08-20,Alsandikai,166,Karnataka,29,Bangalore Rural,583,2500,2500,2500
+2015-08-06,Alsandikai,166,Karnataka,29,Bangalore Rural,583,2000,2100,2050
+2015-07-24,Alsandikai,166,Karnataka,29,Bangalore Rural,583,2300,2500,2400
+2015-07-09,Alsandikai,166,Karnataka,29,Bangalore Rural,583,4200,4400,4300
+2015-07-03,Alsandikai,166,Karnataka,29,Bangalore Rural,583,4000,4300,4200
+2015-06-25,Alsandikai,166,Karnataka,29,Bangalore Rural,583,3800,4000,3900
+2015-06-20,Alsandikai,166,Karnataka,29,Bangalore Rural,583,4000,4000,4000

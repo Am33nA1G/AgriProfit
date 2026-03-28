@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-02,Tinda,349,Gujarat,24,Junagadh,479,3000,5000,4000
+2023-10-27,Tinda,349,Gujarat,24,Junagadh,479,1000,3000,2000
+2023-10-04,Tinda,349,Gujarat,24,Junagadh,479,2000,4000,3000

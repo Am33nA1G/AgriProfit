@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-02,Broken Rice,293,West Bengal,19,Maldah,332,990,1020,1000
+2015-11-11,Broken Rice,293,West Bengal,19,Maldah,332,990,1020,1000
+2015-10-01,Broken Rice,293,West Bengal,19,Maldah,332,890,1000,990
+2015-09-03,Broken Rice,293,West Bengal,19,Maldah,332,990,1020,1000
+2015-09-02,Broken Rice,293,West Bengal,19,Maldah,332,990,1020,1000
+2015-09-01,Broken Rice,293,West Bengal,19,Maldah,332,990,1020,1000
+2015-08-11,Broken Rice,293,West Bengal,19,Maldah,332,1190,1230,1200
+2015-08-10,Broken Rice,293,West Bengal,19,Maldah,332,1080,1120,1100
+2015-08-06,Broken Rice,293,West Bengal,19,Maldah,332,1380,1420,1400
+2015-08-04,Broken Rice,293,West Bengal,19,Maldah,332,1380,1420,1400
+2015-08-03,Broken Rice,293,West Bengal,19,Maldah,332,1390,1420,1400
+2015-07-31,Broken Rice,293,West Bengal,19,Maldah,332,1380,1420,1400
+2015-07-30,Broken Rice,293,West Bengal,19,Maldah,332,1380,1420,1400
+2015-07-29,Broken Rice,293,West Bengal,19,Maldah,332,1390,1420,1400

@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-27,Litchi,351,Uttar Pradesh,9,Etah,201,8000,8500,8250
+2025-06-25,Litchi,351,Uttar Pradesh,9,Etah,201,8000,8500,8200
+2025-06-24,Litchi,351,Uttar Pradesh,9,Etah,201,7800,8500,8150
+2025-06-22,Litchi,351,Uttar Pradesh,9,Etah,201,7800,8500,7900
+2025-06-21,Litchi,351,Uttar Pradesh,9,Etah,201,7800,8500,7900
+2025-06-20,Litchi,351,Uttar Pradesh,9,Etah,201,7500,8200,7800
+2025-06-18,Litchi,351,Uttar Pradesh,9,Etah,201,7500,8000,7700
+2025-06-14,Litchi,351,Uttar Pradesh,9,Etah,201,7500,8000,7550
+2024-07-05,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7500,7280
+2024-07-04,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7500,7265
+2024-07-03,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7500,7260
+2024-06-28,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7400
+2024-06-26,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7360
+2024-06-25,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7380
+2024-06-24,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7350
+2024-06-23,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7350
+2024-06-22,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7370
+2024-06-21,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7360
+2024-06-20,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7350
+2024-06-18,Litchi,351,Uttar Pradesh,9,Etah,201,7000,7600,7350
+2024-06-15,Litchi,351,Uttar Pradesh,9,Etah,201,7000,8000,7270
+2024-06-14,Litchi,351,Uttar Pradesh,9,Etah,201,7000,8000,7450

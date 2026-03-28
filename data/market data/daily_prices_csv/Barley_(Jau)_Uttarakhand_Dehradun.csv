@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-17,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1600,1600,1600
+2018-01-16,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1586,1600,1600
+2017-08-03,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1675,1688,1688
+2017-08-02,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1585,1600,1600
+2017-06-20,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1948,1960,1960
+2017-05-03,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1700,1700,1700
+2016-07-27,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1743,1753,1753
+2016-06-07,Barley (Jau),29,Uttarakhand,5,Dehradun,60,1872,1879,1879

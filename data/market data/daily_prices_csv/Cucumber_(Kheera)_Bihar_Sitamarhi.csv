@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-21,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1400,1500,1400
+2022-06-16,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1500,1600,1600
+2022-06-14,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1800,2000,2000
+2022-06-08,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1300,1300
+2022-06-06,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,800,1000,900
+2022-06-02,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1400,1600,1500
+2022-05-25,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1400,1400
+2022-05-20,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,400,500,500
+2022-05-18,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,600,700,700
+2022-05-11,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1000,1200,1200
+2022-05-04,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1500,1400
+2022-05-02,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1400,1300
+2022-04-30,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1000,1200,1100
+2022-04-28,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1400,1300
+2022-04-27,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-04-25,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1000,1100,1100
+2022-04-23,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1000,1200,1200
+2022-04-22,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1100,1400,1200
+2022-04-20,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1600,1400
+2022-04-19,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1000,1200,1200
+2022-04-18,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1200,1600,1400
+2022-04-15,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1500,1600,1600
+2022-04-12,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1500,1800,1600
+2022-04-11,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,1500,1800,1600
+2022-04-08,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,3000,3500,3200
+2022-04-06,Cucumber (Kheera),159,Bihar,10,Sitamarhi,206,2000,2500,2200

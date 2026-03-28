@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-08,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2999,2999,2999
+2019-01-07,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,3041,3041,3041
+2019-01-02,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2625,2625,2625
+2018-08-29,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2480,2480,2480
+2018-06-26,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2701,2701,2701
+2017-08-22,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2600,2990,2890
+2017-04-25,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,4001,4001,4001
+2017-02-23,Arhar Dal (Tur Dal),260,Rajasthan,8,Kota,127,2650,4000,2650

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-07,Safflower,59,Telangana,36,Nizamabad,533,3001,3001,3001
+2019-05-13,Safflower,59,Telangana,36,Nizamabad,533,3655,3655,3655
+2018-03-13,Safflower,59,Telangana,36,Nizamabad,533,2380,2380,2380
+2017-10-10,Safflower,59,Telangana,36,Nizamabad,533,2200,2200,2200
+2017-03-15,Safflower,59,Telangana,36,Nizamabad,533,2777,3100,3005
+2016-02-15,Safflower,59,Telangana,36,Nizamabad,533,1752,1976,1752
+2016-02-13,Safflower,59,Telangana,36,Nizamabad,533,1922,2000,2000
+2015-08-27,Safflower,59,Telangana,36,Nizamabad,533,2125,2125,2125

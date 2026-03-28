@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-12,Sunflower,14,Tamil Nadu,33,Coimbatore,632,3100,3550,3300
+2020-06-18,Sunflower,14,Tamil Nadu,33,Coimbatore,632,3100,3150,3125
+2020-05-23,Sunflower,14,Tamil Nadu,33,Coimbatore,632,3100,3250,3200
+2020-05-16,Sunflower,14,Tamil Nadu,33,Coimbatore,632,3100,3250,3200
+2019-06-08,Sunflower,14,Tamil Nadu,33,Coimbatore,632,3200,3600,3400

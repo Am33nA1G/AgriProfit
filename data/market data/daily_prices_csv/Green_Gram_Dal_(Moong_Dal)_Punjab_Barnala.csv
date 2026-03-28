@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-09,Green Gram Dal (Moong Dal),265,Punjab,3,Barnala,54,4060,4675,4365
+2018-07-07,Green Gram Dal (Moong Dal),265,Punjab,3,Barnala,54,4405,4900,4675
+2018-07-05,Green Gram Dal (Moong Dal),265,Punjab,3,Barnala,54,4445,4445,4445
+2018-07-02,Green Gram Dal (Moong Dal),265,Punjab,3,Barnala,54,4130,4540,4300

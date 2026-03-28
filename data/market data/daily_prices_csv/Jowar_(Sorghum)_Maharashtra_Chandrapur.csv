@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-16,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,3300,3500,3400
+2023-09-08,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,2000,3000,2500
+2020-07-15,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1600,1730,1665
+2020-06-24,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1700,1750,1725
+2020-06-23,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1600,1725,1663
+2020-06-20,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1900,2000,1950
+2020-06-19,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1900,2000,1950
+2020-06-11,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1800,1850,1825
+2020-05-27,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1900,2000,1950
+2020-04-18,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1700,2000,1850
+2020-04-17,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1300,1400,1350
+2020-04-15,Jowar (Sorghum),5,Maharashtra,27,Chandrapur,509,1750,1900,1825

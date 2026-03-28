@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-16,Mango,20,Madhya Pradesh,23,Shahdol,460,4100,4250,4250
+2020-06-19,Mango,20,Madhya Pradesh,23,Shahdol,460,4100,4100,4100
+2019-06-06,Mango,20,Madhya Pradesh,23,Shahdol,460,3600,3600,3600
+2019-06-05,Mango,20,Madhya Pradesh,23,Shahdol,460,3600,3601,3601
+2019-05-29,Mango,20,Madhya Pradesh,23,Shahdol,460,3600,4000,3600
+2019-03-15,Mango,20,Madhya Pradesh,23,Shahdol,460,4000,4000,4000
+2019-03-08,Mango,20,Madhya Pradesh,23,Shahdol,460,4000,4000,4000
+2019-03-07,Mango,20,Madhya Pradesh,23,Shahdol,460,4000,4000,4000

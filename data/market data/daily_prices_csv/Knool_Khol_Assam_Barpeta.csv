@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-12,Knool Khol,177,Assam,18,Barpeta,303,1200,1400,1300
+2022-04-11,Knool Khol,177,Assam,18,Barpeta,303,1200,1500,1400
+2022-04-08,Knool Khol,177,Assam,18,Barpeta,303,1200,1400,1300
+2022-04-05,Knool Khol,177,Assam,18,Barpeta,303,1000,1200,1100
+2022-02-28,Knool Khol,177,Assam,18,Barpeta,303,1500,1700,1600
+2022-02-27,Knool Khol,177,Assam,18,Barpeta,303,1000,1500,1200
+2022-02-22,Knool Khol,177,Assam,18,Barpeta,303,1400,1700,1500
+2022-02-21,Knool Khol,177,Assam,18,Barpeta,303,1400,1700,1500
+2022-02-20,Knool Khol,177,Assam,18,Barpeta,303,1400,1800,1600
+2022-02-19,Knool Khol,177,Assam,18,Barpeta,303,1400,1700,1500
+2022-02-18,Knool Khol,177,Assam,18,Barpeta,303,1300,1700,1500
+2022-02-16,Knool Khol,177,Assam,18,Barpeta,303,1400,1600,1500
+2022-02-14,Knool Khol,177,Assam,18,Barpeta,303,1300,1600,1400
+2022-02-12,Knool Khol,177,Assam,18,Barpeta,303,1300,1600,1400
+2022-02-11,Knool Khol,177,Assam,18,Barpeta,303,1300,1600,1400
+2022-02-10,Knool Khol,177,Assam,18,Barpeta,303,1300,1700,1500
+2022-02-09,Knool Khol,177,Assam,18,Barpeta,303,1300,1800,1500
+2022-02-07,Knool Khol,177,Assam,18,Barpeta,303,1400,1600,1500

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-29,Arhar (Tur/Red Gram)(Whole),49,Uttarakhand,5,Champawat,65,9000,10000,9500
+2015-12-04,Arhar (Tur/Red Gram)(Whole),49,Uttarakhand,5,Champawat,65,15200,15400,15300

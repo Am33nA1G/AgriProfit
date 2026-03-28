@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-24,Onion Green,358,Kerala,32,Kollam,600,2600,2800,2700
+2016-04-30,Onion Green,358,Kerala,32,Kollam,600,1600,1800,1700
+2016-04-18,Onion Green,358,Kerala,32,Kollam,600,1600,1800,1700
+2015-05-06,Onion Green,358,Kerala,32,Kollam,600,1800,2000,1900

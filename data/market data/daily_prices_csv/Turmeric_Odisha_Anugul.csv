@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-10,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7300
+2022-04-01,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200
+2022-02-15,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200
+2019-09-15,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200
+2019-07-16,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200
+2019-06-11,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200
+2019-05-22,Turmeric,39,Odisha,21,Anugul,384,6500,7200,7000
+2018-10-03,Turmeric,39,Odisha,21,Anugul,384,7200,7500,7300
+2015-09-13,Turmeric,39,Odisha,21,Anugul,384,6500,7500,7000
+2015-03-25,Turmeric,39,Odisha,21,Anugul,384,6500,7000,6800
+2015-02-10,Turmeric,39,Odisha,21,Anugul,384,6000,7000,6500
+2015-01-21,Turmeric,39,Odisha,21,Anugul,384,7000,7500,7200

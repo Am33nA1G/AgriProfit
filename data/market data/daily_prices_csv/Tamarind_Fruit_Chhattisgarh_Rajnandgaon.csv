@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-03,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,7000,7600,7600
+2020-05-03,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,9100,9100,9100
+2019-05-09,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,5000,5000,5000
+2016-04-25,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,4000,4000,4000
+2016-04-19,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,4000,4000,4000
+2016-03-27,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,4000,4000,4000
+2016-03-21,Tamarind Fruit,261,Chhattisgarh,22,Rajnandgaon,408,4000,4000,4000

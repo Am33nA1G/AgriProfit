@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-21,Safflower,59,Karnataka,29,Chamarajanagar,578,4800,4800,4800
+2015-09-02,Safflower,59,Karnataka,29,Chamarajanagar,578,3534,3534,3534
+2015-07-22,Safflower,59,Karnataka,29,Chamarajanagar,578,3300,3350,3300

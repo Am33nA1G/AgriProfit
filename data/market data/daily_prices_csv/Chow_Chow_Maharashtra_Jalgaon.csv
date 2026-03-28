@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-01,Chow Chow,167,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-03-31,Chow Chow,167,Maharashtra,27,Jalgaon,499,1000,1000,1000
+2021-01-16,Chow Chow,167,Maharashtra,27,Jalgaon,499,1000,1000,1000

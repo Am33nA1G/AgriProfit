@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-24,Drumstick,168,Gujarat,24,Navsari,490,3000,3500,3250
+2023-07-22,Drumstick,168,Gujarat,24,Navsari,490,700,800,750
+2023-07-18,Drumstick,168,Gujarat,24,Navsari,490,800,1000,900
+2023-07-15,Drumstick,168,Gujarat,24,Navsari,490,800,1000,900
+2023-07-14,Drumstick,168,Gujarat,24,Navsari,490,800,1000,900

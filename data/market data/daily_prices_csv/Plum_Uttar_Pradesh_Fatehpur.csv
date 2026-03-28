@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-30,Plum,329,Uttar Pradesh,9,Fatehpur,172,300,450,400
+2019-03-02,Plum,329,Uttar Pradesh,9,Fatehpur,172,400,600,500
+2019-02-11,Plum,329,Uttar Pradesh,9,Fatehpur,172,400,500,450

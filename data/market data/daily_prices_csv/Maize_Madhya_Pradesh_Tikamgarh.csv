@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-15,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1105,1105,1105
+2019-12-04,Maize,4,Madhya Pradesh,23,Tikamgarh,424,2400,2400,2400
+2019-04-11,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3400,3800,3600
+2019-03-21,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3500,3500,3500
+2019-03-20,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3500,3500,3500
+2019-03-19,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3500,3500,3500
+2019-01-24,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3900,3985,3930
+2018-12-21,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3650,3910,3772
+2018-12-20,Maize,4,Madhya Pradesh,23,Tikamgarh,424,3400,4000,3630
+2018-12-15,Maize,4,Madhya Pradesh,23,Tikamgarh,424,4700,4700,4700
+2015-07-17,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1310,1310,1310
+2015-07-07,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1300,1310,1305
+2015-07-06,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1300,1310,1305
+2015-06-30,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1310,,1310
+2015-06-18,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1300,1310,1305
+2015-06-14,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1310,1310,1310
+2015-06-13,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1300,1310,1310
+2015-06-10,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1300,1310,1305
+2015-03-22,Maize,4,Madhya Pradesh,23,Tikamgarh,424,1000,1000,1000

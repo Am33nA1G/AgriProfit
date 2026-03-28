@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-30,Papaya,72,Odisha,21,Kalahandi,395,2000,3000,2500
+2024-01-28,Papaya,72,Odisha,21,Kalahandi,395,2500,3000,2800
+2024-01-24,Papaya,72,Odisha,21,Kalahandi,395,3000,3000,3000
+2024-01-11,Papaya,72,Odisha,21,Kalahandi,395,4000,4000,4000
+2024-01-10,Papaya,72,Odisha,21,Kalahandi,395,4000,4000,4000
+2024-01-03,Papaya,72,Odisha,21,Kalahandi,395,4000,4500,4200
+2024-01-01,Papaya,72,Odisha,21,Kalahandi,395,4000,4000,4000
+2023-12-29,Papaya,72,Odisha,21,Kalahandi,395,4000,4500,4200
+2023-12-19,Papaya,72,Odisha,21,Kalahandi,395,6000,6000,6000
+2023-12-16,Papaya,72,Odisha,21,Kalahandi,395,6000,6000,6000
+2023-12-11,Papaya,72,Odisha,21,Kalahandi,395,6000,6000,6000
+2023-12-06,Papaya,72,Odisha,21,Kalahandi,395,6000,7000,6500
+2023-12-03,Papaya,72,Odisha,21,Kalahandi,395,6000,6000,6000
+2023-12-02,Papaya,72,Odisha,21,Kalahandi,395,6000,6500,6200

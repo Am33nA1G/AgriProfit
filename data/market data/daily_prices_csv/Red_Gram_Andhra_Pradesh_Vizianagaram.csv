@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-27,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,5800,6000,5900
+2016-02-08,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,5800,6000,5900
+2016-02-01,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,6800,7000,6900
+2016-01-30,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,5800,6000,5900
+2016-01-25,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,6000,6200,6100
+2016-01-21,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,6000,6500,6250
+2015-11-28,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,4500,5000,4800
+2015-11-27,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,6500,7600,6600
+2015-02-06,Red Gram,7,Andhra Pradesh,28,Vizianagaram,543,4300,4400,4350

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-29,Hen,369,Mizoram,15,Aizawl,283,15000,25000,20000
+2017-09-13,Hen,369,Mizoram,15,Aizawl,283,15000,25000,20000
+2016-09-09,Hen,369,Mizoram,15,Aizawl,283,15000,25000,20000
+2015-09-28,Hen,369,Mizoram,15,Aizawl,283,24000,24000,24000
+2015-09-22,Hen,369,Mizoram,15,Aizawl,283,20000,20000,20000
+2015-08-10,Hen,369,Mizoram,15,Aizawl,283,24000,24000,24000

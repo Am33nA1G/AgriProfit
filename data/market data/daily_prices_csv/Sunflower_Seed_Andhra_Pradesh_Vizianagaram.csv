@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-06,Sunflower Seed,285,Andhra Pradesh,28,Vizianagaram,543,3100,3150,3136
+2016-05-23,Sunflower Seed,285,Andhra Pradesh,28,Vizianagaram,543,3200,3250,3214
+2016-04-28,Sunflower Seed,285,Andhra Pradesh,28,Vizianagaram,543,2900,3100,3000
+2015-12-10,Sunflower Seed,285,Andhra Pradesh,28,Vizianagaram,543,2600,2800,2700

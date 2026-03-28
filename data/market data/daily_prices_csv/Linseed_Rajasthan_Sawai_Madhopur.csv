@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-12,Linseed,67,Rajasthan,8,Sawai Madhopur,108,5000,5000,5000
+2021-06-09,Linseed,67,Rajasthan,8,Sawai Madhopur,108,5650,5650,5650
+2018-06-04,Linseed,67,Rajasthan,8,Sawai Madhopur,108,3570,3600,3600
+2017-06-17,Linseed,67,Rajasthan,8,Sawai Madhopur,108,3600,3600,3600

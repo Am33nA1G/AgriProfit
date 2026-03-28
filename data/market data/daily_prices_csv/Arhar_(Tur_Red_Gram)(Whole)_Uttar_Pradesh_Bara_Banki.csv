@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-19,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Bara Banki,176,9000,9100,9050
+2021-07-17,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Bara Banki,176,9000,10000,9050
+2021-07-16,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Bara Banki,176,9100,9200,9150
+2021-07-15,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Bara Banki,176,9100,9200,9150
+2021-07-14,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Bara Banki,176,9100,9200,9150

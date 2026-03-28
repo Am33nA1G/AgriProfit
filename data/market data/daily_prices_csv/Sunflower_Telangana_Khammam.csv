@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-05,Sunflower,14,Telangana,36,Khammam,541,6000,6200,6100
+2023-03-04,Sunflower,14,Telangana,36,Khammam,541,6000,6500,6300
+2023-02-24,Sunflower,14,Telangana,36,Khammam,541,6000,6400,6200
+2023-02-18,Sunflower,14,Telangana,36,Khammam,541,5900,6000,6000
+2023-02-14,Sunflower,14,Telangana,36,Khammam,541,6000,6421,6200
+2017-04-10,Sunflower,14,Telangana,36,Khammam,541,3300,3800,3500
+2017-03-28,Sunflower,14,Telangana,36,Khammam,541,1800,2000,1900

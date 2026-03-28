@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-18,Sunhemp,139,Gujarat,24,Gandhinagar,473,5500,5500,5500
+2022-07-15,Sunhemp,139,Gujarat,24,Gandhinagar,473,6700,6700,6700
+2022-07-12,Sunhemp,139,Gujarat,24,Gandhinagar,473,6500,7205,6625
+2022-07-06,Sunhemp,139,Gujarat,24,Gandhinagar,473,6760,6760,6760
+2022-06-23,Sunhemp,139,Gujarat,24,Gandhinagar,473,7680,7680,7680
+2022-06-22,Sunhemp,139,Gujarat,24,Gandhinagar,473,6250,7730,7730
+2022-06-20,Sunhemp,139,Gujarat,24,Gandhinagar,473,7520,7750,7750
+2022-06-18,Sunhemp,139,Gujarat,24,Gandhinagar,473,7545,7755,7625
+2022-06-17,Sunhemp,139,Gujarat,24,Gandhinagar,473,7525,7525,7525
+2022-06-16,Sunhemp,139,Gujarat,24,Gandhinagar,473,6000,7830,7500
+2022-06-15,Sunhemp,139,Gujarat,24,Gandhinagar,473,6150,6150,6150
+2022-06-14,Sunhemp,139,Gujarat,24,Gandhinagar,473,7295,7295,7295
+2022-06-09,Sunhemp,139,Gujarat,24,Gandhinagar,473,6500,7115,7115
+2022-06-08,Sunhemp,139,Gujarat,24,Gandhinagar,473,7300,7300,7300
+2022-06-07,Sunhemp,139,Gujarat,24,Gandhinagar,473,7175,7240,7175

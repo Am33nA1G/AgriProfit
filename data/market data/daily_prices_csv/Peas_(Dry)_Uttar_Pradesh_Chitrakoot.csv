@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-07,Peas (Dry),347,Uttar Pradesh,9,Chitrakoot,171,2200,2250,2225
+2017-07-22,Peas (Dry),347,Uttar Pradesh,9,Chitrakoot,171,2200,2250,2225
+2017-07-20,Peas (Dry),347,Uttar Pradesh,9,Chitrakoot,171,2200,2300,2250
+2017-07-18,Peas (Dry),347,Uttar Pradesh,9,Chitrakoot,171,2200,2250,2225
+2017-07-17,Peas (Dry),347,Uttar Pradesh,9,Chitrakoot,171,2250,2300,2275

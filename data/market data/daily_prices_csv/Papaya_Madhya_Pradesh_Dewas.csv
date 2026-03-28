@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-20,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,4000,2000
+2023-12-19,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,4000,2000
+2023-12-18,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,4000,2000
+2023-12-17,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,4000,2000
+2023-12-16,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,3000,2000
+2023-12-15,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,3000,2000
+2023-12-14,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,3000,2000
+2023-12-13,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,3000,2000
+2023-12-12,Papaya,72,Madhya Pradesh,23,Dewas,437,900,3000,1500
+2023-12-11,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,5000,2000
+2023-12-10,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,5000,2000
+2023-12-09,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,4000,2000
+2023-12-08,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,4000,3000
+2023-12-07,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,5000,3000
+2023-12-06,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,5000,3000
+2023-12-05,Papaya,72,Madhya Pradesh,23,Dewas,437,1200,5000,2500
+2023-12-04,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,5000,2000
+2023-12-03,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,5000,2000
+2023-12-02,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,6000,3000
+2023-12-01,Papaya,72,Madhya Pradesh,23,Dewas,437,1000,5000,2000

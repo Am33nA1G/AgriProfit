@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-14,Green Gram (Moong)(Whole),9,Madhya Pradesh,23,Umaria,431,6105,6110,6108
+2022-06-06,Green Gram (Moong)(Whole),9,Madhya Pradesh,23,Umaria,431,4200,4210,4205
+2017-12-01,Green Gram (Moong)(Whole),9,Madhya Pradesh,23,Umaria,431,3000,3000,3000
+2017-11-01,Green Gram (Moong)(Whole),9,Madhya Pradesh,23,Umaria,431,2000,2000,2000

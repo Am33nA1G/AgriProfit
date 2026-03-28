@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-04,Sheep,218,Karnataka,29,Chamarajanagar,578,100,100,100
+2015-01-21,Sheep,218,Karnataka,29,Chamarajanagar,578,100,100,100
+2015-01-14,Sheep,218,Karnataka,29,Chamarajanagar,578,100,100,100

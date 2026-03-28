@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-13,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3440,3455,3441
+2015-05-11,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3300,3400,3375
+2015-04-30,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3900,4175,4085
+2015-04-24,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3800,3890,3850
+2015-04-23,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3750,3780,3775
+2015-04-20,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3750,3800,3780
+2015-04-16,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3200,3250,3220
+2015-04-15,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3213,3225,3217
+2015-04-13,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3200,3225,3220
+2015-04-09,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3300,3310,3309
+2015-02-20,Red Gram,7,Chhattisgarh,22,Dhamtari,412,3164,3164,3164

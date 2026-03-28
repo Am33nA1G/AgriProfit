@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-16,Pumpkin,84,Bihar,10,Kaimur (Bhabua),233,1200,1300,1250
+2022-04-15,Pumpkin,84,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2022-04-14,Pumpkin,84,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2022-04-11,Pumpkin,84,Bihar,10,Kaimur (Bhabua),233,1900,2000,1950

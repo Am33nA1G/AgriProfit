@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-26,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,3000,3000,3000
+2020-01-06,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1900,1950,1925
+2019-11-13,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,2200,2300,2245
+2019-08-21,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,2100,2100,2100
+2018-09-05,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,1700,1700
+2017-05-05,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1800,1800,1800
+2017-05-04,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1800,1800,1800
+2017-05-03,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1800,1800,1800
+2017-05-02,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1800,1800,1800
+2017-02-02,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1800,2000,1900
+2016-12-02,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,1750,1725
+2016-10-13,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,1700,1700
+2016-10-03,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1600,1600,1600
+2016-07-20,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,1700,1700
+2016-04-15,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1667,1667,1667
+2016-04-02,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,2000,1850
+2015-05-12,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1500,1500,1500
+2015-02-28,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1480,1480,1480
+2015-02-18,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1700,1700,1700
+2015-01-09,Paddy(Dhan)(Common),2,Karnataka,29,Bangalore Rural,583,1400,1400,1400

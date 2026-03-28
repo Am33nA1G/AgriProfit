@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-25,Tobacco,141,Tamil Nadu,33,Tiruppur,633,2500,3500,3000
+2021-08-09,Tobacco,141,Tamil Nadu,33,Tiruppur,633,2500,3500,3000
+2021-01-13,Tobacco,141,Tamil Nadu,33,Tiruppur,633,1900,2100,2000
+2015-10-16,Tobacco,141,Tamil Nadu,33,Tiruppur,633,1200,1400,1300
+2015-10-15,Tobacco,141,Tamil Nadu,33,Tiruppur,633,1200,1400,1300
+2015-01-20,Tobacco,141,Tamil Nadu,33,Tiruppur,633,1250,1350,1300

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-05,Papaya,72,Karnataka,29,Koppal,560,2400,2800,2600
+2024-01-01,Papaya,72,Karnataka,29,Koppal,560,2000,2800,2400

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-01,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2016-05-16,Orange,18,Jharkhand,20,Ramgarh,361,3500,5000,4000
+2016-03-12,Orange,18,Jharkhand,20,Ramgarh,361,3500,4500,4000
+2015-12-21,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-05-24,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-04-29,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-04-18,Orange,18,Jharkhand,20,Ramgarh,361,3000,3300,3200
+2015-04-05,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-04-04,Orange,18,Jharkhand,20,Ramgarh,361,2000,3000,2500
+2015-04-03,Orange,18,Jharkhand,20,Ramgarh,361,2000,3000,2500
+2015-04-02,Orange,18,Jharkhand,20,Ramgarh,361,3000,4000,3500
+2015-03-21,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-03-03,Orange,18,Jharkhand,20,Ramgarh,361,2500,3500,3000
+2015-02-12,Orange,18,Jharkhand,20,Ramgarh,361,3000,3500,3200
+2015-02-01,Orange,18,Jharkhand,20,Ramgarh,361,3000,4000,3500

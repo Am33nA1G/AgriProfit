@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-27,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4011,4597,4401
+2022-04-20,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4601,4651,4621
+2022-01-13,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4141,4651,4400
+2022-01-11,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4200,4681,4500
+2022-01-07,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4201,4611,4350
+2022-01-06,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4150,4571,4250
+2021-04-23,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,5100,5400,5300
+2019-08-19,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,3640,3950,3830
+2019-06-17,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,3895,4122,4085
+2019-01-12,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,3420,3925,3750
+2018-10-29,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,3450,3960,3785
+2017-10-03,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4680,5200,4970
+2017-06-28,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4630,4911,4770
+2017-06-20,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,3960,4751,4700
+2017-06-09,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4230,5000,4650
+2017-06-08,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4580,5000,4750
+2017-06-07,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4330,4800,4550
+2017-06-02,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4430,4850,4650
+2017-06-01,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ajmer,119,4630,4861,4835

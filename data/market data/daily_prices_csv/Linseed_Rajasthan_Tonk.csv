@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-28,Linseed,67,Rajasthan,8,Tonk,120,2000,3000,2500
+2024-02-24,Linseed,67,Rajasthan,8,Tonk,120,5000,5750,5375
+2022-05-25,Linseed,67,Rajasthan,8,Tonk,120,5500,6500,6000
+2019-05-29,Linseed,67,Rajasthan,8,Tonk,120,4390,4400,4395
+2017-05-22,Linseed,67,Rajasthan,8,Tonk,120,3500,3800,3650
+2017-04-24,Linseed,67,Rajasthan,8,Tonk,120,3901,3901,3901
+2017-04-10,Linseed,67,Rajasthan,8,Tonk,120,4800,5000,4900
+2017-03-15,Linseed,67,Rajasthan,8,Tonk,120,4600,4835,4718
+2015-04-29,Linseed,67,Rajasthan,8,Tonk,120,4000,4100,4050

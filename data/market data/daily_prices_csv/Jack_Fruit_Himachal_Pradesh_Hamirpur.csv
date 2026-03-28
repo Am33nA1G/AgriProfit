@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-08,Jack Fruit,182,Himachal Pradesh,2,Hamirpur,28,6000,8000,7000
+2024-10-05,Jack Fruit,182,Himachal Pradesh,2,Hamirpur,28,6000,10000,8000

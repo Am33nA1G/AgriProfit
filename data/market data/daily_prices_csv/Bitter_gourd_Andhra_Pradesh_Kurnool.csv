@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-28,Bitter gourd,81,Andhra Pradesh,28,Kurnool,552,420,460,440
+2015-11-11,Bitter gourd,81,Andhra Pradesh,28,Kurnool,552,2600,2600,2600
+2015-11-09,Bitter gourd,81,Andhra Pradesh,28,Kurnool,552,2000,2000,2000
+2015-11-07,Bitter gourd,81,Andhra Pradesh,28,Kurnool,552,2200,2200,2200
+2015-10-27,Bitter gourd,81,Andhra Pradesh,28,Kurnool,552,1800,2200,2000

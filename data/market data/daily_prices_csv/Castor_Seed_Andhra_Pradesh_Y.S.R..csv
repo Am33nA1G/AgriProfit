@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-31,Castor Seed,123,Andhra Pradesh,28,Y.S.R.,551,4000,4200,4100
+2017-05-30,Castor Seed,123,Andhra Pradesh,28,Y.S.R.,551,4000,4200,4100
+2015-08-31,Castor Seed,123,Andhra Pradesh,28,Y.S.R.,551,4375,4475,4425
+2015-08-29,Castor Seed,123,Andhra Pradesh,28,Y.S.R.,551,4560,4700,4600

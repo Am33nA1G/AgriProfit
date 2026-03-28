@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-10,Sweet Potato,152,Karnataka,29,Shimoga,568,2000,2400,2200
+2021-09-15,Sweet Potato,152,Karnataka,29,Shimoga,568,1600,2000,1800
+2021-08-04,Sweet Potato,152,Karnataka,29,Shimoga,568,1600,2000,1800

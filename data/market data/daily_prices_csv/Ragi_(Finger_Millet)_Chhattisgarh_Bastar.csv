@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-03,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,1225,1225,1225
+2019-10-31,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,2800,2800,2800
+2016-12-17,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,1730,1740,1735
+2016-12-15,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,1730,1750,1740
+2016-12-01,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,1700,1730,1715
+2015-09-10,Ragi (Finger Millet),30,Chhattisgarh,22,Bastar,414,520,520,520

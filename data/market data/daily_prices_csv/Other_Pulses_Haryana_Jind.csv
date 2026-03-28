@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-11,Other Pulses,97,Haryana,6,Jind,77,5200,5400,5300
+2015-09-01,Other Pulses,97,Haryana,6,Jind,77,5100,5300,5200
+2015-08-29,Other Pulses,97,Haryana,6,Jind,77,5000,5500,5200
+2015-08-19,Other Pulses,97,Haryana,6,Jind,77,4900,5100,5000

@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-20,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-04-12,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2019-04-10,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-04-06,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,800,800,800
+2019-04-03,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,1400,1400,1400
+2019-03-31,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,2000,2000,2000
+2019-03-30,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,2500,2500,2500
+2019-03-29,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,2600,2600,2600
+2019-03-28,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,3000,3000,3000
+2019-03-23,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,2500,4000,3250
+2019-03-22,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4000,4000,4000
+2019-03-20,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4000,4000,4000
+2019-03-18,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4000,4000,4000
+2019-03-16,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,3000,4000,3500
+2019-03-14,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4300,4300,4300
+2019-03-13,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4500,4500,4500
+2019-03-11,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,5000,5000,5000
+2019-03-10,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,3000,3400,3200
+2019-03-09,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,4000,4000,4000
+2019-03-08,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,3000,4000,3500
+2019-03-07,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,3000,6000,4000
+2019-03-04,Drumstick,168,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000

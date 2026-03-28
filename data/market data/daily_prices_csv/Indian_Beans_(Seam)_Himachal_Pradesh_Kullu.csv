@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-03,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2400,2800,2600
+2024-03-07,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,8000,8500,8300
+2024-02-06,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,3500,3800,3700
+2022-07-28,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,3200,5300,4000
+2020-08-27,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2500,3500,3000
+2019-08-05,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2000,2200,2100
+2017-09-10,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,4800,5000,4900
+2016-09-29,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,1300,1500,1400
+2015-08-06,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2166.6666666666665,2800,2483.3333333333335
+2015-08-05,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2266.6666666666665,2866.6666666666665,2566.6666666666665
+2015-08-04,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2166.6666666666665,2733.3333333333335,2450
+2015-03-10,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,2200,2500,2300
+2015-01-01,Indian Beans (Seam),299,Himachal Pradesh,2,Kullu,26,3000,3500,3200

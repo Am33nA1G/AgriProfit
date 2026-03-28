@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-26,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1100,1100,1100
+2023-01-17,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1052,1052,1052
+2022-11-03,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,3000,3535,3400
+2022-02-28,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1750,1750,1750
+2022-02-15,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1750,1750,1750
+2022-02-10,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1722,1750,1735
+2022-02-03,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,3000,3000,3000
+2022-01-20,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1650,1750,1700
+2022-01-14,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1650,1650,1650
+2022-01-10,Amla (Nelli Kai),355,Madhya Pradesh,23,Dhar,438,1500,1650,1575

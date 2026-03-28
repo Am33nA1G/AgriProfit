@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-26,Green Gram Dal (Moong Dal),265,Karnataka,29,Dakshina Kannada,575,9800,12000,10800
+2023-06-28,Green Gram Dal (Moong Dal),265,Karnataka,29,Dakshina Kannada,575,10000,11500,10500
+2023-03-23,Green Gram Dal (Moong Dal),265,Karnataka,29,Dakshina Kannada,575,9800,9900,9850
+2022-08-10,Green Gram Dal (Moong Dal),265,Karnataka,29,Dakshina Kannada,575,8000,9000,8980
+2021-03-03,Green Gram Dal (Moong Dal),265,Karnataka,29,Dakshina Kannada,575,8500,9500,9000

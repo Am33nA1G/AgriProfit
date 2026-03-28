@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-23,Jute,16,Maharashtra,27,Buldana,500,3000,3000,3000
+2018-05-29,Jute,16,Maharashtra,27,Buldana,500,2000,2000,2000
+2015-06-26,Jute,16,Maharashtra,27,Buldana,500,2000,2000,2000

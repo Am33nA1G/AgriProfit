@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-06,Beaten Rice,262,Tamil Nadu,33,Cuddalore,617,8036,9332,9131
+2018-12-12,Beaten Rice,262,Tamil Nadu,33,Cuddalore,617,1289,1289,1289
+2018-11-14,Beaten Rice,262,Tamil Nadu,33,Cuddalore,617,1629,1629,1629

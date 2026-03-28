@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-17,Lemon,310,Odisha,21,Sundargarh,374,3000,3500,3000
+2015-01-09,Lemon,310,Odisha,21,Sundargarh,374,4000,4000,4000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-26,Cotton Seed,99,Karnataka,29,Bagalkot,556,4386,6150,5268
+2018-12-21,Cotton Seed,99,Karnataka,29,Bagalkot,556,4800,4800,4800
+2018-12-19,Cotton Seed,99,Karnataka,29,Bagalkot,556,5000,5000,5000
+2017-12-21,Cotton Seed,99,Karnataka,29,Bagalkot,556,3800,4000,3967
+2017-06-14,Cotton Seed,99,Karnataka,29,Bagalkot,556,4100,4100,4100
+2017-04-24,Cotton Seed,99,Karnataka,29,Bagalkot,556,4500,5500,4885
+2016-10-31,Cotton Seed,99,Karnataka,29,Bagalkot,556,4500,4650,4527
+2016-09-24,Cotton Seed,99,Karnataka,29,Bagalkot,556,6000,6000,6000
+2016-08-04,Cotton Seed,99,Karnataka,29,Bagalkot,556,8000,8000,8000
+2016-06-18,Cotton Seed,99,Karnataka,29,Bagalkot,556,3800,3800,3800

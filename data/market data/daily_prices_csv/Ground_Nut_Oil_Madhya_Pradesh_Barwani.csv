@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-11,Ground Nut Oil,267,Madhya Pradesh,23,Barwani,441,5200,5900,5500
+2015-06-04,Ground Nut Oil,267,Madhya Pradesh,23,Barwani,441,5100,5600,5250
+2015-06-03,Ground Nut Oil,267,Madhya Pradesh,23,Barwani,441,5000,5600,5250
+2015-06-01,Ground Nut Oil,267,Madhya Pradesh,23,Barwani,441,5000,5650,5500

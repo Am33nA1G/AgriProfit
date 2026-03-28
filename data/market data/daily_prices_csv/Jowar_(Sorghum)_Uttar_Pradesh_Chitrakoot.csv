@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-08,Jowar (Sorghum),5,Uttar Pradesh,9,Chitrakoot,171,1025,1075,1050
+2018-01-04,Jowar (Sorghum),5,Uttar Pradesh,9,Chitrakoot,171,1000,1050,1025
+2018-01-03,Jowar (Sorghum),5,Uttar Pradesh,9,Chitrakoot,171,975,1050,1020
+2017-09-06,Jowar (Sorghum),5,Uttar Pradesh,9,Chitrakoot,171,1050,1100,1075

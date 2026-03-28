@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-09,Chili Red,26,Tamil Nadu,33,Dindigul,612,14000,14000,14000
+2025-04-20,Chili Red,26,Tamil Nadu,33,Dindigul,612,12000,15000,15000
+2024-12-09,Chili Red,26,Tamil Nadu,33,Dindigul,612,15000,15000,15000
+2024-12-08,Chili Red,26,Tamil Nadu,33,Dindigul,612,10000,14000,14000
+2024-10-27,Chili Red,26,Tamil Nadu,33,Dindigul,612,15000,16000,16000

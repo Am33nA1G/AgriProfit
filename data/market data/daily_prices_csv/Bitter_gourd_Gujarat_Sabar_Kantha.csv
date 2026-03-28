@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-14,Bitter gourd,81,Gujarat,24,Sabar Kantha,472,1500,1750,1625
+2015-06-19,Bitter gourd,81,Gujarat,24,Sabar Kantha,472,3000,3500,3250

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-13,Soha,520,Madhya Pradesh,23,Satna,429,3300,4305,4305
+2025-09-26,Soha,520,Madhya Pradesh,23,Satna,429,5175,5175,5175
+2025-09-25,Soha,520,Madhya Pradesh,23,Satna,429,4905,4905,4905
+2025-09-08,Soha,520,Madhya Pradesh,23,Satna,429,5320,5320,5320

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-03,Tamarind Fruit,261,Telangana,36,Rangareddy,537,8000,10000,9000
+2017-04-25,Tamarind Fruit,261,Telangana,36,Rangareddy,537,8000,8000,8000
+2017-04-16,Tamarind Fruit,261,Telangana,36,Rangareddy,537,8500,8500,8500
+2017-04-11,Tamarind Fruit,261,Telangana,36,Rangareddy,537,9000,11000,10000
+2017-04-04,Tamarind Fruit,261,Telangana,36,Rangareddy,537,7500,7500,7500
+2017-03-21,Tamarind Fruit,261,Telangana,36,Rangareddy,537,6000,6000,6000
+2017-03-08,Tamarind Fruit,261,Telangana,36,Rangareddy,537,6500,7000,6750
+2017-03-01,Tamarind Fruit,261,Telangana,36,Rangareddy,537,7000,7000,7000

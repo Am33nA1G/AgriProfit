@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-20,Marigold (Calcutta),235,Karnataka,29,Hassan,574,650,650,650
+2018-07-13,Marigold (Calcutta),235,Karnataka,29,Hassan,574,5000,12000,8000
+2018-03-16,Marigold (Calcutta),235,Karnataka,29,Hassan,574,5000,12000,8000
+2017-08-28,Marigold (Calcutta),235,Karnataka,29,Hassan,574,550,550,550
+2017-01-07,Marigold (Calcutta),235,Karnataka,29,Hassan,574,5350,5350,5350
+2016-10-29,Marigold (Calcutta),235,Karnataka,29,Hassan,574,5000,12000,8000
+2016-10-22,Marigold (Calcutta),235,Karnataka,29,Hassan,574,2500,5000,3000
+2016-08-11,Marigold (Calcutta),235,Karnataka,29,Hassan,574,534,535,535

@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-22,Tobacco,141,Telangana,36,Khammam,541,500,1000,500
+2018-05-18,Tobacco,141,Telangana,36,Khammam,541,3000,4000,3500
+2018-04-28,Tobacco,141,Telangana,36,Khammam,541,1500,1800,1600
+2018-04-09,Tobacco,141,Telangana,36,Khammam,541,2000,2500,2000
+2018-02-21,Tobacco,141,Telangana,36,Khammam,541,4000,5000,4500
+2018-02-16,Tobacco,141,Telangana,36,Khammam,541,3500,4000,3500
+2017-06-19,Tobacco,141,Telangana,36,Khammam,541,4500,5000,4500
+2017-06-03,Tobacco,141,Telangana,36,Khammam,541,1020,1070,1020
+2017-05-06,Tobacco,141,Telangana,36,Khammam,541,200,200,200
+2017-05-01,Tobacco,141,Telangana,36,Khammam,541,300,300,300
+2017-03-31,Tobacco,141,Telangana,36,Khammam,541,450,500,450
+2016-05-18,Tobacco,141,Telangana,36,Khammam,541,150,150,150
+2016-05-17,Tobacco,141,Telangana,36,Khammam,541,150,150,150
+2016-05-16,Tobacco,141,Telangana,36,Khammam,541,150,150,150
+2016-05-11,Tobacco,141,Telangana,36,Khammam,541,150,150,150
+2016-04-30,Tobacco,141,Telangana,36,Khammam,541,150,150,150

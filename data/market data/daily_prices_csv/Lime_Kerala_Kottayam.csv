@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-23,Lime,180,Kerala,32,Kottayam,597,10000,11000,10500
+2024-07-22,Lime,180,Kerala,32,Kottayam,597,8600,9000,8800
+2024-07-20,Lime,180,Kerala,32,Kottayam,597,9500,9900,9700
+2024-07-12,Lime,180,Kerala,32,Kottayam,597,9600,10000,9800
+2024-07-11,Lime,180,Kerala,32,Kottayam,597,9500,9900,9700
+2024-07-10,Lime,180,Kerala,32,Kottayam,597,9500,9900,9700
+2024-07-09,Lime,180,Kerala,32,Kottayam,597,4000,4400,4200

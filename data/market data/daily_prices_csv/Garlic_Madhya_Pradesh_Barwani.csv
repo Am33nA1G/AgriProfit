@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-09,Garlic,25,Madhya Pradesh,23,Barwani,441,300,600,400
+2022-04-28,Garlic,25,Madhya Pradesh,23,Barwani,441,800,1600,1000
+2022-03-08,Garlic,25,Madhya Pradesh,23,Barwani,441,1000,2000,1500
+2022-03-06,Garlic,25,Madhya Pradesh,23,Barwani,441,1000,1600,1200
+2022-03-05,Garlic,25,Madhya Pradesh,23,Barwani,441,1000,2000,1400
+2022-03-04,Garlic,25,Madhya Pradesh,23,Barwani,441,2000,3000,2500

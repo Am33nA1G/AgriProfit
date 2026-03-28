@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-17,Litchi,351,Bihar,10,Bhagalpur,224,7200,8200,7600
+2015-06-16,Litchi,351,Bihar,10,Bhagalpur,224,7000,8000,7500
+2015-06-13,Litchi,351,Bihar,10,Bhagalpur,224,6500,7500,7000

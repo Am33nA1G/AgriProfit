@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-16,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,6390,6610,6470
+2022-03-09,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,6550,7340,7010
+2022-02-22,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,9500,9980,9790
+2021-12-11,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,3600,4500,3900
+2021-08-11,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,1780,2040,1930
+2021-04-20,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,9950,10250,10180
+2021-04-08,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,10100,10400,10250
+2021-04-06,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,9900,10600,10500
+2021-04-03,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,550,7000,6810
+2021-03-28,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,8000,11300,10800
+2021-03-26,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,8000,11300,10800
+2021-03-25,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,8000,10050,9500
+2021-03-24,Pomegranate,190,Madhya Pradesh,23,Hoshangabad,449,8000,10050,9500

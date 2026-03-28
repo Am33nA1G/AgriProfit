@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Green Chilli,87,Bihar,10,Darbhanga,215,5500,5800,5600
+2023-09-04,Green Chilli,87,Bihar,10,Darbhanga,215,6000,6400,6200
+2023-09-02,Green Chilli,87,Bihar,10,Darbhanga,215,6200,6400,6300
+2023-08-30,Green Chilli,87,Bihar,10,Darbhanga,215,7500,8000,7700
+2023-01-14,Green Chilli,87,Bihar,10,Darbhanga,215,3200,3500,3400
+2022-10-20,Green Chilli,87,Bihar,10,Darbhanga,215,5250,5500,5400
+2022-10-11,Green Chilli,87,Bihar,10,Darbhanga,215,5200,5500,5400
+2022-10-09,Green Chilli,87,Bihar,10,Darbhanga,215,5700,6000,5900
+2022-09-27,Green Chilli,87,Bihar,10,Darbhanga,215,6000,6200,6100
+2022-09-25,Green Chilli,87,Bihar,10,Darbhanga,215,6300,6500,6400
+2022-08-07,Green Chilli,87,Bihar,10,Darbhanga,215,5500,6000,5700
+2022-08-06,Green Chilli,87,Bihar,10,Darbhanga,215,1300,1450,1400
+2022-08-05,Green Chilli,87,Bihar,10,Darbhanga,215,6100,6400,6250
+2022-08-04,Green Chilli,87,Bihar,10,Darbhanga,215,4500,4700,4550
+2022-08-03,Green Chilli,87,Bihar,10,Darbhanga,215,4200,4500,4400
+2022-04-28,Green Chilli,87,Bihar,10,Darbhanga,215,3800,4100,4000
+2022-04-24,Green Chilli,87,Bihar,10,Darbhanga,215,2900,3500,3000

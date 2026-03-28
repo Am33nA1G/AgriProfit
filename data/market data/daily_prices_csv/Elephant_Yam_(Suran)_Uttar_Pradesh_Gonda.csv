@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-31,Elephant Yam (Suran),296,Uttar Pradesh,9,Gonda,183,5650,5800,5700
+2024-10-30,Elephant Yam (Suran),296,Uttar Pradesh,9,Gonda,183,5550,5800,5600
+2024-10-25,Elephant Yam (Suran),296,Uttar Pradesh,9,Gonda,183,5450,5600,5500
+2024-10-20,Elephant Yam (Suran),296,Uttar Pradesh,9,Gonda,183,5475,5650,5500

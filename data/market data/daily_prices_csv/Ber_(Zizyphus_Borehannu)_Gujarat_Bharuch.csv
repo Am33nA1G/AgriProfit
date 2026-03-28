@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-02,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1350,1800,1600
+2016-01-30,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1300,1750,1600
+2016-01-24,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1300,2000,1750
+2016-01-22,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1750,2200,2000
+2015-12-25,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1150,1600,1300
+2015-12-24,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1150,1600,1300
+2015-12-22,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1150,1600,1300
+2015-02-27,Ber (Zizyphus/Borehannu),357,Gujarat,24,Bharuch,488,1300,2200,1800

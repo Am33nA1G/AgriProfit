@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "census_district_id": 532,
+      "census_district_name": "Adilabad"
+    },
+    {
+      "census_district_id": 533,
+      "census_district_name": "Nizamabad"
+    },
+    {
+      "census_district_id": 534,
+      "census_district_name": "Karimnagar"
+    },
+    {
+      "census_district_id": 535,
+      "census_district_name": "Medak"
+    },
+    {
+      "census_district_id": 536,
+      "census_district_name": "Hyderabad"
+    },
+    {
+      "census_district_id": 537,
+      "census_district_name": "Rangareddy"
+    },
+    {
+      "census_district_id": 538,
+      "census_district_name": "Mahbubnagar"
+    },
+    {
+      "census_district_id": 539,
+      "census_district_name": "Nalgonda"
+    },
+    {
+      "census_district_id": 540,
+      "census_district_name": "Warangal"
+    },
+    {
+      "census_district_id": 541,
+      "census_district_name": "Khammam"
+    }
+  ]
+}

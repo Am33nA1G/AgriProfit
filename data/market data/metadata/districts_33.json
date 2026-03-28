@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "census_district_id": 602,
+      "census_district_name": "Thiruvallur"
+    },
+    {
+      "census_district_id": 603,
+      "census_district_name": "Chennai"
+    },
+    {
+      "census_district_id": 604,
+      "census_district_name": "Kancheepuram"
+    },
+    {
+      "census_district_id": 605,
+      "census_district_name": "Vellore"
+    },
+    {
+      "census_district_id": 606,
+      "census_district_name": "Tiruvannamalai"
+    },
+    {
+      "census_district_id": 607,
+      "census_district_name": "Viluppuram"
+    },
+    {
+      "census_district_id": 608,
+      "census_district_name": "Salem"
+    },
+    {
+      "census_district_id": 609,
+      "census_district_name": "Namakkal"
+    },
+    {
+      "census_district_id": 610,
+      "census_district_name": "Erode"
+    },
+    {
+      "census_district_id": 611,
+      "census_district_name": "The Nilgiris"
+    },
+    {
+      "census_district_id": 612,
+      "census_district_name": "Dindigul"
+    },
+    {
+      "census_district_id": 613,
+      "census_district_name": "Karur"
+    },
+    {
+      "census_district_id": 614,
+      "census_district_name": "Tiruchirappalli"
+    },
+    {
+      "census_district_id": 615,
+      "census_district_name": "Perambalur"
+    },
+    {
+      "census_district_id": 616,
+      "census_district_name": "Ariyalur"
+    },
+    {
+      "census_district_id": 617,
+      "census_district_name": "Cuddalore"
+    },
+    {
+      "census_district_id": 618,
+      "census_district_name": "Nagapattinam"
+    },
+    {
+      "census_district_id": 619,
+      "census_district_name": "Thiruvarur"
+    },
+    {
+      "census_district_id": 620,
+      "census_district_name": "Thanjavur"
+    },
+    {
+      "census_district_id": 621,
+      "census_district_name": "Pudukkottai"
+    },
+    {
+      "census_district_id": 622,
+      "census_district_name": "Sivaganga"
+    },
+    {
+      "census_district_id": 623,
+      "census_district_name": "Madurai"
+    },
+    {
+      "census_district_id": 624,
+      "census_district_name": "Theni"
+    },
+    {
+      "census_district_id": 625,
+      "census_district_name": "Virudhunagar"
+    },
+    {
+      "census_district_id": 626,
+      "census_district_name": "Ramanathapuram"
+    },
+    {
+      "census_district_id": 627,
+      "census_district_name": "Thoothukkudi"
+    },
+    {
+      "census_district_id": 628,
+      "census_district_name": "Tirunelveli"
+    },
+    {
+      "census_district_id": 629,
+      "census_district_name": "Kanniyakumari"
+    },
+    {
+      "census_district_id": 630,
+      "census_district_name": "Dharmapuri"
+    },
+    {
+      "census_district_id": 631,
+      "census_district_name": "Krishnagiri"
+    },
+    {
+      "census_district_id": 632,
+      "census_district_name": "Coimbatore"
+    },
+    {
+      "census_district_id": 633,
+      "census_district_name": "Tiruppur"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-30,Onion,23,Meghalaya,17,South Garo Hills,295,6000,7000,6500
+2025-01-02,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-12-30,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-11-28,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-11-25,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-11-21,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-11-18,Onion,23,Meghalaya,17,South Garo Hills,295,7000,8000,7500
+2024-11-15,Onion,23,Meghalaya,17,South Garo Hills,295,8000,9000,8500
+2015-05-14,Onion,23,Meghalaya,17,South Garo Hills,295,30,40,35

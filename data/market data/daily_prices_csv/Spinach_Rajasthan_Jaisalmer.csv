@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-06,Spinach,342,Rajasthan,8,Jaisalmer,114,1300,1700,1500
+2025-06-11,Spinach,342,Rajasthan,8,Jaisalmer,114,1200,1400,1300
+2025-06-05,Spinach,342,Rajasthan,8,Jaisalmer,114,1000,1200,1100
+2025-05-31,Spinach,342,Rajasthan,8,Jaisalmer,114,1100,1300,1200
+2025-05-29,Spinach,342,Rajasthan,8,Jaisalmer,114,1100,1200,1150
+2025-05-28,Spinach,342,Rajasthan,8,Jaisalmer,114,1100,1300,1200
+2025-05-27,Spinach,342,Rajasthan,8,Jaisalmer,114,1000,1200,1100
+2025-05-20,Spinach,342,Rajasthan,8,Jaisalmer,114,1300,1500,1400
+2025-02-08,Spinach,342,Rajasthan,8,Jaisalmer,114,1500,2500,2000
+2024-12-06,Spinach,342,Rajasthan,8,Jaisalmer,114,1000,1200,1100

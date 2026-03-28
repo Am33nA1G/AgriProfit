@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-15,Green Avare (W),165,Telangana,36,Mahbubnagar,538,1200,2050,1625
+2018-07-01,Green Avare (W),165,Telangana,36,Mahbubnagar,538,4190,5000,4595
+2018-06-01,Green Avare (W),165,Telangana,36,Mahbubnagar,538,3000,4500,3750

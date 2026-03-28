@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-08,Jowar (Sorghum),5,Tamil Nadu,33,Tirunelveli,628,2200,2300,2250
+2025-09-03,Jowar (Sorghum),5,Tamil Nadu,33,Tirunelveli,628,2200,2400,2300
+2025-09-01,Jowar (Sorghum),5,Tamil Nadu,33,Tirunelveli,628,1800,2000,1900

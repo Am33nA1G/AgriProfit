@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-04,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4000,4500,4300
+2017-09-26,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,3000,4000,3600
+2017-09-11,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,2500,3500,3000
+2016-10-07,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4250,6000,5000
+2015-10-28,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,3000,4000,3500
+2015-10-26,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4500,5000,4700
+2015-09-22,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,2500,3500,3100
+2015-09-10,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,3000,4000,3500
+2015-09-02,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4000,5000,4500
+2015-09-01,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4000,4250,4100
+2015-08-25,Groundnut pods (raw),312,Maharashtra,27,Ratnagiri,528,4000,4500,4300

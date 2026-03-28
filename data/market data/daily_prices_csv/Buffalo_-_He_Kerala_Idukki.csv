@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-29,Buffalo - He,216,Kerala,32,Idukki,596,7000,9000,8000
+2024-01-10,Buffalo - He,216,Kerala,32,Idukki,596,7500,8000,8000
+2024-01-08,Buffalo - He,216,Kerala,32,Idukki,596,8000,8500,8500
+2024-01-01,Buffalo - He,216,Kerala,32,Idukki,596,8000,9500,9000
+2023-12-16,Buffalo - He,216,Kerala,32,Idukki,596,6000,7500,7000

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-28,Orange,18,Uttarakhand,5,Champawat,65,1000,2000,1500
+2015-02-20,Orange,18,Uttarakhand,5,Champawat,65,3000,3200,3100

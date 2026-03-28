@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-21,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,1800,2000,1900
+2022-10-11,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,2200,2500,2400
+2022-09-28,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,3300,3500,3400
+2022-05-11,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,800,1200,1000
+2022-05-04,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,700,1000,800
+2022-04-28,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,900,1100,1050
+2022-04-27,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,600,900,700
+2022-04-24,Cucumber (Kheera),159,Bihar,10,Darbhanga,215,1100,1500,1200

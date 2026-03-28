@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-08,Carrot,153,Assam,18,Hailakandi,318,2200,2600,2500
+2022-04-07,Carrot,153,Assam,18,Hailakandi,318,1700,2000,1850
+2022-04-02,Carrot,153,Assam,18,Hailakandi,318,2000,2200,2100
+2022-03-30,Carrot,153,Assam,18,Hailakandi,318,1500,1800,1700
+2022-03-17,Carrot,153,Assam,18,Hailakandi,318,1400,1600,1500
+2022-03-16,Carrot,153,Assam,18,Hailakandi,318,2200,2600,2500

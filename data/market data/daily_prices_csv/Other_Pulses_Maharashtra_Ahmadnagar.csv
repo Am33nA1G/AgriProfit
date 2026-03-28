@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-20,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,5000,6000,5500
+2017-02-14,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,3200,3200,3200
+2017-02-07,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,3000,3900,3200
+2017-01-31,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,3100,3200,3100
+2016-12-13,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,2000,5200,4000
+2016-11-29,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,3000,6200,4600
+2016-11-22,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,6200,6700,6300
+2016-01-05,Other Pulses,97,Maharashtra,27,Ahmadnagar,522,2100,2100,2100

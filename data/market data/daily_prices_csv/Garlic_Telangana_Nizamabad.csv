@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-19,Garlic,25,Telangana,36,Nizamabad,533,2089,3118,2815
+2019-02-18,Garlic,25,Telangana,36,Nizamabad,533,2021,3030,2021
+2018-03-13,Garlic,25,Telangana,36,Nizamabad,533,631,631,631
+2018-02-24,Garlic,25,Telangana,36,Nizamabad,533,1551,1551,1551
+2018-02-08,Garlic,25,Telangana,36,Nizamabad,533,1026,2417,2126
+2017-03-15,Garlic,25,Telangana,36,Nizamabad,533,2771,2801,2771
+2017-02-21,Garlic,25,Telangana,36,Nizamabad,533,1515,2501,2021
+2016-02-29,Garlic,25,Telangana,36,Nizamabad,533,3150,3150,3150
+2016-02-27,Garlic,25,Telangana,36,Nizamabad,533,2911,3101,2911
+2016-02-23,Garlic,25,Telangana,36,Nizamabad,533,3500,4551,3650
+2016-02-12,Garlic,25,Telangana,36,Nizamabad,533,2800,4500,3700
+2016-02-10,Garlic,25,Telangana,36,Nizamabad,533,6376,6906,6770
+2015-02-23,Garlic,25,Telangana,36,Nizamabad,533,2000,2150,2150
+2015-02-03,Garlic,25,Telangana,36,Nizamabad,533,3200,3200,3200
+2015-02-02,Garlic,25,Telangana,36,Nizamabad,533,2000,3900,3600

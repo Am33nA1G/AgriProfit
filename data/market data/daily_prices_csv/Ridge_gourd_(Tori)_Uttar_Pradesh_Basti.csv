@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-17,Ridge gourd (Tori),160,Uttar Pradesh,9,Basti,185,1050,1150,1100
+2018-10-16,Ridge gourd (Tori),160,Uttar Pradesh,9,Basti,185,1000,1200,1100
+2018-10-15,Ridge gourd (Tori),160,Uttar Pradesh,9,Basti,185,900,1000,960
+2018-10-14,Ridge gourd (Tori),160,Uttar Pradesh,9,Basti,185,900,1000,960
+2018-10-13,Ridge gourd (Tori),160,Uttar Pradesh,9,Basti,185,900,1050,980

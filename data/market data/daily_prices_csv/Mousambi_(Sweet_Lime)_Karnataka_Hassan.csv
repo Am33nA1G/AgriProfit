@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-28,Mousambi (Sweet Lime),77,Karnataka,29,Hassan,574,8000,8000,8000
+2019-11-06,Mousambi (Sweet Lime),77,Karnataka,29,Hassan,574,2028,2028,2028
+2017-05-17,Mousambi (Sweet Lime),77,Karnataka,29,Hassan,574,1204,1204,1204

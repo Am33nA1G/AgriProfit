@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-18,Litchi,351,Uttar Pradesh,9,Pilibhit,151,3940,4015,3975
+2020-06-16,Litchi,351,Uttar Pradesh,9,Pilibhit,151,4300,4400,4350
+2020-06-13,Litchi,351,Uttar Pradesh,9,Pilibhit,151,3900,4000,3950
+2020-06-05,Litchi,351,Uttar Pradesh,9,Pilibhit,151,4420,4495,4465
+2020-06-04,Litchi,351,Uttar Pradesh,9,Pilibhit,151,4450,4555,4500
+2020-06-03,Litchi,351,Uttar Pradesh,9,Pilibhit,151,4300,4350,4320
+2020-06-02,Litchi,351,Uttar Pradesh,9,Pilibhit,151,4450,4535,4495

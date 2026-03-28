@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-02,Orange,18,Bihar,10,Patna,230,6000,8000,7000
+2022-05-01,Orange,18,Bihar,10,Patna,230,8000,10000,9000
+2015-02-10,Orange,18,Bihar,10,Patna,230,3000,3000,3000
+2015-02-09,Orange,18,Bihar,10,Patna,230,3000,3000,3000
+2015-02-07,Orange,18,Bihar,10,Patna,230,2000,3000,2500
+2015-02-06,Orange,18,Bihar,10,Patna,230,3000,3000,3000
+2015-02-05,Orange,18,Bihar,10,Patna,230,3000,3000,3000
+2015-01-29,Orange,18,Bihar,10,Patna,230,3000,3000,3000

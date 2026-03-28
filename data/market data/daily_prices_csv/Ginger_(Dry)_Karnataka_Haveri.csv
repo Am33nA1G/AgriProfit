@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-24,Ginger (Dry),27,Karnataka,29,Haveri,564,1700,1700,1700
+2020-02-28,Ginger (Dry),27,Karnataka,29,Haveri,564,20000,23000,21000
+2020-02-20,Ginger (Dry),27,Karnataka,29,Haveri,564,20000,23000,21000
+2019-12-03,Ginger (Dry),27,Karnataka,29,Haveri,564,10000,11500,11000
+2019-11-08,Ginger (Dry),27,Karnataka,29,Haveri,564,15470,15470,15470
+2019-08-03,Ginger (Dry),27,Karnataka,29,Haveri,564,13000,14000,13500
+2018-12-21,Ginger (Dry),27,Karnataka,29,Haveri,564,9600,10000,9800
+2018-11-30,Ginger (Dry),27,Karnataka,29,Haveri,564,4500,5500,5000
+2018-09-19,Ginger (Dry),27,Karnataka,29,Haveri,564,4700,5000,4800
+2018-08-30,Ginger (Dry),27,Karnataka,29,Haveri,564,4500,6000,5000
+2018-06-18,Ginger (Dry),27,Karnataka,29,Haveri,564,4400,4600,4500
+2018-04-26,Ginger (Dry),27,Karnataka,29,Haveri,564,4400,4600,4500
+2018-03-20,Ginger (Dry),27,Karnataka,29,Haveri,564,4400,4700,4570
+2018-01-25,Ginger (Dry),27,Karnataka,29,Haveri,564,4300,4600,4500
+2018-01-17,Ginger (Dry),27,Karnataka,29,Haveri,564,4400,4600,4500
+2018-01-04,Ginger (Dry),27,Karnataka,29,Haveri,564,4300,4700,4560
+2017-12-19,Ginger (Dry),27,Karnataka,29,Haveri,564,4400,4600,4500
+2017-09-13,Ginger (Dry),27,Karnataka,29,Haveri,564,4800,5500,5000
+2017-08-10,Ginger (Dry),27,Karnataka,29,Haveri,564,4800,5500,5000
+2017-05-26,Ginger (Dry),27,Karnataka,29,Haveri,564,6000,7000,6500

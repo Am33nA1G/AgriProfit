@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-10,Cotton,15,Haryana,6,Sonipat,76,7051,7121,7121
+2025-02-09,Cotton,15,Haryana,6,Sonipat,76,7181,7181,7181
+2025-01-31,Cotton,15,Haryana,6,Sonipat,76,4001,7121,7121

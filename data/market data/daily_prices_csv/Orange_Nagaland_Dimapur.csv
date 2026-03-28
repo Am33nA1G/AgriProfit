@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000
+2021-01-08,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000
+2021-01-07,Orange,18,Nagaland,13,Dimapur,265,8000,10000,9000
+2021-01-06,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000
+2021-01-05,Orange,18,Nagaland,13,Dimapur,265,8000,10000,9000
+2020-12-19,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000
+2020-12-18,Orange,18,Nagaland,13,Dimapur,265,10000,12000,11000
+2020-12-17,Orange,18,Nagaland,13,Dimapur,265,10000,12000,11000
+2020-12-16,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000
+2020-12-15,Orange,18,Nagaland,13,Dimapur,265,9000,11000,10000

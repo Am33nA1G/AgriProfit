@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-16,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,4705,4705,4705
+2022-06-02,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,4780,4980,4890
+2021-04-13,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,5606,5606,5606
+2021-04-12,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,5600,5600,5600
+2020-06-02,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,3720,4875,3800
+2018-09-19,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,3621,3960,3910
+2018-08-30,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,3771,3771,3771
+2016-11-03,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,7051,9050,9000
+2016-09-22,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,8800,8900,8900
+2016-08-22,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Ganganagar,99,7250,7300,7251

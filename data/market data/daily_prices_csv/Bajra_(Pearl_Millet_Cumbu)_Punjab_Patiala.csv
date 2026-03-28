@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-19,Bajra (Pearl Millet/Cumbu),28,Punjab,3,Patiala,48,2000,2000,2000
+2015-10-25,Bajra (Pearl Millet/Cumbu),28,Punjab,3,Patiala,48,1450,1450,1450
+2015-10-10,Bajra (Pearl Millet/Cumbu),28,Punjab,3,Patiala,48,1450,1620,1480
+2015-06-01,Bajra (Pearl Millet/Cumbu),28,Punjab,3,Patiala,48,1100,1375,1260

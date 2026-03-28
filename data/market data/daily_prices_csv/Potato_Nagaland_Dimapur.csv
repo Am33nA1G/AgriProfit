@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-02,Potato,24,Nagaland,13,Dimapur,265,2800,3000,2900
+2017-05-26,Potato,24,Nagaland,13,Dimapur,265,2800,3000,2900
+2017-04-21,Potato,24,Nagaland,13,Dimapur,265,3800,4000,3900
+2017-04-14,Potato,24,Nagaland,13,Dimapur,265,3800,4000,3900
+2015-07-17,Potato,24,Nagaland,13,Dimapur,265,4000,4500,4250
+2015-06-18,Potato,24,Nagaland,13,Dimapur,265,5500,5800,5700

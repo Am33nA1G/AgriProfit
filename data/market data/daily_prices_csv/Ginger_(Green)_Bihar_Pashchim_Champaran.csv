@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-29,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5100,5300,5200
+2023-01-03,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5700,5900,5800
+2023-01-01,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5500,5700,5600
+2022-09-02,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,8500,8800,8600
+2022-08-23,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,9300,9500,9400
+2022-08-22,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,8500,8700,8600
+2022-08-20,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,9500,9650,9600
+2022-08-18,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,8200,8500,8300
+2022-08-17,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,9000,9300,9100
+2022-08-15,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,9700,10000,9800
+2022-07-20,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,4500,6000,5000
+2022-07-05,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,7000,9000,7500
+2022-06-30,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5000,8000,6000
+2022-06-29,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5000,8000,6000
+2022-03-11,Ginger (Green),103,Bihar,10,Pashchim Champaran,203,5000,6000,5500

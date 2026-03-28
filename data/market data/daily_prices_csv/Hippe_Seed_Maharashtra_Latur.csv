@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-22,Hippe Seed,125,Maharashtra,27,Latur,524,1569,1569,1569
+2017-02-02,Hippe Seed,125,Maharashtra,27,Latur,524,1825,1825,1825
+2017-01-02,Hippe Seed,125,Maharashtra,27,Latur,524,1600,2000,1800
+2016-07-30,Hippe Seed,125,Maharashtra,27,Latur,524,2141,2141,2141
+2016-02-06,Hippe Seed,125,Maharashtra,27,Latur,524,2000,2200,2200
+2016-01-19,Hippe Seed,125,Maharashtra,27,Latur,524,2190,2190,2190
+2016-01-18,Hippe Seed,125,Maharashtra,27,Latur,524,2000,2150,2150
+2015-12-28,Hippe Seed,125,Maharashtra,27,Latur,524,2025,2025,2025
+2015-12-26,Hippe Seed,125,Maharashtra,27,Latur,524,2131,2131,2131
+2015-12-22,Hippe Seed,125,Maharashtra,27,Latur,524,1700,1700,1700
+2015-12-19,Hippe Seed,125,Maharashtra,27,Latur,524,1901,1901,1901
+2015-12-17,Hippe Seed,125,Maharashtra,27,Latur,524,1750,1750,1750
+2015-12-04,Hippe Seed,125,Maharashtra,27,Latur,524,2000,2000,2000
+2015-09-19,Hippe Seed,125,Maharashtra,27,Latur,524,1850,1850,1850
+2015-08-31,Hippe Seed,125,Maharashtra,27,Latur,524,1301,1301,1301
+2015-08-22,Hippe Seed,125,Maharashtra,27,Latur,524,1701,1701,1701
+2015-08-10,Hippe Seed,125,Maharashtra,27,Latur,524,1600,1600,1600
+2015-07-30,Hippe Seed,125,Maharashtra,27,Latur,524,1600,1600,1600
+2015-07-13,Hippe Seed,125,Maharashtra,27,Latur,524,1600,1600,1600
+2015-06-20,Hippe Seed,125,Maharashtra,27,Latur,524,1300,1300,1300

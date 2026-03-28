@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-04,Dried mango,423,Madhya Pradesh,23,Indore,439,2000,2000,2000
+2024-12-09,Dried mango,423,Madhya Pradesh,23,Indore,439,10000,10000,10000
+2024-10-10,Dried mango,423,Madhya Pradesh,23,Indore,439,20400,20400,20400
+2024-04-01,Dried mango,423,Madhya Pradesh,23,Indore,439,7755,7755,7755

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-29,Safflower,59,Chhattisgarh,22,Bilaspur,406,1350,1350,1350
+2023-08-30,Safflower,59,Chhattisgarh,22,Bilaspur,406,3500,3500,3500
+2023-03-28,Safflower,59,Chhattisgarh,22,Bilaspur,406,1380,1850,1628
+2022-12-31,Safflower,59,Chhattisgarh,22,Bilaspur,406,2000,2000,2000
+2022-02-11,Safflower,59,Chhattisgarh,22,Bilaspur,406,900,4000,2100

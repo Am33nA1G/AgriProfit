@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-17,Banana,19,Odisha,21,Mayurbhanj,376,2600,3000,2800
+2023-10-20,Banana,19,Odisha,21,Mayurbhanj,376,3000,3400,3200
+2023-10-03,Banana,19,Odisha,21,Mayurbhanj,376,2600,3000,2800

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-01,Mustard,12,Maharashtra,27,Pune,521,6000,6000,6000
+2018-03-22,Mustard,12,Maharashtra,27,Pune,521,3900,3900,3900
+2017-04-23,Mustard,12,Maharashtra,27,Pune,521,3600,3600,3600
+2016-10-16,Mustard,12,Maharashtra,27,Pune,521,4000,4000,4000
+2016-09-08,Mustard,12,Maharashtra,27,Pune,521,4100,4100,4100
+2016-08-28,Mustard,12,Maharashtra,27,Pune,521,3600,3600,3600
+2016-04-17,Mustard,12,Maharashtra,27,Pune,521,4100,4100,4100
+2016-01-25,Mustard,12,Maharashtra,27,Pune,521,4211,4211,4211
+2015-12-20,Mustard,12,Maharashtra,27,Pune,521,4000,4000,4000
+2015-06-14,Mustard,12,Maharashtra,27,Pune,521,4001,4001,4001

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-13,Kakada,230,Tamil Nadu,33,Vellore,605,50000,50000,50000
+2025-01-01,Kakada,230,Tamil Nadu,33,Vellore,605,80000,80000,80000
+2024-11-01,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-10-30,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-10-11,Kakada,230,Tamil Nadu,33,Vellore,605,30000,30000,30000
+2024-09-12,Kakada,230,Tamil Nadu,33,Vellore,605,30000,30000,30000
+2024-08-28,Kakada,230,Tamil Nadu,33,Vellore,605,30000,30000,30000
+2024-08-22,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-08-08,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-08-07,Kakada,230,Tamil Nadu,33,Vellore,605,30000,30000,30000
+2024-07-30,Kakada,230,Tamil Nadu,33,Vellore,605,35000,35000,35000
+2024-07-29,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-07-23,Kakada,230,Tamil Nadu,33,Vellore,605,40000,40000,40000
+2024-07-14,Kakada,230,Tamil Nadu,33,Vellore,605,60000,60000,60000

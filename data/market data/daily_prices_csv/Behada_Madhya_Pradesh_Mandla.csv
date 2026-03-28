@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-30,Behada,508,Madhya Pradesh,23,Mandla,454,705,705,705
+2025-05-14,Behada,508,Madhya Pradesh,23,Mandla,454,1000,1000,1000
+2025-05-05,Behada,508,Madhya Pradesh,23,Mandla,454,6000,6000,6000
+2024-09-11,Behada,508,Madhya Pradesh,23,Mandla,454,1010,1010,1010
+2024-08-20,Behada,508,Madhya Pradesh,23,Mandla,454,2000,2005,2005

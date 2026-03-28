@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-07,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,19000,21000,20000
+2016-10-05,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,25000,30000,28000
+2016-10-04,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,19000,20500,20000
+2016-10-03,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,22000,25250,24000
+2016-09-28,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1000,2600,1800
+2016-09-26,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1000,2550,1600
+2016-09-06,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1100,2500,1300
+2016-08-28,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,18000,20000,19000
+2016-08-26,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,25000,30000,27000
+2016-07-13,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-07-12,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-07-06,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-07-05,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-07-03,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-06-29,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-06-28,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-06-26,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-06-08,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1300,1400,1350
+2016-05-25,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1250,1350,1300
+2016-05-08,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1100,1250,1200
+2016-05-06,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-04-05,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1150,1300,1200
+2016-03-18,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-03-11,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1100,1200,1150
+2016-03-10,Arecanut (Betelnut/Supari),140,Assam,18,Bongaigaon,319,1000,1150,1100

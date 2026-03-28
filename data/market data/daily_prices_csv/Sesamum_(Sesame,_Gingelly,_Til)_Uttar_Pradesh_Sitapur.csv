@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-15,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sitapur,154,4600,5100,4900
+2015-12-18,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sitapur,154,4900,5300,5120
+2015-07-11,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sitapur,154,4300,4560,4460
+2015-02-06,"Sesamum (Sesame, Gingelly, Til)",11,Uttar Pradesh,9,Sitapur,154,3500,3600,3540

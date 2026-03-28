@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-23,Drumstick,168,Assam,18,Nagaon,305,2000,2500,2400
+2025-04-07,Drumstick,168,Assam,18,Nagaon,305,2500,3500,3000
+2025-04-01,Drumstick,168,Assam,18,Nagaon,305,2500,3000,3000
+2025-03-29,Drumstick,168,Assam,18,Nagaon,305,2500,3000,3000
+2025-03-27,Drumstick,168,Assam,18,Nagaon,305,2500,3500,3300
+2025-03-13,Drumstick,168,Assam,18,Nagaon,305,7500,8000,7800
+2025-03-12,Drumstick,168,Assam,18,Nagaon,305,7000,8000,7500

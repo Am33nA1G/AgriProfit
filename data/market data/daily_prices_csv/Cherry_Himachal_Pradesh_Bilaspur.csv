@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-26,Cherry,328,Himachal Pradesh,2,Bilaspur,30,17000,18000,18000
+2020-06-17,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7000,8000,8000
+2020-06-15,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7000,8000,8000
+2020-06-13,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7000,10000,8000
+2018-06-11,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7500,9500,8500
+2017-07-15,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7500,8600,8500
+2017-07-03,Cherry,328,Himachal Pradesh,2,Bilaspur,30,7000,8500,7500

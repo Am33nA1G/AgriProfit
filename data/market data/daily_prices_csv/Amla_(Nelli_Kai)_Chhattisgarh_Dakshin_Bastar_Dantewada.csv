@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-20,Amla (Nelli Kai),355,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2300,2500,2350
+2016-01-20,Amla (Nelli Kai),355,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2000,2500,2050
+2016-01-12,Amla (Nelli Kai),355,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2000,2500,2050
+2015-12-30,Amla (Nelli Kai),355,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2000,2500,2050

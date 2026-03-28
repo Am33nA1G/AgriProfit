@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-22,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,3323,3323,3323
+2015-08-18,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2962,3009,2999
+2015-06-22,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,3072,,
+2015-06-03,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2786,2836,2807
+2015-05-26,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2952,,
+2015-05-19,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2869,2999,2945
+2015-05-07,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2836,,
+2015-03-30,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2111,,
+2015-03-27,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,2715,,
+2015-01-29,Sunflower Seed,285,Tamil Nadu,33,Cuddalore,617,4636,,

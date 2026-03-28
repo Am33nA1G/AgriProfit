@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-30,Green Peas,50,Uttar Pradesh,9,Lucknow,157,900,1100,1000
+2019-01-29,Green Peas,50,Uttar Pradesh,9,Lucknow,157,800,1000,900

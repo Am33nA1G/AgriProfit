@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-14,Mango,20,Meghalaya,17,West Garo Hills,293,1800,2000,1900
+2015-06-27,Mango,20,Meghalaya,17,West Garo Hills,293,6000,7000,6500
+2015-06-23,Mango,20,Meghalaya,17,West Garo Hills,293,2000,2500,2250
+2015-06-20,Mango,20,Meghalaya,17,West Garo Hills,293,4500,6000,5000
+2015-06-09,Mango,20,Meghalaya,17,West Garo Hills,293,4500,5000,4750

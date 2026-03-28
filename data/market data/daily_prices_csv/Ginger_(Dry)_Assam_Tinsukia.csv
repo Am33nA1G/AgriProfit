@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-26,Ginger (Dry),27,Assam,18,Tinsukia,309,3500,4500,4000
+2016-03-07,Ginger (Dry),27,Assam,18,Tinsukia,309,3000,3500,3200
+2016-03-06,Ginger (Dry),27,Assam,18,Tinsukia,309,3500,4000,3800
+2016-02-20,Ginger (Dry),27,Assam,18,Tinsukia,309,4000,4500,4200
+2016-01-13,Ginger (Dry),27,Assam,18,Tinsukia,309,4000,4500,4200
+2016-01-12,Ginger (Dry),27,Assam,18,Tinsukia,309,5500,6500,6000
+2015-10-22,Ginger (Dry),27,Assam,18,Tinsukia,309,4500,5500,5000
+2015-09-02,Ginger (Dry),27,Assam,18,Tinsukia,309,6500,7500,7000
+2015-08-28,Ginger (Dry),27,Assam,18,Tinsukia,309,6500,7500,7000
+2015-06-16,Ginger (Dry),27,Assam,18,Tinsukia,309,3500,5000,4000
+2015-05-29,Ginger (Dry),27,Assam,18,Tinsukia,309,2500,3500,2800
+2015-04-10,Ginger (Dry),27,Assam,18,Tinsukia,309,2500,3500,3000
+2015-04-08,Ginger (Dry),27,Assam,18,Tinsukia,309,3000,4000,3500
+2015-03-11,Ginger (Dry),27,Assam,18,Tinsukia,309,1400,2000,1500

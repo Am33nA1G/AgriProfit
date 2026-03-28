@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-19,Arhar (Tur/Red Gram)(Whole),49,Odisha,21,Nuapada,394,9000,9100,9000
+2018-03-26,Arhar (Tur/Red Gram)(Whole),49,Odisha,21,Nuapada,394,5500,5600,5600
+2018-02-23,Arhar (Tur/Red Gram)(Whole),49,Odisha,21,Nuapada,394,6000,6100,6000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-23,Seetafal,201,Madhya Pradesh,23,Narsimhapur,452,3600,3600,3600
+2019-11-15,Seetafal,201,Madhya Pradesh,23,Narsimhapur,452,3900,3900,3900
+2019-10-24,Seetafal,201,Madhya Pradesh,23,Narsimhapur,452,8400,8400,8400

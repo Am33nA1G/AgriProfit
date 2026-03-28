@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-09,Other Pulses,97,Madhya Pradesh,23,Bhind,420,2941,2941,2941
+2015-12-04,Other Pulses,97,Madhya Pradesh,23,Bhind,420,,,2200
+2015-12-02,Other Pulses,97,Madhya Pradesh,23,Bhind,420,3000,,
+2015-12-01,Other Pulses,97,Madhya Pradesh,23,Bhind,420,,2900,
+2015-10-18,Other Pulses,97,Madhya Pradesh,23,Bhind,420,,,1050
+2015-09-06,Other Pulses,97,Madhya Pradesh,23,Bhind,420,2646,2776,2700
+2015-08-11,Other Pulses,97,Madhya Pradesh,23,Bhind,420,2601,2601,2601
+2015-08-09,Other Pulses,97,Madhya Pradesh,23,Bhind,420,2701,2701,2701
+2015-02-23,Other Pulses,97,Madhya Pradesh,23,Bhind,420,3550,3550,3550
+2015-01-10,Other Pulses,97,Madhya Pradesh,23,Bhind,420,5401,5401,5401

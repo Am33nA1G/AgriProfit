@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-31,Jowar (Sorghum),5,Andhra Pradesh,28,Prakasam,549,1600,1650,1630
+2015-08-24,Jowar (Sorghum),5,Andhra Pradesh,28,Prakasam,549,1500,1600,1550
+2015-08-22,Jowar (Sorghum),5,Andhra Pradesh,28,Prakasam,549,1400,1600,1500

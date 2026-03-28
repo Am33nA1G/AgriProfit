@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-31,Pomegranate,190,Madhya Pradesh,23,Morena,419,2300,2500,2400
+2022-06-19,Pomegranate,190,Madhya Pradesh,23,Morena,419,5000,5000,5000
+2022-04-11,Pomegranate,190,Madhya Pradesh,23,Morena,419,3000,3000,3000
+2022-03-31,Pomegranate,190,Madhya Pradesh,23,Morena,419,5000,5000,5000

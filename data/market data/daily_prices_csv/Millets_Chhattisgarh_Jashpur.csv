@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-28,Millets,237,Chhattisgarh,22,Jashpur,402,3000,3500,3000
+2024-12-31,Millets,237,Chhattisgarh,22,Jashpur,402,3500,3500,3500
+2024-11-21,Millets,237,Chhattisgarh,22,Jashpur,402,3200,3200,3200

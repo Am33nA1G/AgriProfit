@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-11,Jack Fruit,182,Bihar,10,Nawada,237,2400,2600,2500
+2022-04-09,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-04-08,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-04-07,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-04-06,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-04-05,Jack Fruit,182,Bihar,10,Nawada,237,2600,3000,2800
+2022-04-04,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-04-02,Jack Fruit,182,Bihar,10,Nawada,237,2600,2800,2700
+2022-03-31,Jack Fruit,182,Bihar,10,Nawada,237,2400,2800,2600
+2022-03-30,Jack Fruit,182,Bihar,10,Nawada,237,3300,3700,3500

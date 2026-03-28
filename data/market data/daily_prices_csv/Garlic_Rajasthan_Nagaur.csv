@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-18,Garlic,25,Rajasthan,8,Nagaur,112,7000,9300,7800
+2023-09-14,Garlic,25,Rajasthan,8,Nagaur,112,8000,9000,8500
+2023-09-13,Garlic,25,Rajasthan,8,Nagaur,112,7000,9000,8000
+2020-01-12,Garlic,25,Rajasthan,8,Nagaur,112,6000,12000,8000
+2020-01-11,Garlic,25,Rajasthan,8,Nagaur,112,6000,12000,8000
+2020-01-09,Garlic,25,Rajasthan,8,Nagaur,112,8000,11000,9000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-27,Turnip,341,Odisha,21,Nuapada,394,3500,4000,4000
+2021-02-22,Turnip,341,Odisha,21,Nuapada,394,3000,3500,3500
+2021-02-11,Turnip,341,Odisha,21,Nuapada,394,3500,4000,4000
+2021-01-23,Turnip,341,Odisha,21,Nuapada,394,3000,3200,3200
+2021-01-22,Turnip,341,Odisha,21,Nuapada,394,4000,4200,4000
+2021-01-21,Turnip,341,Odisha,21,Nuapada,394,3000,3500,3500
+2021-01-16,Turnip,341,Odisha,21,Nuapada,394,3000,4000,4000
+2021-01-10,Turnip,341,Odisha,21,Nuapada,394,3500,4000,4000

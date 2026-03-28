@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-12,Soyabean,13,Bihar,10,Saharsa,214,8000,8200,8100
+2015-02-11,Soyabean,13,Bihar,10,Saharsa,214,8100,8200,8150
+2015-02-10,Soyabean,13,Bihar,10,Saharsa,214,8200,8300,8250
+2015-02-09,Soyabean,13,Bihar,10,Saharsa,214,8000,8200,8100

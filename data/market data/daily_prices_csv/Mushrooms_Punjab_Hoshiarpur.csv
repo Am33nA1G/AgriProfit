@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-02,Mushrooms,340,Punjab,3,Hoshiarpur,38,1800,2200,2000
+2023-06-13,Mushrooms,340,Punjab,3,Hoshiarpur,38,13000,15000,14000
+2023-06-12,Mushrooms,340,Punjab,3,Hoshiarpur,38,14000,14000,14000
+2023-06-09,Mushrooms,340,Punjab,3,Hoshiarpur,38,1400,1400,1400
+2021-02-10,Mushrooms,340,Punjab,3,Hoshiarpur,38,3400,3600,3500

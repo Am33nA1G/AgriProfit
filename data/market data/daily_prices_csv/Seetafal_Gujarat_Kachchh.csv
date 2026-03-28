@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-15,Seetafal,201,Gujarat,24,Kachchh,468,1500,2500,2000
+2025-10-14,Seetafal,201,Gujarat,24,Kachchh,468,2000,2500,2250
+2025-10-13,Seetafal,201,Gujarat,24,Kachchh,468,2000,3000,2500
+2025-10-12,Seetafal,201,Gujarat,24,Kachchh,468,1800,2700,2250
+2025-10-11,Seetafal,201,Gujarat,24,Kachchh,468,2000,2500,2250
+2025-10-10,Seetafal,201,Gujarat,24,Kachchh,468,2000,3500,2750
+2025-10-09,Seetafal,201,Gujarat,24,Kachchh,468,2000,3000,2500
+2025-10-08,Seetafal,201,Gujarat,24,Kachchh,468,2000,3000,2500

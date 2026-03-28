@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-16,Pear (Marasebu),330,Kerala,32,Idukki,596,8000,8500,8500
+2023-06-14,Pear (Marasebu),330,Kerala,32,Idukki,596,7000,8000,8000

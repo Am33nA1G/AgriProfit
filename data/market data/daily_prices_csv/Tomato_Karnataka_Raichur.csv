@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-07,Tomato,78,Karnataka,29,Raichur,559,800,800,800
+2015-03-16,Tomato,78,Karnataka,29,Raichur,559,450,500,500
+2015-03-09,Tomato,78,Karnataka,29,Raichur,559,442,550,500

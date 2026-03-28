@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-17,Buffalo - He,216,Maharashtra,27,Chandrapur,509,5000,20000,10000
+2017-10-29,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,15000,8000
+2017-07-09,Buffalo - He,216,Maharashtra,27,Chandrapur,509,5000,15000,10000
+2017-07-02,Buffalo - He,216,Maharashtra,27,Chandrapur,509,5000,15000,10000
+2017-02-05,Buffalo - He,216,Maharashtra,27,Chandrapur,509,5000,15000,10000
+2017-01-01,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,7000
+2016-12-12,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,12000,8000
+2016-09-25,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,8000
+2016-01-24,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,6000
+2016-01-17,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,12000,8000
+2016-01-10,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,7000
+2015-12-06,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,8000
+2015-10-25,Buffalo - He,216,Maharashtra,27,Chandrapur,509,3000,12000,6000
+2015-10-11,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,10000,6000
+2015-10-04,Buffalo - He,216,Maharashtra,27,Chandrapur,509,4000,12000,8000
+2015-08-23,Buffalo - He,216,Maharashtra,27,Chandrapur,509,2000,10000,4000
+2015-04-05,Buffalo - He,216,Maharashtra,27,Chandrapur,509,2000,12000,6000

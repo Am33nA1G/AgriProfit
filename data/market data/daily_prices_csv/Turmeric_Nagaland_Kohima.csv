@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-05,Turmeric,39,Nagaland,13,Kohima,270,2000,2500,2300
+2023-09-06,Turmeric,39,Nagaland,13,Kohima,270,7500,7800,7700
+2023-07-31,Turmeric,39,Nagaland,13,Kohima,270,6600,6800,6700
+2015-05-29,Turmeric,39,Nagaland,13,Kohima,270,5000,5400,5200
+2015-05-22,Turmeric,39,Nagaland,13,Kohima,270,4500,5000,4750
+2015-02-12,Turmeric,39,Nagaland,13,Kohima,270,5000,5500,5250

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-18,Tinda,349,Uttar Pradesh,9,Bareilly,150,950,1000,980
+2020-07-31,Tinda,349,Uttar Pradesh,9,Bareilly,150,1070,1110,1090
+2018-09-05,Tinda,349,Uttar Pradesh,9,Bareilly,150,1200,1250,1235

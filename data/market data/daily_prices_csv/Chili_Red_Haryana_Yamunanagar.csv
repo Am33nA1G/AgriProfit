@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-29,Chili Red,26,Haryana,6,Yamunanagar,71,7900,8000,7900
+2016-04-26,Chili Red,26,Haryana,6,Yamunanagar,71,8000,8000,8000
+2016-01-12,Chili Red,26,Haryana,6,Yamunanagar,71,7000,7000,7000

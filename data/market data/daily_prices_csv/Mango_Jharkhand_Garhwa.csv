@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-05,Mango,20,Jharkhand,20,Garhwa,346,1300,1400,1350
+2021-06-28,Mango,20,Jharkhand,20,Garhwa,346,1400,1450,1425
+2021-06-23,Mango,20,Jharkhand,20,Garhwa,346,1650,1750,1700

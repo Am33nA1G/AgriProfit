@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Coriander (Leaves),43,Bihar,10,Munger,226,10000,10000,10000
+2023-09-06,Coriander (Leaves),43,Bihar,10,Munger,226,9000,10000,9500
+2023-09-05,Coriander (Leaves),43,Bihar,10,Munger,226,8000,10000,9000
+2023-09-04,Coriander (Leaves),43,Bihar,10,Munger,226,8000,10000,10000
+2023-09-03,Coriander (Leaves),43,Bihar,10,Munger,226,12000,12000,12000
+2023-09-02,Coriander (Leaves),43,Bihar,10,Munger,226,2000,2500,2200
+2023-09-01,Coriander (Leaves),43,Bihar,10,Munger,226,8000,10000,9000
+2023-08-31,Coriander (Leaves),43,Bihar,10,Munger,226,12000,12000,12000

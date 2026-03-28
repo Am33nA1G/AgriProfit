@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-22,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,29000,32000,30000
+2017-10-30,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,29000,32000,30000
+2017-10-25,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,29000,32000,30000
+2017-10-18,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,29000,32000,30000
+2017-09-15,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,30000,32000,31000
+2017-03-13,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,36000,38000,37000
+2017-03-03,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,36000,38000,37000
+2017-02-02,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,34000,36000,35000
+2016-10-13,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,33000,35000,34000
+2016-03-23,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,29000,31000,30000
+2015-12-08,Ghee,249,Andhra Pradesh,28,Visakhapatnam,544,53000,54000,53543

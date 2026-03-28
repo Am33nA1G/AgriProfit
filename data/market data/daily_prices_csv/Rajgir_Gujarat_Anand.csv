@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-30,Rajgir,248,Gujarat,24,Anand,482,8630,9365,8795
+2020-06-16,Rajgir,248,Gujarat,24,Anand,482,7905,7905,7905
+2019-09-26,Rajgir,248,Gujarat,24,Anand,482,5500,5500,5500
+2019-03-16,Rajgir,248,Gujarat,24,Anand,482,3190,8370,3190
+2018-10-26,Rajgir,248,Gujarat,24,Anand,482,8370,12555,12172
+2017-10-25,Rajgir,248,Gujarat,24,Anand,482,1500,5405,5405
+2016-06-18,Rajgir,248,Gujarat,24,Anand,482,2120,2120,2120
+2016-03-15,Rajgir,248,Gujarat,24,Anand,482,1750,3125,3125

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-30,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,7050,7100,7090
+2016-12-30,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,8800,9500,9000
+2016-10-08,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,7000,8000,7500
+2016-09-21,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,8000,8500,8300
+2016-09-09,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,8000,8500,8200
+2016-09-08,Chili Red,26,Andhra Pradesh,28,Vizianagaram,543,8400,8600,8500

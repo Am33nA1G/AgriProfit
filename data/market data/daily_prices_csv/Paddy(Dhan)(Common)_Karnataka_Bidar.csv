@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-06,Paddy(Dhan)(Common),2,Karnataka,29,Bidar,558,1021,1021,1021
+2021-11-12,Paddy(Dhan)(Common),2,Karnataka,29,Bidar,558,1011,1011,1011
+2020-12-07,Paddy(Dhan)(Common),2,Karnataka,29,Bidar,558,900,900,900
+2016-09-28,Paddy(Dhan)(Common),2,Karnataka,29,Bidar,558,800,800,800
+2015-03-07,Paddy(Dhan)(Common),2,Karnataka,29,Bidar,558,1000,1000,1000

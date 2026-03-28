@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-22,Potato,24,Maharashtra,27,Dhule,498,800,900,850
+2016-03-10,Potato,24,Maharashtra,27,Dhule,498,1000,1100,1100
+2016-01-13,Potato,24,Maharashtra,27,Dhule,498,700,1000,800

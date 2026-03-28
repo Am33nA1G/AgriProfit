@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-07,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-04-06,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-04-05,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-04-04,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2500,3500,3000
+2022-04-01,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-03-29,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-03-28,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,3000,2500
+2022-03-26,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2000,4000,3000
+2022-03-25,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2500,3500,3000
+2022-03-24,Papaya (Raw),313,Bihar,10,Pashchim Champaran,203,2500,3500,3000

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-12,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8300,8600,8500
+2020-03-05,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8200,8500,8300
+2020-02-27,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8100,8500,8300
+2020-02-20,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8000,8300,8100
+2020-02-13,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7800,8200,8000
+2020-02-08,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7900,8200,8000
+2020-01-30,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7900,8200,8000
+2020-01-23,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7900,8200,8100
+2020-01-17,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8000,8200,8100
+2020-01-09,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7900,8200,8100
+2020-01-02,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,7800,8100,8000
+2019-12-26,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8000,8400,8200
+2019-12-19,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8200,8500,8400
+2019-12-12,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8300,8600,8500
+2019-12-05,Paddy(Dhan)(Common),2,Nagaland,13,Wokha,264,8400,8700,8500

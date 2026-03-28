@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-21,Fish,366,Uttar Pradesh,9,Gonda,183,12000,13400,12500
+2025-01-24,Fish,366,Uttar Pradesh,9,Gonda,183,11800,13000,12200
+2024-09-13,Fish,366,Uttar Pradesh,9,Gonda,183,12800,13500,13000
+2024-02-23,Fish,366,Uttar Pradesh,9,Gonda,183,13500,14500,13800
+2024-01-13,Fish,366,Uttar Pradesh,9,Gonda,183,12300,14000,12800
+2024-01-05,Fish,366,Uttar Pradesh,9,Gonda,183,12500,14000,13200
+2023-11-17,Fish,366,Uttar Pradesh,9,Gonda,183,12000,13500,12400
+2023-10-27,Fish,366,Uttar Pradesh,9,Gonda,183,11500,13000,12500
+2023-10-06,Fish,366,Uttar Pradesh,9,Gonda,183,12600,14000,13000
+2023-08-25,Fish,366,Uttar Pradesh,9,Gonda,183,12000,13400,12800
+2023-08-18,Fish,366,Uttar Pradesh,9,Gonda,183,12000,13600,12800
+2023-08-11,Fish,366,Uttar Pradesh,9,Gonda,183,12000,13800,12500

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-03,Water Melon,73,Odisha,21,Jajapur,382,1200,1400,1400
+2017-04-08,Water Melon,73,Odisha,21,Jajapur,382,600,800,700
+2016-03-13,Water Melon,73,Odisha,21,Jajapur,382,700,800,800
+2015-04-15,Water Melon,73,Odisha,21,Jajapur,382,300,500,500
+2015-04-13,Water Melon,73,Odisha,21,Jajapur,382,400,500,500

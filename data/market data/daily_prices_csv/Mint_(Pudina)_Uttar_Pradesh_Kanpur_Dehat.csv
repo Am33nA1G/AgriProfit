@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-05,Mint (Pudina),360,Uttar Pradesh,9,Kanpur Dehat,163,1000,1200,1200
+2019-04-27,Mint (Pudina),360,Uttar Pradesh,9,Kanpur Dehat,163,900,1000,1000

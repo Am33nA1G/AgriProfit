@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-10,Methi (Leaves),46,Odisha,21,Nuapada,394,2500,3000,3000
+2020-01-17,Methi (Leaves),46,Odisha,21,Nuapada,394,1400,1500,1500
+2020-01-05,Methi (Leaves),46,Odisha,21,Nuapada,394,3000,3200,3100
+2020-01-01,Methi (Leaves),46,Odisha,21,Nuapada,394,1000,1200,1200
+2019-12-29,Methi (Leaves),46,Odisha,21,Nuapada,394,3000,3100,3000
+2017-12-19,Methi (Leaves),46,Odisha,21,Nuapada,394,3000,3000,3000
+2017-12-18,Methi (Leaves),46,Odisha,21,Nuapada,394,2000,2000,2000

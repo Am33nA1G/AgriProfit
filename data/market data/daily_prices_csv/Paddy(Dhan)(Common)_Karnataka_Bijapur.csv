@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-11-13,Paddy(Dhan)(Common),2,Karnataka,29,Bijapur,557,1400,1800,1600
+2018-06-30,Paddy(Dhan)(Common),2,Karnataka,29,Bijapur,557,1200,1600,1400
+2016-01-27,Paddy(Dhan)(Common),2,Karnataka,29,Bijapur,557,2400,2600,2500
+2015-11-27,Paddy(Dhan)(Common),2,Karnataka,29,Bijapur,557,1300,1500,1400
+2015-11-26,Paddy(Dhan)(Common),2,Karnataka,29,Bijapur,557,1200,1500,1400

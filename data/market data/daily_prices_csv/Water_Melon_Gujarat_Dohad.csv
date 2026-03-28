@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-02,Water Melon,73,Gujarat,24,Dohad,485,500,1000,700
+2016-04-19,Water Melon,73,Gujarat,24,Dohad,485,500,1250,600

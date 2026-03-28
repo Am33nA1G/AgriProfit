@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-31,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2020-03-19,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,1700,1700
+2020-03-17,Onion Green,358,Punjab,3,Hoshiarpur,38,1000,1500,1500
+2020-03-12,Onion Green,358,Punjab,3,Hoshiarpur,38,1000,1500,1500
+2020-03-05,Onion Green,358,Punjab,3,Hoshiarpur,38,1000,1500,1500
+2020-02-29,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2020-02-22,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2020-02-19,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2020-02-15,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2020-01-21,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2020-01-05,Onion Green,358,Punjab,3,Hoshiarpur,38,2500,3000,3000
+2020-01-04,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2019-12-31,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2019-12-26,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2000,2000
+2019-12-24,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2019-12-19,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2019-12-16,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500
+2019-12-13,Onion Green,358,Punjab,3,Hoshiarpur,38,1500,2000,2000
+2019-12-11,Onion Green,358,Punjab,3,Hoshiarpur,38,2000,2500,2500

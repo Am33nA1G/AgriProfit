@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-13,Cotton,15,Punjab,3,Ludhiana,41,1200,1500,1400
+2015-01-15,Cotton,15,Punjab,3,Ludhiana,41,3900,4150,4000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-05,Carrot,153,Telangana,36,Khammam,541,6000,6600,6300
+2021-10-02,Carrot,153,Telangana,36,Khammam,541,4000,5000,4500
+2015-06-06,Carrot,153,Telangana,36,Khammam,541,5600,5800,5600
+2015-06-04,Carrot,153,Telangana,36,Khammam,541,5500,5800,5500
+2015-06-03,Carrot,153,Telangana,36,Khammam,541,3600,3800,3600
+2015-05-29,Carrot,153,Telangana,36,Khammam,541,3600,3800,3600
+2015-05-28,Carrot,153,Telangana,36,Khammam,541,3200,3500,3200
+2015-05-26,Carrot,153,Telangana,36,Khammam,541,3200,3500,3200
+2015-05-25,Carrot,153,Telangana,36,Khammam,541,2500,2800,2500
+2015-04-15,Carrot,153,Telangana,36,Khammam,541,200,200,200

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-23,Tamarind Fruit,261,Madhya Pradesh,23,Sehore,445,4800,4800,4800
+2019-04-29,Tamarind Fruit,261,Madhya Pradesh,23,Sehore,445,2056,2111,2111
+2019-04-25,Tamarind Fruit,261,Madhya Pradesh,23,Sehore,445,2056,2151,2100
+2019-04-24,Tamarind Fruit,261,Madhya Pradesh,23,Sehore,445,3400,3500,3425
+2019-04-23,Tamarind Fruit,261,Madhya Pradesh,23,Sehore,445,3400,3500,3470

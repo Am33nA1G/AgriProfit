@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-07,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Ambedkar Nagar,178,10700,10850,10800
+2022-03-10,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Ambedkar Nagar,178,5560,5620,5580
+2021-11-13,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Ambedkar Nagar,178,8800,8980,8880

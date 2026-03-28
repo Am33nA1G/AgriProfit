@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-07,Banana,19,Karnataka,29,Shimoga,568,800,1200,1000
+2020-04-21,Banana,19,Karnataka,29,Shimoga,568,800,1500,1150
+2020-04-13,Banana,19,Karnataka,29,Shimoga,568,800,1500,1150
+2020-04-09,Banana,19,Karnataka,29,Shimoga,568,800,1500,1150
+2020-04-07,Banana,19,Karnataka,29,Shimoga,568,800,1200,1000
+2020-04-04,Banana,19,Karnataka,29,Shimoga,568,1000,1500,1250

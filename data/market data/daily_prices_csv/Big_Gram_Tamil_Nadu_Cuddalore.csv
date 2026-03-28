@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-07,Big Gram,113,Tamil Nadu,33,Cuddalore,617,5096,5096,5096
+2016-01-18,Big Gram,113,Tamil Nadu,33,Cuddalore,617,7889,10016,9715
+2016-01-11,Big Gram,113,Tamil Nadu,33,Cuddalore,617,8979,10426,9702
+2015-02-13,Big Gram,113,Tamil Nadu,33,Cuddalore,617,1639,1892,1765
+2015-02-02,Big Gram,113,Tamil Nadu,33,Cuddalore,617,4689,5959,5324

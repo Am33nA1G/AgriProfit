@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-15,Garlic,25,Gujarat,24,Patan,470,250,400,325
+2016-01-04,Garlic,25,Gujarat,24,Patan,470,3400,4000,3700
+2015-03-10,Garlic,25,Gujarat,24,Patan,470,2500,3000,2750

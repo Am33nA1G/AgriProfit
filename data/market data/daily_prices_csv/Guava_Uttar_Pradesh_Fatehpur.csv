@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-01,Guava,185,Uttar Pradesh,9,Fatehpur,172,3500,3520,3510
+2019-12-18,Guava,185,Uttar Pradesh,9,Fatehpur,172,600,800,700
+2019-12-16,Guava,185,Uttar Pradesh,9,Fatehpur,172,600,800,750
+2019-12-09,Guava,185,Uttar Pradesh,9,Fatehpur,172,500,600,550
+2019-12-07,Guava,185,Uttar Pradesh,9,Fatehpur,172,500,600,550
+2019-11-27,Guava,185,Uttar Pradesh,9,Fatehpur,172,500,700,600
+2019-01-26,Guava,185,Uttar Pradesh,9,Fatehpur,172,800,1000,900
+2019-01-19,Guava,185,Uttar Pradesh,9,Fatehpur,172,1000,1150,1100
+2018-12-25,Guava,185,Uttar Pradesh,9,Fatehpur,172,800,950,850
+2018-12-24,Guava,185,Uttar Pradesh,9,Fatehpur,172,800,1000,900
+2018-12-23,Guava,185,Uttar Pradesh,9,Fatehpur,172,900,1100,1000

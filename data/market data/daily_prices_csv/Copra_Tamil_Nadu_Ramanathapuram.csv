@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-04,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7520,7550,7525
+2018-12-12,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7520,7650,7550
+2018-12-03,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7520,7600,7550
+2018-11-26,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7600,7575
+2018-11-15,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7520,7600,7550
+2018-11-08,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7650,7600
+2018-10-30,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7600,7650,7625
+2018-10-29,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7600,7650,7625
+2018-10-28,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7600,7650,7625
+2018-10-23,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7650,7600
+2018-10-22,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7625,7600
+2018-10-20,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7600,7650,7625
+2018-10-18,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7650,7600
+2018-10-08,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7550,7620,7600
+2018-10-01,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7520,7650,7600
+2018-09-28,Copra,129,Tamil Nadu,33,Ramanathapuram,626,7500,7800,7750

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-21,Arhar (Tur/Red Gram)(Whole),49,Chhattisgarh,22,Mahasamund,411,4600,4600,4600
+2018-09-01,Arhar (Tur/Red Gram)(Whole),49,Chhattisgarh,22,Mahasamund,411,5400,5400,5400
+2018-05-31,Arhar (Tur/Red Gram)(Whole),49,Chhattisgarh,22,Mahasamund,411,3800,3800,3800
+2017-03-31,Arhar (Tur/Red Gram)(Whole),49,Chhattisgarh,22,Mahasamund,411,5000,5000,5000

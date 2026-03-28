@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-25,White Peas,412,Madhya Pradesh,23,Damoh,428,1900,2150,2125
+2023-04-24,White Peas,412,Madhya Pradesh,23,Damoh,428,1800,2200,2130
+2023-03-23,White Peas,412,Madhya Pradesh,23,Damoh,428,1800,2200,1900
+2023-03-22,White Peas,412,Madhya Pradesh,23,Damoh,428,1800,2000,1900
+2023-03-20,White Peas,412,Madhya Pradesh,23,Damoh,428,1900,2100,2000
+2022-08-13,White Peas,412,Madhya Pradesh,23,Damoh,428,1900,2021,1950
+2019-09-17,White Peas,412,Madhya Pradesh,23,Damoh,428,5200,5400,5300
+2019-09-05,White Peas,412,Madhya Pradesh,23,Damoh,428,5200,5400,5300

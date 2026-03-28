@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-05,Cucumber (Kheera),159,Telangana,36,Khammam,541,3000,3600,3300
+2021-10-02,Cucumber (Kheera),159,Telangana,36,Khammam,541,1400,2000,1600
+2015-06-06,Cucumber (Kheera),159,Telangana,36,Khammam,541,300,400,300
+2015-06-03,Cucumber (Kheera),159,Telangana,36,Khammam,541,800,1000,800
+2015-06-01,Cucumber (Kheera),159,Telangana,36,Khammam,541,2500,3000,2500

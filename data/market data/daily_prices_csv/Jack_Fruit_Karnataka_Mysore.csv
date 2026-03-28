@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-15,Jack Fruit,182,Karnataka,29,Mysore,577,3300,3300,3300
+2016-07-18,Jack Fruit,182,Karnataka,29,Mysore,577,38000,38000,38000
+2016-03-28,Jack Fruit,182,Karnataka,29,Mysore,577,1000,1000,1000
+2015-03-21,Jack Fruit,182,Karnataka,29,Mysore,577,1000,1000,1000

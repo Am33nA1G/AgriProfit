@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-01,Soji,286,Karnataka,29,Tumkur,571,1700,1900,1800
+2017-02-06,Soji,286,Karnataka,29,Tumkur,571,1000,1220,1200
+2016-07-16,Soji,286,Karnataka,29,Tumkur,571,1300,1410,1400
+2016-04-30,Soji,286,Karnataka,29,Tumkur,571,1200,1500,1300
+2016-03-31,Soji,286,Karnataka,29,Tumkur,571,1000,1200,1200
+2016-02-29,Soji,286,Karnataka,29,Tumkur,571,1000,1200,1100
+2015-10-15,Soji,286,Karnataka,29,Tumkur,571,1000,1250,1200
+2015-09-10,Soji,286,Karnataka,29,Tumkur,571,1050,1200,1100
+2015-08-31,Soji,286,Karnataka,29,Tumkur,571,1000,1300,1200
+2015-03-26,Soji,286,Karnataka,29,Tumkur,571,1300,1500,1400
+2015-03-09,Soji,286,Karnataka,29,Tumkur,571,900,1050,1000
+2015-03-04,Soji,286,Karnataka,29,Tumkur,571,1250,1400,1350
+2015-02-26,Soji,286,Karnataka,29,Tumkur,571,950,1050,1000
+2015-02-20,Soji,286,Karnataka,29,Tumkur,571,900,1100,1000

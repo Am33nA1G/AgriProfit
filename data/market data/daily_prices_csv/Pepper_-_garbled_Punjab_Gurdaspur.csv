@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-31,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1400,1800,1600
+2024-01-30,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1000,1500,1200
+2024-01-29,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1800,2000,1900
+2024-01-28,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1200,1400,1300
+2024-01-27,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1600,2000,1800
+2024-01-26,Pepper - garbled,109,Punjab,3,Gurdaspur,35,800,1000,900
+2024-01-24,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1400,1600,1500
+2024-01-23,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1000,1200,1100
+2024-01-22,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1000,1200,1100
+2024-01-20,Pepper - garbled,109,Punjab,3,Gurdaspur,35,900,1100,1000
+2024-01-19,Pepper - garbled,109,Punjab,3,Gurdaspur,35,900,1300,1100
+2024-01-18,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1300,1600,1450
+2024-01-15,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1400,1600,1500
+2024-01-13,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1100,1300,1200
+2024-01-10,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1200,1400,1300
+2024-01-05,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1400,1600,1500
+2023-12-23,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1500,1700,1600
+2023-12-22,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1300,1400,1400
+2023-12-21,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1200,1400,1300
+2023-12-15,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1600,1800,1700
+2023-12-14,Pepper - garbled,109,Punjab,3,Gurdaspur,35,2000,2200,2100
+2023-12-13,Pepper - garbled,109,Punjab,3,Gurdaspur,35,1300,1500,1500

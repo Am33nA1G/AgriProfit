@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-10,Cucumber (Kheera),159,Jammu & Kashmir,1,Kupwara,1,2500,3000,2700
+2022-05-17,Cucumber (Kheera),159,Jammu & Kashmir,1,Kupwara,1,2400,2700,2500
+2022-04-28,Cucumber (Kheera),159,Jammu & Kashmir,1,Kupwara,1,1800,2200,2000
+2022-04-08,Cucumber (Kheera),159,Jammu & Kashmir,1,Kupwara,1,2500,3000,2700

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-28,Green Gram Dal (Moong Dal),265,Maharashtra,27,Gadchiroli,508,7200,7600,7300
+2020-05-17,Green Gram Dal (Moong Dal),265,Maharashtra,27,Gadchiroli,508,7050,7080,7070
+2020-05-15,Green Gram Dal (Moong Dal),265,Maharashtra,27,Gadchiroli,508,7060,7070,7065

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-02,Barley (Jau),29,Madhya Pradesh,23,Indore,439,1880,1880,1880
+2025-07-18,Barley (Jau),29,Madhya Pradesh,23,Indore,439,2355,2355,2355
+2025-04-07,Barley (Jau),29,Madhya Pradesh,23,Indore,439,1900,1900,1900
+2024-09-13,Barley (Jau),29,Madhya Pradesh,23,Indore,439,1826,1826,1826

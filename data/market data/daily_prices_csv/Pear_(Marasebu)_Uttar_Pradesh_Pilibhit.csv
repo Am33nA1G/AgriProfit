@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-11,Pear (Marasebu),330,Uttar Pradesh,9,Pilibhit,151,2215,2285,2250
+2020-07-23,Pear (Marasebu),330,Uttar Pradesh,9,Pilibhit,151,2310,2380,2350
+2019-10-04,Pear (Marasebu),330,Uttar Pradesh,9,Pilibhit,151,2300,2330,2310
+2019-10-03,Pear (Marasebu),330,Uttar Pradesh,9,Pilibhit,151,2450,2490,2470
+2019-10-01,Pear (Marasebu),330,Uttar Pradesh,9,Pilibhit,151,2365,2420,2380

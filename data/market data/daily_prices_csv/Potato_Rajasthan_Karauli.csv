@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-28,Potato,24,Rajasthan,8,Karauli,107,600,640,620
+2019-03-27,Potato,24,Rajasthan,8,Karauli,107,560,600,580
+2019-03-26,Potato,24,Rajasthan,8,Karauli,107,570,610,590
+2019-03-25,Potato,24,Rajasthan,8,Karauli,107,560,600,580
+2019-03-23,Potato,24,Rajasthan,8,Karauli,107,600,640,620
+2019-03-20,Potato,24,Rajasthan,8,Karauli,107,580,620,600

@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-26,Banana - Green,90,Odisha,21,Puri,387,1200,1900,1250
+2023-09-25,Banana - Green,90,Odisha,21,Puri,387,1250,1650,1270
+2023-08-25,Banana - Green,90,Odisha,21,Puri,387,1450,1450,1450
+2023-08-23,Banana - Green,90,Odisha,21,Puri,387,1400,1650,1400
+2023-08-21,Banana - Green,90,Odisha,21,Puri,387,1300,1700,1600
+2023-08-20,Banana - Green,90,Odisha,21,Puri,387,1350,1480,1400
+2023-08-19,Banana - Green,90,Odisha,21,Puri,387,1350,1500,1350
+2023-08-18,Banana - Green,90,Odisha,21,Puri,387,1250,1300,1250
+2023-08-16,Banana - Green,90,Odisha,21,Puri,387,1250,1300,1250
+2023-08-07,Banana - Green,90,Odisha,21,Puri,387,1600,1800,1600
+2023-08-06,Banana - Green,90,Odisha,21,Puri,387,1300,1500,1400
+2023-08-05,Banana - Green,90,Odisha,21,Puri,387,1370,1490,1370
+2023-08-04,Banana - Green,90,Odisha,21,Puri,387,1500,1690,1520
+2023-08-01,Banana - Green,90,Odisha,21,Puri,387,1590,1680,1590
+2023-07-31,Banana - Green,90,Odisha,21,Puri,387,1570,1750,1570
+2023-07-28,Banana - Green,90,Odisha,21,Puri,387,1570,1750,1570
+2023-07-26,Banana - Green,90,Odisha,21,Puri,387,1470,1800,1470
+2023-07-25,Banana - Green,90,Odisha,21,Puri,387,1400,1500,1500
+2023-07-24,Banana - Green,90,Odisha,21,Puri,387,1600,2000,1600

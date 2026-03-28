@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-10,Carrot,153,Assam,18,Nagaon,305,1000,1200,1100
+2018-05-02,Carrot,153,Assam,18,Nagaon,305,900,1050,1000
+2018-04-27,Carrot,153,Assam,18,Nagaon,305,1000,1100,1050
+2018-04-26,Carrot,153,Assam,18,Nagaon,305,1000,1200,1100
+2018-04-25,Carrot,153,Assam,18,Nagaon,305,1000,1300,1200
+2018-04-24,Carrot,153,Assam,18,Nagaon,305,1000,1300,1200

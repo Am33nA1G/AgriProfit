@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-05,Lime,180,Nagaland,13,Peren,271,6000,6500,6300
+2025-06-03,Lime,180,Nagaland,13,Peren,271,5000,6000,5500
+2025-05-27,Lime,180,Nagaland,13,Peren,271,4000,5000,4500
+2025-05-24,Lime,180,Nagaland,13,Peren,271,2000,2500,2300
+2023-09-26,Lime,180,Nagaland,13,Peren,271,6000,6400,6300
+2023-09-16,Lime,180,Nagaland,13,Peren,271,5000,5300,5200
+2023-08-29,Lime,180,Nagaland,13,Peren,271,5000,5200,5100
+2023-08-25,Lime,180,Nagaland,13,Peren,271,5100,5300,5200
+2023-08-18,Lime,180,Nagaland,13,Peren,271,7000,7300,7200

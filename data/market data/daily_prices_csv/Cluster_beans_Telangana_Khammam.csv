@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-05,Cluster beans,80,Telangana,36,Khammam,541,4000,4800,4300
+2021-10-02,Cluster beans,80,Telangana,36,Khammam,541,2000,3000,2400
+2015-06-06,Cluster beans,80,Telangana,36,Khammam,541,2500,3000,2500
+2015-06-04,Cluster beans,80,Telangana,36,Khammam,541,2500,3000,2500
+2015-06-03,Cluster beans,80,Telangana,36,Khammam,541,2500,3000,2500
+2015-06-01,Cluster beans,80,Telangana,36,Khammam,541,2200,2500,2200
+2015-05-29,Cluster beans,80,Telangana,36,Khammam,541,2500,3000,2500
+2015-05-28,Cluster beans,80,Telangana,36,Khammam,541,2800,3000,2800
+2015-05-27,Cluster beans,80,Telangana,36,Khammam,541,2800,3000,2800
+2015-05-26,Cluster beans,80,Telangana,36,Khammam,541,2200,2500,2200
+2015-05-25,Cluster beans,80,Telangana,36,Khammam,541,2000,2500,2000
+2015-05-23,Cluster beans,80,Telangana,36,Khammam,541,1800,2000,1800
+2015-05-22,Cluster beans,80,Telangana,36,Khammam,541,1800,2000,1800
+2015-05-21,Cluster beans,80,Telangana,36,Khammam,541,2000,2200,2000
+2015-05-20,Cluster beans,80,Telangana,36,Khammam,541,1800,2000,1800
+2015-05-19,Cluster beans,80,Telangana,36,Khammam,541,1400,1600,1400

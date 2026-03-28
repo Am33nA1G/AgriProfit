@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-02-24,Almond (Badam),325,Jammu & Kashmir,1,Jammu,21,8600,11000,9800
+2018-02-19,Almond (Badam),325,Jammu & Kashmir,1,Jammu,21,6600,7000,6800

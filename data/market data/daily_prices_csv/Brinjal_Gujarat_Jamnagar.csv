@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-25,Brinjal,35,Gujarat,24,Jamnagar,477,1500,1800,1650
+2019-11-22,Brinjal,35,Gujarat,24,Jamnagar,477,1250,2500,1350
+2019-11-21,Brinjal,35,Gujarat,24,Jamnagar,477,600,1150,1050
+2019-11-20,Brinjal,35,Gujarat,24,Jamnagar,477,1500,2200,1850
+2019-11-19,Brinjal,35,Gujarat,24,Jamnagar,477,1000,2000,1250
+2019-11-18,Brinjal,35,Gujarat,24,Jamnagar,477,500,1950,1000
+2019-11-16,Brinjal,35,Gujarat,24,Jamnagar,477,1450,2000,1650
+2019-11-15,Brinjal,35,Gujarat,24,Jamnagar,477,1500,1800,1750
+2019-11-14,Brinjal,35,Gujarat,24,Jamnagar,477,1850,2250,2000
+2019-11-13,Brinjal,35,Gujarat,24,Jamnagar,477,500,2000,1500

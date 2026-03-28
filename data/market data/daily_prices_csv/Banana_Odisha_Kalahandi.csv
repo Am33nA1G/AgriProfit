@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-27,Banana,19,Odisha,21,Kalahandi,395,2600,4000,3300
+2023-09-01,Banana,19,Odisha,21,Kalahandi,395,700,700,700
+2017-02-02,Banana,19,Odisha,21,Kalahandi,395,2000,3000,2500

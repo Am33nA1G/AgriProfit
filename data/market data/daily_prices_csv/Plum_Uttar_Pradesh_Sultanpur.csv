@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-17,Plum,329,Uttar Pradesh,9,Sultanpur,179,1680,2000,1850
+2021-03-12,Plum,329,Uttar Pradesh,9,Sultanpur,179,1900,2100,2000
+2021-03-05,Plum,329,Uttar Pradesh,9,Sultanpur,179,1900,2100,2000

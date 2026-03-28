@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-22,Rice,3,Mizoram,15,Aizawl,283,3000,4000,3500
+2019-08-01,Rice,3,Mizoram,15,Aizawl,283,3000,4000,3500

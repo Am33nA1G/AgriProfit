@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-31,Garlic,25,Assam,18,Dhemaji,308,4000,6000,5000
+2022-05-27,Garlic,25,Assam,18,Dhemaji,308,4000,6000,5000
+2022-04-20,Garlic,25,Assam,18,Dhemaji,308,5000,7000,6000
+2022-04-04,Garlic,25,Assam,18,Dhemaji,308,5000,7000,6000
+2022-04-02,Garlic,25,Assam,18,Dhemaji,308,5000,7000,6000

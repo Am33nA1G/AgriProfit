@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-28,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Faizabad,177,5750,5900,5800
+2018-09-23,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Faizabad,177,5550,5650,5600
+2017-02-14,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Faizabad,177,6550,6650,6600

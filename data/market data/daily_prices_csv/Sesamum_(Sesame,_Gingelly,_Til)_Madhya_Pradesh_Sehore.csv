@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-28,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,8700,8900,8800
+2022-01-10,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,7200,7301,7250
+2022-01-05,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,7000,7700,7400
+2022-01-01,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,7337,7501,7450
+2021-10-28,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,6500,6500,6500
+2021-10-27,"Sesamum (Sesame, Gingelly, Til)",11,Madhya Pradesh,23,Sehore,445,6900,6900,6900

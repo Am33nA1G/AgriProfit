@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-26,Amla (Nelli Kai),355,Himachal Pradesh,2,Bilaspur,30,2800,3200,3000
+2023-04-17,Amla (Nelli Kai),355,Himachal Pradesh,2,Bilaspur,30,7800,14000,12000
+2015-05-25,Amla (Nelli Kai),355,Himachal Pradesh,2,Bilaspur,30,1800,2000,1900
+2015-02-22,Amla (Nelli Kai),355,Himachal Pradesh,2,Bilaspur,30,7500,9000,8000
+2015-02-18,Amla (Nelli Kai),355,Himachal Pradesh,2,Bilaspur,30,6500,9000,8000

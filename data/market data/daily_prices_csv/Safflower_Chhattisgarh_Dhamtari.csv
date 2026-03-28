@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-03,Safflower,59,Chhattisgarh,22,Dhamtari,412,1500,1500,1500
+2020-11-29,Safflower,59,Chhattisgarh,22,Dhamtari,412,1500,1500,1500
+2020-09-30,Safflower,59,Chhattisgarh,22,Dhamtari,412,1000,1000,1000
+2019-11-27,Safflower,59,Chhattisgarh,22,Dhamtari,412,1000,1000,1000
+2019-10-30,Safflower,59,Chhattisgarh,22,Dhamtari,412,1400,1400,1400
+2019-10-26,Safflower,59,Chhattisgarh,22,Dhamtari,412,1300,1300,1300
+2019-10-19,Safflower,59,Chhattisgarh,22,Dhamtari,412,1300,2500,1300
+2019-05-14,Safflower,59,Chhattisgarh,22,Dhamtari,412,1000,1000,1000
+2019-03-30,Safflower,59,Chhattisgarh,22,Dhamtari,412,1100,1100,1100
+2018-11-27,Safflower,59,Chhattisgarh,22,Dhamtari,412,1250,1250,1250
+2018-10-17,Safflower,59,Chhattisgarh,22,Dhamtari,412,1250,1250,1250
+2018-09-24,Safflower,59,Chhattisgarh,22,Dhamtari,412,1000,1000,1000
+2018-08-20,Safflower,59,Chhattisgarh,22,Dhamtari,412,1200,1200,1200
+2018-08-10,Safflower,59,Chhattisgarh,22,Dhamtari,412,1000,1000,1000

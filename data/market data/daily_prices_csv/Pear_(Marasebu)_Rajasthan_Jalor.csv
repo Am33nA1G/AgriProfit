@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-03,Pear (Marasebu),330,Rajasthan,8,Jalor,116,3000,4000,3500
+2015-08-25,Pear (Marasebu),330,Rajasthan,8,Jalor,116,2000,2500,2300

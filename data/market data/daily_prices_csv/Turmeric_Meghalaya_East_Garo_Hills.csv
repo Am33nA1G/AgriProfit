@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-29,Turmeric,39,Meghalaya,17,East Garo Hills,294,20000,26000,23000
+2025-03-27,Turmeric,39,Meghalaya,17,East Garo Hills,294,19000,25000,22000
+2025-03-25,Turmeric,39,Meghalaya,17,East Garo Hills,294,20000,30000,25000
+2025-03-22,Turmeric,39,Meghalaya,17,East Garo Hills,294,18000,20000,19000

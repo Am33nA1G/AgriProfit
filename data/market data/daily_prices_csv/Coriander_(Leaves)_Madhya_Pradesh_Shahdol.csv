@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-26,Coriander (Leaves),43,Madhya Pradesh,23,Shahdol,460,9000,9000,9000
+2024-03-27,Coriander (Leaves),43,Madhya Pradesh,23,Shahdol,460,8500,8500,8500
+2024-01-24,Coriander (Leaves),43,Madhya Pradesh,23,Shahdol,460,7000,7000,7000

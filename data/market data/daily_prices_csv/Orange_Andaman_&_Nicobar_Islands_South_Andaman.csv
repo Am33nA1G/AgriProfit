@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-09,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,1200,1400,1300
+2018-08-27,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,90,100,95
+2018-08-24,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,90,100,95
+2018-08-22,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,90,100,95
+2018-08-20,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,90,100,95
+2017-09-07,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2017-09-06,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,15000,18000,16500
+2017-09-05,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,15000,18000,16500
+2017-08-31,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,15000,18000,16500
+2017-08-29,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,15000,18000,16500
+2017-08-28,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,15000,18000,16500
+2017-08-18,Orange,18,Andaman & Nicobar Islands,35,South Andaman,640,16000,18000,17000

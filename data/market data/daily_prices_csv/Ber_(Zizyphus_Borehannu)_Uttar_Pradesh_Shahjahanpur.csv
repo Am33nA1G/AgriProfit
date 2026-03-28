@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-12,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Shahjahanpur,152,1500,1600,1525
+2024-03-08,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Shahjahanpur,152,1500,1600,1520
+2021-02-21,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Shahjahanpur,152,1150,1250,1200
+2021-02-19,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Shahjahanpur,152,1170,1230,1200

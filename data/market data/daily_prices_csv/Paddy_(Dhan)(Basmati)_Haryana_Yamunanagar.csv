@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-04,Paddy (Dhan)(Basmati),414,Haryana,6,Yamunanagar,71,2400,2800,2800
+2023-10-04,Paddy (Dhan)(Basmati),414,Haryana,6,Yamunanagar,71,3000,4141,3911
+2023-10-03,Paddy (Dhan)(Basmati),414,Haryana,6,Yamunanagar,71,2731,3500,3500

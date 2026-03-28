@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-14,Masur Dal,259,Assam,18,Golaghat,313,8500,9000,8900
+2017-02-13,Masur Dal,259,Assam,18,Golaghat,313,8500,9000,8900
+2016-09-24,Masur Dal,259,Assam,18,Golaghat,313,8900,10500,9500

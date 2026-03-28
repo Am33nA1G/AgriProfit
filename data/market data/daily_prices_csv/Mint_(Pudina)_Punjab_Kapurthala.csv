@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-17,Mint (Pudina),360,Punjab,3,Kapurthala,36,2000,2200,2000
+2018-04-12,Mint (Pudina),360,Punjab,3,Kapurthala,36,2000,2200,2200
+2018-03-09,Mint (Pudina),360,Punjab,3,Kapurthala,36,1500,1600,1500
+2017-05-25,Mint (Pudina),360,Punjab,3,Kapurthala,36,1000,1500,1200
+2016-06-16,Mint (Pudina),360,Punjab,3,Kapurthala,36,500,650,600

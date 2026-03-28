@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-21,Hippe Seed,125,Karnataka,29,Tumkur,571,2200,2500,2400
+2019-03-11,Hippe Seed,125,Karnataka,29,Tumkur,571,800,2500,1000
+2017-11-13,Hippe Seed,125,Karnataka,29,Tumkur,571,1800,1800,1800
+2016-09-24,Hippe Seed,125,Karnataka,29,Tumkur,571,1500,1600,1600

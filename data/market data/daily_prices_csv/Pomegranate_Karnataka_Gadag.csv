@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-17,Pomegranate,190,Karnataka,29,Gadag,561,1000,1500,1400
+2020-06-11,Pomegranate,190,Karnataka,29,Gadag,561,3000,5000,4500
+2020-04-27,Pomegranate,190,Karnataka,29,Gadag,561,1000,2000,1500

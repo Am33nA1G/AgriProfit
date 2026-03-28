@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-26,Paddy (Dhan)(Basmati),414,Bihar,10,Darbhanga,215,2800,3800,3000
+2022-02-24,Paddy (Dhan)(Basmati),414,Bihar,10,Darbhanga,215,2500,3600,2700
+2022-02-10,Paddy (Dhan)(Basmati),414,Bihar,10,Darbhanga,215,2600,3800,2800
+2022-02-04,Paddy (Dhan)(Basmati),414,Bihar,10,Darbhanga,215,2600,3800,2800
+2022-02-02,Paddy (Dhan)(Basmati),414,Bihar,10,Darbhanga,215,2600,3800,2800

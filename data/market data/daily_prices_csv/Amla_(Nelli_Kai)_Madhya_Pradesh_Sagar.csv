@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-08,Amla (Nelli Kai),355,Madhya Pradesh,23,Sagar,427,4000,4000,4000
+2022-02-18,Amla (Nelli Kai),355,Madhya Pradesh,23,Sagar,427,4300,4300,4300
+2022-02-07,Amla (Nelli Kai),355,Madhya Pradesh,23,Sagar,427,4200,4200,4200

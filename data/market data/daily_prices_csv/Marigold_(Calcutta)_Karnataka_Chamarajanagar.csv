@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-15,Marigold (Calcutta),235,Karnataka,29,Chamarajanagar,578,940,940,940
+2025-01-27,Marigold (Calcutta),235,Karnataka,29,Chamarajanagar,578,9000,9000,9000
+2024-10-29,Marigold (Calcutta),235,Karnataka,29,Chamarajanagar,578,2560,2560,2560

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-24,Tobacco,141,Madhya Pradesh,23,Jabalpur,451,20997,20997,20997
+2024-12-13,Tobacco,141,Madhya Pradesh,23,Jabalpur,451,18363,18363,18363
+2024-09-13,Tobacco,141,Madhya Pradesh,23,Jabalpur,451,18223,24400,24400

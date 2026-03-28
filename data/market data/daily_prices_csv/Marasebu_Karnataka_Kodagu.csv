@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-01-18,Marasebu,181,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-01-16,Marasebu,181,Karnataka,29,Kodagu,576,800,800,800

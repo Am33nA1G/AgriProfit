@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-21,Litchi,351,Bihar,10,Aurangabad,235,7000,8800,7500
+2023-05-16,Litchi,351,Bihar,10,Aurangabad,235,7550,7650,7600

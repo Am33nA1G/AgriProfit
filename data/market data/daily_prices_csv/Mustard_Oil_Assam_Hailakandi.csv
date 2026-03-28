@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-24,Mustard Oil,324,Assam,18,Hailakandi,318,8500,9800,9000
+2017-04-11,Mustard Oil,324,Assam,18,Hailakandi,318,9000,10600,10200
+2017-03-16,Mustard Oil,324,Assam,18,Hailakandi,318,9500,10800,10500
+2017-03-03,Mustard Oil,324,Assam,18,Hailakandi,318,9500,10900,10600
+2017-01-19,Mustard Oil,324,Assam,18,Hailakandi,318,9500,10900,10200
+2017-01-10,Mustard Oil,324,Assam,18,Hailakandi,318,9600,10500,10200
+2016-12-28,Mustard Oil,324,Assam,18,Hailakandi,318,9500,10900,10500

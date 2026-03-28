@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-16,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2018-07-14,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,4000,6000,5000
+2017-04-25,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,6000,10000,8000
+2017-03-25,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,6000,10000,8000
+2017-03-24,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,6000,10000,8000
+2017-03-11,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,5000,7000,6000
+2017-03-08,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,5000,8000,6000
+2016-10-18,Spinach,342,Andaman & Nicobar Islands,35,Nicobars,638,8000,10000,9000

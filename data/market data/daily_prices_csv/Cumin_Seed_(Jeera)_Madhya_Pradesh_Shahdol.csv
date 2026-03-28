@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-09,Cumin Seed (Jeera),42,Madhya Pradesh,23,Shahdol,460,14285,14285,14285
+2019-06-21,Cumin Seed (Jeera),42,Madhya Pradesh,23,Shahdol,460,14300,14300,14300
+2019-03-06,Cumin Seed (Jeera),42,Madhya Pradesh,23,Shahdol,460,16000,16000,16000

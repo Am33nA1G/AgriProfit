@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-12,Chikoo (Sapota),71,Karnataka,29,Kolar,581,1800,2200,2100
+2021-04-06,Chikoo (Sapota),71,Karnataka,29,Kolar,581,3000,3500,3125
+2021-03-30,Chikoo (Sapota),71,Karnataka,29,Kolar,581,1800,2500,2083
+2017-11-17,Chikoo (Sapota),71,Karnataka,29,Kolar,581,1800,2800,2000
+2016-06-30,Chikoo (Sapota),71,Karnataka,29,Kolar,581,3500,4000,3800
+2016-04-30,Chikoo (Sapota),71,Karnataka,29,Kolar,581,2800,3000,2900
+2015-01-07,Chikoo (Sapota),71,Karnataka,29,Kolar,581,2500,2800,2600

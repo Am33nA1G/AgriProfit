@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-23,Pineapple,21,Jammu & Kashmir,1,Baramula,8,2200,2600,2400
+2015-03-18,Pineapple,21,Jammu & Kashmir,1,Baramula,8,3600,3800,3700
+2015-03-12,Pineapple,21,Jammu & Kashmir,1,Baramula,8,2200,2400,2300

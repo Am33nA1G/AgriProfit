@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-02,Mustard,12,Manipur,14,Imphal East,278,10000,11000,10500
+2017-01-02,Mustard,12,Manipur,14,Imphal East,278,,7700,7700
+2015-08-12,Mustard,12,Manipur,14,Imphal East,278,4300,4700,4500

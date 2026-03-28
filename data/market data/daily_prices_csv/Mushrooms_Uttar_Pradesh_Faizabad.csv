@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-12,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15600,17000,16000
+2023-05-15,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,17600,19000,18000
+2023-05-12,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,16800,17500,17000
+2023-05-10,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15500,17000,16000
+2023-05-03,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15500,17000,16000
+2023-04-11,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15000,16200,15500
+2023-03-20,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,14000,15500,15000
+2023-03-14,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,14200,15000,14500
+2023-03-09,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,13800,15000,14000
+2023-03-06,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,13800,15000,14000
+2023-03-02,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15200,16000,15500
+2023-02-26,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15200,16000,15500
+2023-02-25,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15200,16000,15500
+2023-02-23,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15800,16500,16000
+2023-02-22,Mushrooms,340,Uttar Pradesh,9,Faizabad,177,15500,16500,16000

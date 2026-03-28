@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-17,Litchi,351,Bihar,10,Muzaffarpur,216,3500,4800,4300
+2015-06-16,Litchi,351,Bihar,10,Muzaffarpur,216,4000,5000,4500
+2015-06-15,Litchi,351,Bihar,10,Muzaffarpur,216,3500,5000,4200
+2015-06-14,Litchi,351,Bihar,10,Muzaffarpur,216,4000,6000,5000
+2015-06-13,Litchi,351,Bihar,10,Muzaffarpur,216,3400,5000,4000

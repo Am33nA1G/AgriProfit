@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-17,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3240,3200
+2020-10-03,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3160,3140
+2020-10-02,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3150,3120
+2020-09-28,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3000,3150,3100
+2020-09-26,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3200,3150
+2020-09-19,Lime,180,Uttar Pradesh,9,Gorakhpur,188,2900,3050,3000
+2020-09-11,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3069,3125,3100
+2020-09-09,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3200,3150
+2020-09-07,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3200,3150
+2020-09-05,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3150,3300,3200
+2020-09-04,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3000,3200,3100
+2020-09-03,Lime,180,Uttar Pradesh,9,Gorakhpur,188,3100,3200,3150

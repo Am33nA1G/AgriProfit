@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-29,Capsicum,164,Rajasthan,8,Ajmer,119,1500,2400,2100
+2015-05-28,Capsicum,164,Rajasthan,8,Ajmer,119,1500,2400,2200
+2015-05-27,Capsicum,164,Rajasthan,8,Ajmer,119,1500,2400,2100

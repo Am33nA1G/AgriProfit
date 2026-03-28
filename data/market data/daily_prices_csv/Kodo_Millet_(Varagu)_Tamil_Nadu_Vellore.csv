@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-01,Kodo Millet (Varagu),117,Tamil Nadu,33,Vellore,605,4590,4590,4590
+2020-06-19,Kodo Millet (Varagu),117,Tamil Nadu,33,Vellore,605,1620,1620,1620
+2017-06-22,Kodo Millet (Varagu),117,Tamil Nadu,33,Vellore,605,1739,1739,1739

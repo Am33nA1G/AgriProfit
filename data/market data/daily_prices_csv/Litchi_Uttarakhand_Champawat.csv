@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-03,Litchi,351,Uttarakhand,5,Champawat,65,3500,4000,3900
+2017-06-01,Litchi,351,Uttarakhand,5,Champawat,65,3000,3500,3200
+2017-05-31,Litchi,351,Uttarakhand,5,Champawat,65,3500,4000,3900
+2017-05-30,Litchi,351,Uttarakhand,5,Champawat,65,3500,4000,3900
+2016-05-19,Litchi,351,Uttarakhand,5,Champawat,65,3000,4000,3500
+2016-05-17,Litchi,351,Uttarakhand,5,Champawat,65,3000,4000,3500
+2016-05-13,Litchi,351,Uttarakhand,5,Champawat,65,3000,4000,3500
+2015-05-30,Litchi,351,Uttarakhand,5,Champawat,65,4000,5000,4050
+2015-05-27,Litchi,351,Uttarakhand,5,Champawat,65,4000,5000,4500

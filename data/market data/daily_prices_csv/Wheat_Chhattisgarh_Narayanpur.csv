@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-23,Wheat,1,Chhattisgarh,22,Narayanpur,415,3000,5000,4500
+2024-03-25,Wheat,1,Chhattisgarh,22,Narayanpur,415,3000,3300,3200
+2024-02-28,Wheat,1,Chhattisgarh,22,Narayanpur,415,2800,3000,2900
+2022-12-30,Wheat,1,Chhattisgarh,22,Narayanpur,415,2800,3100,3000
+2021-12-30,Wheat,1,Chhattisgarh,22,Narayanpur,415,2300,2500,2400
+2020-12-29,Wheat,1,Chhattisgarh,22,Narayanpur,415,2400,2600,2500
+2020-11-27,Wheat,1,Chhattisgarh,22,Narayanpur,415,2400,2600,2500
+2019-06-26,Wheat,1,Chhattisgarh,22,Narayanpur,415,2200,2500,2300
+2017-08-09,Wheat,1,Chhattisgarh,22,Narayanpur,415,2000,2500,2200
+2017-05-05,Wheat,1,Chhattisgarh,22,Narayanpur,415,2400,2600,2500
+2016-06-24,Wheat,1,Chhattisgarh,22,Narayanpur,415,2500,3000,2800
+2016-05-05,Wheat,1,Chhattisgarh,22,Narayanpur,415,2200,2400,2300
+2015-06-25,Wheat,1,Chhattisgarh,22,Narayanpur,415,1800,2000,1900
+2015-06-19,Wheat,1,Chhattisgarh,22,Narayanpur,415,1400,1600,1500

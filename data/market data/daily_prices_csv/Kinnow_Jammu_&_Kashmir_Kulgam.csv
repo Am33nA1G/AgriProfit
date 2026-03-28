@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-25,Kinnow,336,Jammu & Kashmir,1,Kulgam,15,1700,1900,1800
+2021-02-20,Kinnow,336,Jammu & Kashmir,1,Kulgam,15,2100,2300,2200
+2021-02-12,Kinnow,336,Jammu & Kashmir,1,Kulgam,15,2000,2300,2200
+2021-02-09,Kinnow,336,Jammu & Kashmir,1,Kulgam,15,2000,2300,2200
+2021-01-25,Kinnow,336,Jammu & Kashmir,1,Kulgam,15,2400,2800,2600

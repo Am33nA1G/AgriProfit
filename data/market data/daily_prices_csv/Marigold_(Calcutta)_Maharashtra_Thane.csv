@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-29,Marigold (Calcutta),235,Maharashtra,27,Thane,517,40,50,45
+2025-01-22,Marigold (Calcutta),235,Maharashtra,27,Thane,517,40,60,50
+2024-11-04,Marigold (Calcutta),235,Maharashtra,27,Thane,517,60,80,70
+2024-10-28,Marigold (Calcutta),235,Maharashtra,27,Thane,517,40,60,50
+2023-07-08,Marigold (Calcutta),235,Maharashtra,27,Thane,517,600,900,750
+2023-06-02,Marigold (Calcutta),235,Maharashtra,27,Thane,517,1000,1200,1100
+2021-02-10,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2000,3000,2500
+2021-02-06,Marigold (Calcutta),235,Maharashtra,27,Thane,517,4000,6000,5000
+2021-02-04,Marigold (Calcutta),235,Maharashtra,27,Thane,517,200,300,250
+2016-10-01,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2000,3000,3000
+2016-01-27,Marigold (Calcutta),235,Maharashtra,27,Thane,517,5000,6000,5500
+2016-01-25,Marigold (Calcutta),235,Maharashtra,27,Thane,517,4000,5000,4800
+2016-01-21,Marigold (Calcutta),235,Maharashtra,27,Thane,517,3000,4000,3500
+2016-01-20,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2000,3000,2800
+2016-01-19,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2000,3000,2800
+2016-01-15,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2000,3000,3000
+2016-01-07,Marigold (Calcutta),235,Maharashtra,27,Thane,517,4000,6000,5000
+2016-01-05,Marigold (Calcutta),235,Maharashtra,27,Thane,517,5000,8000,7000
+2016-01-04,Marigold (Calcutta),235,Maharashtra,27,Thane,517,6000,8000,8000
+2015-12-31,Marigold (Calcutta),235,Maharashtra,27,Thane,517,7000,8000,7000
+2015-12-30,Marigold (Calcutta),235,Maharashtra,27,Thane,517,5000,6000,5800
+2015-12-28,Marigold (Calcutta),235,Maharashtra,27,Thane,517,7000,8000,8000
+2015-12-11,Marigold (Calcutta),235,Maharashtra,27,Thane,517,3000,4000,3800
+2015-12-10,Marigold (Calcutta),235,Maharashtra,27,Thane,517,3000,4000,3800
+2015-07-03,Marigold (Calcutta),235,Maharashtra,27,Thane,517,2500,3000,3000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-30,Yam,244,Nagaland,13,Mon,261,1200,1500,1400
+2025-04-01,Yam,244,Nagaland,13,Mon,261,8000,9000,8600
+2025-03-17,Yam,244,Nagaland,13,Mon,261,4000,5000,4500
+2025-02-27,Yam,244,Nagaland,13,Mon,261,5600,7300,6400
+2025-02-13,Yam,244,Nagaland,13,Mon,261,4000,5000,4500
+2025-02-05,Yam,244,Nagaland,13,Mon,261,5800,7200,6500
+2025-01-29,Yam,244,Nagaland,13,Mon,261,8000,9000,8600
+2024-12-04,Yam,244,Nagaland,13,Mon,261,10000,12500,11250

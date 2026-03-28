@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-06,Guar,75,Odisha,21,Koraput,398,2900,3100,3000
+2024-06-29,Guar,75,Odisha,21,Koraput,398,2900,3100,3000
+2021-05-20,Guar,75,Odisha,21,Koraput,398,1500,1700,1600
+2019-04-07,Guar,75,Odisha,21,Koraput,398,2400,2600,2500
+2017-07-12,Guar,75,Odisha,21,Koraput,398,2400,2450,2420
+2016-06-22,Guar,75,Odisha,21,Koraput,398,1600,1650,1625
+2016-05-31,Guar,75,Odisha,21,Koraput,398,3000,3100,3050
+2016-05-18,Guar,75,Odisha,21,Koraput,398,2500,2700,2600
+2015-04-30,Guar,75,Odisha,21,Koraput,398,1600,1800,1700

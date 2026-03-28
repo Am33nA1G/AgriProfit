@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-17,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-16,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-15,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-14,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-13,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-12,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000
+2015-06-11,Cow,212,Bihar,10,Madhepura,213,31000,65000,45000

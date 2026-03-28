@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-10-30,Groundnut,10,Odisha,21,Nabarangapur,397,5000,5000,5000
+2015-10-26,Groundnut,10,Odisha,21,Nabarangapur,397,4500,5000,4500
+2015-10-17,Groundnut,10,Odisha,21,Nabarangapur,397,3000,3000,3000
+2015-10-12,Groundnut,10,Odisha,21,Nabarangapur,397,4000,4500,4000

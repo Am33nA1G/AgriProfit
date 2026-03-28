@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-04,Pumpkin,84,Bihar,10,Bhagalpur,224,1800,2100,2000
+2022-06-23,Pumpkin,84,Bihar,10,Bhagalpur,224,500,700,600
+2022-06-22,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-06-21,Pumpkin,84,Bihar,10,Bhagalpur,224,400,700,500
+2022-06-17,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-06-16,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-06-14,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-06-10,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-05-09,Pumpkin,84,Bihar,10,Bhagalpur,224,300,500,400
+2022-05-05,Pumpkin,84,Bihar,10,Bhagalpur,224,400,600,500
+2022-04-18,Pumpkin,84,Bihar,10,Bhagalpur,224,600,1000,800

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-06,Fish,366,Uttar Pradesh,9,Fatehpur,172,2010,2030,2020
+2024-02-05,Fish,366,Uttar Pradesh,9,Fatehpur,172,3000,3020,3010
+2020-03-04,Fish,366,Uttar Pradesh,9,Fatehpur,172,4000,5000,4500
+2019-09-04,Fish,366,Uttar Pradesh,9,Fatehpur,172,4500,5000,4800

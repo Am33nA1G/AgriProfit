@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-07,Plum,329,Nagaland,13,Wokha,264,4000,6000,5000
+2025-06-26,Plum,329,Nagaland,13,Wokha,264,2800,4000,3400
+2025-06-24,Plum,329,Nagaland,13,Wokha,264,3500,5000,4000
+2025-06-18,Plum,329,Nagaland,13,Wokha,264,4000,5200,4600
+2025-06-17,Plum,329,Nagaland,13,Wokha,264,2600,4000,3500
+2025-05-28,Plum,329,Nagaland,13,Wokha,264,4000,5200,4500
+2023-06-10,Plum,329,Nagaland,13,Wokha,264,4000,4300,4200
+2023-06-05,Plum,329,Nagaland,13,Wokha,264,4200,4800,4500
+2023-06-02,Plum,329,Nagaland,13,Wokha,264,3800,4500,4100
+2022-06-25,Plum,329,Nagaland,13,Wokha,264,5300,5600,5500

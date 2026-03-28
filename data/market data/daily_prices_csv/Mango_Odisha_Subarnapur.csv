@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-26,Mango,20,Odisha,21,Subarnapur,392,3000,3500,3500
+2024-06-25,Mango,20,Odisha,21,Subarnapur,392,3000,4000,3500
+2024-06-23,Mango,20,Odisha,21,Subarnapur,392,3000,4000,3500
+2024-06-22,Mango,20,Odisha,21,Subarnapur,392,3000,4000,3500
+2024-06-21,Mango,20,Odisha,21,Subarnapur,392,3000,4000,4000
+2024-06-01,Mango,20,Odisha,21,Subarnapur,392,3500,4000,4000
+2024-05-31,Mango,20,Odisha,21,Subarnapur,392,4000,5000,4500
+2024-05-28,Mango,20,Odisha,21,Subarnapur,392,4000,5000,4500
+2024-05-22,Mango,20,Odisha,21,Subarnapur,392,4000,4500,4000
+2024-05-17,Mango,20,Odisha,21,Subarnapur,392,4500,5000,5000
+2024-05-10,Mango,20,Odisha,21,Subarnapur,392,4000,5000,5000
+2024-05-03,Mango,20,Odisha,21,Subarnapur,392,5500,6000,5500
+2024-05-01,Mango,20,Odisha,21,Subarnapur,392,5500,6000,6000
+2024-04-15,Mango,20,Odisha,21,Subarnapur,392,4000,6000,5000

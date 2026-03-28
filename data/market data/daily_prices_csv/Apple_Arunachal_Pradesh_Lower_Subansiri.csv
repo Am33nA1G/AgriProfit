@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Apple,17,Arunachal Pradesh,12,Lower Subansiri,255,25000,25000,25000
+2025-10-29,Apple,17,Arunachal Pradesh,12,Lower Subansiri,255,30000,30000,30000
+2025-10-27,Apple,17,Arunachal Pradesh,12,Lower Subansiri,255,250,25000,250

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-14,Chili Red,26,Maharashtra,27,Aurangabad,515,1600,3200,2400
+2023-03-25,Chili Red,26,Maharashtra,27,Aurangabad,515,2200,4800,3500
+2022-10-23,Chili Red,26,Maharashtra,27,Aurangabad,515,4000,5500,4750
+2022-09-21,Chili Red,26,Maharashtra,27,Aurangabad,515,2000,4000,3000
+2020-04-06,Chili Red,26,Maharashtra,27,Aurangabad,515,600,1500,1050

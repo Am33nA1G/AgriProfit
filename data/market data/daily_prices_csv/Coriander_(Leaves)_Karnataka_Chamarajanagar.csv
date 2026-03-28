@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-25,Coriander (Leaves),43,Karnataka,29,Chamarajanagar,578,400,500,450
+2020-12-11,Coriander (Leaves),43,Karnataka,29,Chamarajanagar,578,400,1100,800
+2015-03-10,Coriander (Leaves),43,Karnataka,29,Chamarajanagar,578,3750,3750,3750

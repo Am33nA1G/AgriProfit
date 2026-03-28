@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-02-03,Arhar Dal (Tur Dal),260,Haryana,6,Hisar,80,4500,4500,4500
+2016-11-06,Arhar Dal (Tur Dal),260,Haryana,6,Hisar,80,9000,9300,9100
+2016-10-18,Arhar Dal (Tur Dal),260,Haryana,6,Hisar,80,9000,9000,9000

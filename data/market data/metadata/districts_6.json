@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "census_district_id": 69,
+      "census_district_name": "Panchkula"
+    },
+    {
+      "census_district_id": 70,
+      "census_district_name": "Ambala"
+    },
+    {
+      "census_district_id": 71,
+      "census_district_name": "Yamunanagar"
+    },
+    {
+      "census_district_id": 72,
+      "census_district_name": "Kurukshetra"
+    },
+    {
+      "census_district_id": 73,
+      "census_district_name": "Kaithal"
+    },
+    {
+      "census_district_id": 74,
+      "census_district_name": "Karnal"
+    },
+    {
+      "census_district_id": 75,
+      "census_district_name": "Panipat"
+    },
+    {
+      "census_district_id": 76,
+      "census_district_name": "Sonipat"
+    },
+    {
+      "census_district_id": 77,
+      "census_district_name": "Jind"
+    },
+    {
+      "census_district_id": 78,
+      "census_district_name": "Fatehabad"
+    },
+    {
+      "census_district_id": 79,
+      "census_district_name": "Sirsa"
+    },
+    {
+      "census_district_id": 80,
+      "census_district_name": "Hisar"
+    },
+    {
+      "census_district_id": 81,
+      "census_district_name": "Bhiwani"
+    },
+    {
+      "census_district_id": 82,
+      "census_district_name": "Rohtak"
+    },
+    {
+      "census_district_id": 83,
+      "census_district_name": "Jhajjar"
+    },
+    {
+      "census_district_id": 84,
+      "census_district_name": "Mahendragarh"
+    },
+    {
+      "census_district_id": 85,
+      "census_district_name": "Rewari"
+    },
+    {
+      "census_district_id": 86,
+      "census_district_name": "Gurgaon"
+    },
+    {
+      "census_district_id": 87,
+      "census_district_name": "Mewat"
+    },
+    {
+      "census_district_id": 88,
+      "census_district_name": "Faridabad"
+    },
+    {
+      "census_district_id": 89,
+      "census_district_name": "Palwal"
+    }
+  ]
+}

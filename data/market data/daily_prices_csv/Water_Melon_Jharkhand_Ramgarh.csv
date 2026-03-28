@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-16,Water Melon,73,Jharkhand,20,Ramgarh,361,3500,4500,4000
+2015-04-03,Water Melon,73,Jharkhand,20,Ramgarh,361,1000,1400,1200
+2015-04-01,Water Melon,73,Jharkhand,20,Ramgarh,361,1000,1400,1200

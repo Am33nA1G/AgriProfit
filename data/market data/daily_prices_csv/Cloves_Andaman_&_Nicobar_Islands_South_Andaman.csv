@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-06,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1200,1300,1250
+2019-04-01,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1100,1300,1200
+2019-03-29,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1200,1300,1250
+2019-03-23,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1200,1400,1300
+2019-03-18,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1200,1350,1300
+2019-03-09,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1200,1300,1250
+2019-03-07,Cloves,105,Andaman & Nicobar Islands,35,South Andaman,640,1100,1300,1200

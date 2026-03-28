@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-16,Cluster beans,80,Haryana,6,Gurgaon,86,3000,3000,3000
+2023-05-15,Cluster beans,80,Haryana,6,Gurgaon,86,1800,3000,2500
+2023-05-14,Cluster beans,80,Haryana,6,Gurgaon,86,3500,3500,3500
+2023-05-13,Cluster beans,80,Haryana,6,Gurgaon,86,4000,4000,4000
+2023-05-12,Cluster beans,80,Haryana,6,Gurgaon,86,2500,2500,2500
+2023-05-06,Cluster beans,80,Haryana,6,Gurgaon,86,5000,5000,5000

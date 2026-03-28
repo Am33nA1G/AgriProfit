@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-11,French Beans (Frasbean),298,Maharashtra,27,Satara,527,800,1000,900
+2018-05-07,French Beans (Frasbean),298,Maharashtra,27,Satara,527,800,1200,1000
+2016-03-17,French Beans (Frasbean),298,Maharashtra,27,Satara,527,700,1000,940
+2016-01-03,French Beans (Frasbean),298,Maharashtra,27,Satara,527,2500,3000,2900

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-15,Peach,331,Jammu & Kashmir,1,Kathua,7,5500,6000,5750
+2023-05-13,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2023-05-12,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2023-05-11,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2023-05-10,Peach,331,Jammu & Kashmir,1,Kathua,7,4000,5000,4500
+2023-05-09,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2023-05-08,Peach,331,Jammu & Kashmir,1,Kathua,7,4000,5000,4500
+2023-05-06,Peach,331,Jammu & Kashmir,1,Kathua,7,4000,5000,4500
+2023-05-04,Peach,331,Jammu & Kashmir,1,Kathua,7,4000,5000,4500
+2023-05-02,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2023-05-01,Peach,331,Jammu & Kashmir,1,Kathua,7,5000,6000,5500

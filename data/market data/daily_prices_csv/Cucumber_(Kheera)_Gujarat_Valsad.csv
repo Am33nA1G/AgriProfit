@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-07,Cucumber (Kheera),159,Gujarat,24,Valsad,491,1000,1250,1125
+2015-08-05,Cucumber (Kheera),159,Gujarat,24,Valsad,491,1000,1250,1125
+2015-08-04,Cucumber (Kheera),159,Gujarat,24,Valsad,491,1000,1250,1125
+2015-08-03,Cucumber (Kheera),159,Gujarat,24,Valsad,491,600,750,675
+2015-07-31,Cucumber (Kheera),159,Gujarat,24,Valsad,491,600,750,675

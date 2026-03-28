@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-28,Arecanut (Betelnut/Supari),140,Assam,18,Lakhimpur,307,5561,6000,5800
+2018-08-30,Arecanut (Betelnut/Supari),140,Assam,18,Lakhimpur,307,6525,6900,6800
+2017-09-19,Arecanut (Betelnut/Supari),140,Assam,18,Lakhimpur,307,7300,7500,7400
+2017-04-28,Arecanut (Betelnut/Supari),140,Assam,18,Lakhimpur,307,7300,7500,7400

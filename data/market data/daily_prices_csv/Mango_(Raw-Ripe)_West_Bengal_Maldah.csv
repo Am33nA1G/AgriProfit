@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-11,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1020,1000
+2016-06-10,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1020,1000
+2016-06-09,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1020,1000
+2016-06-03,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1010,1000
+2016-06-02,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,1290,1320,1300
+2016-05-28,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1010,1000
+2016-05-27,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,990,1010,1000
+2016-05-06,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,1990,2020,2000
+2016-04-13,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,2480,2520,2500
+2016-04-12,Mango (Raw-Ripe),172,West Bengal,19,Maldah,332,1990,2020,2000

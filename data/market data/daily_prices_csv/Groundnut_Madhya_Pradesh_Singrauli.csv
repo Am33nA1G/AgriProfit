@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-25,Groundnut,10,Madhya Pradesh,23,Singrauli,463,6200,6200,6200
+2017-11-15,Groundnut,10,Madhya Pradesh,23,Singrauli,463,2721,2721,2721
+2017-11-10,Groundnut,10,Madhya Pradesh,23,Singrauli,463,2300,2300,2300
+2017-10-28,Groundnut,10,Madhya Pradesh,23,Singrauli,463,2100,2200,2200

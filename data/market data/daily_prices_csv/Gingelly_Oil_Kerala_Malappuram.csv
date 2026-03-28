@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-01,Gingelly Oil,276,Kerala,32,Malappuram,592,18000,19000,18500
+2021-01-02,Gingelly Oil,276,Kerala,32,Malappuram,592,2900,3100,3000
+2018-01-06,Gingelly Oil,276,Kerala,32,Malappuram,592,10500,10700,10600
+2017-02-12,Gingelly Oil,276,Kerala,32,Malappuram,592,9900,10100,10000
+2015-08-21,Gingelly Oil,276,Kerala,32,Malappuram,592,9200,9400,9300
+2015-08-15,Gingelly Oil,276,Kerala,32,Malappuram,592,9200,9400,9300
+2015-08-13,Gingelly Oil,276,Kerala,32,Malappuram,592,9000,9200,9100
+2015-07-22,Gingelly Oil,276,Kerala,32,Malappuram,592,9200,9400,9300
+2015-07-20,Gingelly Oil,276,Kerala,32,Malappuram,592,9000,9200,9100
+2015-07-14,Gingelly Oil,276,Kerala,32,Malappuram,592,8000,8400,8200
+2015-07-09,Gingelly Oil,276,Kerala,32,Malappuram,592,8500,8700,8600
+2015-07-08,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-07-04,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-07-03,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-07-01,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-06-29,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-06-23,Gingelly Oil,276,Kerala,32,Malappuram,592,8500,8700,8600
+2015-06-22,Gingelly Oil,276,Kerala,32,Malappuram,592,8600,8800,8700
+2015-06-20,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-18,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-16,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-13,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-12,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-11,Gingelly Oil,276,Kerala,32,Malappuram,592,7800,8000,7900
+2015-06-09,Gingelly Oil,276,Kerala,32,Malappuram,592,7600,7800,7700
+2015-06-06,Gingelly Oil,276,Kerala,32,Malappuram,592,7500,7700,7600

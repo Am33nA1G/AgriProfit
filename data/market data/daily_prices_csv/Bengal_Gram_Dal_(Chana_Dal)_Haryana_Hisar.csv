@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-03,Bengal Gram Dal (Chana Dal),263,Haryana,6,Hisar,80,5375,5650,5650
+2016-11-21,Bengal Gram Dal (Chana Dal),263,Haryana,6,Hisar,80,11100,14200,11500
+2016-11-06,Bengal Gram Dal (Chana Dal),263,Haryana,6,Hisar,80,11450,11450,11450

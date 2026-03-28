@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-19,Sheep,218,Karnataka,29,Uttara Kannada,563,4200,4200,4200
+2018-05-14,Sheep,218,Karnataka,29,Uttara Kannada,563,12000,12000,12000
+2018-05-09,Sheep,218,Karnataka,29,Uttara Kannada,563,14700,14700,14700
+2018-05-08,Sheep,218,Karnataka,29,Uttara Kannada,563,4000,4000,4000
+2018-05-02,Sheep,218,Karnataka,29,Uttara Kannada,563,4900,4900,4900
+2018-04-28,Sheep,218,Karnataka,29,Uttara Kannada,563,14700,14700,14700
+2018-04-25,Sheep,218,Karnataka,29,Uttara Kannada,563,14400,14700,14400
+2018-04-23,Sheep,218,Karnataka,29,Uttara Kannada,563,13500,14700,14700
+2018-04-21,Sheep,218,Karnataka,29,Uttara Kannada,563,11400,15750,14400
+2017-06-28,Sheep,218,Karnataka,29,Uttara Kannada,563,4000,4000,4000
+2017-05-15,Sheep,218,Karnataka,29,Uttara Kannada,563,5000,5000,5000

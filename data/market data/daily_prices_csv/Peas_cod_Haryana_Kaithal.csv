@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-25,Peas cod,308,Haryana,6,Kaithal,73,1500,1800,1800
+2015-03-24,Peas cod,308,Haryana,6,Kaithal,73,2500,2500,2500
+2015-03-23,Peas cod,308,Haryana,6,Kaithal,73,1800,1800,1800
+2015-03-21,Peas cod,308,Haryana,6,Kaithal,73,1800,2000,2000
+2015-03-20,Peas cod,308,Haryana,6,Kaithal,73,1800,1800,1800
+2015-02-24,Peas cod,308,Haryana,6,Kaithal,73,1800,1800,1800
+2015-02-23,Peas cod,308,Haryana,6,Kaithal,73,2000,2500,2500
+2015-02-21,Peas cod,308,Haryana,6,Kaithal,73,2000,2000,2000
+2015-02-20,Peas cod,308,Haryana,6,Kaithal,73,1500,1500,1500

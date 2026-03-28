@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-11,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Mandsaur,433,2796,2796,2796
+2025-09-09,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Mandsaur,433,2667,2667,2667
+2025-08-20,Paddy(Dhan)(Common),2,Madhya Pradesh,23,Mandsaur,433,2670,2670,2670

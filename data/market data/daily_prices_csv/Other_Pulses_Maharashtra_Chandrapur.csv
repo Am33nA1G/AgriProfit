@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-24,Other Pulses,97,Maharashtra,27,Chandrapur,509,3400,3500,3450
+2020-05-26,Other Pulses,97,Maharashtra,27,Chandrapur,509,3100,3300,3250
+2020-05-18,Other Pulses,97,Maharashtra,27,Chandrapur,509,3000,3000,3000
+2020-05-11,Other Pulses,97,Maharashtra,27,Chandrapur,509,2500,2550,2525
+2020-05-08,Other Pulses,97,Maharashtra,27,Chandrapur,509,3200,3400,3300
+2020-05-06,Other Pulses,97,Maharashtra,27,Chandrapur,509,2500,2550,2525
+2020-04-18,Other Pulses,97,Maharashtra,27,Chandrapur,509,3100,3300,3200
+2018-05-31,Other Pulses,97,Maharashtra,27,Chandrapur,509,1300,1300,1300
+2018-05-21,Other Pulses,97,Maharashtra,27,Chandrapur,509,1470,1470,1470
+2018-05-15,Other Pulses,97,Maharashtra,27,Chandrapur,509,1425,1425,1425
+2018-04-17,Other Pulses,97,Maharashtra,27,Chandrapur,509,1500,1500,1500
+2018-04-13,Other Pulses,97,Maharashtra,27,Chandrapur,509,1515,1515,1515
+2018-04-12,Other Pulses,97,Maharashtra,27,Chandrapur,509,1500,1500,1500

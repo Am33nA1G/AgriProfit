@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-19,Harrah,512,Madhya Pradesh,23,Dindori,453,1000,1000,1000
+2025-01-17,Harrah,512,Madhya Pradesh,23,Dindori,453,1200,1200,1200
+2025-01-03,Harrah,512,Madhya Pradesh,23,Dindori,453,1400,1400,1400
+2024-12-11,Harrah,512,Madhya Pradesh,23,Dindori,453,1200,1200,1200
+2024-12-09,Harrah,512,Madhya Pradesh,23,Dindori,453,1200,1200,1200
+2024-10-06,Harrah,512,Madhya Pradesh,23,Dindori,453,1300,1300,1300
+2024-08-23,Harrah,512,Madhya Pradesh,23,Dindori,453,1100,1510,1100

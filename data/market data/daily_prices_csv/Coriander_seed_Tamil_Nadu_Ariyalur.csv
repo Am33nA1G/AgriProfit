@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-16,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,10078,10903,10303
+2023-03-06,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,8750,10655,10305
+2022-04-11,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,10040,12375,10250
+2022-03-30,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,12750,13888,13273
+2019-06-24,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,4225,9347,9230
+2019-06-11,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,8872,9772,9407
+2019-03-19,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,6415,8122,7915
+2019-03-18,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,7900,8150,7950
+2018-06-13,Coriander seed,108,Tamil Nadu,33,Ariyalur,616,4912,10010,7800

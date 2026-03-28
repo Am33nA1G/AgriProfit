@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-10,Galgal (Lemon),350,Punjab,3,Sangrur,53,6000,7000,6000
+2022-11-15,Galgal (Lemon),350,Punjab,3,Sangrur,53,6000,7000,7000
+2021-12-22,Galgal (Lemon),350,Punjab,3,Sangrur,53,3000,3000,3000
+2021-09-18,Galgal (Lemon),350,Punjab,3,Sangrur,53,3000,3000,3000

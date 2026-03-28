@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-19,Rice,3,Madhya Pradesh,23,Panna,426,1735,1737,1736
+2018-02-10,Rice,3,Madhya Pradesh,23,Panna,426,1400,1400,1400
+2017-01-27,Rice,3,Madhya Pradesh,23,Panna,426,1400,1400,1400

@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-06,Sugar,48,Uttarakhand,5,Hardwar,68,2550,2650,2600
+2019-04-01,Sugar,48,Uttarakhand,5,Hardwar,68,2600,2600,2600
+2019-03-23,Sugar,48,Uttarakhand,5,Hardwar,68,2600,2600,2600
+2019-02-21,Sugar,48,Uttarakhand,5,Hardwar,68,2475,2475,2475
+2019-01-24,Sugar,48,Uttarakhand,5,Hardwar,68,2410,2500,2450
+2019-01-22,Sugar,48,Uttarakhand,5,Hardwar,68,2300,2500,2400
+2019-01-19,Sugar,48,Uttarakhand,5,Hardwar,68,2300,2500,2400
+2019-01-14,Sugar,48,Uttarakhand,5,Hardwar,68,2300,2500,2400
+2019-01-10,Sugar,48,Uttarakhand,5,Hardwar,68,2400,2500,2500
+2019-01-05,Sugar,48,Uttarakhand,5,Hardwar,68,2300,2500,2400
+2019-01-04,Sugar,48,Uttarakhand,5,Hardwar,68,2100,2300,2200
+2018-12-21,Sugar,48,Uttarakhand,5,Hardwar,68,2425,2600,2500
+2018-09-05,Sugar,48,Uttarakhand,5,Hardwar,68,3200,3500,3350

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-11,Kabuli Chana (Chickpeas-White),362,Punjab,3,Ludhiana,41,6800,7000,7000
+2015-11-14,Kabuli Chana (Chickpeas-White),362,Punjab,3,Ludhiana,41,6000,6300,6100
+2015-11-12,Kabuli Chana (Chickpeas-White),362,Punjab,3,Ludhiana,41,6000,6500,6100

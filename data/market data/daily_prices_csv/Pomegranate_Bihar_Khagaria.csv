@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Pomegranate,190,Bihar,10,Khagaria,223,6500,6700,6600
+2023-09-06,Pomegranate,190,Bihar,10,Khagaria,223,6800,7000,6900
+2023-09-05,Pomegranate,190,Bihar,10,Khagaria,223,9300,9500,9400
+2023-09-04,Pomegranate,190,Bihar,10,Khagaria,223,8700,9000,8900
+2023-09-03,Pomegranate,190,Bihar,10,Khagaria,223,7000,9000,8000
+2023-09-02,Pomegranate,190,Bihar,10,Khagaria,223,8500,9500,9000

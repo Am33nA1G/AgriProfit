@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "census_district_id": 281,
+      "census_district_name": "Mamit"
+    },
+    {
+      "census_district_id": 282,
+      "census_district_name": "Kolasib"
+    },
+    {
+      "census_district_id": 283,
+      "census_district_name": "Aizawl"
+    },
+    {
+      "census_district_id": 284,
+      "census_district_name": "Champhai"
+    },
+    {
+      "census_district_id": 285,
+      "census_district_name": "Serchhip"
+    },
+    {
+      "census_district_id": 286,
+      "census_district_name": "Lunglei"
+    },
+    {
+      "census_district_id": 287,
+      "census_district_name": "Lawngtlai"
+    },
+    {
+      "census_district_id": 288,
+      "census_district_name": "Saiha"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-06,Grapes,22,Maharashtra,27,Ratnagiri,528,3000,3500,3300
+2015-12-22,Grapes,22,Maharashtra,27,Ratnagiri,528,5000,5500,5300

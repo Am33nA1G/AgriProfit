@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Banana,19,Bihar,10,Khagaria,223,1300,1500,1400
+2023-09-06,Banana,19,Bihar,10,Khagaria,223,1400,1600,1500
+2023-09-05,Banana,19,Bihar,10,Khagaria,223,1500,1700,1600
+2023-09-04,Banana,19,Bihar,10,Khagaria,223,1200,1400,1300
+2023-09-03,Banana,19,Bihar,10,Khagaria,223,850,950,900
+2023-09-02,Banana,19,Bihar,10,Khagaria,223,800,900,850
+2023-09-01,Banana,19,Bihar,10,Khagaria,223,600,800,700

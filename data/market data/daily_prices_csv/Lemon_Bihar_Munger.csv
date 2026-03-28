@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Lemon,310,Bihar,10,Munger,226,10000,10000,10000
+2023-09-05,Lemon,310,Bihar,10,Munger,226,8000,8100,8000
+2023-09-04,Lemon,310,Bihar,10,Munger,226,8000,16000,12000
+2023-09-03,Lemon,310,Bihar,10,Munger,226,6000,8000,7000
+2023-09-02,Lemon,310,Bihar,10,Munger,226,8000,8000,8000
+2023-09-01,Lemon,310,Bihar,10,Munger,226,200,300,300

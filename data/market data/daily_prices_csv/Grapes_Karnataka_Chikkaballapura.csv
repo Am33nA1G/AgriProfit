@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-25,Grapes,22,Karnataka,29,Chikkaballapura,582,1000,1500,1250
+2017-05-29,Grapes,22,Karnataka,29,Chikkaballapura,582,800,1100,1000
+2017-05-28,Grapes,22,Karnataka,29,Chikkaballapura,582,800,850,830
+2017-05-26,Grapes,22,Karnataka,29,Chikkaballapura,582,900,1100,1000
+2017-05-21,Grapes,22,Karnataka,29,Chikkaballapura,582,800,1000,900
+2017-05-18,Grapes,22,Karnataka,29,Chikkaballapura,582,800,1000,900
+2017-05-14,Grapes,22,Karnataka,29,Chikkaballapura,582,800,1000,900
+2016-05-17,Grapes,22,Karnataka,29,Chikkaballapura,582,2300,2500,2400
+2015-04-29,Grapes,22,Karnataka,29,Chikkaballapura,582,4500,5500,5000

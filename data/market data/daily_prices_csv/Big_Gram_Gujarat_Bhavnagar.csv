@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-04,Big Gram,113,Gujarat,24,Bhavnagar,481,4150,4365,4260
+2016-03-03,Big Gram,113,Gujarat,24,Bhavnagar,481,4140,4800,4470
+2016-03-02,Big Gram,113,Gujarat,24,Bhavnagar,481,4125,4500,4315
+2016-03-01,Big Gram,113,Gujarat,24,Bhavnagar,481,4055,4235,4145
+2016-02-29,Big Gram,113,Gujarat,24,Bhavnagar,481,4000,4295,4150
+2016-02-27,Big Gram,113,Gujarat,24,Bhavnagar,481,4030,5260,4645
+2016-02-26,Big Gram,113,Gujarat,24,Bhavnagar,481,4000,5330,4665
+2016-02-25,Big Gram,113,Gujarat,24,Bhavnagar,481,4130,4675,4405
+2016-02-24,Big Gram,113,Gujarat,24,Bhavnagar,481,2375,4500,3440

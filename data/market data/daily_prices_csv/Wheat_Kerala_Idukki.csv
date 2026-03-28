@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-20,Wheat,1,Kerala,32,Idukki,596,3000,4500,4000
+2023-06-16,Wheat,1,Kerala,32,Idukki,596,4000,4500,4500
+2023-06-10,Wheat,1,Kerala,32,Idukki,596,3000,4000,4000
+2023-06-03,Wheat,1,Kerala,32,Idukki,596,3000,4000,4000

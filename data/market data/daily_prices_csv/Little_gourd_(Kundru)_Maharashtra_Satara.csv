@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-18,Little gourd (Kundru),302,Maharashtra,27,Satara,527,1500,2500,2350
+2019-05-23,Little gourd (Kundru),302,Maharashtra,27,Satara,527,800,2700,2500
+2016-04-21,Little gourd (Kundru),302,Maharashtra,27,Satara,527,1500,2000,1800

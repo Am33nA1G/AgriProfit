@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-22,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,5725,5113
+2020-10-21,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,5680,5090
+2020-10-20,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,5700,5100
+2019-10-19,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4750,5220,5000
+2019-10-18,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4750,5400,5250
+2019-10-17,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4750,5500,5250
+2019-10-16,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5000,5515,5250
+2019-10-15,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,6040,5550
+2019-10-14,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5000,5960,5750
+2019-10-12,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5000,6000,5750
+2019-10-11,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5455,6140,5750
+2019-10-10,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5000,6350,5750
+2019-06-07,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,5100,6080,5650
+2018-11-28,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,3750,4390,3800
+2018-10-31,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4000,4625,4350
+2018-10-29,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4400,4885,4600
+2018-10-27,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,4900,4800
+2018-10-25,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,5035,4700
+2018-10-24,Groundnut (Split),314,Gujarat,24,Sabar Kantha,472,4500,5005,4750

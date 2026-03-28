@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-01,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2600,2720,2665
+2024-02-29,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2550,2710,2655
+2024-02-28,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2600,2700,2660
+2024-02-27,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2600,2720,2640
+2024-02-23,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2500,2700,2600
+2024-02-22,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2430,2710,2580
+2024-02-21,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2400,2700,2550
+2024-02-20,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2300,2500,2415
+2024-02-18,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2350,2500,2425
+2024-02-17,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2350,2500,2430
+2024-02-16,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2300,2500,2425
+2024-02-15,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2400,2600,2435
+2024-02-13,Kinnow,336,Uttar Pradesh,9,Sultanpur,179,2300,2500,2435

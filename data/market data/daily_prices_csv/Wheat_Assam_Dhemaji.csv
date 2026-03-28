@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-12,Wheat,1,Assam,18,Dhemaji,308,1900,2100,2000
+2018-05-01,Wheat,1,Assam,18,Dhemaji,308,2400,2600,2500
+2018-04-17,Wheat,1,Assam,18,Dhemaji,308,2400,2600,2500
+2018-03-29,Wheat,1,Assam,18,Dhemaji,308,2400,2600,2500
+2018-03-24,Wheat,1,Assam,18,Dhemaji,308,2400,2600,2500
+2018-02-26,Wheat,1,Assam,18,Dhemaji,308,1600,1700,1665
+2018-02-22,Wheat,1,Assam,18,Dhemaji,308,1600,1700,1665
+2018-02-21,Wheat,1,Assam,18,Dhemaji,308,1600,1700,1665
+2018-02-20,Wheat,1,Assam,18,Dhemaji,308,1600,1700,1665

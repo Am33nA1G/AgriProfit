@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-24,Sunhemp,139,Telangana,36,Adilabad,532,4500,4500,4500
+2023-07-13,Sunhemp,139,Telangana,36,Adilabad,532,4900,4900,4900
+2023-07-10,Sunhemp,139,Telangana,36,Adilabad,532,4925,4925,4925
+2022-06-16,Sunhemp,139,Telangana,36,Adilabad,532,6420,6420,6420
+2022-06-10,Sunhemp,139,Telangana,36,Adilabad,532,6300,6300,6300
+2022-06-07,Sunhemp,139,Telangana,36,Adilabad,532,6311,6311,6311

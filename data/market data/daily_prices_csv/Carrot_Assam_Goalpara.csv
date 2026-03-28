@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-27,Carrot,153,Assam,18,Goalpara,302,3000,4000,3500
+2022-05-21,Carrot,153,Assam,18,Goalpara,302,3000,5000,4000
+2022-04-04,Carrot,153,Assam,18,Goalpara,302,2000,3000,2500

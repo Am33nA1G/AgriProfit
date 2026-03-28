@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-01,Wool,348,Rajasthan,8,Barmer,115,6000,9500,9200
+2015-05-30,Wool,348,Rajasthan,8,Barmer,115,6000,9500,9200
+2015-01-01,Wool,348,Rajasthan,8,Barmer,115,5000,8000,6500

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-31,Bitter gourd,81,Assam,18,Dhemaji,308,5000,6000,5500
+2022-04-26,Bitter gourd,81,Assam,18,Dhemaji,308,1500,1800,1600
+2022-04-06,Bitter gourd,81,Assam,18,Dhemaji,308,1500,2000,1600
+2022-04-04,Bitter gourd,81,Assam,18,Dhemaji,308,1500,2000,1600
+2022-04-02,Bitter gourd,81,Assam,18,Dhemaji,308,1500,2000,1800
+2022-03-30,Bitter gourd,81,Assam,18,Dhemaji,308,1500,2000,1800

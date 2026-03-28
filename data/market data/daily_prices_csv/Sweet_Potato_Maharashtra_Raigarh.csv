@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-29,Sweet Potato,152,Maharashtra,27,Raigarh,520,5200,5400,5200
+2023-11-27,Sweet Potato,152,Maharashtra,27,Raigarh,520,6000,6200,6000
+2023-11-19,Sweet Potato,152,Maharashtra,27,Raigarh,520,5000,5200,5000
+2023-11-16,Sweet Potato,152,Maharashtra,27,Raigarh,520,5000,5200,5000
+2023-11-11,Sweet Potato,152,Maharashtra,27,Raigarh,520,4000,4200,4000
+2023-10-30,Sweet Potato,152,Maharashtra,27,Raigarh,520,3200,3400,3200
+2023-10-26,Sweet Potato,152,Maharashtra,27,Raigarh,520,3000,3200,3000
+2023-10-25,Sweet Potato,152,Maharashtra,27,Raigarh,520,4000,4200,4000
+2023-10-18,Sweet Potato,152,Maharashtra,27,Raigarh,520,4200,4400,4200
+2020-08-05,Sweet Potato,152,Maharashtra,27,Raigarh,520,2000,2200,2100

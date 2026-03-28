@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-13,Green Gram (Moong)(Whole),9,Odisha,21,Jagatsinghapur,380,6200,7050,7050
+2018-06-01,Green Gram (Moong)(Whole),9,Odisha,21,Jagatsinghapur,380,4000,5575,5575
+2018-05-31,Green Gram (Moong)(Whole),9,Odisha,21,Jagatsinghapur,380,3500,5575,5575
+2018-05-25,Green Gram (Moong)(Whole),9,Odisha,21,Jagatsinghapur,380,3800,5575,5575

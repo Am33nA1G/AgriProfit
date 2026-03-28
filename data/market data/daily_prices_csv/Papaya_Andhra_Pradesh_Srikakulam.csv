@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-03,Papaya,72,Andhra Pradesh,28,Srikakulam,542,1550,1650,1600
+2017-09-09,Papaya,72,Andhra Pradesh,28,Srikakulam,542,800,1000,900
+2017-07-02,Papaya,72,Andhra Pradesh,28,Srikakulam,542,1450,1510,1470
+2015-12-08,Papaya,72,Andhra Pradesh,28,Srikakulam,542,600,1000,800

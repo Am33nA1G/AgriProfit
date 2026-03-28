@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-26,Leafy Vegetable,171,Kerala,32,Kollam,600,1900,2100,2000
+2016-02-20,Leafy Vegetable,171,Kerala,32,Kollam,600,3100,3300,3200
+2016-01-16,Leafy Vegetable,171,Kerala,32,Kollam,600,4300,4500,4400
+2016-01-13,Leafy Vegetable,171,Kerala,32,Kollam,600,3800,4000,3900
+2015-11-04,Leafy Vegetable,171,Kerala,32,Kollam,600,3000,3200,3100
+2015-10-31,Leafy Vegetable,171,Kerala,32,Kollam,600,2100,2300,2200

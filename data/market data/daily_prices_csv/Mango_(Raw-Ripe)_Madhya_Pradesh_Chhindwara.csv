@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-20,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2021-06-28,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,600,800,700
+2021-06-26,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,700,800,750
+2021-06-18,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,700,900,800
+2019-07-04,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,1500,1700,1635
+2019-06-20,Mango (Raw-Ripe),172,Madhya Pradesh,23,Chhindwara,455,900,1100,1000

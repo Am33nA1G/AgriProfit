@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-12,Cotton Seed,99,Telangana,36,Mahbubnagar,538,5682,6602,6390
+2017-10-28,Cotton Seed,99,Telangana,36,Mahbubnagar,538,2519,4339,3901
+2017-10-23,Cotton Seed,99,Telangana,36,Mahbubnagar,538,2629,4079,3911
+2017-10-21,Cotton Seed,99,Telangana,36,Mahbubnagar,538,2669,4061,3879

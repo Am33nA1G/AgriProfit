@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-01,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Theni,624,13900,14100,14000
+2024-06-27,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Theni,624,13000,15000,14000
+2024-06-24,"Sesamum (Sesame, Gingelly, Til)",11,Tamil Nadu,33,Theni,624,13900,14100,14000

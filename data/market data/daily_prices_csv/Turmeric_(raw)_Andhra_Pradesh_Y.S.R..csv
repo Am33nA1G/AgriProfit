@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-18,Turmeric (raw),309,Andhra Pradesh,28,Y.S.R.,551,2810,7922,6289
+2016-06-17,Turmeric (raw),309,Andhra Pradesh,28,Y.S.R.,551,1789,7573,6410
+2016-04-27,Turmeric (raw),309,Andhra Pradesh,28,Y.S.R.,551,5875,8382,7784

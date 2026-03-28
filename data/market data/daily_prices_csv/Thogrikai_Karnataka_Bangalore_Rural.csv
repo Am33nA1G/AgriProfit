@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-24,Thogrikai,170,Karnataka,29,Bangalore Rural,583,2000,3000,2500
+2015-10-16,Thogrikai,170,Karnataka,29,Bangalore Rural,583,1000,1000,1000
+2015-02-18,Thogrikai,170,Karnataka,29,Bangalore Rural,583,1000,1500,1200
+2015-01-31,Thogrikai,170,Karnataka,29,Bangalore Rural,583,900,2200,2000

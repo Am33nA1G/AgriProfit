@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-08,Tamarind Fruit,261,Madhya Pradesh,23,Shahdol,460,1500,1500,1500
+2023-07-02,Tamarind Fruit,261,Madhya Pradesh,23,Shahdol,460,4500,4500,4500
+2021-04-15,Tamarind Fruit,261,Madhya Pradesh,23,Shahdol,460,2200,2200,2200
+2019-04-05,Tamarind Fruit,261,Madhya Pradesh,23,Shahdol,460,3000,3000,3000
+2019-04-03,Tamarind Fruit,261,Madhya Pradesh,23,Shahdol,460,1700,1700,1700

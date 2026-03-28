@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-31,Cotton Seed,99,Telangana,36,Adilabad,532,4320,4600,4500
+2016-11-13,Cotton Seed,99,Telangana,36,Adilabad,532,4700,4820,4750
+2015-05-24,Cotton Seed,99,Telangana,36,Adilabad,532,4050,4050,4050

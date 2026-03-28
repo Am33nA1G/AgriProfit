@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-21,Maize,4,Madhya Pradesh,23,Rewa,430,1900,1900,1900
+2023-11-24,Maize,4,Madhya Pradesh,23,Rewa,430,1800,1800,1800
+2022-11-11,Maize,4,Madhya Pradesh,23,Rewa,430,1900,1900,1900
+2021-01-30,Maize,4,Madhya Pradesh,23,Rewa,430,1100,1100,1100
+2019-02-14,Maize,4,Madhya Pradesh,23,Rewa,430,1800,1820,1820
+2019-02-13,Maize,4,Madhya Pradesh,23,Rewa,430,1800,1820,1820
+2017-06-09,Maize,4,Madhya Pradesh,23,Rewa,430,1220,1300,1250
+2015-09-25,Maize,4,Madhya Pradesh,23,Rewa,430,1060,1080,1080

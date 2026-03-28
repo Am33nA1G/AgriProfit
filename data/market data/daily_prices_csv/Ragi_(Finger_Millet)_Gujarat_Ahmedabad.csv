@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-17,Ragi (Finger Millet),30,Gujarat,24,Ahmedabad,474,1450,1580,1515
+2017-04-12,Ragi (Finger Millet),30,Gujarat,24,Ahmedabad,474,1400,1605,1502

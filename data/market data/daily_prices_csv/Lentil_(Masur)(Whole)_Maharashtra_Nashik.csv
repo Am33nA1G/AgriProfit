@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-18,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,4000,4000,4000
+2020-03-15,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,5000,5450,5306
+2020-03-08,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,5050,5250,5195
+2018-11-18,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,3700,4050,3900
+2018-07-08,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,3200,3525,3451
+2018-06-24,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,3500,3825,3600
+2018-06-10,Lentil (Masur)(Whole),63,Maharashtra,27,Nashik,516,3300,3500,3480

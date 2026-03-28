@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-03,Mustard,12,Chhattisgarh,22,Bastar,414,3600,3600,3600
+2016-04-30,Mustard,12,Chhattisgarh,22,Bastar,414,4000,4000,4000
+2016-02-04,Mustard,12,Chhattisgarh,22,Bastar,414,3010,3010,3010
+2016-02-02,Mustard,12,Chhattisgarh,22,Bastar,414,4000,4000,4000
+2016-01-05,Mustard,12,Chhattisgarh,22,Bastar,414,2500,2500,2500
+2015-05-12,Mustard,12,Chhattisgarh,22,Bastar,414,1950,2000,1975
+2015-02-26,Mustard,12,Chhattisgarh,22,Bastar,414,2500,2500,2500
+2015-02-12,Mustard,12,Chhattisgarh,22,Bastar,414,2986,2986,2986
+2015-01-28,Mustard,12,Chhattisgarh,22,Bastar,414,2500,2500,2500

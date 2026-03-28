@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-13,Big Gram,113,Chhattisgarh,22,Bilaspur,406,3500,3500,3500
+2015-04-08,Big Gram,113,Chhattisgarh,22,Bilaspur,406,3000,3000,3000
+2015-03-31,Big Gram,113,Chhattisgarh,22,Bilaspur,406,3000,3000,3000

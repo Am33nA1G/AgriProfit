@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-31,Papaya (Raw),313,Bihar,10,Kishanganj,210,1840,1895,1865
+2022-07-23,Papaya (Raw),313,Bihar,10,Kishanganj,210,1600,1800,1700
+2022-04-28,Papaya (Raw),313,Bihar,10,Kishanganj,210,1500,1800,1700
+2022-04-22,Papaya (Raw),313,Bihar,10,Kishanganj,210,1600,2000,1800
+2022-04-16,Papaya (Raw),313,Bihar,10,Kishanganj,210,1500,1700,1600
+2022-04-13,Papaya (Raw),313,Bihar,10,Kishanganj,210,1800,2000,1900
+2022-04-11,Papaya (Raw),313,Bihar,10,Kishanganj,210,1500,1800,1600
+2022-04-04,Papaya (Raw),313,Bihar,10,Kishanganj,210,1500,1700,1600
+2022-02-26,Papaya (Raw),313,Bihar,10,Kishanganj,210,2400,3000,2600

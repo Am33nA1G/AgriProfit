@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-02,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,6000,8325,7162
+2023-11-30,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,5000,8425,6712
+2023-11-29,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,6405,8410,7407
+2023-11-27,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,5000,8725,6862
+2023-11-17,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,5000,6750,5875
+2023-11-09,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,5100,8595,6847
+2023-11-03,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,4500,8660,6580
+2023-10-25,Green Gram Dal (Moong Dal),265,Gujarat,24,Kachchh,468,5250,8850,7050

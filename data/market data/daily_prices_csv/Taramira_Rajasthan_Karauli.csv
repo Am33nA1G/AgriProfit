@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-15,Taramira,76,Rajasthan,8,Karauli,107,5600,5720,5660
+2021-04-14,Taramira,76,Rajasthan,8,Karauli,107,5500,5610,5555
+2021-04-13,Taramira,76,Rajasthan,8,Karauli,107,5400,5490,5445
+2021-04-12,Taramira,76,Rajasthan,8,Karauli,107,5400,5400,5400
+2021-04-10,Taramira,76,Rajasthan,8,Karauli,107,5311,5361,5336
+2021-04-09,Taramira,76,Rajasthan,8,Karauli,107,5130,5363,5246
+2021-04-05,Taramira,76,Rajasthan,8,Karauli,107,5052,5171,5112

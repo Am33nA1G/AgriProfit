@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "census_district_id": 327,
+      "census_district_name": "Darjiling"
+    },
+    {
+      "census_district_id": 328,
+      "census_district_name": "Jalpaiguri"
+    },
+    {
+      "census_district_id": 329,
+      "census_district_name": "Koch Bihar"
+    },
+    {
+      "census_district_id": 330,
+      "census_district_name": "Uttar Dinajpur"
+    },
+    {
+      "census_district_id": 331,
+      "census_district_name": "Dakshin Dinajpur"
+    },
+    {
+      "census_district_id": 332,
+      "census_district_name": "Maldah"
+    },
+    {
+      "census_district_id": 333,
+      "census_district_name": "Murshidabad"
+    },
+    {
+      "census_district_id": 334,
+      "census_district_name": "Birbhum"
+    },
+    {
+      "census_district_id": 335,
+      "census_district_name": "Barddhaman"
+    },
+    {
+      "census_district_id": 336,
+      "census_district_name": "Nadia"
+    },
+    {
+      "census_district_id": 337,
+      "census_district_name": "North Twenty Four Parganas"
+    },
+    {
+      "census_district_id": 338,
+      "census_district_name": "Hugli"
+    },
+    {
+      "census_district_id": 339,
+      "census_district_name": "Bankura"
+    },
+    {
+      "census_district_id": 340,
+      "census_district_name": "Puruliya"
+    },
+    {
+      "census_district_id": 341,
+      "census_district_name": "Haora"
+    },
+    {
+      "census_district_id": 342,
+      "census_district_name": "Kolkata"
+    },
+    {
+      "census_district_id": 343,
+      "census_district_name": "South Twenty Four Parganas"
+    },
+    {
+      "census_district_id": 344,
+      "census_district_name": "Paschim Medinipur"
+    },
+    {
+      "census_district_id": 345,
+      "census_district_name": "Purba Medinipur"
+    }
+  ]
+}

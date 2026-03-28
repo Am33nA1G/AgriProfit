@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-18,Yam (Ratalu),297,Nagaland,13,Kiphire,269,6000,6300,6200
+2023-10-17,Yam (Ratalu),297,Nagaland,13,Kiphire,269,6300,6500,6400
+2023-10-16,Yam (Ratalu),297,Nagaland,13,Kiphire,269,6500,6800,6700
+2019-11-29,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1900,2200,2100
+2019-11-22,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1800,2100,2000
+2019-11-16,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1700,2000,1800
+2019-11-15,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1700,2000,1800
+2019-11-01,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1800,2100,2000
+2019-10-25,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1700,2000,1800
+2019-10-18,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1800,2100,1900
+2019-10-11,Yam (Ratalu),297,Nagaland,13,Kiphire,269,1900,2200,2100

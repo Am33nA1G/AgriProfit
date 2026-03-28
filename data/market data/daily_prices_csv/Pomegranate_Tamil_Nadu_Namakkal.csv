@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-01,Pomegranate,190,Tamil Nadu,33,Namakkal,609,16000,18000,18000
+2024-09-28,Pomegranate,190,Tamil Nadu,33,Namakkal,609,16000,18000,18000
+2024-09-27,Pomegranate,190,Tamil Nadu,33,Namakkal,609,13000,15000,15000
+2024-09-26,Pomegranate,190,Tamil Nadu,33,Namakkal,609,16000,18000,18000
+2024-09-25,Pomegranate,190,Tamil Nadu,33,Namakkal,609,16000,18000,18000
+2024-09-24,Pomegranate,190,Tamil Nadu,33,Namakkal,609,18000,20000,20000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-22,Potato,24,Mizoram,15,Champhai,284,3800,5000,4500
+2015-06-02,Potato,24,Mizoram,15,Champhai,284,3000,4500,3500
+2015-05-07,Potato,24,Mizoram,15,Champhai,284,3800,5000,4500

@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-28,Green Peas,50,Maharashtra,27,Akola,501,2000,2121,2060
+2025-07-14,Green Peas,50,Maharashtra,27,Akola,501,2650,2650,2650
+2025-04-16,Green Peas,50,Maharashtra,27,Akola,501,3000,9000,7000
+2024-11-12,Green Peas,50,Maharashtra,27,Akola,501,3700,3700,3700
+2024-09-14,Green Peas,50,Maharashtra,27,Akola,501,3605,3605,3605
+2024-08-13,Green Peas,50,Maharashtra,27,Akola,501,4000,4000,4000
+2024-08-10,Green Peas,50,Maharashtra,27,Akola,501,3200,3200,3200
+2024-07-20,Green Peas,50,Maharashtra,27,Akola,501,3800,3800,3800
+2024-06-14,Green Peas,50,Maharashtra,27,Akola,501,4200,4200,4200
+2023-11-07,Green Peas,50,Maharashtra,27,Akola,501,5500,5500,5500
+2023-10-27,Green Peas,50,Maharashtra,27,Akola,501,5700,5700,5700
+2023-10-25,Green Peas,50,Maharashtra,27,Akola,501,4000,6900,5450
+2023-10-10,Green Peas,50,Maharashtra,27,Akola,501,5200,5200,5200
+2023-10-07,Green Peas,50,Maharashtra,27,Akola,501,6405,6405,6405
+2023-08-18,Green Peas,50,Maharashtra,27,Akola,501,6000,6000,6000
+2023-08-01,Green Peas,50,Maharashtra,27,Akola,501,4011,4011,4011
+2023-05-16,Green Peas,50,Maharashtra,27,Akola,501,2100,2100,2100

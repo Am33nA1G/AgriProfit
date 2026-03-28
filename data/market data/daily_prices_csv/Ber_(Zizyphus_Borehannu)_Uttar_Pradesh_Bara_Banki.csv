@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-11,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Bara Banki,176,1200,1400,1300
+2019-03-01,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Bara Banki,176,1400,1600,1500
+2019-02-15,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Bara Banki,176,1300,1400,1350
+2019-02-13,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Bara Banki,176,1300,1400,1350

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-01,Cherry,328,Punjab,3,Gurdaspur,35,7000,8500,8000
+2025-06-30,Cherry,328,Punjab,3,Gurdaspur,35,7000,8000,7500
+2025-06-26,Cherry,328,Punjab,3,Gurdaspur,35,8000,10000,9000
+2025-06-25,Cherry,328,Punjab,3,Gurdaspur,35,8000,9000,8500
+2025-06-20,Cherry,328,Punjab,3,Gurdaspur,35,8000,10000,9000
+2025-06-19,Cherry,328,Punjab,3,Gurdaspur,35,8000,9000,8500
+2025-06-17,Cherry,328,Punjab,3,Gurdaspur,35,8000,10000,9000
+2024-07-06,Cherry,328,Punjab,3,Gurdaspur,35,4000,5000,4500
+2024-07-05,Cherry,328,Punjab,3,Gurdaspur,35,5000,6000,5500
+2024-07-03,Cherry,328,Punjab,3,Gurdaspur,35,8000,9000,8500
+2017-06-12,Cherry,328,Punjab,3,Gurdaspur,35,8000,10000,9000

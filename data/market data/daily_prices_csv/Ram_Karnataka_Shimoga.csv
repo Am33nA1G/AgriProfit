@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-13,Ram,282,Karnataka,29,Shimoga,568,3166,3166,3166
+2023-02-20,Ram,282,Karnataka,29,Shimoga,568,5000,5000,5000
+2019-04-01,Ram,282,Karnataka,29,Shimoga,568,5636,5636,5636

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-28,Cluster beans,80,Odisha,21,Nayagarh,385,6800,7200,7000
+2023-03-13,Cluster beans,80,Odisha,21,Nayagarh,385,4800,5200,5000
+2023-01-24,Cluster beans,80,Odisha,21,Nayagarh,385,3800,4100,3950

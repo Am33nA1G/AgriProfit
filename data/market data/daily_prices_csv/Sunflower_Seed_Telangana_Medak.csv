@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-04,Sunflower Seed,285,Telangana,36,Medak,535,3351,3451,3421
+2016-02-17,Sunflower Seed,285,Telangana,36,Medak,535,3400,3650,3525

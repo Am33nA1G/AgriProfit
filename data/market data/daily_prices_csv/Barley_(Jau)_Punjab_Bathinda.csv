@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-18,Barley (Jau),29,Punjab,3,Bathinda,46,1020,1150,1100
+2015-04-17,Barley (Jau),29,Punjab,3,Bathinda,46,920,1150,1150

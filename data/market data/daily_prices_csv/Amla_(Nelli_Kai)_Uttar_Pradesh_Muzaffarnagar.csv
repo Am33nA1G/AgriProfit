@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-25,Amla (Nelli Kai),355,Uttar Pradesh,9,Muzaffarnagar,133,410,430,420
+2021-11-02,Amla (Nelli Kai),355,Uttar Pradesh,9,Muzaffarnagar,133,1550,1580,1570
+2021-08-22,Amla (Nelli Kai),355,Uttar Pradesh,9,Muzaffarnagar,133,2000,2030,2015
+2021-08-12,Amla (Nelli Kai),355,Uttar Pradesh,9,Muzaffarnagar,133,1820,1860,1840

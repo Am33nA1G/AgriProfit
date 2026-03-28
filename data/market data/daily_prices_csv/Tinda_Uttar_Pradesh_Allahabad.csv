@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-21,Tinda,349,Uttar Pradesh,9,Allahabad,175,2500,2600,2575
+2025-08-20,Tinda,349,Uttar Pradesh,9,Allahabad,175,2550,2640,2580
+2025-08-15,Tinda,349,Uttar Pradesh,9,Allahabad,175,2500,2600,2550
+2025-08-12,Tinda,349,Uttar Pradesh,9,Allahabad,175,2610,2685,2650
+2025-06-20,Tinda,349,Uttar Pradesh,9,Allahabad,175,2000,2070,2045
+2025-05-30,Tinda,349,Uttar Pradesh,9,Allahabad,175,1800,1900,1860
+2025-05-29,Tinda,349,Uttar Pradesh,9,Allahabad,175,1870,1900,1885
+2025-05-23,Tinda,349,Uttar Pradesh,9,Allahabad,175,1930,2000,1975
+2025-05-19,Tinda,349,Uttar Pradesh,9,Allahabad,175,2185,2280,2250
+2025-05-17,Tinda,349,Uttar Pradesh,9,Allahabad,175,2200,2300,2225
+2025-05-16,Tinda,349,Uttar Pradesh,9,Allahabad,175,2200,2270,2230

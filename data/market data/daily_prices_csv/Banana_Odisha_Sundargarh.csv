@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-22,Banana,19,Odisha,21,Sundargarh,374,400000,400000,400000
+2020-07-07,Banana,19,Odisha,21,Sundargarh,374,2600,3000,2900
+2017-02-20,Banana,19,Odisha,21,Sundargarh,374,400,400,400
+2017-01-20,Banana,19,Odisha,21,Sundargarh,374,400,400,400

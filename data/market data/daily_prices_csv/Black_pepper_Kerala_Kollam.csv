@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-04,Black pepper,38,Kerala,32,Kollam,600,40000,42100,41000
+2020-02-28,Black pepper,38,Kerala,32,Kollam,600,39000,40000,39500
+2019-12-13,Black pepper,38,Kerala,32,Kollam,600,39000,40300,39800
+2019-11-15,Black pepper,38,Kerala,32,Kollam,600,48000,50000,49000
+2019-09-06,Black pepper,38,Kerala,32,Kollam,600,39000,40000,39500
+2019-06-27,Black pepper,38,Kerala,32,Kollam,600,38000,39000,38500
+2016-10-22,Black pepper,38,Kerala,32,Kollam,600,,78000,78000

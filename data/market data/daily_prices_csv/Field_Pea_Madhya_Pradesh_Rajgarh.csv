@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-06,Field Pea,64,Madhya Pradesh,23,Rajgarh,442,1000,2500,1600
+2021-04-05,Field Pea,64,Madhya Pradesh,23,Rajgarh,442,1000,2500,1600
+2021-04-04,Field Pea,64,Madhya Pradesh,23,Rajgarh,442,1000,2500,1600
+2021-04-03,Field Pea,64,Madhya Pradesh,23,Rajgarh,442,800,2000,1400

@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-10,Apple,17,Odisha,21,Nuapada,394,4000,4200,4000
+2019-09-24,Apple,17,Odisha,21,Nuapada,394,7000,7200,7100
+2019-07-31,Apple,17,Odisha,21,Nuapada,394,9000,9500,9100
+2019-01-15,Apple,17,Odisha,21,Nuapada,394,8000,8000,8000
+2018-12-25,Apple,17,Odisha,21,Nuapada,394,8000,8200,8200
+2018-12-22,Apple,17,Odisha,21,Nuapada,394,8000,8500,8500
+2018-12-11,Apple,17,Odisha,21,Nuapada,394,8000,8200,8200
+2018-12-08,Apple,17,Odisha,21,Nuapada,394,9500,9500,9500
+2018-11-14,Apple,17,Odisha,21,Nuapada,394,8000,8100,8000
+2017-12-13,Apple,17,Odisha,21,Nuapada,394,8500,9000,8500
+2017-12-12,Apple,17,Odisha,21,Nuapada,394,8000,8200,8000
+2017-12-04,Apple,17,Odisha,21,Nuapada,394,8000,8500,8500

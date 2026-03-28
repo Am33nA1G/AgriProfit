@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-29,Cotton,15,Tamil Nadu,33,Ariyalur,616,5800,6500,6300
+2021-08-26,Cotton,15,Tamil Nadu,33,Ariyalur,616,2500,3825,3000
+2018-04-06,Cotton,15,Tamil Nadu,33,Ariyalur,616,1400,2509,1410
+2017-01-20,Cotton,15,Tamil Nadu,33,Ariyalur,616,4900,5300,5100
+2017-01-03,Cotton,15,Tamil Nadu,33,Ariyalur,616,4700,4900,4800
+2017-01-02,Cotton,15,Tamil Nadu,33,Ariyalur,616,4700,5100,4850
+2016-12-29,Cotton,15,Tamil Nadu,33,Ariyalur,616,4800,5200,5000
+2016-12-27,Cotton,15,Tamil Nadu,33,Ariyalur,616,4800,5200,5000
+2016-12-26,Cotton,15,Tamil Nadu,33,Ariyalur,616,4800,5200,5000
+2016-12-23,Cotton,15,Tamil Nadu,33,Ariyalur,616,4800,5200,5000
+2016-12-22,Cotton,15,Tamil Nadu,33,Ariyalur,616,4700,5200,5000
+2016-12-21,Cotton,15,Tamil Nadu,33,Ariyalur,616,4700,5200,4950
+2016-12-20,Cotton,15,Tamil Nadu,33,Ariyalur,616,4700,5100,4900
+2015-08-25,Cotton,15,Tamil Nadu,33,Ariyalur,616,3402,3402,3402
+2015-03-11,Cotton,15,Tamil Nadu,33,Ariyalur,616,3631,3631,3631
+2015-03-05,Cotton,15,Tamil Nadu,33,Ariyalur,616,3750,3750,3750

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-15,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,4000,4000,4000
+2025-01-25,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,600,3000,1058
+2024-12-07,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,2500,2500,2500
+2024-09-30,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,3000,3000,3000
+2024-08-19,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,4000,4000,4000
+2023-10-05,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,3000,4000,3500
+2023-08-28,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,2000,2000,2000
+2021-11-19,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,2000,3000,2800
+2019-07-15,French Beans (Frasbean),298,Maharashtra,27,Nagpur,505,3000,3400,3300

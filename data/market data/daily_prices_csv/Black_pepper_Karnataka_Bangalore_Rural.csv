@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-19,Black pepper,38,Karnataka,29,Bangalore Rural,583,54620,60000,55600
+2024-11-08,Black pepper,38,Karnataka,29,Bangalore Rural,583,63100,63100,63100
+2024-10-05,Black pepper,38,Karnataka,29,Bangalore Rural,583,56136,56136,56136
+2024-07-10,Black pepper,38,Karnataka,29,Bangalore Rural,583,58600,58600,58600

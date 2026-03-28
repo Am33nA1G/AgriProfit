@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-19,Sarasum,247,Gujarat,24,Sabar Kantha,472,5000,5275,5138
+2017-02-09,Sarasum,247,Gujarat,24,Sabar Kantha,472,4850,5400,5125
+2017-01-17,Sarasum,247,Gujarat,24,Sabar Kantha,472,4000,5560,4780
+2016-11-21,Sarasum,247,Gujarat,24,Sabar Kantha,472,4000,4100,4050
+2016-11-19,Sarasum,247,Gujarat,24,Sabar Kantha,472,4300,4555,4428
+2016-10-17,Sarasum,247,Gujarat,24,Sabar Kantha,472,2770,2835,2802
+2016-07-23,Sarasum,247,Gujarat,24,Sabar Kantha,472,5500,5950,5725
+2016-02-17,Sarasum,247,Gujarat,24,Sabar Kantha,472,4560,5050,4805
+2016-02-08,Sarasum,247,Gujarat,24,Sabar Kantha,472,3930,5005,4467
+2016-01-25,Sarasum,247,Gujarat,24,Sabar Kantha,472,4125,4750,4438
+2016-01-23,Sarasum,247,Gujarat,24,Sabar Kantha,472,4400,4800,4600
+2016-01-21,Sarasum,247,Gujarat,24,Sabar Kantha,472,4250,4710,4480

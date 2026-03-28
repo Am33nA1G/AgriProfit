@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-15,Lime,180,Uttar Pradesh,9,Pilibhit,151,2370,2465,2420
+2018-03-14,Lime,180,Uttar Pradesh,9,Pilibhit,151,2360,2455,2410
+2018-03-13,Lime,180,Uttar Pradesh,9,Pilibhit,151,2350,2445,2400
+2018-03-12,Lime,180,Uttar Pradesh,9,Pilibhit,151,2360,2455,2410
+2018-03-11,Lime,180,Uttar Pradesh,9,Pilibhit,151,2360,2455,2410
+2018-03-10,Lime,180,Uttar Pradesh,9,Pilibhit,151,2360,2455,2410
+2018-03-08,Lime,180,Uttar Pradesh,9,Pilibhit,151,2330,2425,2380
+2018-03-07,Lime,180,Uttar Pradesh,9,Pilibhit,151,2320,2415,2370

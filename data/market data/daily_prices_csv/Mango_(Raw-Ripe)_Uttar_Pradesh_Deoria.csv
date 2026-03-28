@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-29,Mango (Raw-Ripe),172,Uttar Pradesh,9,Deoria,190,3650,3670,3660
+2020-08-21,Mango (Raw-Ripe),172,Uttar Pradesh,9,Deoria,190,2800,2900,2850
+2019-08-09,Mango (Raw-Ripe),172,Uttar Pradesh,9,Deoria,190,3330,3600,3500
+2019-05-29,Mango (Raw-Ripe),172,Uttar Pradesh,9,Deoria,190,3000,3150,3100

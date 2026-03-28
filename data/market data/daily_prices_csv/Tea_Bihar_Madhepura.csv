@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-25,Tea,44,Bihar,10,Madhepura,213,25000,27000,26000
+2016-01-06,Tea,44,Bihar,10,Madhepura,213,23000,27000,25000
+2016-01-05,Tea,44,Bihar,10,Madhepura,213,23000,27000,25000
+2016-01-04,Tea,44,Bihar,10,Madhepura,213,23000,27000,25000

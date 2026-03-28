@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-25,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Ghaziabad,140,2000,2200,2100
+2019-01-07,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Ghaziabad,140,3000,3500,3400
+2018-12-07,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Ghaziabad,140,2000,2500,2300
+2018-01-09,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Ghaziabad,140,1800,2000,1900

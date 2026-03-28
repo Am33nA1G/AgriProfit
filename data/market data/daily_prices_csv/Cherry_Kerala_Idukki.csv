@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-18,Cherry,328,Kerala,32,Idukki,596,8000,12000,9000
+2023-06-12,Cherry,328,Kerala,32,Idukki,596,8000,10000,9000

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-25,Castor Seed,123,Madhya Pradesh,23,Panna,426,4000,4200,4100
+2019-06-24,Castor Seed,123,Madhya Pradesh,23,Panna,426,3800,3825,3815
+2018-12-10,Castor Seed,123,Madhya Pradesh,23,Panna,426,3600,3650,3600
+2018-12-08,Castor Seed,123,Madhya Pradesh,23,Panna,426,3650,3750,3700
+2018-12-04,Castor Seed,123,Madhya Pradesh,23,Panna,426,3600,3620,3610
+2018-09-27,Castor Seed,123,Madhya Pradesh,23,Panna,426,3150,3270,3210
+2018-06-09,Castor Seed,123,Madhya Pradesh,23,Panna,426,2470,2515,2500
+2018-06-08,Castor Seed,123,Madhya Pradesh,23,Panna,426,2450,2600,2510
+2017-10-21,Castor Seed,123,Madhya Pradesh,23,Panna,426,3200,3200,3200
+2017-10-16,Castor Seed,123,Madhya Pradesh,23,Panna,426,3010,3025,3015
+2017-10-14,Castor Seed,123,Madhya Pradesh,23,Panna,426,3000,3025,3010
+2017-10-12,Castor Seed,123,Madhya Pradesh,23,Panna,426,3000,3025,3025
+2015-07-23,Castor Seed,123,Madhya Pradesh,23,Panna,426,3190,3210,3190
+2015-07-22,Castor Seed,123,Madhya Pradesh,23,Panna,426,3195,3210,3200

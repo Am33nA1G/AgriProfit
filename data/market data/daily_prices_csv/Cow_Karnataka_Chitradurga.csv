@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-15,Cow,212,Karnataka,29,Chitradurga,566,12000,13000,12500
+2018-04-19,Cow,212,Karnataka,29,Chitradurga,566,15000,17000,16000
+2016-03-28,Cow,212,Karnataka,29,Chitradurga,566,7500,8500,8000

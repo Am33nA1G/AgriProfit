@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Ginger (Green),103,Bihar,10,Khagaria,223,8800,9000,8900
+2023-09-05,Ginger (Green),103,Bihar,10,Khagaria,223,8000,10000,9000

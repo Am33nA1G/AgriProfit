@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-13,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,700,800,750
+2020-04-12,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,600,700,650
+2020-04-11,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,850,950,900
+2020-04-10,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,800,900,850
+2020-04-09,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,700,800,750
+2020-04-08,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,700,800,750
+2020-04-06,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,650,750,700
+2020-04-05,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,750,850,800
+2020-04-04,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,650,750,700
+2020-04-03,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,650,750,700
+2017-08-28,White Pumpkin,158,Uttar Pradesh,9,Auraiya,162,1200,1400,1300

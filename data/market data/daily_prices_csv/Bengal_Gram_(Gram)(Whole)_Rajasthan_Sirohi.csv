@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-08,Bengal Gram (Gram)(Whole),6,Rajasthan,8,Sirohi,117,3300,3350,3325
+2018-01-29,Bengal Gram (Gram)(Whole),6,Rajasthan,8,Sirohi,117,3475,3525,3500
+2017-12-18,Bengal Gram (Gram)(Whole),6,Rajasthan,8,Sirohi,117,3675,3725,3700
+2017-11-13,Bengal Gram (Gram)(Whole),6,Rajasthan,8,Sirohi,117,4375,4425,4400
+2017-11-10,Bengal Gram (Gram)(Whole),6,Rajasthan,8,Sirohi,117,4375,4425,4400

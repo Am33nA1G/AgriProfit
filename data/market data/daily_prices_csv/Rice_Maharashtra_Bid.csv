@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-12,Rice,3,Maharashtra,27,Bid,523,1600,1600,1600
+2021-02-20,Rice,3,Maharashtra,27,Bid,523,1750,1750,1750
+2020-10-13,Rice,3,Maharashtra,27,Bid,523,1153,1153,1153
+2020-09-16,Rice,3,Maharashtra,27,Bid,523,1170,1170,1170
+2020-08-31,Rice,3,Maharashtra,27,Bid,523,1281,1300,1300
+2020-08-29,Rice,3,Maharashtra,27,Bid,523,1300,1320,1320
+2020-08-28,Rice,3,Maharashtra,27,Bid,523,1250,1250,1250
+2020-08-26,Rice,3,Maharashtra,27,Bid,523,1300,1300,1300
+2020-08-07,Rice,3,Maharashtra,27,Bid,523,1301,1301,1301
+2020-08-06,Rice,3,Maharashtra,27,Bid,523,1285,1310,1300
+2020-08-04,Rice,3,Maharashtra,27,Bid,523,1250,1300,1300

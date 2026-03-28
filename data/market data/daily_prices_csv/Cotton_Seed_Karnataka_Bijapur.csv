@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-20,Cotton Seed,99,Karnataka,29,Bijapur,557,2304,2304,2304
+2019-08-21,Cotton Seed,99,Karnataka,29,Bijapur,557,2800,3100,3050
+2019-06-18,Cotton Seed,99,Karnataka,29,Bijapur,557,2800,3100,2950
+2018-10-30,Cotton Seed,99,Karnataka,29,Bijapur,557,2000,2350,2150
+2018-10-27,Cotton Seed,99,Karnataka,29,Bijapur,557,2000,2400,2150
+2018-10-26,Cotton Seed,99,Karnataka,29,Bijapur,557,2000,2400,2150
+2018-10-25,Cotton Seed,99,Karnataka,29,Bijapur,557,2000,2400,2250
+2018-07-16,Cotton Seed,99,Karnataka,29,Bijapur,557,800,1000,850
+2018-07-13,Cotton Seed,99,Karnataka,29,Bijapur,557,800,1000,950

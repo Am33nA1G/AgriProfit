@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-28,Peas cod,308,Rajasthan,8,Ganganagar,99,2500,3000,2800
+2020-03-27,Peas cod,308,Rajasthan,8,Ganganagar,99,2400,2600,2500
+2020-03-26,Peas cod,308,Rajasthan,8,Ganganagar,99,1900,2100,2000
+2020-03-25,Peas cod,308,Rajasthan,8,Ganganagar,99,2000,2200,2100
+2020-03-24,Peas cod,308,Rajasthan,8,Ganganagar,99,2100,2300,2200
+2020-03-20,Peas cod,308,Rajasthan,8,Ganganagar,99,2100,2300,2200
+2020-03-19,Peas cod,308,Rajasthan,8,Ganganagar,99,2100,2300,2200
+2020-03-18,Peas cod,308,Rajasthan,8,Ganganagar,99,1900,2100,2000
+2020-03-17,Peas cod,308,Rajasthan,8,Ganganagar,99,2100,2300,2200
+2020-03-16,Peas cod,308,Rajasthan,8,Ganganagar,99,2400,2600,2500
+2020-03-14,Peas cod,308,Rajasthan,8,Ganganagar,99,2400,2600,2500
+2020-03-12,Peas cod,308,Rajasthan,8,Ganganagar,99,2400,2600,2500
+2020-03-11,Peas cod,308,Rajasthan,8,Ganganagar,99,2400,2600,2500

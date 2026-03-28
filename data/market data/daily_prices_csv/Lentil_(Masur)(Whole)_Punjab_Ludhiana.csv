@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-22,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,8200,8225,8200
+2015-12-11,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,10500,11000,11000
+2015-11-19,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,8100,9600,8300
+2015-11-16,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,9300,9700,9600
+2015-11-14,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,9300,9700,9300
+2015-11-12,Lentil (Masur)(Whole),63,Punjab,3,Ludhiana,41,9000,9300,9100

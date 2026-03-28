@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-13,Papaya,72,Odisha,21,Anugul,384,4000,6000,5000
+2019-09-04,Papaya,72,Odisha,21,Anugul,384,2000,2500,2200
+2019-05-25,Papaya,72,Odisha,21,Anugul,384,2000,2500,2200
+2019-05-14,Papaya,72,Odisha,21,Anugul,384,1800,2000,1900
+2019-05-11,Papaya,72,Odisha,21,Anugul,384,1000,2000,1500
+2019-04-11,Papaya,72,Odisha,21,Anugul,384,1200,1500,1300
+2019-04-10,Papaya,72,Odisha,21,Anugul,384,1000,2000,1500
+2019-02-07,Papaya,72,Odisha,21,Anugul,384,1200,1500,1300
+2018-12-18,Papaya,72,Odisha,21,Anugul,384,1000,1300,1200
+2018-12-14,Papaya,72,Odisha,21,Anugul,384,800,1000,900
+2018-12-01,Papaya,72,Odisha,21,Anugul,384,800,1000,900
+2018-10-12,Papaya,72,Odisha,21,Anugul,384,1500,2000,1700
+2018-09-22,Papaya,72,Odisha,21,Anugul,384,1000,1500,1100

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-17,Paddy (Dhan)(Basmati),414,Bihar,10,Aurangabad,235,8500,8600,8550
+2023-05-08,Paddy (Dhan)(Basmati),414,Bihar,10,Aurangabad,235,9500,9600,9550
+2023-04-10,Paddy (Dhan)(Basmati),414,Bihar,10,Aurangabad,235,8150,8250,8200

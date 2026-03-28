@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Radish,161,Bihar,10,Darbhanga,215,3300,3500,3400
+2023-01-13,Radish,161,Bihar,10,Darbhanga,215,1200,1400,1300
+2022-10-23,Radish,161,Bihar,10,Darbhanga,215,2300,2500,2400
+2022-10-11,Radish,161,Bihar,10,Darbhanga,215,1350,1500,1400
+2022-10-10,Radish,161,Bihar,10,Darbhanga,215,1400,1600,1500
+2022-10-09,Radish,161,Bihar,10,Darbhanga,215,1500,1800,1700
+2022-10-08,Radish,161,Bihar,10,Darbhanga,215,1700,2000,1800
+2022-09-28,Radish,161,Bihar,10,Darbhanga,215,2000,2200,2100

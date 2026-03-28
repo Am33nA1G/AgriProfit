@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-28,Banana,19,Odisha,21,Baleshwar,377,2000,3000,2500
+2016-12-04,Banana,19,Odisha,21,Baleshwar,377,3000,3400,3200
+2016-08-28,Banana,19,Odisha,21,Baleshwar,377,2000,3000,2500
+2016-06-19,Banana,19,Odisha,21,Baleshwar,377,3500,4500,4000
+2016-06-12,Banana,19,Odisha,21,Baleshwar,377,2500,3000,2800
+2016-04-24,Banana,19,Odisha,21,Baleshwar,377,2000,2400,2200

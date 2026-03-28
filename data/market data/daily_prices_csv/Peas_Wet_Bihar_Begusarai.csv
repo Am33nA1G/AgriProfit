@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-05,Peas Wet,174,Bihar,10,Begusarai,222,1600,1600,1600
+2023-01-27,Peas Wet,174,Bihar,10,Begusarai,222,2400,2600,2500
+2023-01-21,Peas Wet,174,Bihar,10,Begusarai,222,2100,2100,2100
+2023-01-08,Peas Wet,174,Bihar,10,Begusarai,222,2600,2600,2600
+2023-01-02,Peas Wet,174,Bihar,10,Begusarai,222,2200,2400,2300
+2022-12-25,Peas Wet,174,Bihar,10,Begusarai,222,2300,2500,2400
+2022-12-20,Peas Wet,174,Bihar,10,Begusarai,222,2000,2200,2100
+2022-03-11,Peas Wet,174,Bihar,10,Begusarai,222,1600,1800,1700
+2022-03-10,Peas Wet,174,Bihar,10,Begusarai,222,1400,1600,1500
+2022-03-09,Peas Wet,174,Bihar,10,Begusarai,222,1000,1000,1000
+2022-03-08,Peas Wet,174,Bihar,10,Begusarai,222,1000,1000,1000
+2022-03-07,Peas Wet,174,Bihar,10,Begusarai,222,1000,1000,1000
+2022-03-05,Peas Wet,174,Bihar,10,Begusarai,222,1200,1400,1300
+2022-03-04,Peas Wet,174,Bihar,10,Begusarai,222,1400,1600,1500
+2022-03-03,Peas Wet,174,Bihar,10,Begusarai,222,1600,2000,1700
+2022-03-02,Peas Wet,174,Bihar,10,Begusarai,222,1600,1700,1650
+2022-02-28,Peas Wet,174,Bihar,10,Begusarai,222,1600,1800,1700
+2022-02-26,Peas Wet,174,Bihar,10,Begusarai,222,2000,2000,2000
+2022-02-25,Peas Wet,174,Bihar,10,Begusarai,222,2000,2000,2000

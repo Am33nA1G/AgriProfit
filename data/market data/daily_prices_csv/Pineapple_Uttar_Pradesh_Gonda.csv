@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-06,Pineapple,21,Uttar Pradesh,9,Gonda,183,4550,4900,4700
+2025-07-03,Pineapple,21,Uttar Pradesh,9,Gonda,183,4500,4800,4600
+2025-05-20,Pineapple,21,Uttar Pradesh,9,Gonda,183,4400,4700,4500
+2024-12-07,Pineapple,21,Uttar Pradesh,9,Gonda,183,2400,2600,2500

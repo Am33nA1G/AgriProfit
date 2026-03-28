@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-25,Long Melon (Kakri),304,Punjab,3,Moga,42,1000,1000,1000
+2020-06-21,Long Melon (Kakri),304,Punjab,3,Moga,42,1000,1000,1000
+2019-06-22,Long Melon (Kakri),304,Punjab,3,Moga,42,700,700,700
+2019-06-20,Long Melon (Kakri),304,Punjab,3,Moga,42,700,700,700
+2017-06-09,Long Melon (Kakri),304,Punjab,3,Moga,42,600,600,600

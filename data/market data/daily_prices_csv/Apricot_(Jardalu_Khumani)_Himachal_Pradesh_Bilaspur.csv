@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-16,Apricot (Jardalu/Khumani),326,Himachal Pradesh,2,Bilaspur,30,5000,6500,5500
+2021-06-26,Apricot (Jardalu/Khumani),326,Himachal Pradesh,2,Bilaspur,30,4500,5200,5000
+2021-06-10,Apricot (Jardalu/Khumani),326,Himachal Pradesh,2,Bilaspur,30,3000,4500,3500
+2015-04-28,Apricot (Jardalu/Khumani),326,Himachal Pradesh,2,Bilaspur,30,1500,2400,1800

@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-13,Seetafal,201,Rajasthan,8,Jalor,116,2500,2800,2700
+2015-11-10,Seetafal,201,Rajasthan,8,Jalor,116,2000,2200,2100
+2015-11-09,Seetafal,201,Rajasthan,8,Jalor,116,2000,2500,2100
+2015-11-04,Seetafal,201,Rajasthan,8,Jalor,116,1900,2300,2200
+2015-10-30,Seetafal,201,Rajasthan,8,Jalor,116,2000,2300,2250
+2015-10-29,Seetafal,201,Rajasthan,8,Jalor,116,1800,2000,1900
+2015-10-28,Seetafal,201,Rajasthan,8,Jalor,116,2200,2500,2300
+2015-10-26,Seetafal,201,Rajasthan,8,Jalor,116,1500,2000,1800
+2015-10-24,Seetafal,201,Rajasthan,8,Jalor,116,1500,2000,1800
+2015-10-22,Seetafal,201,Rajasthan,8,Jalor,116,2000,2500,2200
+2015-10-20,Seetafal,201,Rajasthan,8,Jalor,116,2400,3200,2800
+2015-10-16,Seetafal,201,Rajasthan,8,Jalor,116,2500,3000,2800
+2015-10-15,Seetafal,201,Rajasthan,8,Jalor,116,2000,2200,2100
+2015-10-12,Seetafal,201,Rajasthan,8,Jalor,116,4000,4500,4200
+2015-10-10,Seetafal,201,Rajasthan,8,Jalor,116,4000,6000,5000
+2015-10-09,Seetafal,201,Rajasthan,8,Jalor,116,4000,4500,4200

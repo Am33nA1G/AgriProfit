@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-30,Cotton,15,Haryana,6,Jhajjar,83,6300,7121,6700
+2015-01-06,Cotton,15,Haryana,6,Jhajjar,83,3800,4200,4000

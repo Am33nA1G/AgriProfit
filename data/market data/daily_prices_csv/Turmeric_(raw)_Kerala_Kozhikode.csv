@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-24,Turmeric (raw),309,Kerala,32,Kozhikode,591,5000,5000,5000
+2025-03-15,Turmeric (raw),309,Kerala,32,Kozhikode,591,5000,5000,5000
+2025-03-14,Turmeric (raw),309,Kerala,32,Kozhikode,591,5000,5000,5000
+2023-10-31,Turmeric (raw),309,Kerala,32,Kozhikode,591,2600,3300,2800
+2023-10-12,Turmeric (raw),309,Kerala,32,Kozhikode,591,2800,3600,3300
+2023-02-25,Turmeric (raw),309,Kerala,32,Kozhikode,591,2400,3200,2600
+2023-02-11,Turmeric (raw),309,Kerala,32,Kozhikode,591,2200,3000,2400
+2023-01-28,Turmeric (raw),309,Kerala,32,Kozhikode,591,2700,3400,2800
+2023-01-19,Turmeric (raw),309,Kerala,32,Kozhikode,591,2500,3300,2700
+2023-01-16,Turmeric (raw),309,Kerala,32,Kozhikode,591,2400,3400,2700
+2023-01-12,Turmeric (raw),309,Kerala,32,Kozhikode,591,2200,2700,2400
+2023-01-05,Turmeric (raw),309,Kerala,32,Kozhikode,591,2300,3200,2600
+2023-01-04,Turmeric (raw),309,Kerala,32,Kozhikode,591,2100,3000,2400
+2022-12-26,Turmeric (raw),309,Kerala,32,Kozhikode,591,3200,3700,3400
+2022-12-17,Turmeric (raw),309,Kerala,32,Kozhikode,591,3400,4000,3500
+2022-11-10,Turmeric (raw),309,Kerala,32,Kozhikode,591,3200,3900,3500
+2022-11-09,Turmeric (raw),309,Kerala,32,Kozhikode,591,3200,4000,3400
+2022-11-05,Turmeric (raw),309,Kerala,32,Kozhikode,591,3200,4200,3500
+2021-04-12,Turmeric (raw),309,Kerala,32,Kozhikode,591,2400,3000,2600
+2020-02-27,Turmeric (raw),309,Kerala,32,Kozhikode,591,2600,3500,3100
+2020-02-18,Turmeric (raw),309,Kerala,32,Kozhikode,591,2600,3500,2900
+2020-02-11,Turmeric (raw),309,Kerala,32,Kozhikode,591,2500,3500,2800
+2019-10-22,Turmeric (raw),309,Kerala,32,Kozhikode,591,2800,4500,3400

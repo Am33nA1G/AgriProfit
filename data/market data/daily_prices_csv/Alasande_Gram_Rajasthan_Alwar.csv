@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-26,Alasande Gram,281,Rajasthan,8,Alwar,104,6600,6700,6650
+2024-07-20,Alasande Gram,281,Rajasthan,8,Alwar,104,6600,6700,6675
+2024-07-12,Alasande Gram,281,Rajasthan,8,Alwar,104,6600,6690,6650
+2024-06-11,Alasande Gram,281,Rajasthan,8,Alwar,104,6700,6800,6750
+2024-05-18,Alasande Gram,281,Rajasthan,8,Alwar,104,6500,6600,6550
+2024-04-04,Alasande Gram,281,Rajasthan,8,Alwar,104,5000,5125,5100

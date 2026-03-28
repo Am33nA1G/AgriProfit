@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-29,Linseed,67,Chhattisgarh,22,Durg,409,2600,3000,2800
+2021-08-03,Linseed,67,Chhattisgarh,22,Durg,409,4110,4110,4110
+2021-06-16,Linseed,67,Chhattisgarh,22,Durg,409,4010,4010,4010
+2020-09-16,Linseed,67,Chhattisgarh,22,Durg,409,1225,1225,1225
+2020-09-09,Linseed,67,Chhattisgarh,22,Durg,409,2000,2000,2000
+2020-04-22,Linseed,67,Chhattisgarh,22,Durg,409,3800,4000,3900
+2019-11-18,Linseed,67,Chhattisgarh,22,Durg,409,4000,4000,4000
+2019-09-30,Linseed,67,Chhattisgarh,22,Durg,409,4000,4350,4125
+2019-09-23,Linseed,67,Chhattisgarh,22,Durg,409,2200,2200,2200
+2019-04-30,Linseed,67,Chhattisgarh,22,Durg,409,3500,3500,3500
+2018-08-30,Linseed,67,Chhattisgarh,22,Durg,409,3000,3000,3000

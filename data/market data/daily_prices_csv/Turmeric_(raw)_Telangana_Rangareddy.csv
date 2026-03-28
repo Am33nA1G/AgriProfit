@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-22,Turmeric (raw),309,Telangana,36,Rangareddy,537,4811,5989,5969
+2018-04-06,Turmeric (raw),309,Telangana,36,Rangareddy,537,8300,8700,8500
+2018-03-30,Turmeric (raw),309,Telangana,36,Rangareddy,537,8200,8500,8350
+2016-08-06,Turmeric (raw),309,Telangana,36,Rangareddy,537,7500,7600,7550
+2016-07-16,Turmeric (raw),309,Telangana,36,Rangareddy,537,7300,7700,7500
+2016-07-02,Turmeric (raw),309,Telangana,36,Rangareddy,537,7300,7800,7550
+2015-04-29,Turmeric (raw),309,Telangana,36,Rangareddy,537,6400,7200,6800

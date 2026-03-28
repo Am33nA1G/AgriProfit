@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-06,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,2000,2200,2100
+2024-10-08,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1800,2000,1900
+2024-10-07,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1500,1900,1700
+2024-09-19,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,2000,2200,2100
+2024-09-07,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1500,1700,1600
+2024-02-01,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,2500,3000,2800
+2024-01-30,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,2200,2800,2500
+2024-01-26,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1800,2200,2000
+2024-01-08,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1200,1400,1300
+2024-01-06,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1200,1400,1300
+2024-01-02,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1100,1300,1200
+2023-12-29,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1100,1500,1300
+2023-12-23,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,900,1800,1000
+2023-12-22,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1200,1500,1300
+2023-12-21,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1100,1300,1200
+2023-12-19,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1200,1400,1300
+2023-11-18,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1800,2000,1900
+2023-11-17,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1800,2000,1900
+2023-02-20,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,1100,1500,1200
+2023-02-18,Indian Beans (Seam),299,Uttarakhand,5,Garhwal,61,900,1100,1000

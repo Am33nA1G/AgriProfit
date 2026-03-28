@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-27,Astera,232,Maharashtra,27,Ahmadnagar,522,8000,16000,12000
+2025-02-21,Astera,232,Maharashtra,27,Ahmadnagar,522,6000,10000,8000
+2025-01-21,Astera,232,Maharashtra,27,Ahmadnagar,522,1500,4500,3000
+2024-12-28,Astera,232,Maharashtra,27,Ahmadnagar,522,3000,4000,3500

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-14,Pineapple,21,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,2000,3000,2500
+2017-04-18,Pineapple,21,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,800,1500,1000
+2017-03-23,Pineapple,21,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,3500,4000,3800
+2016-07-15,Pineapple,21,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,3000,5000,4000
+2016-06-27,Pineapple,21,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,3000,5000,4000

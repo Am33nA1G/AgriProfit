@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-29,Water Melon,73,Maharashtra,27,Thane,517,1000,2000,1500
+2025-01-22,Water Melon,73,Maharashtra,27,Thane,517,1500,2000,1750
+2023-09-11,Water Melon,73,Maharashtra,27,Thane,517,2000,3000,2500
+2023-09-09,Water Melon,73,Maharashtra,27,Thane,517,2000,3000,2500
+2021-07-08,Water Melon,73,Maharashtra,27,Thane,517,1000,2000,1500
+2021-04-08,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1300
+2018-09-01,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1250
+2018-01-15,Water Melon,73,Maharashtra,27,Thane,517,900,1600,1200
+2018-01-11,Water Melon,73,Maharashtra,27,Thane,517,800,1600,1200
+2018-01-10,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1200
+2018-01-09,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1250
+2018-01-08,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1250
+2017-12-24,Water Melon,73,Maharashtra,27,Thane,517,1200,1500,1300
+2017-12-19,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1400
+2017-12-18,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1400
+2017-12-17,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1400
+2017-10-27,Water Melon,73,Maharashtra,27,Thane,517,1000,1500,1250
+2017-10-13,Water Melon,73,Maharashtra,27,Thane,517,1000,1200,1100
+2017-09-29,Water Melon,73,Maharashtra,27,Thane,517,3000,3500,3250
+2017-09-22,Water Melon,73,Maharashtra,27,Thane,517,1500,1600,1550

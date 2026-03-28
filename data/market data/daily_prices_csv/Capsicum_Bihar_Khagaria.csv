@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-11,Capsicum,164,Bihar,10,Khagaria,223,2000,4000,3500
+2022-04-07,Capsicum,164,Bihar,10,Khagaria,223,5000,6000,5500

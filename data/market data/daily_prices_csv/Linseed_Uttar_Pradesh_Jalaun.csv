@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-23,Linseed,67,Uttar Pradesh,9,Jalaun,165,4000,4050,4025
+2019-02-22,Linseed,67,Uttar Pradesh,9,Jalaun,165,4000,4100,4050
+2019-01-21,Linseed,67,Uttar Pradesh,9,Jalaun,165,4100,4150,4125
+2018-11-23,Linseed,67,Uttar Pradesh,9,Jalaun,165,4180,4200,4190
+2018-11-05,Linseed,67,Uttar Pradesh,9,Jalaun,165,3980,4000,3990
+2018-10-30,Linseed,67,Uttar Pradesh,9,Jalaun,165,3980,4000,3990
+2018-09-15,Linseed,67,Uttar Pradesh,9,Jalaun,165,4320,4340,4330
+2018-08-29,Linseed,67,Uttar Pradesh,9,Jalaun,165,3950,4000,3975
+2018-04-13,Linseed,67,Uttar Pradesh,9,Jalaun,165,3000,3100,3050
+2018-02-07,Linseed,67,Uttar Pradesh,9,Jalaun,165,4000,4200,4100
+2018-02-06,Linseed,67,Uttar Pradesh,9,Jalaun,165,3800,4000,3900
+2018-01-13,Linseed,67,Uttar Pradesh,9,Jalaun,165,4150,4200,4175
+2017-09-18,Linseed,67,Uttar Pradesh,9,Jalaun,165,4150,4200,4175
+2017-09-09,Linseed,67,Uttar Pradesh,9,Jalaun,165,4290,4300,4295
+2017-09-02,Linseed,67,Uttar Pradesh,9,Jalaun,165,3350,3400,3375
+2017-08-23,Linseed,67,Uttar Pradesh,9,Jalaun,165,4250,4300,4275

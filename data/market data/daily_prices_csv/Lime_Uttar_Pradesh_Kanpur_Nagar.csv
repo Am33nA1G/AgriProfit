@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-19,Lime,180,Uttar Pradesh,9,Kanpur Nagar,164,1750,1900,1850
+2017-09-18,Lime,180,Uttar Pradesh,9,Kanpur Nagar,164,1800,1925,1875
+2017-09-16,Lime,180,Uttar Pradesh,9,Kanpur Nagar,164,1800,1950,1900
+2017-09-15,Lime,180,Uttar Pradesh,9,Kanpur Nagar,164,1900,2010,1950

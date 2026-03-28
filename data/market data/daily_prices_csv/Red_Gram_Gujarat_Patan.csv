@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-02,Red Gram,7,Gujarat,24,Patan,470,2055,2055,2055
+2015-10-29,Red Gram,7,Gujarat,24,Patan,470,4510,4510,4510
+2015-10-27,Red Gram,7,Gujarat,24,Patan,470,6025,6025,6025
+2015-10-26,Red Gram,7,Gujarat,24,Patan,470,4500,4500,4500
+2015-10-23,Red Gram,7,Gujarat,24,Patan,470,3200,4755,3977
+2015-10-19,Red Gram,7,Gujarat,24,Patan,470,5205,5205,5205
+2015-10-16,Red Gram,7,Gujarat,24,Patan,470,3550,4950,4250
+2015-10-15,Red Gram,7,Gujarat,24,Patan,470,5305,5305,5305
+2015-10-13,Red Gram,7,Gujarat,24,Patan,470,3500,4940,4220
+2015-10-12,Red Gram,7,Gujarat,24,Patan,470,2500,5825,4162
+2015-10-09,Red Gram,7,Gujarat,24,Patan,470,5430,5430,5430
+2015-10-08,Red Gram,7,Gujarat,24,Patan,470,5635,5635,5635
+2015-10-05,Red Gram,7,Gujarat,24,Patan,470,2500,5005,3752
+2015-10-03,Red Gram,7,Gujarat,24,Patan,470,3500,5725,4612
+2015-10-01,Red Gram,7,Gujarat,24,Patan,470,3750,3750,3750

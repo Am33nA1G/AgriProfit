@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-28,Field Pea,64,Uttar Pradesh,9,Sitapur,154,1400,1700,1500
+2019-03-15,Field Pea,64,Uttar Pradesh,9,Sitapur,154,1200,1400,1330
+2019-02-13,Field Pea,64,Uttar Pradesh,9,Sitapur,154,1100,1300,1210
+2016-09-15,Field Pea,64,Uttar Pradesh,9,Sitapur,154,3200,3600,3400
+2016-05-20,Field Pea,64,Uttar Pradesh,9,Sitapur,154,2950,3200,3100
+2016-02-15,Field Pea,64,Uttar Pradesh,9,Sitapur,154,2900,3100,3000
+2015-12-11,Field Pea,64,Uttar Pradesh,9,Sitapur,154,3000,3250,3110
+2015-12-09,Field Pea,64,Uttar Pradesh,9,Sitapur,154,3000,3200,3100

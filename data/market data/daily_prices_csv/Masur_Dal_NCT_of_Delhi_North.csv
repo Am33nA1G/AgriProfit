@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-02,Masur Dal,259,NCT of Delhi,7,North,91,5600,5600,5600
+2019-04-05,Masur Dal,259,NCT of Delhi,7,North,91,2800,2800,2800
+2018-07-10,Masur Dal,259,NCT of Delhi,7,North,91,2600,2600,2600
+2018-06-28,Masur Dal,259,NCT of Delhi,7,North,91,1700,1700,1700
+2018-06-11,Masur Dal,259,NCT of Delhi,7,North,91,3000,3000,3000
+2017-11-10,Masur Dal,259,NCT of Delhi,7,North,91,2700,2700,2700
+2017-09-05,Masur Dal,259,NCT of Delhi,7,North,91,2100,2986,2986
+2017-05-16,Masur Dal,259,NCT of Delhi,7,North,91,3400,3700,3700

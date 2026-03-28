@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-14,Soapnut (Antawala/Retha),207,Madhya Pradesh,23,Gwalior,421,12900,12900,12900
+2023-12-09,Soapnut (Antawala/Retha),207,Madhya Pradesh,23,Gwalior,421,14200,15200,14700
+2023-12-05,Soapnut (Antawala/Retha),207,Madhya Pradesh,23,Gwalior,421,14000,14200,14100

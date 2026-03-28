@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-05,Jamun (Narale Hannu),184,Madhya Pradesh,23,Katni,450,1200,1200,1200
+2023-07-04,Jamun (Narale Hannu),184,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-07-03,Jamun (Narale Hannu),184,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-07-02,Jamun (Narale Hannu),184,Madhya Pradesh,23,Katni,450,1000,2000,1000
+2023-07-01,Jamun (Narale Hannu),184,Madhya Pradesh,23,Katni,450,500,500,500

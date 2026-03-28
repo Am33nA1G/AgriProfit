@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-10,Ajwan,137,Bihar,10,Madhepura,213,3400,4000,3700
+2016-02-07,Ajwan,137,Bihar,10,Madhepura,213,120000,180000,160000
+2015-06-19,Ajwan,137,Bihar,10,Madhepura,213,22000,29000,25500
+2015-06-17,Ajwan,137,Bihar,10,Madhepura,213,22000,29000,25500
+2015-06-16,Ajwan,137,Bihar,10,Madhepura,213,22000,29000,25500
+2015-06-15,Ajwan,137,Bihar,10,Madhepura,213,22000,29000,25500
+2015-06-12,Ajwan,137,Bihar,10,Madhepura,213,12000,14000,13000

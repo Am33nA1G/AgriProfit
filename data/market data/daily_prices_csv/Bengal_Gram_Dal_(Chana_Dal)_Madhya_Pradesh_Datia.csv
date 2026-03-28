@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-01,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3975,3975,3975
+2020-06-30,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,4035,4035,4035
+2020-06-25,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3960,3960,3960
+2020-06-24,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,4135,4150,4140
+2020-06-22,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,4090,4120,4100
+2020-06-19,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3950,4020,3980
+2020-06-18,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,4030,4030,4030
+2020-06-17,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,4000,4000,4000
+2020-06-16,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3800,3975,3900
+2020-06-15,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3810,3965,3900
+2020-06-11,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3900,3900,3900
+2020-06-10,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3770,3850,3840
+2020-06-09,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3870,3935,3900
+2019-02-05,Bengal Gram Dal (Chana Dal),263,Madhya Pradesh,23,Datia,422,3775,3775,3775

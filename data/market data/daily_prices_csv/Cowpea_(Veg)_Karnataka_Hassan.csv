@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-26,Cowpea (Veg),89,Karnataka,29,Hassan,574,7778,7778,7778
+2020-10-28,Cowpea (Veg),89,Karnataka,29,Hassan,574,4005,4005,4005
+2016-08-30,Cowpea (Veg),89,Karnataka,29,Hassan,574,5000,5000,5000
+2015-11-07,Cowpea (Veg),89,Karnataka,29,Hassan,574,1500,1500,1500
+2015-02-10,Cowpea (Veg),89,Karnataka,29,Hassan,574,1200,1200,1200

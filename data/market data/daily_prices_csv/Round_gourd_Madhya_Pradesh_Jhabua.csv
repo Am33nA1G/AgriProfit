@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-10,Round gourd,306,Madhya Pradesh,23,Jhabua,464,2100,2300,2200
+2019-01-22,Round gourd,306,Madhya Pradesh,23,Jhabua,464,1200,1400,1300
+2018-09-25,Round gourd,306,Madhya Pradesh,23,Jhabua,464,1200,1400,1300

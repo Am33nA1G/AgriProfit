@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Chikoo (Sapota),71,Uttar Pradesh,9,Faizabad,177,3700,3900,3750
+2020-01-27,Chikoo (Sapota),71,Uttar Pradesh,9,Faizabad,177,2000,2500,2200
+2017-01-16,Chikoo (Sapota),71,Uttar Pradesh,9,Faizabad,177,2475,2600,2500

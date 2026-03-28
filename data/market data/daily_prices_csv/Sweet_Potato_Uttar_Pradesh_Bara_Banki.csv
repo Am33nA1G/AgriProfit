@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-16,Sweet Potato,152,Uttar Pradesh,9,Bara Banki,176,3070,3125,3095
+2019-01-15,Sweet Potato,152,Uttar Pradesh,9,Bara Banki,176,1100,1300,1200
+2018-11-29,Sweet Potato,152,Uttar Pradesh,9,Bara Banki,176,1800,2000,1900

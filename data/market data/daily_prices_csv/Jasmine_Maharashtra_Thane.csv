@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-08,Jasmine,229,Maharashtra,27,Thane,517,4400,4600,4500
+2021-02-04,Jasmine,229,Maharashtra,27,Thane,517,150,200,175

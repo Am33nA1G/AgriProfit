@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-15,Grapes,22,Madhya Pradesh,23,Guna,458,500,700,600
+2023-04-13,Grapes,22,Madhya Pradesh,23,Guna,458,700,850,800
+2023-04-12,Grapes,22,Madhya Pradesh,23,Guna,458,600,800,700
+2023-04-10,Grapes,22,Madhya Pradesh,23,Guna,458,400,600,500
+2023-04-05,Grapes,22,Madhya Pradesh,23,Guna,458,500,800,600
+2023-04-04,Grapes,22,Madhya Pradesh,23,Guna,458,600,790,700
+2015-07-31,Grapes,22,Madhya Pradesh,23,Guna,458,4005,11505,7400
+2015-03-03,Grapes,22,Madhya Pradesh,23,Guna,458,1800,2200,2000

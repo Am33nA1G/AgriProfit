@@ -1,0 +1,189 @@
+{
+  "AMBALA": {
+    "AMBALA-I - 447": [],
+    "AMBALA-II - 448": [],
+    "BARARA - 449": [],
+    "NARAINGARH - 450": [],
+    "SAHA - 451": [],
+    "SHAHZADPUR - 452": []
+  },
+  "BHIWANI": {
+    "BAWANI KHERA - 454": [],
+    "BEHAL - 455": [],
+    "BHIWANI - 456": [],
+    "KAIRU - 459": [],
+    "LOHARU - 460": [],
+    "SIWANI - 461": [],
+    "TOSHAM - 462": []
+  },
+  "CHARKI DADRI": {
+    "BADHRA - 453": [],
+    "BAUND - 7106": [],
+    "CHARKHI DADRI - 7092": [],
+    "JHOJHU - 7107": []
+  },
+  "FARIDABAD": {
+    "BALLABGARH - 463": [],
+    "FARIDABAD - 464": [],
+    "TIGAON - 7093": []
+  },
+  "FATEHABAD": {
+    "BHATTU KALAN - 469": [],
+    "BHUNA - 470": [],
+    "FATEHABAD - 471": [],
+    "JAKHAL - 472": [],
+    "NAGPUR - 7094": [],
+    "RATIA - 473": [],
+    "TOHANA - 474": []
+  },
+  "GURUGRAM": {
+    "FARRUKH NAGAR - 475": [],
+    "GURGAON - 477": [],
+    "PATAUDI - 480": [],
+    "SOHNA - 482": []
+  },
+  "HISAR": {
+    "ADAMPUR - 484": [],
+    "AGROHA - 485": [],
+    "BARWALA - 486": [],
+    "HANSI-I - 487": [],
+    "HANSI-II - 488": [],
+    "HISAR-I - 489": [],
+    "HISAR-II - 490": [],
+    "NARNAUND - 491": [],
+    "UKLANA - 492": []
+  },
+  "JHAJJAR": {
+    "BADLI - 7095": [],
+    "BAHADURGARH - 493": [],
+    "BERI - 494": [],
+    "JHAJJAR - 495": [],
+    "MACHHRAULI - 7357": [],
+    "MATANNAIL - 496": [],
+    "SALHAWAS - 497": []
+  },
+  "JIND": {
+    "ALEWA - 498": [],
+    "JIND - 499": [],
+    "JULANA - 500": [],
+    "NARWANA - 501": [],
+    "PILLUKHERA - 502": [],
+    "SAFIDON - 503": [],
+    "UCHANA - 504": [],
+    "UJHANA - 7096": []
+  },
+  "KAITHAL": {
+    "DHAND - 7097": [],
+    "GUHLA - 505": [],
+    "KAITHAL - 506": [],
+    "KALAYAT - 507": [],
+    "PUNDRI - 508": [],
+    "RAJOUND - 509": [],
+    "SIWAN - 510": []
+  },
+  "KARNAL": {
+    "ASSANDH - 511": [],
+    "CHIRAO - 7495": [],
+    "GHARAUNDA (PART) - 512": [],
+    "INDRI - 513": [],
+    "KARNAL - 514": [],
+    "KUNJPURA - 7099": [],
+    "MUNAK - 7098": [],
+    "NILOKHERI - 515": [],
+    "NISSING - 516": []
+  },
+  "KURUKSHETRA": {
+    "BABAIN - 517": [],
+    "ISMAILABAD - 6733": [],
+    "LADWA - 518": [],
+    "PEHOWA - 519": [],
+    "PIPLI - 7100": [],
+    "SHAHBAD - 520": [],
+    "THANESAR - 521": []
+  },
+  "MAHENDRAGARH": {
+    "ATELI NANGAL - 522": [],
+    "KANINA - 523": [],
+    "MAHENDRAGARH - 524": [],
+    "NANGAL CHAUDHRY - 525": [],
+    "NARNAUL - 526": [],
+    "NIZAMPUR - 6776": [],
+    "SATNALI - 6777": [],
+    "SIHMA - 6731": []
+  },
+  "NUH": {
+    "FEROZEPUR JHIRKA - 476": [],
+    "INDRI - 7101": [],
+    "NAGINA - 478": [],
+    "NUH - 479": [],
+    "PINGWAN - 7102": [],
+    "PUNAHANA - 481": [],
+    "TAORU - 483": []
+  },
+  "PALWAL": {
+    "BADOLI - 7103": [],
+    "HASSANPUR - 465": [],
+    "HATHIN - 466": [],
+    "HODAL - 467": [],
+    "PALWAL - 468": [],
+    "PRITHLA - 6734": []
+  },
+  "PANCHKULA": {
+    "BARWALA - 527": [],
+    "MORNI - 528": [],
+    "PINJORE - 529": [],
+    "RAIPUR RANI - 530": []
+  },
+  "PANIPAT": {
+    "BAPOLI - 531": [],
+    "ISRANA - 532": [],
+    "MADLAUDA - 533": [],
+    "PANIPAT - 534": [],
+    "SAMALKHA - 535": [],
+    "SANAULI KHURD - 7023": []
+  },
+  "REWARI": {
+    "BAWAL - 536": [],
+    "DAHINA - 7104": [],
+    "DHARUHERA - 7358": [],
+    "JATUSANA - 537": [],
+    "KHOL AT REWARI - 538": [],
+    "NAHAR - 539": [],
+    "REWARI - 540": []
+  },
+  "ROHTAK": {
+    "KALANAUR - 541": [],
+    "LAKHAN MAJRA - 542": [],
+    "MAHAM - 543": [],
+    "ROHTAK - 544": [],
+    "SAMPLA - 545": []
+  },
+  "SIRSA": {
+    "BARAGUDHA - 546": [],
+    "DABWALI - 547": [],
+    "ELLENABAD - 548": [],
+    "NATHUSARI CHOPTA - 549": [],
+    "ODHAN - 550": [],
+    "RANIA - 551": [],
+    "SIRSA - 552": []
+  },
+  "SONIPAT": {
+    "GANAUR - 553": [],
+    "GOHANA - 554": [],
+    "KATHURA - 555": [],
+    "KHARKHODA - 556": [],
+    "MUNDLANA - 557": [],
+    "MURTHAL - 6778": [],
+    "RAI - 558": [],
+    "SONIPAT - 559": []
+  },
+  "YAMUNANAGAR": {
+    "BILASPUR - 560": [],
+    "CHHACHHRAULI - 561": [],
+    "JAGADHRI - 562": [],
+    "PARTAP NAGAR - 7105": [],
+    "RADAUR - 564": [],
+    "SADAURA (PART) - 565": [],
+    "SARASWATI NAGAR - 563": []
+  }
+}

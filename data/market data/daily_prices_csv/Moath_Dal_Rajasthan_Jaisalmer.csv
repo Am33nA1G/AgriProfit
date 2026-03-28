@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-25,Moath Dal,95,Rajasthan,8,Jaisalmer,114,4500,4700,4600
+2025-02-17,Moath Dal,95,Rajasthan,8,Jaisalmer,114,4600,5000,4800
+2025-02-14,Moath Dal,95,Rajasthan,8,Jaisalmer,114,4700,5000,4850

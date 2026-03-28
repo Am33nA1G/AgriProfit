@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-19,Almond (Badam),325,Uttar Pradesh,9,Kanpur Dehat,163,58000,59000,58500
+2019-03-11,Almond (Badam),325,Uttar Pradesh,9,Kanpur Dehat,163,8500,8700,8600
+2019-01-28,Almond (Badam),325,Uttar Pradesh,9,Kanpur Dehat,163,2200,2300,2250

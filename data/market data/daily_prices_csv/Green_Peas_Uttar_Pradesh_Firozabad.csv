@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-03,Green Peas,50,Uttar Pradesh,9,Firozabad,147,202,222,212
+2020-02-02,Green Peas,50,Uttar Pradesh,9,Firozabad,147,200,220,210
+2019-12-04,Green Peas,50,Uttar Pradesh,9,Firozabad,147,2500,2680,2600
+2019-12-02,Green Peas,50,Uttar Pradesh,9,Firozabad,147,2750,2900,2830
+2017-12-17,Green Peas,50,Uttar Pradesh,9,Firozabad,147,240,260,250

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-03,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2430,3100,2800
+2023-10-25,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2306,2665,2605
+2023-10-17,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2100,3000,2700
+2023-10-16,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2500,3200,2700
+2023-10-14,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2220,3350,3125
+2023-10-13,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2400,3300,3140
+2016-12-27,Paddy(Dhan)(Common),2,Rajasthan,8,Bharatpur,105,2130,2130,2130

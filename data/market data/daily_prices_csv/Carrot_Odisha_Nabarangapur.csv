@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-20,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2017-08-23,Carrot,153,Odisha,21,Nabarangapur,397,4000,5000,4500
+2016-11-07,Carrot,153,Odisha,21,Nabarangapur,397,3000,4000,3500
+2016-10-29,Carrot,153,Odisha,21,Nabarangapur,397,3000,4000,3500
+2016-10-16,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2016-10-04,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2016-07-19,Carrot,153,Odisha,21,Nabarangapur,397,4000,5000,4500
+2016-07-17,Carrot,153,Odisha,21,Nabarangapur,397,4000,5000,5000
+2015-10-29,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2015-10-16,Carrot,153,Odisha,21,Nabarangapur,397,3000,4000,3000
+2015-08-30,Carrot,153,Odisha,21,Nabarangapur,397,4000,5000,4500
+2015-08-20,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2015-08-12,Carrot,153,Odisha,21,Nabarangapur,397,4000,4000,4000
+2015-05-07,Carrot,153,Odisha,21,Nabarangapur,397,2000,3000,2500
+2015-04-28,Carrot,153,Odisha,21,Nabarangapur,397,2000,3000,2500

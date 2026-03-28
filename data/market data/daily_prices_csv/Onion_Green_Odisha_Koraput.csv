@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-14,Onion Green,358,Odisha,21,Koraput,398,700,900,800
+2016-04-25,Onion Green,358,Odisha,21,Koraput,398,1600,1800,1700

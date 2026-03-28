@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-08,Potato,24,Jammu & Kashmir,1,Kupwara,1,1600,2000,1800
+2022-09-26,Potato,24,Jammu & Kashmir,1,Kupwara,1,2200,2500,2400
+2022-09-20,Potato,24,Jammu & Kashmir,1,Kupwara,1,2200,2500,2400
+2022-09-14,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2400,2200
+2022-09-07,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2400,2200
+2022-09-06,Potato,24,Jammu & Kashmir,1,Kupwara,1,1800,2200,2000
+2022-09-05,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2400,2200
+2022-09-02,Potato,24,Jammu & Kashmir,1,Kupwara,1,2200,2600,2400
+2022-08-31,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2400,2200
+2022-08-30,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2500,2200
+2022-08-29,Potato,24,Jammu & Kashmir,1,Kupwara,1,2000,2500,2200
+2022-08-27,Potato,24,Jammu & Kashmir,1,Kupwara,1,1800,2400,2000
+2022-08-26,Potato,24,Jammu & Kashmir,1,Kupwara,1,1800,2400,2000

@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-15,Coriander (Leaves),43,Bihar,10,Kishanganj,210,4500,5000,4800
+2023-02-24,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5000,6000,5500
+2023-01-15,Coriander (Leaves),43,Bihar,10,Kishanganj,210,6500,6900,6800
+2022-12-11,Coriander (Leaves),43,Bihar,10,Kishanganj,210,3600,4000,3800
+2022-11-29,Coriander (Leaves),43,Bihar,10,Kishanganj,210,7000,7500,7300
+2022-11-26,Coriander (Leaves),43,Bihar,10,Kishanganj,210,4000,4400,4200
+2022-11-22,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5000,5500,5200
+2022-10-23,Coriander (Leaves),43,Bihar,10,Kishanganj,210,7300,7550,7400
+2022-10-20,Coriander (Leaves),43,Bihar,10,Kishanganj,210,7150,7350,7250
+2022-07-31,Coriander (Leaves),43,Bihar,10,Kishanganj,210,16000,17000,16500
+2022-06-07,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5500,6500,6000
+2022-06-06,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5500,6000,5800
+2022-06-03,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5500,6500,6000
+2022-06-02,Coriander (Leaves),43,Bihar,10,Kishanganj,210,5000,6500,6000
+2022-04-30,Coriander (Leaves),43,Bihar,10,Kishanganj,210,3000,4000,3500
+2022-04-06,Coriander (Leaves),43,Bihar,10,Kishanganj,210,3200,3500,3300
+2022-03-04,Coriander (Leaves),43,Bihar,10,Kishanganj,210,1500,2000,1800
+2022-02-27,Coriander (Leaves),43,Bihar,10,Kishanganj,210,1500,2000,1700
+2022-02-24,Coriander (Leaves),43,Bihar,10,Kishanganj,210,6000,8000,7000

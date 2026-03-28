@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-26,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1000,1100,1050
+2017-04-22,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1000,1100,1050
+2017-04-20,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1000,1100,1050
+2017-04-19,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1000,1050,1025
+2017-04-06,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1000,1200,1100
+2017-03-18,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1600,1800,1700
+2017-03-17,Turmeric (raw),309,Tamil Nadu,33,Coimbatore,632,1600,1800,1700

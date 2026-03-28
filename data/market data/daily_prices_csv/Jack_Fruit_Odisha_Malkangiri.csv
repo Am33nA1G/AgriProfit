@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-11,Jack Fruit,182,Odisha,21,Malkangiri,399,3000,3000,3000
+2022-05-05,Jack Fruit,182,Odisha,21,Malkangiri,399,2100,2100,2100
+2022-04-14,Jack Fruit,182,Odisha,21,Malkangiri,399,2100,2100,2100
+2022-04-13,Jack Fruit,182,Odisha,21,Malkangiri,399,2000,2000,2000
+2022-04-07,Jack Fruit,182,Odisha,21,Malkangiri,399,3000,3000,3000
+2022-03-31,Jack Fruit,182,Odisha,21,Malkangiri,399,3000,3000,3000
+2022-03-25,Jack Fruit,182,Odisha,21,Malkangiri,399,2500,2500,2500
+2016-07-22,Jack Fruit,182,Odisha,21,Malkangiri,399,4500,4800,4600

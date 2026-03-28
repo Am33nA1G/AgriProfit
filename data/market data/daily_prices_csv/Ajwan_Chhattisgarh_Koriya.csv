@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-30,Ajwan,137,Chhattisgarh,22,Koriya,400,2040,2040,2040
+2020-02-29,Ajwan,137,Chhattisgarh,22,Koriya,400,1800,1800,1800
+2020-02-01,Ajwan,137,Chhattisgarh,22,Koriya,400,1500,1840,1840
+2019-09-16,Ajwan,137,Chhattisgarh,22,Koriya,400,2300,2300,2300
+2019-07-23,Ajwan,137,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2019-03-30,Ajwan,137,Chhattisgarh,22,Koriya,400,1800,1800,1800
+2016-11-25,Ajwan,137,Chhattisgarh,22,Koriya,400,600,600,600

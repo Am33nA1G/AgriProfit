@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-10,Beaten Rice,262,Gujarat,24,Anand,482,1050,1055,1055
+2016-10-04,Beaten Rice,262,Gujarat,24,Anand,482,1000,1185,1000
+2016-08-10,Beaten Rice,262,Gujarat,24,Anand,482,1185,1185,1185

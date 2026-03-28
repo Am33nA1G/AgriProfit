@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-20,Lime,180,Uttar Pradesh,9,Lucknow,157,3600,4000,3800
+2018-03-14,Lime,180,Uttar Pradesh,9,Lucknow,157,3500,3800,3600
+2018-03-12,Lime,180,Uttar Pradesh,9,Lucknow,157,3200,3500,3300
+2018-03-03,Lime,180,Uttar Pradesh,9,Lucknow,157,2600,3000,2800
+2017-08-21,Lime,180,Uttar Pradesh,9,Lucknow,157,2800,3000,2900
+2017-08-20,Lime,180,Uttar Pradesh,9,Lucknow,157,2900,3100,3000
+2017-05-21,Lime,180,Uttar Pradesh,9,Lucknow,157,4500,4650,4600
+2017-03-22,Lime,180,Uttar Pradesh,9,Lucknow,157,2850,2950,2900
+2016-05-28,Lime,180,Uttar Pradesh,9,Lucknow,157,5300,5500,5400
+2015-05-14,Lime,180,Uttar Pradesh,9,Lucknow,157,4100,4300,4200
+2015-05-06,Lime,180,Uttar Pradesh,9,Lucknow,157,4500,4650,4600
+2015-03-08,Lime,180,Uttar Pradesh,9,Lucknow,157,3300,3500,3400

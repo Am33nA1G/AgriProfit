@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-18,Indian Beans (Seam),299,Bihar,10,Gaya,236,2600,3000,2800
+2023-03-14,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-03-04,Indian Beans (Seam),299,Bihar,10,Gaya,236,3200,3600,3400
+2023-02-24,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-02-20,Indian Beans (Seam),299,Bihar,10,Gaya,236,2800,3200,3000
+2023-02-17,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-02-14,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-02-05,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-01-31,Indian Beans (Seam),299,Bihar,10,Gaya,236,2600,3000,2800
+2023-01-21,Indian Beans (Seam),299,Bihar,10,Gaya,236,2600,3000,2800
+2023-01-15,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-01-10,Indian Beans (Seam),299,Bihar,10,Gaya,236,2400,2800,2600
+2023-01-08,Indian Beans (Seam),299,Bihar,10,Gaya,236,2200,2600,2400
+2023-01-03,Indian Beans (Seam),299,Bihar,10,Gaya,236,2600,3000,2800
+2022-12-27,Indian Beans (Seam),299,Bihar,10,Gaya,236,2600,3000,2800
+2022-12-23,Indian Beans (Seam),299,Bihar,10,Gaya,236,2200,2600,2400
+2022-12-20,Indian Beans (Seam),299,Bihar,10,Gaya,236,2200,2600,2400
+2022-12-17,Indian Beans (Seam),299,Bihar,10,Gaya,236,2200,2600,2400

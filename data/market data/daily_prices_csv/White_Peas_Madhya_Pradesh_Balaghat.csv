@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-20,White Peas,412,Madhya Pradesh,23,Balaghat,457,2500,2500,2500
+2017-07-25,White Peas,412,Madhya Pradesh,23,Balaghat,457,1700,1700,1700
+2017-03-31,White Peas,412,Madhya Pradesh,23,Balaghat,457,1800,2100,2000
+2016-04-22,White Peas,412,Madhya Pradesh,23,Balaghat,457,2000,3000,2500
+2016-04-16,White Peas,412,Madhya Pradesh,23,Balaghat,457,2000,3200,2700

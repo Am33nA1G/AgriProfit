@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-31,Big Gram,113,Chhattisgarh,22,Raipur,410,3425,3425,3425
+2015-01-31,Big Gram,113,Chhattisgarh,22,Raipur,410,1800,1800,1800

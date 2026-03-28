@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-22,Peas Wet,174,Bihar,10,Nalanda,229,1550,2000,1680
+2023-02-18,Peas Wet,174,Bihar,10,Nalanda,229,1275,2000,1500
+2023-02-13,Peas Wet,174,Bihar,10,Nalanda,229,2000,2500,2150
+2023-02-09,Peas Wet,174,Bihar,10,Nalanda,229,1250,2000,1500
+2023-02-06,Peas Wet,174,Bihar,10,Nalanda,229,1050,1500,1180
+2023-01-24,Peas Wet,174,Bihar,10,Nalanda,229,1800,2500,2000
+2023-01-23,Peas Wet,174,Bihar,10,Nalanda,229,3200,4000,3450
+2023-01-21,Peas Wet,174,Bihar,10,Nalanda,229,1850,2500,2080
+2023-01-15,Peas Wet,174,Bihar,10,Nalanda,229,1800,2500,2000
+2023-01-14,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2450
+2023-01-13,Peas Wet,174,Bihar,10,Nalanda,229,1830,2500,1980
+2023-01-12,Peas Wet,174,Bihar,10,Nalanda,229,2800,4000,3150
+2023-01-11,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2500
+2023-01-09,Peas Wet,174,Bihar,10,Nalanda,229,2050,3000,2300
+2023-01-08,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2450
+2023-01-06,Peas Wet,174,Bihar,10,Nalanda,229,2400,3000,2550
+2023-01-05,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2500
+2023-01-04,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2500
+2023-01-02,Peas Wet,174,Bihar,10,Nalanda,229,2200,3000,2450
+2022-12-29,Peas Wet,174,Bihar,10,Nalanda,229,2250,3000,2500

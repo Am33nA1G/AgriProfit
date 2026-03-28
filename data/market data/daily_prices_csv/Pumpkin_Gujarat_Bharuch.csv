@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-05,Pumpkin,84,Gujarat,24,Bharuch,488,900,1350,1125
+2016-07-31,Pumpkin,84,Gujarat,24,Bharuch,488,1125,1800,1350
+2016-07-26,Pumpkin,84,Gujarat,24,Bharuch,488,1075,1975,1525
+2016-07-19,Pumpkin,84,Gujarat,24,Bharuch,488,1050,1500,1275
+2016-06-24,Pumpkin,84,Gujarat,24,Bharuch,488,2150,3500,3050
+2016-06-14,Pumpkin,84,Gujarat,24,Bharuch,488,1350,2250,1750
+2016-06-11,Pumpkin,84,Gujarat,24,Bharuch,488,1800,2700,2500
+2016-04-14,Pumpkin,84,Gujarat,24,Bharuch,488,1700,2500,2150
+2016-04-10,Pumpkin,84,Gujarat,24,Bharuch,488,1600,2500,2050
+2016-04-09,Pumpkin,84,Gujarat,24,Bharuch,488,1800,2650,2500
+2016-03-31,Pumpkin,84,Gujarat,24,Bharuch,488,1600,2300,2050
+2016-03-30,Pumpkin,84,Gujarat,24,Bharuch,488,1800,2500,2050

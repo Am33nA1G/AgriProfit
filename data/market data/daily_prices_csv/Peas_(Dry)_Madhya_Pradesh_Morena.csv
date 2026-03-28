@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-19,Peas (Dry),347,Madhya Pradesh,23,Morena,419,5680,5680,5680
+2018-07-21,Peas (Dry),347,Madhya Pradesh,23,Morena,419,3682,3718,3705
+2018-07-13,Peas (Dry),347,Madhya Pradesh,23,Morena,419,3164,3190,3177
+2018-07-12,Peas (Dry),347,Madhya Pradesh,23,Morena,419,3118,3205,3146

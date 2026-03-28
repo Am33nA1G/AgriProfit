@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-10,Banana - Green,90,Telangana,36,Nizamabad,533,715,715,715
+2016-06-01,Banana - Green,90,Telangana,36,Nizamabad,533,500,500,500
+2016-05-31,Banana - Green,90,Telangana,36,Nizamabad,533,500,500,500

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-24,Water Melon,73,Maharashtra,27,Jalna,514,200,1000,700
+2025-05-13,Water Melon,73,Maharashtra,27,Jalna,514,200,1200,800
+2025-04-28,Water Melon,73,Maharashtra,27,Jalna,514,200,1000,700
+2025-04-23,Water Melon,73,Maharashtra,27,Jalna,514,200,1000,700
+2025-04-11,Water Melon,73,Maharashtra,27,Jalna,514,200,1000,700
+2025-04-05,Water Melon,73,Maharashtra,27,Jalna,514,400,1250,800
+2025-03-26,Water Melon,73,Maharashtra,27,Jalna,514,300,1200,700
+2025-03-24,Water Melon,73,Maharashtra,27,Jalna,514,300,1200,700
+2025-03-20,Water Melon,73,Maharashtra,27,Jalna,514,300,1200,700
+2025-03-06,Water Melon,73,Maharashtra,27,Jalna,514,400,1250,800
+2025-02-27,Water Melon,73,Maharashtra,27,Jalna,514,300,1200,800

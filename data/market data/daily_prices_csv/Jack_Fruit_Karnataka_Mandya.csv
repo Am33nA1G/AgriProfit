@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-15,Jack Fruit,182,Karnataka,29,Mandya,573,1200,1200,1200
+2023-05-17,Jack Fruit,182,Karnataka,29,Mandya,573,1300,1300,1300
+2023-04-06,Jack Fruit,182,Karnataka,29,Mandya,573,1500,1500,1500
+2022-08-30,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-08-21,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-08-17,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-08-13,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-08-08,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-08-03,Jack Fruit,182,Karnataka,29,Mandya,573,1000,1000,1000
+2022-07-29,Jack Fruit,182,Karnataka,29,Mandya,573,1200,1200,1200
+2018-04-30,Jack Fruit,182,Karnataka,29,Mandya,573,600,600,600
+2017-04-25,Jack Fruit,182,Karnataka,29,Mandya,573,1200,1200,1200
+2017-04-21,Jack Fruit,182,Karnataka,29,Mandya,573,500,500,500
+2017-04-07,Jack Fruit,182,Karnataka,29,Mandya,573,500,500,500
+2017-03-21,Jack Fruit,182,Karnataka,29,Mandya,573,40,40,40

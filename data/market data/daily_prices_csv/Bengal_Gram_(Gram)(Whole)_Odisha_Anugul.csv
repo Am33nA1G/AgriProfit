@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-23,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,6000,7000,6500
+2019-05-21,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,5000,6000,5500
+2018-10-20,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,4500,5000,4800
+2018-09-16,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,4000,4400,4200
+2016-06-21,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,8000,9500,9000
+2015-03-25,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,5500,7000,6000
+2015-02-10,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,5000,6500,5500
+2015-01-04,Bengal Gram (Gram)(Whole),6,Odisha,21,Anugul,384,5000,6000,5500

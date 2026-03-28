@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-28,Kabuli Chana (Chickpeas-White),362,Rajasthan,8,Baran,128,5110,5600,5401
+2023-08-26,Kabuli Chana (Chickpeas-White),362,Rajasthan,8,Baran,128,5000,5690,5400
+2023-08-19,Kabuli Chana (Chickpeas-White),362,Rajasthan,8,Baran,128,5010,5686,5320
+2018-08-23,Kabuli Chana (Chickpeas-White),362,Rajasthan,8,Baran,128,3225,3225,3225

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-05,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1000,2000,1800
+2020-05-03,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1800,2000,1900
+2020-04-25,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1800,2500,2000
+2020-04-23,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1800,2600,2200
+2020-04-21,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1800,2600,2200
+2020-04-19,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1500,2500,2200
+2020-04-17,Chikoo (Sapota),71,Karnataka,29,Gadag,561,2500,2800,2700
+2020-04-15,Chikoo (Sapota),71,Karnataka,29,Gadag,561,2000,2500,2200
+2020-04-12,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1800,2200,2000
+2020-04-06,Chikoo (Sapota),71,Karnataka,29,Gadag,561,1400,1500,1500

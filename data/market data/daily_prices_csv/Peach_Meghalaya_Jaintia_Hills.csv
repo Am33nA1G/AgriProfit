@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-26,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,3000,2500
+2018-07-18,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,3000,2500
+2018-06-20,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,3000,2500
+2016-07-20,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,3000,2500
+2016-06-02,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,3000,2500
+2015-08-04,Peach,331,Meghalaya,17,Jaintia Hills,299,2500,3000,2800
+2015-05-23,Peach,331,Meghalaya,17,Jaintia Hills,299,2000,2500,2200

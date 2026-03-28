@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-10,Moath Dal,95,Tamil Nadu,33,Tiruvannamalai,606,1690,2190,1940
+2024-04-29,Moath Dal,95,Tamil Nadu,33,Tiruvannamalai,606,1690,2030,1860
+2024-04-25,Moath Dal,95,Tamil Nadu,33,Tiruvannamalai,606,2040,3000,2520
+2024-04-10,Moath Dal,95,Tamil Nadu,33,Tiruvannamalai,606,2550,2790,2670
+2024-03-25,Moath Dal,95,Tamil Nadu,33,Tiruvannamalai,606,1530,2590,2060

@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-02,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,3000,2000
+2022-08-01,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1600,3000,2300
+2019-08-31,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,800,2000,1400
+2019-08-29,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-27,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,2000
+2019-08-26,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1500,2500,2000
+2019-08-25,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1800
+2019-08-23,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1800
+2019-08-22,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-21,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2200,1600
+2019-08-19,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-18,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-16,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1800
+2019-08-14,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2200,1600
+2019-08-13,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1800
+2019-08-11,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1750
+2019-08-10,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2500,1700
+2019-08-09,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-08,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2019-08-07,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1600
+2019-08-04,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1600
+2019-08-03,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,1000,2000,1500
+2017-07-10,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,2200,3000,2800
+2016-07-08,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,2000,2500,2400
+2016-07-05,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,2000,2600,2400
+2015-07-17,Pear (Marasebu),330,Rajasthan,8,Ajmer,119,,,900

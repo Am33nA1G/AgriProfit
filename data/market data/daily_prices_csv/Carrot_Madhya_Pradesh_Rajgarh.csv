@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-19,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,400,280
+2023-12-13,Carrot,153,Madhya Pradesh,23,Rajgarh,442,100,300,180
+2023-12-12,Carrot,153,Madhya Pradesh,23,Rajgarh,442,230,400,260
+2023-12-10,Carrot,153,Madhya Pradesh,23,Rajgarh,442,100,300,180
+2023-12-09,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,430,220
+2023-12-08,Carrot,153,Madhya Pradesh,23,Rajgarh,442,150,370,200
+2023-12-07,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,370,210
+2023-12-06,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,380,220
+2023-12-01,Carrot,153,Madhya Pradesh,23,Rajgarh,442,110,320,180
+2023-11-28,Carrot,153,Madhya Pradesh,23,Rajgarh,442,110,360,195
+2023-11-27,Carrot,153,Madhya Pradesh,23,Rajgarh,442,210,480,240
+2023-11-25,Carrot,153,Madhya Pradesh,23,Rajgarh,442,100,300,170
+2023-11-23,Carrot,153,Madhya Pradesh,23,Rajgarh,442,100,310,180
+2023-11-21,Carrot,153,Madhya Pradesh,23,Rajgarh,442,110,320,170
+2023-11-19,Carrot,153,Madhya Pradesh,23,Rajgarh,442,110,360,180
+2023-11-18,Carrot,153,Madhya Pradesh,23,Rajgarh,442,110,390,195
+2023-11-15,Carrot,153,Madhya Pradesh,23,Rajgarh,442,150,310,175
+2023-11-07,Carrot,153,Madhya Pradesh,23,Rajgarh,442,150,360,200
+2023-10-30,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,420,210
+2023-10-27,Carrot,153,Madhya Pradesh,23,Rajgarh,442,200,400,250
+2023-10-26,Carrot,153,Madhya Pradesh,23,Rajgarh,442,150,410,200
+2021-02-21,Carrot,153,Madhya Pradesh,23,Rajgarh,442,1275,1675,1550

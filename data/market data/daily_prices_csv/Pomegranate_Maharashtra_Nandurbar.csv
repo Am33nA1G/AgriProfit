@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-19,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2022-03-18,Pomegranate,190,Maharashtra,27,Nandurbar,497,2500,2500,2500
+2020-09-15,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-09-12,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-08-24,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2020-08-22,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2020-08-20,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2020-08-11,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-08-04,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-08-03,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-07-20,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-07-19,Pomegranate,190,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2017-09-30,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2017-09-18,Pomegranate,190,Maharashtra,27,Nandurbar,497,2000,3000,2400

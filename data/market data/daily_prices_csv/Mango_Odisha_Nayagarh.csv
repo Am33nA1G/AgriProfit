@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-30,Mango,20,Odisha,21,Nayagarh,385,1900,2000,1900
+2023-06-30,Mango,20,Odisha,21,Nayagarh,385,1400,1600,1500

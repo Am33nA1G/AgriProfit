@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-12,Onion,23,Andhra Pradesh,28,Vizianagaram,543,1800,2200,2000
+2015-02-04,Onion,23,Andhra Pradesh,28,Vizianagaram,543,1800,2000,1900
+2015-02-02,Onion,23,Andhra Pradesh,28,Vizianagaram,543,1800,2000,1900

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-08,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,25000,27000,26000
+2020-02-21,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2000,2800,2400
+2019-11-21,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,1190,1800,1450
+2019-09-04,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,4800,3500
+2019-08-20,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,3500,3800,3650
+2019-08-06,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,3500,3800,3650
+2019-08-02,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3000,2720
+2019-07-27,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-07-24,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-07-17,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-07-06,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-06-27,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-06-25,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-06-21,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-06-12,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-05-30,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2500,3500,2670
+2019-05-23,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,2510,3420,3100
+2019-04-12,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,3000,3800,3600
+2019-04-09,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,3000,3800,3600
+2019-03-20,Dry Chillies,132,Tamil Nadu,33,Coimbatore,632,3334,4210,3860

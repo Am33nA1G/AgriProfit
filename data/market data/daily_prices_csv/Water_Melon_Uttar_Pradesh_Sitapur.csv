@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-05-29,Water Melon,73,Uttar Pradesh,9,Sitapur,154,720,870,800
+2021-05-27,Water Melon,73,Uttar Pradesh,9,Sitapur,154,700,960,780
+2021-05-26,Water Melon,73,Uttar Pradesh,9,Sitapur,154,665,835,750
+2021-05-25,Water Melon,73,Uttar Pradesh,9,Sitapur,154,730,880,800
+2020-05-21,Water Melon,73,Uttar Pradesh,9,Sitapur,154,290,310,300
+2020-05-15,Water Melon,73,Uttar Pradesh,9,Sitapur,154,790,810,800
+2019-06-09,Water Melon,73,Uttar Pradesh,9,Sitapur,154,290,320,300
+2019-05-30,Water Melon,73,Uttar Pradesh,9,Sitapur,154,290,320,300
+2019-05-18,Water Melon,73,Uttar Pradesh,9,Sitapur,154,750,850,800
+2018-06-27,Water Melon,73,Uttar Pradesh,9,Sitapur,154,760,1000,890
+2018-06-23,Water Melon,73,Uttar Pradesh,9,Sitapur,154,650,900,800
+2018-06-22,Water Melon,73,Uttar Pradesh,9,Sitapur,154,630,860,760
+2018-06-19,Water Melon,73,Uttar Pradesh,9,Sitapur,154,630,860,730
+2018-06-14,Water Melon,73,Uttar Pradesh,9,Sitapur,154,670,860,780
+2018-06-13,Water Melon,73,Uttar Pradesh,9,Sitapur,154,760,850,770
+2018-06-11,Water Melon,73,Uttar Pradesh,9,Sitapur,154,415,625,570
+2018-06-09,Water Melon,73,Uttar Pradesh,9,Sitapur,154,440,840,740
+2018-06-08,Water Melon,73,Uttar Pradesh,9,Sitapur,154,500,900,800
+2018-06-06,Water Melon,73,Uttar Pradesh,9,Sitapur,154,600,800,700
+2018-06-05,Water Melon,73,Uttar Pradesh,9,Sitapur,154,850,1000,910
+2018-05-28,Water Melon,73,Uttar Pradesh,9,Sitapur,154,380,400,390
+2018-05-16,Water Melon,73,Uttar Pradesh,9,Sitapur,154,350,400,380

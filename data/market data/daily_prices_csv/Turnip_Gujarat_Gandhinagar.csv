@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-11,Turnip,341,Gujarat,24,Gandhinagar,473,4500,4500,4500
+2018-07-25,Turnip,341,Gujarat,24,Gandhinagar,473,3000,3000,3000
+2018-06-30,Turnip,341,Gujarat,24,Gandhinagar,473,2200,2200,2200
+2017-08-14,Turnip,341,Gujarat,24,Gandhinagar,473,1500,1500,1500
+2017-04-17,Turnip,341,Gujarat,24,Gandhinagar,473,3000,3000,3000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-05,Castor Seed,123,Maharashtra,27,Sangli,531,4600,5000,4800
+2024-10-18,Castor Seed,123,Maharashtra,27,Sangli,531,7400,7600,7500
+2019-09-03,Castor Seed,123,Maharashtra,27,Sangli,531,4600,4700,4650
+2017-05-08,Castor Seed,123,Maharashtra,27,Sangli,531,3600,3700,3650
+2016-10-14,Castor Seed,123,Maharashtra,27,Sangli,531,2600,2800,2750
+2016-06-02,Castor Seed,123,Maharashtra,27,Sangli,531,2600,3100,3000
+2015-06-27,Castor Seed,123,Maharashtra,27,Sangli,531,3200,3500,3400
+2015-04-03,Castor Seed,123,Maharashtra,27,Sangli,531,2800,3200,3000

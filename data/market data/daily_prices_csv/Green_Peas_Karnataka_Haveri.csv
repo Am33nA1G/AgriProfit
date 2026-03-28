@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-20,Green Peas,50,Karnataka,29,Haveri,564,2900,3150,3012
+2016-12-29,Green Peas,50,Karnataka,29,Haveri,564,3301,3301,3301
+2016-10-06,Green Peas,50,Karnataka,29,Haveri,564,3851,3851,3851
+2016-07-08,Green Peas,50,Karnataka,29,Haveri,564,4351,4351,4351

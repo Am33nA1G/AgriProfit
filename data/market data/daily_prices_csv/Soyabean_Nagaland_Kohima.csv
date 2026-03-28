@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-05,Soyabean,13,Nagaland,13,Kohima,270,5200,5600,5400
+2015-05-29,Soyabean,13,Nagaland,13,Kohima,270,5000,5400,5200
+2015-05-22,Soyabean,13,Nagaland,13,Kohima,270,5100,5300,5200
+2015-02-12,Soyabean,13,Nagaland,13,Kohima,270,4500,5000,4750

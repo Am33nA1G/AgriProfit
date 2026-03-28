@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-09,Jamun (Narale Hannu),184,Jammu & Kashmir,1,Jammu,21,8000,9000,8500
+2017-05-29,Jamun (Narale Hannu),184,Jammu & Kashmir,1,Jammu,21,10000,15000,12500
+2017-05-26,Jamun (Narale Hannu),184,Jammu & Kashmir,1,Jammu,21,10000,12000,11000
+2017-05-25,Jamun (Narale Hannu),184,Jammu & Kashmir,1,Jammu,21,10000,15000,12500

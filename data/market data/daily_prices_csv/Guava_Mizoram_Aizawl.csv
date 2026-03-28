@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-07,Guava,185,Mizoram,15,Aizawl,283,2500,5000,3750
+2017-10-11,Guava,185,Mizoram,15,Aizawl,283,2500,4000,3250
+2016-10-21,Guava,185,Mizoram,15,Aizawl,283,2000,4000,3000
+2016-10-20,Guava,185,Mizoram,15,Aizawl,283,2500,4000,3250
+2016-10-19,Guava,185,Mizoram,15,Aizawl,283,2500,4000,3250
+2016-10-18,Guava,185,Mizoram,15,Aizawl,283,2500,4000,3250
+2015-12-15,Guava,185,Mizoram,15,Aizawl,283,3000,3000,3000
+2015-10-08,Guava,185,Mizoram,15,Aizawl,283,6000,6000,6000
+2015-01-28,Guava,185,Mizoram,15,Aizawl,283,2000,3500,2250

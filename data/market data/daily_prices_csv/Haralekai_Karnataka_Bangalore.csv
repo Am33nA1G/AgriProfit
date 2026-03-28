@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-18,Haralekai,252,Karnataka,29,Bangalore,572,700,800,750
+2019-07-23,Haralekai,252,Karnataka,29,Bangalore,572,900,1000,950
+2019-03-06,Haralekai,252,Karnataka,29,Bangalore,572,1400,1500,1450
+2019-02-05,Haralekai,252,Karnataka,29,Bangalore,572,1100,1200,1150
+2018-06-27,Haralekai,252,Karnataka,29,Bangalore,572,1000,1200,1100

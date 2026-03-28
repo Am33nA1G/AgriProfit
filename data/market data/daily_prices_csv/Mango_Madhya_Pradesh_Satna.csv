@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-30,Mango,20,Madhya Pradesh,23,Satna,429,2200,2200,2200
+2022-06-21,Mango,20,Madhya Pradesh,23,Satna,429,3000,3000,3000
+2022-06-13,Mango,20,Madhya Pradesh,23,Satna,429,2200,3000,2600
+2022-06-07,Mango,20,Madhya Pradesh,23,Satna,429,1500,1500,1500

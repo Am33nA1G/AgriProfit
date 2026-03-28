@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-16,Coriander (Leaves),43,Uttar Pradesh,9,Etah,201,3000,3500,3200
+2017-08-20,Coriander (Leaves),43,Uttar Pradesh,9,Etah,201,6000,7500,7250
+2017-08-19,Coriander (Leaves),43,Uttar Pradesh,9,Etah,201,7000,8000,7600

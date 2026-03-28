@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-28,Barley (Jau),29,Uttarakhand,5,Hardwar,68,1500,1800,1600
+2019-06-10,Barley (Jau),29,Uttarakhand,5,Hardwar,68,1500,1500,1500
+2018-12-28,Barley (Jau),29,Uttarakhand,5,Hardwar,68,1500,1800,1600
+2017-05-15,Barley (Jau),29,Uttarakhand,5,Hardwar,68,1450,1450,1450
+2016-10-14,Barley (Jau),29,Uttarakhand,5,Hardwar,68,2400,2400,2400
+2016-08-26,Barley (Jau),29,Uttarakhand,5,Hardwar,68,2250,2375,2260
+2016-07-13,Barley (Jau),29,Uttarakhand,5,Hardwar,68,2400,2400,2400

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Bitter gourd,81,Bihar,10,Munger,226,2000,2000,2000
+2023-09-06,Bitter gourd,81,Bihar,10,Munger,226,2000,2200,2100
+2023-09-05,Bitter gourd,81,Bihar,10,Munger,226,2000,2500,2200
+2023-09-04,Bitter gourd,81,Bihar,10,Munger,226,2500,3000,3000
+2023-09-03,Bitter gourd,81,Bihar,10,Munger,226,3000,3000,3000
+2023-09-02,Bitter gourd,81,Bihar,10,Munger,226,2800,2800,2800
+2023-09-01,Bitter gourd,81,Bihar,10,Munger,226,2500,2500,2500
+2023-08-31,Bitter gourd,81,Bihar,10,Munger,226,3000,3000,3000

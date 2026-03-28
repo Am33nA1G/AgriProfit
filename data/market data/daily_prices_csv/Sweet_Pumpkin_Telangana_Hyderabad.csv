@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-25,Sweet Pumpkin,173,Telangana,36,Hyderabad,536,2000,2500,2300
+2016-03-06,Sweet Pumpkin,173,Telangana,36,Hyderabad,536,800,1500,1200
+2015-06-02,Sweet Pumpkin,173,Telangana,36,Hyderabad,536,300,500,400

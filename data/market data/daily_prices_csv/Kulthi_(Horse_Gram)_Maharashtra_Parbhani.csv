@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-24,Kulthi (Horse Gram),114,Maharashtra,27,Parbhani,513,3500,3500,3500
+2015-03-18,Kulthi (Horse Gram),114,Maharashtra,27,Parbhani,513,3526,3526,3526
+2015-01-17,Kulthi (Horse Gram),114,Maharashtra,27,Parbhani,513,3800,3875,3850

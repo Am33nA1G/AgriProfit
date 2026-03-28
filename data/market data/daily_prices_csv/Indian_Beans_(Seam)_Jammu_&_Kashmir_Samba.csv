@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-11,Indian Beans (Seam),299,Jammu & Kashmir,1,Samba,22,2200,2600,2400
+2019-09-03,Indian Beans (Seam),299,Jammu & Kashmir,1,Samba,22,2000,3000,2500

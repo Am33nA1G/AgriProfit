@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-17,Drumstick,168,Karnataka,29,Chamarajanagar,578,8000,8000,8000
+2023-11-09,Drumstick,168,Karnataka,29,Chamarajanagar,578,10000,10000,10000
+2023-11-07,Drumstick,168,Karnataka,29,Chamarajanagar,578,10000,10000,10000
+2023-10-30,Drumstick,168,Karnataka,29,Chamarajanagar,578,6000,6000,6000
+2023-10-19,Drumstick,168,Karnataka,29,Chamarajanagar,578,6000,6000,6000
+2023-10-16,Drumstick,168,Karnataka,29,Chamarajanagar,578,6000,6000,6000
+2023-10-13,Drumstick,168,Karnataka,29,Chamarajanagar,578,2500,2500,2500
+2023-10-12,Drumstick,168,Karnataka,29,Chamarajanagar,578,2500,2500,2500
+2023-10-11,Drumstick,168,Karnataka,29,Chamarajanagar,578,2000,2000,2000
+2023-10-10,Drumstick,168,Karnataka,29,Chamarajanagar,578,2500,2500,2500
+2023-10-09,Drumstick,168,Karnataka,29,Chamarajanagar,578,2000,2000,2000
+2023-10-07,Drumstick,168,Karnataka,29,Chamarajanagar,578,2000,2000,2000

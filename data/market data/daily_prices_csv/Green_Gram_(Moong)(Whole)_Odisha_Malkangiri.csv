@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-24,Green Gram (Moong)(Whole),9,Odisha,21,Malkangiri,399,4660,4800,4700
+2016-05-21,Green Gram (Moong)(Whole),9,Odisha,21,Malkangiri,399,4650,4700,4680
+2016-04-02,Green Gram (Moong)(Whole),9,Odisha,21,Malkangiri,399,6000,6750,6650

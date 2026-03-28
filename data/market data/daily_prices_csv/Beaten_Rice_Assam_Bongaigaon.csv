@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-12,Beaten Rice,262,Assam,18,Bongaigaon,319,3100,3600,3500
+2018-06-24,Beaten Rice,262,Assam,18,Bongaigaon,319,3200,3650,3400
+2016-11-09,Beaten Rice,262,Assam,18,Bongaigaon,319,850,2500,1600
+2016-07-31,Beaten Rice,262,Assam,18,Bongaigaon,319,1400,1550,1500
+2016-07-27,Beaten Rice,262,Assam,18,Bongaigaon,319,1400,1550,1500
+2016-07-20,Beaten Rice,262,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-07-01,Beaten Rice,262,Assam,18,Bongaigaon,319,1400,1500,1450
+2016-06-19,Beaten Rice,262,Assam,18,Bongaigaon,319,1350,1420,1400
+2016-06-15,Beaten Rice,262,Assam,18,Bongaigaon,319,1300,1500,1400
+2016-06-10,Beaten Rice,262,Assam,18,Bongaigaon,319,1350,1500,1450
+2016-06-05,Beaten Rice,262,Assam,18,Bongaigaon,319,1300,1400,1350
+2016-06-03,Beaten Rice,262,Assam,18,Bongaigaon,319,1250,1380,1300
+2016-06-01,Beaten Rice,262,Assam,18,Bongaigaon,319,1250,1370,1300
+2016-05-31,Beaten Rice,262,Assam,18,Bongaigaon,319,1250,1370,1300
+2016-05-22,Beaten Rice,262,Assam,18,Bongaigaon,319,1210,1350,1275
+2016-05-20,Beaten Rice,262,Assam,18,Bongaigaon,319,1210,1300,1250
+2016-05-11,Beaten Rice,262,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-05-10,Beaten Rice,262,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-04-26,Beaten Rice,262,Assam,18,Bongaigaon,319,1250,1350,1300
+2016-04-24,Beaten Rice,262,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-04-22,Beaten Rice,262,Assam,18,Bongaigaon,319,1200,1300,1250
+2016-02-23,Beaten Rice,262,Assam,18,Bongaigaon,319,1000,1100,1050
+2016-02-22,Beaten Rice,262,Assam,18,Bongaigaon,319,1000,1200,1100

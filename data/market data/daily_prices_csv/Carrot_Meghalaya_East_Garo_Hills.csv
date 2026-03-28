@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-04,Carrot,153,Meghalaya,17,East Garo Hills,294,2500,3000,2750
+2024-04-08,Carrot,153,Meghalaya,17,East Garo Hills,294,2500,3500,3000
+2024-04-06,Carrot,153,Meghalaya,17,East Garo Hills,294,2500,3500,3000
+2024-04-03,Carrot,153,Meghalaya,17,East Garo Hills,294,3000,5000,4000
+2024-03-26,Carrot,153,Meghalaya,17,East Garo Hills,294,2500,3500,3000
+2024-03-16,Carrot,153,Meghalaya,17,East Garo Hills,294,6000,7000,6500
+2024-03-07,Carrot,153,Meghalaya,17,East Garo Hills,294,7000,8000,7500
+2024-03-06,Carrot,153,Meghalaya,17,East Garo Hills,294,8000,9000,8500
+2024-03-04,Carrot,153,Meghalaya,17,East Garo Hills,294,8000,9000,8500
+2024-02-28,Carrot,153,Meghalaya,17,East Garo Hills,294,6000,7000,6500

@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-22,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1800,2000,1900
+2022-04-10,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,3500,3800,3600
+2022-04-03,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1600,1900,1700
+2021-12-20,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,925,1000,950
+2021-10-03,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1200,1300,1250
+2021-09-27,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1200,1300,1250
+2021-09-24,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1200,1500,1300
+2021-09-22,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,975,1020,1000
+2021-09-20,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1600,1700,1650
+2021-09-19,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,2500,2600,2550
+2021-09-05,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,850,950,900
+2021-08-31,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1050,1200,1150
+2021-06-07,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1600,1750,1650
+2021-05-22,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,450,525,500
+2021-05-21,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,425,500,450
+2021-05-08,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,825,900,850
+2021-04-29,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,500,600,550
+2021-04-20,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1800,1900,1850
+2021-04-12,Cucumber (Kheera),159,Jharkhand,20,Garhwa,346,1000,1100,1050

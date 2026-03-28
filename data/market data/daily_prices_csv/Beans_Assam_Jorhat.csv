@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-13,Beans,94,Assam,18,Jorhat,312,3000,3200,3200
+2024-12-12,Beans,94,Assam,18,Jorhat,312,3000,3200,3200
+2024-12-11,Beans,94,Assam,18,Jorhat,312,3000,3200,3200
+2024-12-09,Beans,94,Assam,18,Jorhat,312,3000,3500,3500
+2024-12-07,Beans,94,Assam,18,Jorhat,312,3000,3500,3500
+2024-12-06,Beans,94,Assam,18,Jorhat,312,2800,3000,3000
+2024-11-19,Beans,94,Assam,18,Jorhat,312,1500,1700,1700

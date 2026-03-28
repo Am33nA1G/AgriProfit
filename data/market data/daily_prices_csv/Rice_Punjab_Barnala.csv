@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-04,Rice,3,Punjab,3,Barnala,54,1600,1600,1600
+2016-01-29,Rice,3,Punjab,3,Barnala,54,1750,1750,1750
+2016-01-22,Rice,3,Punjab,3,Barnala,54,1600,1955,1777
+2016-01-21,Rice,3,Punjab,3,Barnala,54,1895,1995,1945
+2016-01-20,Rice,3,Punjab,3,Barnala,54,1995,2065,2030
+2016-01-18,Rice,3,Punjab,3,Barnala,54,1725,2050,1887

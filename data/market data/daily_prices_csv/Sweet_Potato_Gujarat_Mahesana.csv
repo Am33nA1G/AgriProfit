@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-12,Sweet Potato,152,Gujarat,24,Mahesana,471,1000,1200,1100
+2017-04-22,Sweet Potato,152,Gujarat,24,Mahesana,471,705,705,705
+2015-02-09,Sweet Potato,152,Gujarat,24,Mahesana,471,1000,1000,1000
+2015-02-02,Sweet Potato,152,Gujarat,24,Mahesana,471,1750,2000,1875

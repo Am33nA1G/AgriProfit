@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-19,Radish,161,Odisha,21,Nayagarh,385,1200,1200,1200
+2023-11-29,Radish,161,Odisha,21,Nayagarh,385,700,700,700
+2023-11-22,Radish,161,Odisha,21,Nayagarh,385,1000,1000,1000

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-09,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,800,900,833
+2016-12-03,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1900,2100,2000
+2016-11-09,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,900,980,943
+2016-08-26,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1350,1500,1428
+2016-08-20,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1200,1400,1333
+2016-08-13,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1200,1280,1233
+2016-08-11,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,950,1100,1000
+2016-08-08,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,950,1100,1000
+2016-08-06,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,950,1100,1000
+2016-08-05,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,780,820,800
+2016-08-01,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1100,1250,1200
+2016-07-19,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,950,1000,980
+2016-07-12,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,750,880,800
+2016-06-23,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,900,1100,1000
+2016-04-24,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,1600,1800,1700
+2016-03-08,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,400,450,416
+2016-02-14,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,340,380,350
+2016-01-21,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,450,600,500
+2015-12-09,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,620,700,666
+2015-11-30,Potato,24,Andhra Pradesh,28,Visakhapatnam,544,625,750,683

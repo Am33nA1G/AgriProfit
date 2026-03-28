@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-12,Methi Seeds,47,Gujarat,24,Anand,482,2305,2305,2305
+2018-05-22,Methi Seeds,47,Gujarat,24,Anand,482,2625,2625,2625
+2017-04-21,Methi Seeds,47,Gujarat,24,Anand,482,3000,3500,3000
+2017-04-20,Methi Seeds,47,Gujarat,24,Anand,482,3200,3700,3205
+2017-04-10,Methi Seeds,47,Gujarat,24,Anand,482,3700,3700,3700
+2017-01-07,Methi Seeds,47,Gujarat,24,Anand,482,2375,4500,2375
+2016-10-25,Methi Seeds,47,Gujarat,24,Anand,482,3500,4500,3500
+2016-06-08,Methi Seeds,47,Gujarat,24,Anand,482,3905,4500,3905
+2016-05-16,Methi Seeds,47,Gujarat,24,Anand,482,3905,4500,3905
+2016-05-11,Methi Seeds,47,Gujarat,24,Anand,482,4500,4500,4500
+2016-03-23,Methi Seeds,47,Gujarat,24,Anand,482,4550,5125,4550
+2016-03-22,Methi Seeds,47,Gujarat,24,Anand,482,5000,5125,5000

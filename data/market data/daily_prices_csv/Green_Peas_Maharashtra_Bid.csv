@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-23,Green Peas,50,Maharashtra,27,Bid,523,3380,3380,3380
+2016-07-21,Green Peas,50,Maharashtra,27,Bid,523,3000,3700,3250
+2015-04-09,Green Peas,50,Maharashtra,27,Bid,523,2201,2201,2201

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-15,Drumstick,168,Maharashtra,27,Nandurbar,497,3000,3000,3000
+2022-06-05,Drumstick,168,Maharashtra,27,Nandurbar,497,3000,3000,3000
+2022-06-04,Drumstick,168,Maharashtra,27,Nandurbar,497,5000,5000,5000
+2020-06-17,Drumstick,168,Maharashtra,27,Nandurbar,497,2500,2500,2500
+2020-05-27,Drumstick,168,Maharashtra,27,Nandurbar,497,1500,1500,1500
+2020-05-24,Drumstick,168,Maharashtra,27,Nandurbar,497,1500,1500,1500

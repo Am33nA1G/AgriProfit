@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-02,Gulli,461,Madhya Pradesh,23,Tikamgarh,424,4150,4150,4150
+2024-09-20,Gulli,461,Madhya Pradesh,23,Tikamgarh,424,4000,4000,4000
+2024-09-01,Gulli,461,Madhya Pradesh,23,Tikamgarh,424,3505,3546,3546
+2024-08-26,Gulli,461,Madhya Pradesh,23,Tikamgarh,424,2500,2500,2500
+2024-08-15,Gulli,461,Madhya Pradesh,23,Tikamgarh,424,3400,3445,3445

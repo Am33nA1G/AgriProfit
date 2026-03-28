@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-17,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,12000,12000,12000
+2024-01-12,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,14000,14266,14166
+2024-01-03,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,10000,13201,11501
+2023-12-23,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,13700,13785,13780
+2023-12-16,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,10000,15200,12501
+2023-12-13,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,10000,13700,11501
+2023-12-09,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,11525,14250,13000
+2023-12-08,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,13000,13451,13400
+2023-12-07,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,11000,14201,13476
+2023-12-02,Soapnut (Antawala/Retha),207,Rajasthan,8,Ajmer,119,11501,14500,12220

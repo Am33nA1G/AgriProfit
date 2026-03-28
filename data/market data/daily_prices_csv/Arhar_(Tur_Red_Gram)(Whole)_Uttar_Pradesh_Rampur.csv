@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-02,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rampur,136,6500,6550,6525
+2019-03-29,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rampur,136,6500,6530,6515
+2019-03-28,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rampur,136,6430,6530,6480
+2019-03-07,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rampur,136,6300,6390,6345

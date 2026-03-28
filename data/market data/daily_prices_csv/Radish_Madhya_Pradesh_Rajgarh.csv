@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-22,Radish,161,Madhya Pradesh,23,Rajgarh,442,110,360,195
+2023-11-08,Radish,161,Madhya Pradesh,23,Rajgarh,442,150,460,200
+2023-10-16,Radish,161,Madhya Pradesh,23,Rajgarh,442,100,350,160
+2023-10-15,Radish,161,Madhya Pradesh,23,Rajgarh,442,130,410,170
+2023-10-14,Radish,161,Madhya Pradesh,23,Rajgarh,442,110,400,145
+2023-10-12,Radish,161,Madhya Pradesh,23,Rajgarh,442,100,340,130
+2019-07-24,Radish,161,Madhya Pradesh,23,Rajgarh,442,700,800,750

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "census_district_id": 634,
+      "census_district_name": "Yanam"
+    },
+    {
+      "census_district_id": 635,
+      "census_district_name": "Puducherry"
+    },
+    {
+      "census_district_id": 636,
+      "census_district_name": "Mahe"
+    },
+    {
+      "census_district_id": 637,
+      "census_district_name": "Karaikal"
+    }
+  ]
+}

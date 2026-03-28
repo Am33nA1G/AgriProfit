@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-07,Chili Red,26,Karnataka,29,Belgaum,555,7400,7400,7400
+2017-06-24,Chili Red,26,Karnataka,29,Belgaum,555,6500,11000,6500
+2015-11-30,Chili Red,26,Karnataka,29,Belgaum,555,10000,10000,10000

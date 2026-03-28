@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-09,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-09-08,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-09-07,White Pumpkin,158,Haryana,6,Fatehabad,78,500,600,550
+2015-09-06,White Pumpkin,158,Haryana,6,Fatehabad,78,400,450,425
+2015-07-10,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-07-08,White Pumpkin,158,Haryana,6,Fatehabad,78,300,400,350
+2015-07-01,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-06-28,White Pumpkin,158,Haryana,6,Fatehabad,78,300,400,350
+2015-06-27,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-06-26,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-06-25,White Pumpkin,158,Haryana,6,Fatehabad,78,400,500,450
+2015-06-22,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-06-21,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-06-19,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-06-16,White Pumpkin,158,Haryana,6,Fatehabad,78,300,300,300
+2015-06-13,White Pumpkin,158,Haryana,6,Fatehabad,78,450,450,450
+2015-06-12,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-06-10,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-05-29,White Pumpkin,158,Haryana,6,Fatehabad,78,350,350,350
+2015-05-28,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-05-27,White Pumpkin,158,Haryana,6,Fatehabad,78,500,500,500
+2015-05-26,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-05-20,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400
+2015-05-09,White Pumpkin,158,Haryana,6,Fatehabad,78,400,400,400

@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-27,Ginger (Green),103,Madhya Pradesh,23,Satna,429,5000,5000,5000
+2025-10-02,Ginger (Green),103,Madhya Pradesh,23,Satna,429,4000,4000,4000
+2025-09-03,Ginger (Green),103,Madhya Pradesh,23,Satna,429,5000,5000,5000
+2025-08-27,Ginger (Green),103,Madhya Pradesh,23,Satna,429,4800,4800,4800
+2023-09-18,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,290,270
+2023-02-07,Ginger (Green),103,Madhya Pradesh,23,Satna,429,300,300,300
+2022-11-11,Ginger (Green),103,Madhya Pradesh,23,Satna,429,300,300,300
+2022-10-09,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,250,250
+2022-10-04,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,250,250
+2022-09-28,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,250,250
+2022-08-31,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,300,275
+2022-08-30,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,300,275
+2022-08-29,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,300,275
+2022-08-26,Ginger (Green),103,Madhya Pradesh,23,Satna,429,300,300,300
+2022-08-22,Ginger (Green),103,Madhya Pradesh,23,Satna,429,400,400,400
+2022-08-05,Ginger (Green),103,Madhya Pradesh,23,Satna,429,300,400,350
+2022-07-31,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,250,250
+2022-05-23,Ginger (Green),103,Madhya Pradesh,23,Satna,429,250,250,250
+2022-05-18,Ginger (Green),103,Madhya Pradesh,23,Satna,429,160,160,160

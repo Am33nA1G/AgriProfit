@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-23,Coriander seed,108,Maharashtra,27,Chandrapur,509,3700,3800,3750
+2020-06-10,Coriander seed,108,Maharashtra,27,Chandrapur,509,3300,3400,3350
+2020-05-21,Coriander seed,108,Maharashtra,27,Chandrapur,509,3000,3400,3200
+2020-05-15,Coriander seed,108,Maharashtra,27,Chandrapur,509,3900,4000,3950
+2020-05-13,Coriander seed,108,Maharashtra,27,Chandrapur,509,3700,3800,3750
+2020-05-05,Coriander seed,108,Maharashtra,27,Chandrapur,509,4100,4400,4250

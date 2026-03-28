@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-06,Onion,23,Maharashtra,27,Latur,524,1000,1700,1433
+2024-09-03,Onion,23,Maharashtra,27,Latur,524,4000,4000,4000
+2024-08-06,Onion,23,Maharashtra,27,Latur,524,2500,2500,2500
+2024-08-04,Onion,23,Maharashtra,27,Latur,524,120,300,232
+2021-06-15,Onion,23,Maharashtra,27,Latur,524,1,1,1

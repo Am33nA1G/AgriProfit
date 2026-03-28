@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-19,Litchi,351,Jharkhand,20,Purbi Singhbhum,357,10000,10800,10400
+2017-06-17,Litchi,351,Jharkhand,20,Purbi Singhbhum,357,10000,10800,10300
+2017-06-16,Litchi,351,Jharkhand,20,Purbi Singhbhum,357,11000,12000,11500

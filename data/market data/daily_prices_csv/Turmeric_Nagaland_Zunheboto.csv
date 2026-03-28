@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-16,Turmeric,39,Nagaland,13,Zunheboto,263,6500,7000,6700
+2015-07-15,Turmeric,39,Nagaland,13,Zunheboto,263,7100,7300,7200
+2015-07-08,Turmeric,39,Nagaland,13,Zunheboto,263,7000,7200,7100
+2015-06-10,Turmeric,39,Nagaland,13,Zunheboto,263,7200,7600,7400
+2015-05-13,Turmeric,39,Nagaland,13,Zunheboto,263,6000,6500,6250

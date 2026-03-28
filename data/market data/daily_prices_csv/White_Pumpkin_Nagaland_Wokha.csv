@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-20,White Pumpkin,158,Nagaland,13,Wokha,264,5000,6000,5500
+2024-01-23,White Pumpkin,158,Nagaland,13,Wokha,264,4000,5000,4500
+2023-10-13,White Pumpkin,158,Nagaland,13,Wokha,264,2200,2800,2400

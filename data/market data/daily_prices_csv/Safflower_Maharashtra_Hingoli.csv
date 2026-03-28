@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-13,Safflower,59,Maharashtra,27,Hingoli,512,4020,4020,4020
+2024-03-19,Safflower,59,Maharashtra,27,Hingoli,512,3220,3220,3220
+2023-06-20,Safflower,59,Maharashtra,27,Hingoli,512,4000,4600,4300
+2023-06-06,Safflower,59,Maharashtra,27,Hingoli,512,3250,3250,3250
+2023-05-27,Safflower,59,Maharashtra,27,Hingoli,512,4650,4650,4650
+2023-05-25,Safflower,59,Maharashtra,27,Hingoli,512,4730,4730,4730
+2023-05-20,Safflower,59,Maharashtra,27,Hingoli,512,4300,4561,4430
+2023-05-18,Safflower,59,Maharashtra,27,Hingoli,512,4700,5050,4875
+2023-05-04,Safflower,59,Maharashtra,27,Hingoli,512,5215,5215,5215
+2023-04-11,Safflower,59,Maharashtra,27,Hingoli,512,5650,5650,5650
+2017-06-12,Safflower,59,Maharashtra,27,Hingoli,512,3000,3000,3000

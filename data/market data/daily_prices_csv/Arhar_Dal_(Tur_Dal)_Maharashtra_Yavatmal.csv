@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-11,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,10000,12405,12405
+2023-10-06,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,11000,11000,11000
+2023-09-25,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,13905,13905,13905
+2023-08-03,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,12300,12300,12300
+2018-08-06,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,4000,4000,4000
+2018-08-04,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,4500,4500,4500
+2017-10-03,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,5140,5140,5140
+2015-01-12,Arhar Dal (Tur Dal),260,Maharashtra,27,Yavatmal,510,6000,,

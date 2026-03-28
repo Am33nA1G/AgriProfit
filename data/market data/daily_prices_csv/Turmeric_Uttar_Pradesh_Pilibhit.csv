@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-30,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,12180,12265,12220
+2021-04-23,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10200,10265,10230
+2021-04-16,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10240,10315,10280
+2021-04-09,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10200,10300,10250
+2021-04-02,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10200,10300,10250
+2021-03-26,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10235,10295,10260
+2021-03-12,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10200,10285,10240
+2021-02-26,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10110,10189,10150
+2021-02-19,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10165,10235,10200
+2021-02-12,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10080,10145,10115
+2021-01-29,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9975,10050,10005
+2020-05-22,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9740,9830,9780
+2020-05-15,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9800,9900,9850
+2020-03-20,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9150,9230,9180
+2020-03-06,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9085,9135,9105
+2020-02-28,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9040,9085,9065
+2020-02-21,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9015,9080,9050
+2020-02-14,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,8980,9050,9010
+2020-01-24,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,8960,9045,9005
+2020-01-17,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9120,9180,9150
+2019-12-06,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10000,10140,10100
+2019-12-05,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,10125,10195,10150
+2019-11-29,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9260,9340,9295
+2019-11-26,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9050,9140,9095
+2019-11-23,Turmeric,39,Uttar Pradesh,9,Pilibhit,151,9000,9420,9280

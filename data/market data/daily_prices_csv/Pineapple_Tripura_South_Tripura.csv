@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-05,Pineapple,21,Tripura,16,South Tripura,290,1250,1400,1350
+2022-06-04,Pineapple,21,Tripura,16,South Tripura,290,1250,1400,1350
+2022-05-30,Pineapple,21,Tripura,16,South Tripura,290,1400,2000,1500
+2020-07-14,Pineapple,21,Tripura,16,South Tripura,290,950,1100,1050
+2020-07-09,Pineapple,21,Tripura,16,South Tripura,290,850,1000,950
+2020-07-08,Pineapple,21,Tripura,16,South Tripura,290,850,1000,950
+2020-07-07,Pineapple,21,Tripura,16,South Tripura,290,850,1000,950
+2020-07-06,Pineapple,21,Tripura,16,South Tripura,290,850,1000,950
+2020-07-02,Pineapple,21,Tripura,16,South Tripura,290,900,1000,950
+2020-07-01,Pineapple,21,Tripura,16,South Tripura,290,950,1100,1050
+2020-06-30,Pineapple,21,Tripura,16,South Tripura,290,1500,1700,1600
+2020-06-25,Pineapple,21,Tripura,16,South Tripura,290,1850,2000,1950
+2016-07-10,Pineapple,21,Tripura,16,South Tripura,290,1000,1100,1050
+2016-07-03,Pineapple,21,Tripura,16,South Tripura,290,950,1100,1050
+2015-06-28,Pineapple,21,Tripura,16,South Tripura,290,230,240,235
+2015-06-21,Pineapple,21,Tripura,16,South Tripura,290,225,240,230

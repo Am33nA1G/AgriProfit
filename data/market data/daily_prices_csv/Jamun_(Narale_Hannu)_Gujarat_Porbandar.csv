@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-15,Jamun (Narale Hannu),184,Gujarat,24,Porbandar,478,5000,10000,7500
+2024-07-13,Jamun (Narale Hannu),184,Gujarat,24,Porbandar,478,4000,7000,5500
+2024-07-10,Jamun (Narale Hannu),184,Gujarat,24,Porbandar,478,4000,11000,8500
+2024-07-09,Jamun (Narale Hannu),184,Gujarat,24,Porbandar,478,4000,7000,5500

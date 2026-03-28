@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-14,Green Chilli,87,Bihar,10,Gaya,236,10000,12000,11000
+2023-01-05,Green Chilli,87,Bihar,10,Gaya,236,11000,13000,12000
+2022-12-29,Green Chilli,87,Bihar,10,Gaya,236,10000,12000,11000
+2022-08-29,Green Chilli,87,Bihar,10,Gaya,236,2900,3500,3200
+2022-08-24,Green Chilli,87,Bihar,10,Gaya,236,3800,4500,4200
+2022-08-18,Green Chilli,87,Bihar,10,Gaya,236,5200,5600,5400
+2022-07-26,Green Chilli,87,Bihar,10,Gaya,236,1800,2200,2000
+2022-06-15,Green Chilli,87,Bihar,10,Gaya,236,2400,2800,2600

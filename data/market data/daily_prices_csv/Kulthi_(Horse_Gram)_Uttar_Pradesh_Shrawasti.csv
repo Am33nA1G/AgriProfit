@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-02,Kulthi (Horse Gram),114,Uttar Pradesh,9,Shrawasti,181,3650,3700,3675
+2015-01-31,Kulthi (Horse Gram),114,Uttar Pradesh,9,Shrawasti,181,3650,3685,3670
+2015-01-15,Kulthi (Horse Gram),114,Uttar Pradesh,9,Shrawasti,181,3660,3690,3670
+2015-01-14,Kulthi (Horse Gram),114,Uttar Pradesh,9,Shrawasti,181,3650,3700,3665
+2015-01-01,Kulthi (Horse Gram),114,Uttar Pradesh,9,Shrawasti,181,3650,3685,3670

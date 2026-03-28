@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-02,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rae Bareli,158,7000,7150,7100
+2023-04-22,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rae Bareli,158,10000,10115,10100
+2018-02-01,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Rae Bareli,158,4950,5100,5000

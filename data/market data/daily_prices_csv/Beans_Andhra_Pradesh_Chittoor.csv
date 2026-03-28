@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-19,Beans,94,Andhra Pradesh,28,Chittoor,554,500,1500,1000
+2018-03-11,Beans,94,Andhra Pradesh,28,Chittoor,554,500,1500,1000
+2018-03-07,Beans,94,Andhra Pradesh,28,Chittoor,554,1000,2000,1500
+2018-02-25,Beans,94,Andhra Pradesh,28,Chittoor,554,1000,2000,1500
+2018-02-24,Beans,94,Andhra Pradesh,28,Chittoor,554,500,1500,1000
+2018-02-18,Beans,94,Andhra Pradesh,28,Chittoor,554,500,1500,1000
+2018-02-10,Beans,94,Andhra Pradesh,28,Chittoor,554,700,1500,1100
+2018-02-05,Beans,94,Andhra Pradesh,28,Chittoor,554,750,1500,1000
+2018-01-28,Beans,94,Andhra Pradesh,28,Chittoor,554,800,1200,1000
+2018-01-21,Beans,94,Andhra Pradesh,28,Chittoor,554,200,600,400
+2018-01-10,Beans,94,Andhra Pradesh,28,Chittoor,554,400,800,600
+2017-12-23,Beans,94,Andhra Pradesh,28,Chittoor,554,500,1500,1000
+2017-12-10,Beans,94,Andhra Pradesh,28,Chittoor,554,2000,4000,3000
+2017-11-12,Beans,94,Andhra Pradesh,28,Chittoor,554,2500,3500,3000
+2017-11-05,Beans,94,Andhra Pradesh,28,Chittoor,554,2000,4000,3000
+2017-10-29,Beans,94,Andhra Pradesh,28,Chittoor,554,2500,4500,3500
+2017-10-23,Beans,94,Andhra Pradesh,28,Chittoor,554,2000,6000,4000
+2017-10-22,Beans,94,Andhra Pradesh,28,Chittoor,554,3000,5000,4000
+2017-10-04,Beans,94,Andhra Pradesh,28,Chittoor,554,1000,3000,2000
+2017-10-01,Beans,94,Andhra Pradesh,28,Chittoor,554,1000,3000,2000
+2016-02-11,Beans,94,Andhra Pradesh,28,Chittoor,554,28,32,30

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-09,Pomegranate,190,Jharkhand,20,Ramgarh,361,9000,11055,10500
+2015-04-04,Pomegranate,190,Jharkhand,20,Ramgarh,361,10500,12000,11000
+2015-04-03,Pomegranate,190,Jharkhand,20,Ramgarh,361,10500,12000,11000
+2015-04-01,Pomegranate,190,Jharkhand,20,Ramgarh,361,8500,9500,9000

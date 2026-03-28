@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-23,Field Pea,64,Bihar,10,Sitamarhi,206,2500,3000,3000
+2023-01-13,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2300
+2022-12-23,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2500
+2022-03-24,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2200
+2022-03-22,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2200
+2022-03-21,Field Pea,64,Bihar,10,Sitamarhi,206,1800,2000,1900
+2022-03-20,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2400
+2022-03-17,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2500,2200
+2022-03-16,Field Pea,64,Bihar,10,Sitamarhi,206,2200,2500,2500
+2022-03-15,Field Pea,64,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-03-14,Field Pea,64,Bihar,10,Sitamarhi,206,1800,2200,2000
+2022-03-12,Field Pea,64,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-03-11,Field Pea,64,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-03-10,Field Pea,64,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-03-09,Field Pea,64,Bihar,10,Sitamarhi,206,1800,2200,2000
+2022-03-08,Field Pea,64,Bihar,10,Sitamarhi,206,1600,2000,1800
+2022-03-07,Field Pea,64,Bihar,10,Sitamarhi,206,2400,2800,2600
+2022-03-05,Field Pea,64,Bihar,10,Sitamarhi,206,2000,2400,2200
+2022-03-04,Field Pea,64,Bihar,10,Sitamarhi,206,2200,2500,2400
+2022-03-03,Field Pea,64,Bihar,10,Sitamarhi,206,2800,3200,3000
+2022-03-02,Field Pea,64,Bihar,10,Sitamarhi,206,2800,3200,3000

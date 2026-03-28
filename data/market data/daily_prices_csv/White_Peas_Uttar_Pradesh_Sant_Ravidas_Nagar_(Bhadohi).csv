@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-22,White Peas,412,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,1950,2050,2000
+2019-04-23,White Peas,412,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,5000,5000,5000

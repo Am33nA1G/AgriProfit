@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-28,Onion,23,Maharashtra,27,Ratnagiri,528,7000,8000,7500
+2020-06-01,Onion,23,Maharashtra,27,Ratnagiri,528,1600,1800,1700
+2020-05-27,Onion,23,Maharashtra,27,Ratnagiri,528,1300,1500,1400
+2020-05-20,Onion,23,Maharashtra,27,Ratnagiri,528,1200,1500,1300
+2020-05-06,Onion,23,Maharashtra,27,Ratnagiri,528,1200,1500,1300
+2018-12-31,Onion,23,Maharashtra,27,Ratnagiri,528,600,800,700
+2016-02-02,Onion,23,Maharashtra,27,Ratnagiri,528,1500,2000,1600

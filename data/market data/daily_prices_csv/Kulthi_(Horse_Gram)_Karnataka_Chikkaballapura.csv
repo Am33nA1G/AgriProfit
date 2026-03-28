@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-20,Kulthi (Horse Gram),114,Karnataka,29,Chikkaballapura,582,9500,9900,9700
+2021-07-23,Kulthi (Horse Gram),114,Karnataka,29,Chikkaballapura,582,9000,10500,9800
+2021-07-07,Kulthi (Horse Gram),114,Karnataka,29,Chikkaballapura,582,3000,4000,3500

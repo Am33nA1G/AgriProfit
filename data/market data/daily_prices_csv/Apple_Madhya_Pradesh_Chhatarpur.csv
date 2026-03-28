@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-23,Apple,17,Madhya Pradesh,23,Chhatarpur,425,2200,2225,2215
+2022-06-02,Apple,17,Madhya Pradesh,23,Chhatarpur,425,1900,1950,1925
+2020-12-15,Apple,17,Madhya Pradesh,23,Chhatarpur,425,4000,4000,4000
+2020-10-14,Apple,17,Madhya Pradesh,23,Chhatarpur,425,3000,3500,3000
+2020-10-13,Apple,17,Madhya Pradesh,23,Chhatarpur,425,2000,3000,2000
+2020-09-23,Apple,17,Madhya Pradesh,23,Chhatarpur,425,2000,3000,2000
+2020-09-19,Apple,17,Madhya Pradesh,23,Chhatarpur,425,3000,3000,3000
+2020-09-15,Apple,17,Madhya Pradesh,23,Chhatarpur,425,4000,5000,4000
+2020-09-14,Apple,17,Madhya Pradesh,23,Chhatarpur,425,4000,4000,4000
+2020-08-19,Apple,17,Madhya Pradesh,23,Chhatarpur,425,6000,6000,6000

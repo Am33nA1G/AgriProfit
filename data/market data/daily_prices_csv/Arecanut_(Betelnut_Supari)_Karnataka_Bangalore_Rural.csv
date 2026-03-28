@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-22,Arecanut (Betelnut/Supari),140,Karnataka,29,Bangalore Rural,583,40000,40000,40000
+2019-03-14,Arecanut (Betelnut/Supari),140,Karnataka,29,Bangalore Rural,583,24000,24000,24000
+2016-04-15,Arecanut (Betelnut/Supari),140,Karnataka,29,Bangalore Rural,583,15880,15880,15880
+2015-03-23,Arecanut (Betelnut/Supari),140,Karnataka,29,Bangalore Rural,583,35000,35000,35000

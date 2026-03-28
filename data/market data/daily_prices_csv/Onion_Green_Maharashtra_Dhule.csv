@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-03,Onion Green,358,Maharashtra,27,Dhule,498,400,855,650
+2018-11-29,Onion Green,358,Maharashtra,27,Dhule,498,300,800,450
+2018-11-28,Onion Green,358,Maharashtra,27,Dhule,498,300,800,450
+2018-11-27,Onion Green,358,Maharashtra,27,Dhule,498,310,770,540
+2018-11-22,Onion Green,358,Maharashtra,27,Dhule,498,310,700,500
+2018-11-21,Onion Green,358,Maharashtra,27,Dhule,498,405,970,630

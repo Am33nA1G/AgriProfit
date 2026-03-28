@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-08,Red Gram,7,Karnataka,29,Koppal,560,4521,4521,4521
+2015-03-02,Red Gram,7,Karnataka,29,Koppal,560,4575,4575,4575
+2015-03-01,Red Gram,7,Karnataka,29,Koppal,560,4575,4575,4575
+2015-02-23,Red Gram,7,Karnataka,29,Koppal,560,4811,4811,4811
+2015-02-22,Red Gram,7,Karnataka,29,Koppal,560,4811,4811,4811
+2015-02-19,Red Gram,7,Karnataka,29,Koppal,560,4515,4515,4515
+2015-02-15,Red Gram,7,Karnataka,29,Koppal,560,4515,4515,4515
+2015-02-12,Red Gram,7,Karnataka,29,Koppal,560,4131,4131,4131
+2015-02-10,Red Gram,7,Karnataka,29,Koppal,560,4131,4131,4131
+2015-02-08,Red Gram,7,Karnataka,29,Koppal,560,4131,4131,4131
+2015-02-07,Red Gram,7,Karnataka,29,Koppal,560,4121,4121,4121
+2015-02-01,Red Gram,7,Karnataka,29,Koppal,560,4121,4121,4121
+2015-01-25,Red Gram,7,Karnataka,29,Koppal,560,4121,4121,4121
+2015-01-20,Red Gram,7,Karnataka,29,Koppal,560,4010,4010,4010

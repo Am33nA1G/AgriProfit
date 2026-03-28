@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-20,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,2000,2080,2040
+2019-12-19,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,2000,3020,2070
+2018-12-15,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,1400,1600,1500
+2018-03-06,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,400,550,450
+2018-02-27,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,900,800
+2018-02-24,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,900,800
+2018-02-23,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,1100,900
+2018-02-20,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,800,900,850
+2018-02-17,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,800,900,850
+2018-02-16,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,850,800
+2018-02-13,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,800,1050,900
+2018-02-10,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,800,750
+2018-02-09,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,750,910,830
+2018-02-06,Peas Wet,174,Uttar Pradesh,9,Mainpuri,148,700,850,750

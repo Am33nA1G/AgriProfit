@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-09,Sunhemp,139,Madhya Pradesh,23,Panna,426,2000,2030,2010
+2017-10-30,Sunhemp,139,Madhya Pradesh,23,Panna,426,1650,2301,1800
+2017-10-28,Sunhemp,139,Madhya Pradesh,23,Panna,426,1700,2700,2000
+2017-10-26,Sunhemp,139,Madhya Pradesh,23,Panna,426,2066,2323,2100
+2017-10-25,Sunhemp,139,Madhya Pradesh,23,Panna,426,1200,2600,2300
+2017-10-24,Sunhemp,139,Madhya Pradesh,23,Panna,426,1800,2680,2000
+2017-10-23,Sunhemp,139,Madhya Pradesh,23,Panna,426,2052,2650,2350
+2017-08-19,Sunhemp,139,Madhya Pradesh,23,Panna,426,3100,3300,3200
+2017-07-18,Sunhemp,139,Madhya Pradesh,23,Panna,426,3980,4800,4000
+2017-05-29,Sunhemp,139,Madhya Pradesh,23,Panna,426,2145,2145,2145
+2017-05-15,Sunhemp,139,Madhya Pradesh,23,Panna,426,2295,2295,2295
+2017-01-31,Sunhemp,139,Madhya Pradesh,23,Panna,426,5000,5050,5020
+2017-01-30,Sunhemp,139,Madhya Pradesh,23,Panna,426,5000,5150,5050
+2016-10-21,Sunhemp,139,Madhya Pradesh,23,Panna,426,5400,6100,5500
+2016-10-20,Sunhemp,139,Madhya Pradesh,23,Panna,426,5600,6100,5800
+2016-10-19,Sunhemp,139,Madhya Pradesh,23,Panna,426,5700,6000,5800
+2016-10-18,Sunhemp,139,Madhya Pradesh,23,Panna,426,5000,5571,5400
+2016-10-17,Sunhemp,139,Madhya Pradesh,23,Panna,426,3100,5400,4500
+2016-10-10,Sunhemp,139,Madhya Pradesh,23,Panna,426,6075,6120,6090
+2016-10-05,Sunhemp,139,Madhya Pradesh,23,Panna,426,5350,6640,5560
+2016-10-03,Sunhemp,139,Madhya Pradesh,23,Panna,426,5750,6200,5800
+2016-03-31,Sunhemp,139,Madhya Pradesh,23,Panna,426,1270,1270,1270
+2015-10-28,Sunhemp,139,Madhya Pradesh,23,Panna,426,8000,8703,8400
+2015-10-26,Sunhemp,139,Madhya Pradesh,23,Panna,426,4500,4600,4520
+2015-01-16,Sunhemp,139,Madhya Pradesh,23,Panna,426,3700,3710,3700

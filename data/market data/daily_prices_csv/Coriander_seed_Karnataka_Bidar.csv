@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-16,Coriander seed,108,Karnataka,29,Bidar,558,5900,6600,6200
+2017-02-02,Coriander seed,108,Karnataka,29,Bidar,558,3600,3600,3600
+2016-12-19,Coriander seed,108,Karnataka,29,Bidar,558,5800,5900,5850
+2016-12-17,Coriander seed,108,Karnataka,29,Bidar,558,5700,6120,5800

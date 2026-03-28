@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-07,Coriander (Leaves),43,Telangana,36,Warangal,540,5255,5255,5255
+2018-03-29,Coriander (Leaves),43,Telangana,36,Warangal,540,5025,5025,5025
+2017-09-15,Coriander (Leaves),43,Telangana,36,Warangal,540,3355,3555,3400
+2017-04-10,Coriander (Leaves),43,Telangana,36,Warangal,540,4257,4257,4257
+2017-03-02,Coriander (Leaves),43,Telangana,36,Warangal,540,6156,6156,6156
+2017-02-14,Coriander (Leaves),43,Telangana,36,Warangal,540,4550,4550,4550
+2016-08-13,Coriander (Leaves),43,Telangana,36,Warangal,540,7852,7852,7852
+2015-02-02,Coriander (Leaves),43,Telangana,36,Warangal,540,8500,8500,8500

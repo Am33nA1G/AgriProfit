@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-19,Barley (Jau),29,Madhya Pradesh,23,Umaria,431,1950,1950,1950
+2024-09-13,Barley (Jau),29,Madhya Pradesh,23,Umaria,431,1500,1500,1500
+2024-09-11,Barley (Jau),29,Madhya Pradesh,23,Umaria,431,1850,1850,1850

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-11,Mustard,12,Tamil Nadu,33,Cuddalore,617,3371,3373,3372
+2016-05-04,Mustard,12,Tamil Nadu,33,Cuddalore,617,6120,6120,6120
+2015-12-09,Mustard,12,Tamil Nadu,33,Cuddalore,617,2994,3445,3348
+2015-01-21,Mustard,12,Tamil Nadu,33,Cuddalore,617,2689,2707,2694

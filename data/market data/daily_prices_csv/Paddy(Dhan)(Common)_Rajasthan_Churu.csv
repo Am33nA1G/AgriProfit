@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-07,Paddy(Dhan)(Common),2,Rajasthan,8,Churu,102,1310,1320,1315
+2018-04-06,Paddy(Dhan)(Common),2,Rajasthan,8,Churu,102,1310,1315,1313
+2018-04-02,Paddy(Dhan)(Common),2,Rajasthan,8,Churu,102,1300,1330,1315

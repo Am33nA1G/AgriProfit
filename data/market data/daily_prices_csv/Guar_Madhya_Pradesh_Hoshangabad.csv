@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-08,Guar,75,Madhya Pradesh,23,Hoshangabad,449,2000,2000,2000
+2021-09-18,Guar,75,Madhya Pradesh,23,Hoshangabad,449,1300,1500,1400
+2021-07-27,Guar,75,Madhya Pradesh,23,Hoshangabad,449,1100,1200,1100

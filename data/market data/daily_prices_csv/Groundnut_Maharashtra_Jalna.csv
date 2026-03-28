@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-28,Groundnut,10,Maharashtra,27,Jalna,514,1500,7200,3500
+2024-09-18,Groundnut,10,Maharashtra,27,Jalna,514,2000,8000,5000
+2024-09-14,Groundnut,10,Maharashtra,27,Jalna,514,2000,8000,5000
+2024-08-28,Groundnut,10,Maharashtra,27,Jalna,514,2000,8000,5000
+2024-08-22,Groundnut,10,Maharashtra,27,Jalna,514,2000,8000,5000
+2024-08-17,Groundnut,10,Maharashtra,27,Jalna,514,2000,6000,4000
+2022-05-13,Groundnut,10,Maharashtra,27,Jalna,514,4600,4600,4600
+2021-10-09,Groundnut,10,Maharashtra,27,Jalna,514,6000,6000,6000
+2021-06-25,Groundnut,10,Maharashtra,27,Jalna,514,3000,3000,3000

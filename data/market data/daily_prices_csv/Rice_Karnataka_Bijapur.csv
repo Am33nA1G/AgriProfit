@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-15,Rice,3,Karnataka,29,Bijapur,557,3500,3700,3550
+2015-09-18,Rice,3,Karnataka,29,Bijapur,557,4000,5000,4500
+2015-08-30,Rice,3,Karnataka,29,Bijapur,557,2095,2095,2095

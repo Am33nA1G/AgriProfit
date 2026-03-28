@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-22,Carrot,153,Bihar,10,Purnia,211,1500,1700,1600
+2022-03-21,Carrot,153,Bihar,10,Purnia,211,1400,1600,1500
+2022-03-20,Carrot,153,Bihar,10,Purnia,211,1500,1700,1600
+2022-03-19,Carrot,153,Bihar,10,Purnia,211,1500,1700,1600
+2022-02-24,Carrot,153,Bihar,10,Purnia,211,800,1000,950

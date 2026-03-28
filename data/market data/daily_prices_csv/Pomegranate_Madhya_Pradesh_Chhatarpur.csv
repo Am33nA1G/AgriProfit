@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-24,Pomegranate,190,Madhya Pradesh,23,Chhatarpur,425,3000,3000,3000
+2020-08-24,Pomegranate,190,Madhya Pradesh,23,Chhatarpur,425,3000,3000,3000
+2020-08-19,Pomegranate,190,Madhya Pradesh,23,Chhatarpur,425,3000,3000,3000

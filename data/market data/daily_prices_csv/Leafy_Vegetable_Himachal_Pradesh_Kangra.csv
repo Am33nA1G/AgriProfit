@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-10,Leafy Vegetable,171,Himachal Pradesh,2,Kangra,24,2000,3500,2750
+2019-11-19,Leafy Vegetable,171,Himachal Pradesh,2,Kangra,24,800,1000,900
+2019-10-21,Leafy Vegetable,171,Himachal Pradesh,2,Kangra,24,500,1000,750

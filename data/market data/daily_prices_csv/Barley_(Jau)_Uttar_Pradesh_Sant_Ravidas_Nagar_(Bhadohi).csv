@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-03,Barley (Jau),29,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,2700,2760,2730
+2018-10-06,Barley (Jau),29,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,1400,1410,1410
+2018-09-25,Barley (Jau),29,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,1400,1410,1410
+2018-09-24,Barley (Jau),29,Uttar Pradesh,9,Sant Ravidas Nagar (Bhadohi),198,1400,1410,1410

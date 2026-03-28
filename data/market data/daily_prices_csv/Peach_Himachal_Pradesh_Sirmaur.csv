@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-17,Peach,331,Himachal Pradesh,2,Sirmaur,32,4000,6000,5000
+2023-06-06,Peach,331,Himachal Pradesh,2,Sirmaur,32,3000,0,3500
+2022-06-20,Peach,331,Himachal Pradesh,2,Sirmaur,32,3000,3000,3000
+2022-06-01,Peach,331,Himachal Pradesh,2,Sirmaur,32,2000,2000,2000
+2021-07-22,Peach,331,Himachal Pradesh,2,Sirmaur,32,3000,4000,3500
+2021-06-28,Peach,331,Himachal Pradesh,2,Sirmaur,32,4000,4500,4250
+2019-07-06,Peach,331,Himachal Pradesh,2,Sirmaur,32,2000,2500,2300
+2019-05-13,Peach,331,Himachal Pradesh,2,Sirmaur,32,2500,3000,2800
+2018-06-01,Peach,331,Himachal Pradesh,2,Sirmaur,32,3500,4000,3800
+2018-05-04,Peach,331,Himachal Pradesh,2,Sirmaur,32,2500,3000,2800

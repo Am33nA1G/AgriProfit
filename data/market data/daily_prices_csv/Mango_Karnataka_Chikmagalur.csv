@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-18,Mango,20,Karnataka,29,Chikmagalur,570,400,800,670
+2017-04-12,Mango,20,Karnataka,29,Chikmagalur,570,1000,1800,1600

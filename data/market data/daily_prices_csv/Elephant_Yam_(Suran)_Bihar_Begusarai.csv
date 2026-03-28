@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-03,Elephant Yam (Suran),296,Bihar,10,Begusarai,222,3000,3200,3100
+2023-09-02,Elephant Yam (Suran),296,Bihar,10,Begusarai,222,3000,3200,3100
+2023-09-01,Elephant Yam (Suran),296,Bihar,10,Begusarai,222,3100,3200,3150

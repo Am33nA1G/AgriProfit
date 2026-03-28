@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-07,Guava,185,Bihar,10,Arwal,240,5000,5200,5100
+2022-11-01,Guava,185,Bihar,10,Arwal,240,6400,6900,6800

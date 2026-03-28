@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-12,Black Gram Dal (Urd Dal),264,Madhya Pradesh,23,Tikamgarh,424,3400,3475,3450
+2022-01-31,Black Gram Dal (Urd Dal),264,Madhya Pradesh,23,Tikamgarh,424,4500,4600,4600
+2018-11-02,Black Gram Dal (Urd Dal),264,Madhya Pradesh,23,Tikamgarh,424,2750,2850,2800
+2018-10-30,Black Gram Dal (Urd Dal),264,Madhya Pradesh,23,Tikamgarh,424,2785,2800,2795

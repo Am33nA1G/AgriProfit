@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-20,Linseed,67,Maharashtra,27,Gadchiroli,508,5000,5000,5000
+2016-05-21,Linseed,67,Maharashtra,27,Gadchiroli,508,4500,4500,4500
+2015-11-30,Linseed,67,Maharashtra,27,Gadchiroli,508,4200,4200,4200
+2015-07-22,Linseed,67,Maharashtra,27,Gadchiroli,508,4000,4000,4000
+2015-07-17,Linseed,67,Maharashtra,27,Gadchiroli,508,4000,4000,4000

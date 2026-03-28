@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-20,White Pumpkin,158,Nagaland,13,Mokokchung,262,3000,4000,3500
+2021-02-13,White Pumpkin,158,Nagaland,13,Mokokchung,262,3000,4000,3500
+2021-02-06,White Pumpkin,158,Nagaland,13,Mokokchung,262,3000,4000,3500
+2021-01-30,White Pumpkin,158,Nagaland,13,Mokokchung,262,3000,3400,3200
+2021-01-23,White Pumpkin,158,Nagaland,13,Mokokchung,262,6000,7000,6500

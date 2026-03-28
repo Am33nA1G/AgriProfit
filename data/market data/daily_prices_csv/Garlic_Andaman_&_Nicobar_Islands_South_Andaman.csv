@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-06,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,6000,8000,7000
+2019-03-04,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,1600,1800,1700
+2018-07-06,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,80,120,100
+2018-06-15,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,80,120,100
+2017-10-20,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,10,12700,11400
+2017-09-06,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,10000,12700,11400
+2017-08-29,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,10000,12000,11000
+2017-08-28,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,10000,12000,11000
+2017-08-21,Garlic,25,Andaman & Nicobar Islands,35,South Andaman,640,10000,12000,11000

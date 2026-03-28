@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-04,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3540,3550,3545
+2019-11-01,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3550,3600,3575
+2019-10-18,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3600,3600,3600
+2019-04-20,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3195,3195,3195
+2019-04-09,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3000,3100,3050
+2019-02-20,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3700,3700,3700
+2018-07-10,Masur Dal,259,Madhya Pradesh,23,Chhatarpur,425,3180,3220,3200

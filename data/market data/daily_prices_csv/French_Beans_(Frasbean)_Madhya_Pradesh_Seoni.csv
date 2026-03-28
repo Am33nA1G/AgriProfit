@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-28,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,800,1000,900
+2023-08-26,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1800,2200,2000
+2023-08-25,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1700,2000,1850
+2023-08-24,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1700,1900,1800
+2023-08-23,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1500,1700,1600
+2023-08-22,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1800,2200,2000
+2023-08-21,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1700,1900,1800
+2023-08-19,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1800,2200,2000
+2023-08-18,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1800,2200,2000
+2023-08-17,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1600,2000,1800
+2023-08-16,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1400,1600,1500
+2023-08-15,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1400,1600,1500
+2023-08-14,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1700,1900,1800
+2023-08-12,French Beans (Frasbean),298,Madhya Pradesh,23,Seoni,456,1300,1700,1500

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-30,Toria,66,Gujarat,24,Vadodara,486,600,950,800
+2015-01-16,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300
+2015-01-13,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300
+2015-01-12,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300
+2015-01-11,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300
+2015-01-07,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300
+2015-01-03,Toria,66,Gujarat,24,Vadodara,486,2000,2500,2300

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-21,Chili Red,26,Odisha,21,Anugul,384,12000,13000,12500
+2019-03-05,Chili Red,26,Odisha,21,Anugul,384,12000,13000,12500
+2019-02-08,Chili Red,26,Odisha,21,Anugul,384,11000,13000,12000
+2019-01-12,Chili Red,26,Odisha,21,Anugul,384,12000,13000,12500
+2018-08-04,Chili Red,26,Odisha,21,Anugul,384,12000,13000,12500
+2015-03-25,Chili Red,26,Odisha,21,Anugul,384,10000,12000,11000
+2015-01-14,Chili Red,26,Odisha,21,Anugul,384,8000,10000,9000

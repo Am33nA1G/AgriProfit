@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-12,Bull,214,Assam,18,Barpeta,303,1000,1100,1050
+2018-03-16,Bull,214,Assam,18,Barpeta,303,200,300,250

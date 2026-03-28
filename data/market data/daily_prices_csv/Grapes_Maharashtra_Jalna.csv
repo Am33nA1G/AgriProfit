@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-13,Grapes,22,Maharashtra,27,Jalna,514,800,4000,1800
+2025-04-28,Grapes,22,Maharashtra,27,Jalna,514,600,3000,1500
+2025-04-23,Grapes,22,Maharashtra,27,Jalna,514,600,3000,1500
+2025-04-11,Grapes,22,Maharashtra,27,Jalna,514,500,2000,1200
+2025-03-26,Grapes,22,Maharashtra,27,Jalna,514,500,2000,1200
+2025-03-24,Grapes,22,Maharashtra,27,Jalna,514,500,2000,1200

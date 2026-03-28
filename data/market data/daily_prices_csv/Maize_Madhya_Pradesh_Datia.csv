@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-20,Maize,4,Madhya Pradesh,23,Datia,422,1205,1205,1205
+2018-02-21,Maize,4,Madhya Pradesh,23,Datia,422,1050,1050,1050
+2016-10-17,Maize,4,Madhya Pradesh,23,Datia,422,1105,1105,1105
+2015-06-19,Maize,4,Madhya Pradesh,23,Datia,422,775,900,850
+2015-02-09,Maize,4,Madhya Pradesh,23,Datia,422,900,920,910

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-11,Mustard,12,Maharashtra,27,Jalgaon,499,6630,6820,6790
+2023-07-10,Mustard,12,Maharashtra,27,Jalgaon,499,6600,6800,6770

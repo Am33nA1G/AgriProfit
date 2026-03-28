@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-06,Sweet Potato,152,Haryana,6,Karnal,74,3000,3000,3000
+2025-10-05,Sweet Potato,152,Haryana,6,Karnal,74,2500,3500,3000
+2025-10-04,Sweet Potato,152,Haryana,6,Karnal,74,2000,2500,2250
+2025-10-02,Sweet Potato,152,Haryana,6,Karnal,74,2000,2500,2250
+2025-10-01,Sweet Potato,152,Haryana,6,Karnal,74,1500,2500,2000
+2025-09-06,Sweet Potato,152,Haryana,6,Karnal,74,5000,5000,5000
+2025-02-25,Sweet Potato,152,Haryana,6,Karnal,74,2000,2500,2250
+2025-02-24,Sweet Potato,152,Haryana,6,Karnal,74,2500,3000,2800
+2025-02-20,Sweet Potato,152,Haryana,6,Karnal,74,3000,3000,3000
+2025-02-08,Sweet Potato,152,Haryana,6,Karnal,74,2500,3000,2800
+2025-02-06,Sweet Potato,152,Haryana,6,Karnal,74,2300,2500,2400
+2025-02-05,Sweet Potato,152,Haryana,6,Karnal,74,2400,2500,2450
+2025-02-04,Sweet Potato,152,Haryana,6,Karnal,74,2800,3000,2900
+2025-02-02,Sweet Potato,152,Haryana,6,Karnal,74,2000,2400,2200
+2025-02-01,Sweet Potato,152,Haryana,6,Karnal,74,2000,2500,2250
+2025-01-30,Sweet Potato,152,Haryana,6,Karnal,74,2000,2500,2250

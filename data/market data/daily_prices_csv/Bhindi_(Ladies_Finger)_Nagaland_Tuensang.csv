@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-19,Bhindi (Ladies Finger),85,Nagaland,13,Tuensang,267,1500,2500,2000
+2016-09-12,Bhindi (Ladies Finger),85,Nagaland,13,Tuensang,267,1500,2500,2000
+2016-08-01,Bhindi (Ladies Finger),85,Nagaland,13,Tuensang,267,2000,3000,2500
+2016-07-18,Bhindi (Ladies Finger),85,Nagaland,13,Tuensang,267,1500,2500,2000
+2016-07-11,Bhindi (Ladies Finger),85,Nagaland,13,Tuensang,267,2000,3000,2500

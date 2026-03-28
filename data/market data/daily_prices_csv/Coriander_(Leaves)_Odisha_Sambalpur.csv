@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-23,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1111,1113,1112
+2018-04-05,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1222,1226,1223
+2018-03-31,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1222,1224,1223
+2018-03-22,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1123,1143,1125
+2018-03-01,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1123,1156,1125
+2018-02-14,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1123,1165,1132
+2018-02-01,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1112,1117,1116
+2018-01-17,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1123,1154,1132
+2018-01-01,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1123,1156,1125
+2017-08-31,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1233,1245,1234
+2017-08-09,Coriander (Leaves),43,Odisha,21,Sambalpur,372,900,1000,967
+2017-07-23,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1111,1245,1233
+2017-04-05,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1111,1113,1112
+2017-01-26,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1000,1200,1100
+2016-12-11,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1000,1200,1100
+2016-08-19,Coriander (Leaves),43,Odisha,21,Sambalpur,372,1100,1300,1200
+2016-04-16,Coriander (Leaves),43,Odisha,21,Sambalpur,372,900,1000,950
+2016-02-09,Coriander (Leaves),43,Odisha,21,Sambalpur,372,960,1100,1000
+2016-01-20,Coriander (Leaves),43,Odisha,21,Sambalpur,372,400,950,900
+2016-01-19,Coriander (Leaves),43,Odisha,21,Sambalpur,372,900,1000,950
+2015-12-18,Coriander (Leaves),43,Odisha,21,Sambalpur,372,900,1000,950
+2015-12-07,Coriander (Leaves),43,Odisha,21,Sambalpur,372,600,900,700
+2015-12-06,Coriander (Leaves),43,Odisha,21,Sambalpur,372,600,650,650
+2015-12-05,Coriander (Leaves),43,Odisha,21,Sambalpur,372,800,900,860
+2015-12-02,Coriander (Leaves),43,Odisha,21,Sambalpur,372,600,700,650
+2015-11-24,Coriander (Leaves),43,Odisha,21,Sambalpur,372,550,650,600

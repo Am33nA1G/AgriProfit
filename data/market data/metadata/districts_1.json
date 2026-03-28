@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "census_district_id": 1,
+      "census_district_name": "Kupwara"
+    },
+    {
+      "census_district_id": 2,
+      "census_district_name": "Badgam"
+    },
+    {
+      "census_district_id": 3,
+      "census_district_name": "Leh(Ladakh)"
+    },
+    {
+      "census_district_id": 4,
+      "census_district_name": "Kargil"
+    },
+    {
+      "census_district_id": 5,
+      "census_district_name": "Punch"
+    },
+    {
+      "census_district_id": 6,
+      "census_district_name": "Rajouri"
+    },
+    {
+      "census_district_id": 7,
+      "census_district_name": "Kathua"
+    },
+    {
+      "census_district_id": 8,
+      "census_district_name": "Baramula"
+    },
+    {
+      "census_district_id": 9,
+      "census_district_name": "Bandipore"
+    },
+    {
+      "census_district_id": 10,
+      "census_district_name": "Srinagar"
+    },
+    {
+      "census_district_id": 11,
+      "census_district_name": "Ganderbal"
+    },
+    {
+      "census_district_id": 12,
+      "census_district_name": "Pulwama"
+    },
+    {
+      "census_district_id": 13,
+      "census_district_name": "Shupiyan"
+    },
+    {
+      "census_district_id": 14,
+      "census_district_name": "Anantnag"
+    },
+    {
+      "census_district_id": 15,
+      "census_district_name": "Kulgam"
+    },
+    {
+      "census_district_id": 16,
+      "census_district_name": "Doda"
+    },
+    {
+      "census_district_id": 17,
+      "census_district_name": "Ramban"
+    },
+    {
+      "census_district_id": 18,
+      "census_district_name": "Kishtwar"
+    },
+    {
+      "census_district_id": 19,
+      "census_district_name": "Udhampur"
+    },
+    {
+      "census_district_id": 20,
+      "census_district_name": "Reasi"
+    },
+    {
+      "census_district_id": 21,
+      "census_district_name": "Jammu"
+    },
+    {
+      "census_district_id": 22,
+      "census_district_name": "Samba"
+    }
+  ]
+}

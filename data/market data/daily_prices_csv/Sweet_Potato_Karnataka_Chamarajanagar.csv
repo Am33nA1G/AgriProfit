@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-09,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,1500,3000,2200
+2020-10-21,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,1500,3400,2000
+2020-10-20,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,1000,3500,2000
+2020-04-23,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,2200,2500,2200
+2020-01-10,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,900,1200,1000
+2019-12-19,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,1000,1100,1050
+2019-12-13,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,900,1100,1000
+2019-12-12,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,900,1100,1000
+2019-12-06,Sweet Potato,152,Karnataka,29,Chamarajanagar,578,900,1100,1000

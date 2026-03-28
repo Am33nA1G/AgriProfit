@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-28,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1100,1300,1200
+2025-02-23,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1000,1200,1100
+2025-02-22,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1100,1300,1200
+2025-02-17,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1000,1200,1100
+2025-02-10,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1100,1300,1200
+2025-01-27,Beans,94,Uttar Pradesh,9,Sonbhadra,200,1000,1200,1100
+2025-01-15,Beans,94,Uttar Pradesh,9,Sonbhadra,200,600,800,700
+2025-01-04,Beans,94,Uttar Pradesh,9,Sonbhadra,200,900,1100,1000
+2025-01-03,Beans,94,Uttar Pradesh,9,Sonbhadra,200,900,1100,1000
+2024-12-27,Beans,94,Uttar Pradesh,9,Sonbhadra,200,800,1000,900

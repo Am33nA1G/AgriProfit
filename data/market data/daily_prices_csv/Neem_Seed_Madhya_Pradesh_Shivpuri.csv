@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-08,Neem Seed,126,Madhya Pradesh,23,Shivpuri,423,1875,1890,1890
+2024-08-07,Neem Seed,126,Madhya Pradesh,23,Shivpuri,423,1905,1905,1905
+2022-07-09,Neem Seed,126,Madhya Pradesh,23,Shivpuri,423,1350,1410,1380
+2021-07-23,Neem Seed,126,Madhya Pradesh,23,Shivpuri,423,1010,1050,1030

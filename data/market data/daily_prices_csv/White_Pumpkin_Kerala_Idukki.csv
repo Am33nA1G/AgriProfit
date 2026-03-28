@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-16,White Pumpkin,158,Kerala,32,Idukki,596,4000,4500,4500
+2023-10-21,White Pumpkin,158,Kerala,32,Idukki,596,4000,5000,4500
+2023-10-16,White Pumpkin,158,Kerala,32,Idukki,596,4000,4500,4200
+2023-10-08,White Pumpkin,158,Kerala,32,Idukki,596,4000,4800,4500
+2023-09-28,White Pumpkin,158,Kerala,32,Idukki,596,3000,4500,3500
+2023-09-26,White Pumpkin,158,Kerala,32,Idukki,596,4000,4500,4500
+2023-09-18,White Pumpkin,158,Kerala,32,Idukki,596,3000,4500,4000
+2023-09-15,White Pumpkin,158,Kerala,32,Idukki,596,3500,5000,4000
+2023-09-05,White Pumpkin,158,Kerala,32,Idukki,596,3000,4500,4000
+2023-08-25,White Pumpkin,158,Kerala,32,Idukki,596,3500,4000,4000
+2023-08-20,White Pumpkin,158,Kerala,32,Idukki,596,3500,4500,4000
+2023-08-18,White Pumpkin,158,Kerala,32,Idukki,596,3500,4500,4000
+2023-08-14,White Pumpkin,158,Kerala,32,Idukki,596,3000,4500,4000
+2023-08-11,White Pumpkin,158,Kerala,32,Idukki,596,5000,6000,6000
+2023-08-08,White Pumpkin,158,Kerala,32,Idukki,596,3000,4800,4500
+2023-08-06,White Pumpkin,158,Kerala,32,Idukki,596,4000,4800,4500
+2023-07-14,White Pumpkin,158,Kerala,32,Idukki,596,4000,4800,4500
+2023-06-20,White Pumpkin,158,Kerala,32,Idukki,596,4500,5000,5000
+2023-06-16,White Pumpkin,158,Kerala,32,Idukki,596,3500,5000,4500
+2023-06-10,White Pumpkin,158,Kerala,32,Idukki,596,3000,4500,4000
+2023-06-03,White Pumpkin,158,Kerala,32,Idukki,596,3500,4500,4000

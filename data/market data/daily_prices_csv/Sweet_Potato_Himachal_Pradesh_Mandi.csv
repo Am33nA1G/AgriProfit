@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-24,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,1500,5000,3250
+2016-04-16,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,1200,1200,1200
+2016-04-04,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,1400,1500,1450
+2016-03-21,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,1000,1500,1250
+2016-03-01,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,2200,2500,2250
+2015-01-05,Sweet Potato,152,Himachal Pradesh,2,Mandi,27,1700,1800,1800

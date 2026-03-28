@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-11,Papaya,72,Madhya Pradesh,23,Rewa,430,1700,1700,1700
+2025-08-26,Papaya,72,Madhya Pradesh,23,Rewa,430,1800,1800,1800
+2025-06-08,Papaya,72,Madhya Pradesh,23,Rewa,430,1600,1600,1600

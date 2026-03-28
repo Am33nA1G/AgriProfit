@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-04,Kartali (Kantola),305,Gujarat,24,Porbandar,478,3000,4000,3500
+2024-09-03,Kartali (Kantola),305,Gujarat,24,Porbandar,478,2500,3500,3000
+2024-09-02,Kartali (Kantola),305,Gujarat,24,Porbandar,478,2500,3500,3000
+2024-08-29,Kartali (Kantola),305,Gujarat,24,Porbandar,478,4000,5000,4500

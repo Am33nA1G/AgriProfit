@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-21,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,6700,6700,6700
+2015-12-20,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,7600,7600,7600
+2015-12-15,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,7600,7600,7600
+2015-11-24,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,7000,7000,7000
+2015-11-18,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,7000,7000,7000
+2015-11-13,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,6900,6900,6900
+2015-11-10,White Peas,412,Punjab,3,Shahid Bhagat Singh Nagar,39,6500,7200,6700

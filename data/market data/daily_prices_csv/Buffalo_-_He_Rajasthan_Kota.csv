@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-04,Buffalo - He,216,Rajasthan,8,Kota,127,500,1000,750
+2024-01-02,Buffalo - He,216,Rajasthan,8,Kota,127,500,1000,750
+2023-12-20,Buffalo - He,216,Rajasthan,8,Kota,127,700,1500,1100
+2023-12-19,Buffalo - He,216,Rajasthan,8,Kota,127,500,1500,1000
+2023-12-18,Buffalo - He,216,Rajasthan,8,Kota,127,500,1500,1000
+2023-12-17,Buffalo - He,216,Rajasthan,8,Kota,127,500,1500,1000
+2023-12-16,Buffalo - He,216,Rajasthan,8,Kota,127,500,1500,1000
+2023-12-13,Buffalo - He,216,Rajasthan,8,Kota,127,500,1500,1000
+2023-12-12,Buffalo - He,216,Rajasthan,8,Kota,127,500,1700,1100
+2023-12-11,Buffalo - He,216,Rajasthan,8,Kota,127,500,1800,1150
+2023-12-07,Buffalo - He,216,Rajasthan,8,Kota,127,400,1400,900

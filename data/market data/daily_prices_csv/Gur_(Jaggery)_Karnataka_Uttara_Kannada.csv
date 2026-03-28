@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-10,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,4103,4103,4103
+2020-04-16,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,3500,4000,3700
+2016-09-29,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,3360,3360,3360
+2016-08-31,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,3200,3200,3200
+2016-06-30,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,2760,2760,2760
+2016-04-30,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,3300,3300,3300
+2016-01-11,Gur (Jaggery),74,Karnataka,29,Uttara Kannada,563,16859,20459,19659

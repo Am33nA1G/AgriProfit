@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-13,Sunflower,14,Madhya Pradesh,23,Neemuch,432,4200,4200,4200
+2024-10-22,Sunflower,14,Madhya Pradesh,23,Neemuch,432,4151,4151,4151
+2024-08-27,Sunflower,14,Madhya Pradesh,23,Neemuch,432,4949,4949,4949
+2017-12-14,Sunflower,14,Madhya Pradesh,23,Neemuch,432,1881,1881,1881

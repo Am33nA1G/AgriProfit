@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-28,Goat,219,Karnataka,29,Uttara Kannada,563,6000,9000,6000
+2018-05-15,Goat,219,Karnataka,29,Uttara Kannada,563,12000,12000,12000
+2017-06-28,Goat,219,Karnataka,29,Uttara Kannada,563,3000,3500,3500
+2017-06-12,Goat,219,Karnataka,29,Uttara Kannada,563,5000,5000,5000
+2017-06-05,Goat,219,Karnataka,29,Uttara Kannada,563,5000,5000,5000
+2017-05-24,Goat,219,Karnataka,29,Uttara Kannada,563,5000,5000,5000
+2017-04-27,Goat,219,Karnataka,29,Uttara Kannada,563,5000,5000,5000
+2015-06-22,Goat,219,Karnataka,29,Uttara Kannada,563,2400,2400,2400

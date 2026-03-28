@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-09,Amphophalus,102,Madhya Pradesh,23,Shivpuri,423,600,700,650
+2015-05-01,Amphophalus,102,Madhya Pradesh,23,Shivpuri,423,800,1000,900
+2015-02-04,Amphophalus,102,Madhya Pradesh,23,Shivpuri,423,500,600,550

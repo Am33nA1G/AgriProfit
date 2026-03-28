@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-07,Onion Green,358,Haryana,6,Jhajjar,83,,800,800
+2016-04-06,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2016-04-05,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2016-04-01,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2016-03-31,Onion Green,358,Haryana,6,Jhajjar,83,500,800,800
+2016-03-29,Onion Green,358,Haryana,6,Jhajjar,83,600,700,700
+2016-03-25,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2016-03-23,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2016-03-14,Onion Green,358,Haryana,6,Jhajjar,83,500,800,800
+2016-01-27,Onion Green,358,Haryana,6,Jhajjar,83,,800,800
+2015-12-21,Onion Green,358,Haryana,6,Jhajjar,83,,800,800
+2015-12-16,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2015-12-09,Onion Green,358,Haryana,6,Jhajjar,83,400,500,500
+2015-12-08,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000
+2015-12-07,Onion Green,358,Haryana,6,Jhajjar,83,500,1000,1000
+2015-12-04,Onion Green,358,Haryana,6,Jhajjar,83,,1000,1000

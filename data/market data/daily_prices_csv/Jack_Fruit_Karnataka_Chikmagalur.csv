@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-10,Jack Fruit,182,Karnataka,29,Chikmagalur,570,667,667,667
+2019-04-08,Jack Fruit,182,Karnataka,29,Chikmagalur,570,667,750,700
+2019-03-30,Jack Fruit,182,Karnataka,29,Chikmagalur,570,750,750,750
+2019-03-21,Jack Fruit,182,Karnataka,29,Chikmagalur,570,400,400,400
+2019-03-16,Jack Fruit,182,Karnataka,29,Chikmagalur,570,1500,1500,1500
+2019-03-11,Jack Fruit,182,Karnataka,29,Chikmagalur,570,400,400,400
+2019-03-06,Jack Fruit,182,Karnataka,29,Chikmagalur,570,400,400,400
+2019-03-02,Jack Fruit,182,Karnataka,29,Chikmagalur,570,150,150,150
+2019-02-27,Jack Fruit,182,Karnataka,29,Chikmagalur,570,200,200,200
+2019-02-25,Jack Fruit,182,Karnataka,29,Chikmagalur,570,200,200,200
+2019-02-23,Jack Fruit,182,Karnataka,29,Chikmagalur,570,400,400,400
+2019-02-20,Jack Fruit,182,Karnataka,29,Chikmagalur,570,111,111,111
+2019-02-16,Jack Fruit,182,Karnataka,29,Chikmagalur,570,500,500,500
+2016-03-30,Jack Fruit,182,Karnataka,29,Chikmagalur,570,429,429,429
+2015-05-28,Jack Fruit,182,Karnataka,29,Chikmagalur,570,500,500,500

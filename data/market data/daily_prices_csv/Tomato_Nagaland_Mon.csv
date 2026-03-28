@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-17,Tomato,78,Nagaland,13,Mon,261,3000,3500,3300
+2024-04-16,Tomato,78,Nagaland,13,Mon,261,3000,3500,3300
+2024-04-15,Tomato,78,Nagaland,13,Mon,261,3500,4000,3700
+2024-04-13,Tomato,78,Nagaland,13,Mon,261,3000,3500,3200
+2024-04-12,Tomato,78,Nagaland,13,Mon,261,2600,3200,2800
+2024-04-10,Tomato,78,Nagaland,13,Mon,261,3000,3500,3200
+2024-04-08,Tomato,78,Nagaland,13,Mon,261,3000,3800,3400
+2024-04-05,Tomato,78,Nagaland,13,Mon,261,2100,3000,2600
+2024-04-04,Tomato,78,Nagaland,13,Mon,261,2700,3200,3000
+2024-04-03,Tomato,78,Nagaland,13,Mon,261,2500,2900,2600
+2024-04-01,Tomato,78,Nagaland,13,Mon,261,3000,3500,3300
+2023-05-03,Tomato,78,Nagaland,13,Mon,261,800,1000,880
+2023-03-22,Tomato,78,Nagaland,13,Mon,261,1800,2700,2250

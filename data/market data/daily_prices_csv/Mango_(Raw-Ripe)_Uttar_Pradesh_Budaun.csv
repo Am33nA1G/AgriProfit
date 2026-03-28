@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-02,Mango (Raw-Ripe),172,Uttar Pradesh,9,Budaun,149,2700,3000,2850
+2018-08-17,Mango (Raw-Ripe),172,Uttar Pradesh,9,Budaun,149,2160,2600,2450
+2018-08-16,Mango (Raw-Ripe),172,Uttar Pradesh,9,Budaun,149,2160,2600,2460
+2016-06-17,Mango (Raw-Ripe),172,Uttar Pradesh,9,Budaun,149,950,1050,1000

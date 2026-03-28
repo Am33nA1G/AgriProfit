@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-24,White Pumpkin,158,Punjab,3,Gurdaspur,35,2100,2500,2300
+2019-10-03,White Pumpkin,158,Punjab,3,Gurdaspur,35,1900,2100,2000

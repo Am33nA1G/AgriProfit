@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-29,Maize,4,Rajasthan,8,Bharatpur,105,3920,4195,3996
+2019-10-05,Maize,4,Rajasthan,8,Bharatpur,105,3550,3891,3705
+2019-04-12,Maize,4,Rajasthan,8,Bharatpur,105,3205,3696,3515

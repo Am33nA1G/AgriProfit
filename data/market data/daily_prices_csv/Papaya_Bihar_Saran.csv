@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-02,Papaya,72,Bihar,10,Saran,219,2500,2800,2700
+2023-08-28,Papaya,72,Bihar,10,Saran,219,2200,2600,2400
+2023-08-23,Papaya,72,Bihar,10,Saran,219,27000,30000,28000
+2023-08-19,Papaya,72,Bihar,10,Saran,219,25000,28000,26000
+2023-08-17,Papaya,72,Bihar,10,Saran,219,25000,28000,26000
+2023-08-12,Papaya,72,Bihar,10,Saran,219,25000,27000,26000
+2023-08-11,Papaya,72,Bihar,10,Saran,219,28000,32000,30000

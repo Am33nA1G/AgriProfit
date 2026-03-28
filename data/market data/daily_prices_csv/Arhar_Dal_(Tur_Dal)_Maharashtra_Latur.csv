@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-22,Arhar Dal (Tur Dal),260,Maharashtra,27,Latur,524,4000,5000,4500
+2018-09-28,Arhar Dal (Tur Dal),260,Maharashtra,27,Latur,524,3300,3500,3400
+2017-07-19,Arhar Dal (Tur Dal),260,Maharashtra,27,Latur,524,3000,3550,3250

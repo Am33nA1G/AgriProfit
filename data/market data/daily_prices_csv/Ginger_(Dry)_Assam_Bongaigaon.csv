@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-14,Ginger (Dry),27,Assam,18,Bongaigaon,319,1300,1500,1400
+2016-06-07,Ginger (Dry),27,Assam,18,Bongaigaon,319,1320,1400,1370

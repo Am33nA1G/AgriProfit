@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-19,Guava,185,Odisha,21,Gajapati,389,2500,3000,3000
+2019-10-17,Guava,185,Odisha,21,Gajapati,389,3000,4000,4000
+2017-09-13,Guava,185,Odisha,21,Gajapati,389,3000,4000,4000
+2017-09-11,Guava,185,Odisha,21,Gajapati,389,4000,6000,6000
+2017-08-24,Guava,185,Odisha,21,Gajapati,389,2500,3000,3000
+2016-08-05,Guava,185,Odisha,21,Gajapati,389,4000,6000,6000
+2015-07-31,Guava,185,Odisha,21,Gajapati,389,400,500,500
+2015-07-16,Guava,185,Odisha,21,Gajapati,389,500,600,600
+2015-07-15,Guava,185,Odisha,21,Gajapati,389,500,700,700
+2015-07-06,Guava,185,Odisha,21,Gajapati,389,500,600,600
+2015-07-01,Guava,185,Odisha,21,Gajapati,389,500,600,600

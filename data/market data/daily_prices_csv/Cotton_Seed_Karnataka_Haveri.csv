@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-24,Cotton Seed,99,Karnataka,29,Haveri,564,2000,2000,2000
+2020-10-08,Cotton Seed,99,Karnataka,29,Haveri,564,2300,2300,2300
+2020-09-13,Cotton Seed,99,Karnataka,29,Haveri,564,2000,2000,2000
+2019-04-28,Cotton Seed,99,Karnataka,29,Haveri,564,2400,2400,2400
+2019-04-11,Cotton Seed,99,Karnataka,29,Haveri,564,2250,2250,2250
+2018-12-26,Cotton Seed,99,Karnataka,29,Haveri,564,1500,1500,1500
+2018-06-11,Cotton Seed,99,Karnataka,29,Haveri,564,1400,1400,1400
+2017-03-07,Cotton Seed,99,Karnataka,29,Haveri,564,1000,1000,1000
+2017-03-06,Cotton Seed,99,Karnataka,29,Haveri,564,2400,2400,2400
+2017-01-30,Cotton Seed,99,Karnataka,29,Haveri,564,1000,1000,1000
+2016-06-05,Cotton Seed,99,Karnataka,29,Haveri,564,1220,1420,1320
+2016-05-17,Cotton Seed,99,Karnataka,29,Haveri,564,1120,1320,1220
+2016-04-29,Cotton Seed,99,Karnataka,29,Haveri,564,1200,1400,1300

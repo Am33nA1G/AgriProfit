@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-13,Custard Apple (Sharifa),352,Haryana,6,Fatehabad,78,2500,3000,2500
+2016-09-03,Custard Apple (Sharifa),352,Haryana,6,Fatehabad,78,2500,3000,2500
+2016-06-18,Custard Apple (Sharifa),352,Haryana,6,Fatehabad,78,3000,3200,3000

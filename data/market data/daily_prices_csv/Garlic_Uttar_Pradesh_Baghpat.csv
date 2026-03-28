@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-31,Garlic,25,Uttar Pradesh,9,Baghpat,139,23000,26000,25000
+2023-02-09,Garlic,25,Uttar Pradesh,9,Baghpat,139,3200,3800,3600
+2023-01-30,Garlic,25,Uttar Pradesh,9,Baghpat,139,3000,4500,4000
+2023-01-27,Garlic,25,Uttar Pradesh,9,Baghpat,139,3900,4100,4000
+2022-12-24,Garlic,25,Uttar Pradesh,9,Baghpat,139,3500,4500,4000
+2022-11-23,Garlic,25,Uttar Pradesh,9,Baghpat,139,4000,5600,5000
+2022-11-12,Garlic,25,Uttar Pradesh,9,Baghpat,139,4500,5400,5000
+2022-01-18,Garlic,25,Uttar Pradesh,9,Baghpat,139,3000,3400,3200
+2022-01-14,Garlic,25,Uttar Pradesh,9,Baghpat,139,2800,3200,3000
+2022-01-11,Garlic,25,Uttar Pradesh,9,Baghpat,139,4400,4600,4500
+2021-12-28,Garlic,25,Uttar Pradesh,9,Baghpat,139,4600,5000,4800
+2021-12-23,Garlic,25,Uttar Pradesh,9,Baghpat,139,4500,5400,5000
+2021-12-12,Garlic,25,Uttar Pradesh,9,Baghpat,139,4000,4400,4200

@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-16,Buffalo - He,216,Telangana,36,Nalgonda,539,10000,10000,10000
+2017-06-05,Buffalo - He,216,Telangana,36,Nalgonda,539,4500,6666,5050
+2017-05-08,Buffalo - He,216,Telangana,36,Nalgonda,539,5000,5714,5000
+2017-04-17,Buffalo - He,216,Telangana,36,Nalgonda,539,3800,5512,5000
+2016-12-27,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,3000,3000
+2016-12-05,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5000,3500
+2016-10-03,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5000,3000
+2016-09-19,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,6785,6153
+2016-07-25,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,8000,4250
+2016-07-04,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5000,5000
+2016-06-20,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5000,3000
+2016-06-13,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,6875,5000
+2016-04-25,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5384,5000
+2016-04-11,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,5600,4500
+2016-01-18,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,7222,6470
+2015-11-23,Buffalo - He,216,Telangana,36,Nalgonda,539,5000,6500,6000
+2015-08-03,Buffalo - He,216,Telangana,36,Nalgonda,539,3611,7500,5000
+2015-07-20,Buffalo - He,216,Telangana,36,Nalgonda,539,3000,6000,4500
+2015-06-22,Buffalo - He,216,Telangana,36,Nalgonda,539,3500,10000,7000

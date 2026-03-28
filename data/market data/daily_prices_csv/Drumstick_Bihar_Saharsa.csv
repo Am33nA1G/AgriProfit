@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-07,Drumstick,168,Bihar,10,Saharsa,214,4000,4400,4200
+2022-05-12,Drumstick,168,Bihar,10,Saharsa,214,4000,5000,4500
+2022-05-02,Drumstick,168,Bihar,10,Saharsa,214,3000,4000,3500
+2022-04-24,Drumstick,168,Bihar,10,Saharsa,214,5000,7000,6000
+2022-04-16,Drumstick,168,Bihar,10,Saharsa,214,5000,10000,7500
+2022-04-05,Drumstick,168,Bihar,10,Saharsa,214,7000,12000,9500

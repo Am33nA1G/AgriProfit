@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-11,Brinjal,35,Andhra Pradesh,28,Kurnool,552,1400,1400,1400
+2015-11-09,Brinjal,35,Andhra Pradesh,28,Kurnool,552,1200,1200,1200
+2015-11-07,Brinjal,35,Andhra Pradesh,28,Kurnool,552,1800,1800,1800
+2015-10-27,Brinjal,35,Andhra Pradesh,28,Kurnool,552,2000,3000,2600

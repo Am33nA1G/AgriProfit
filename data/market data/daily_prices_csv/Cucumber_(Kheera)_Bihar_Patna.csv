@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-13,Cucumber (Kheera),159,Bihar,10,Patna,230,2700,2900,2800
+2022-09-12,Cucumber (Kheera),159,Bihar,10,Patna,230,2800,3000,2900
+2022-05-29,Cucumber (Kheera),159,Bihar,10,Patna,230,1500,1700,1600
+2022-05-28,Cucumber (Kheera),159,Bihar,10,Patna,230,1600,1800,1700
+2022-05-27,Cucumber (Kheera),159,Bihar,10,Patna,230,1000,1400,1200

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-02,Chili Red,26,Rajasthan,8,Tonk,120,1502,1502,1502
+2017-01-14,Chili Red,26,Rajasthan,8,Tonk,120,1465,1500,1482
+2016-12-31,Chili Red,26,Rajasthan,8,Tonk,120,1475,1501,1488
+2016-12-28,Chili Red,26,Rajasthan,8,Tonk,120,1455,1500,1477
+2015-12-28,Chili Red,26,Rajasthan,8,Tonk,120,1600,1630,1630

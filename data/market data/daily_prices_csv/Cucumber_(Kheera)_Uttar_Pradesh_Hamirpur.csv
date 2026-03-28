@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-28,Cucumber (Kheera),159,Uttar Pradesh,9,Hamirpur,168,700,750,700
+2019-04-16,Cucumber (Kheera),159,Uttar Pradesh,9,Hamirpur,168,700,800,750
+2018-11-29,Cucumber (Kheera),159,Uttar Pradesh,9,Hamirpur,168,860,950,920
+2018-08-30,Cucumber (Kheera),159,Uttar Pradesh,9,Hamirpur,168,1150,1250,1200

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-02,Knool Khol,177,Assam,18,Jorhat,312,800,1000,900
+2016-01-11,Knool Khol,177,Assam,18,Jorhat,312,820,1100,950
+2016-01-08,Knool Khol,177,Assam,18,Jorhat,312,800,1100,950

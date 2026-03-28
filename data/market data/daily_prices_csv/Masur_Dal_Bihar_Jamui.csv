@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Masur Dal,259,Bihar,10,Jamui,238,8600,8800,8800
+2023-09-06,Masur Dal,259,Bihar,10,Jamui,238,8500,8700,8700
+2023-09-05,Masur Dal,259,Bihar,10,Jamui,238,8800,8900,8900
+2023-09-04,Masur Dal,259,Bihar,10,Jamui,238,8500,8800,8800
+2023-09-03,Masur Dal,259,Bihar,10,Jamui,238,8100,8200,8200
+2023-09-02,Masur Dal,259,Bihar,10,Jamui,238,7800,8000,8000
+2023-09-01,Masur Dal,259,Bihar,10,Jamui,238,9200,9300,9300
+2023-08-31,Masur Dal,259,Bihar,10,Jamui,238,9500,9700,9600

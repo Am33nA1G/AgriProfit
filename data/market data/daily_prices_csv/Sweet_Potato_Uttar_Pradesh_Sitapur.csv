@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-28,Sweet Potato,152,Uttar Pradesh,9,Sitapur,154,1090,1110,1100
+2019-01-01,Sweet Potato,152,Uttar Pradesh,9,Sitapur,154,750,820,800
+2018-12-29,Sweet Potato,152,Uttar Pradesh,9,Sitapur,154,780,850,800
+2018-12-28,Sweet Potato,152,Uttar Pradesh,9,Sitapur,154,790,810,800

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-22,Arhar Dal (Tur Dal),260,Madhya Pradesh,23,Sheopur,418,2975,3010,3000
+2017-09-15,Arhar Dal (Tur Dal),260,Madhya Pradesh,23,Sheopur,418,3000,3000,3000
+2017-03-15,Arhar Dal (Tur Dal),260,Madhya Pradesh,23,Sheopur,418,3190,3250,3200
+2017-01-16,Arhar Dal (Tur Dal),260,Madhya Pradesh,23,Sheopur,418,2811,2811,2811

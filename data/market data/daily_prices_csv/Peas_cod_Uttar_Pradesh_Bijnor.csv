@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-22,Peas cod,308,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2019-01-21,Peas cod,308,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2019-01-20,Peas cod,308,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2018-02-01,Peas cod,308,Uttar Pradesh,9,Bijnor,134,880,920,900
+2018-01-30,Peas cod,308,Uttar Pradesh,9,Bijnor,134,900,940,920
+2018-01-29,Peas cod,308,Uttar Pradesh,9,Bijnor,134,890,910,900
+2018-01-28,Peas cod,308,Uttar Pradesh,9,Bijnor,134,900,980,940
+2018-01-27,Peas cod,308,Uttar Pradesh,9,Bijnor,134,940,960,950
+2018-01-26,Peas cod,308,Uttar Pradesh,9,Bijnor,134,900,940,920
+2018-01-25,Peas cod,308,Uttar Pradesh,9,Bijnor,134,940,960,950
+2018-01-24,Peas cod,308,Uttar Pradesh,9,Bijnor,134,940,960,950

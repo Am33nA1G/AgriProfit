@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-10,Bottle gourd,82,Nagaland,13,Mon,261,1200,1400,1320
+2022-08-03,Bottle gourd,82,Nagaland,13,Mon,261,1800,2100,1980
+2022-07-27,Bottle gourd,82,Nagaland,13,Mon,261,4800,5600,5280
+2020-10-28,Bottle gourd,82,Nagaland,13,Mon,261,3360,3840,3600
+2020-10-14,Bottle gourd,82,Nagaland,13,Mon,261,4800,5600,5280
+2020-07-15,Bottle gourd,82,Nagaland,13,Mon,261,3900,4550,4290
+2020-06-10,Bottle gourd,82,Nagaland,13,Mon,261,4800,5600,5280
+2020-05-27,Bottle gourd,82,Nagaland,13,Mon,261,4800,5600,5280
+2020-05-13,Bottle gourd,82,Nagaland,13,Mon,261,6000,7000,6600
+2020-04-29,Bottle gourd,82,Nagaland,13,Mon,261,3900,4550,4290

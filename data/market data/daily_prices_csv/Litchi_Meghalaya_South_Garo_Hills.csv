@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-11,Litchi,351,Meghalaya,17,South Garo Hills,295,1800,2000,1900
+2015-05-27,Litchi,351,Meghalaya,17,South Garo Hills,295,3500,4000,3750
+2015-05-13,Litchi,351,Meghalaya,17,South Garo Hills,295,50,70,60

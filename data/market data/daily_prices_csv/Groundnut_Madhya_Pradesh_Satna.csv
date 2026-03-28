@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-01,Groundnut,10,Madhya Pradesh,23,Satna,429,8443,8443,8443
+2024-08-26,Groundnut,10,Madhya Pradesh,23,Satna,429,7315,7635,7635
+2024-08-19,Groundnut,10,Madhya Pradesh,23,Satna,429,7505,9850,9850
+2024-08-07,Groundnut,10,Madhya Pradesh,23,Satna,429,8000,8443,8443
+2024-07-31,Groundnut,10,Madhya Pradesh,23,Satna,429,8267,8267,8267
+2024-07-25,Groundnut,10,Madhya Pradesh,23,Satna,429,8500,9290,9290
+2024-07-15,Groundnut,10,Madhya Pradesh,23,Satna,429,8000,9341,9341
+2024-07-04,Groundnut,10,Madhya Pradesh,23,Satna,429,8210,8210,8210
+2024-06-27,Groundnut,10,Madhya Pradesh,23,Satna,429,8381,8381,8381

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-27,Beans,94,Telangana,36,Karimnagar,534,5159,5159,5159
+2022-01-24,Beans,94,Telangana,36,Karimnagar,534,5015,5015,5015

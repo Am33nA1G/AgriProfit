@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-30,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-29,Pepper - garbled,109,Gujarat,24,Vadodara,486,1500,2000,1750
+2023-12-28,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2400,2200
+2023-12-27,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,3750,3000
+2023-12-23,Pepper - garbled,109,Gujarat,24,Vadodara,486,1500,2250,1900
+2023-12-22,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2250,2125
+2023-12-21,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-20,Pepper - garbled,109,Gujarat,24,Vadodara,486,2250,2500,2400
+2023-12-19,Pepper - garbled,109,Gujarat,24,Vadodara,486,2250,2500,2400
+2023-12-18,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,3000,2500
+2023-12-16,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-15,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2300,2150
+2023-12-14,Pepper - garbled,109,Gujarat,24,Vadodara,486,2500,2800,2650
+2023-12-13,Pepper - garbled,109,Gujarat,24,Vadodara,486,3000,3750,3400
+2023-12-12,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-11,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-09,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-08,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-07,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-06,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-05,Pepper - garbled,109,Gujarat,24,Vadodara,486,2000,2500,2250
+2023-12-04,Pepper - garbled,109,Gujarat,24,Vadodara,486,2200,2800,2500

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-29,Gur (Jaggery),74,Maharashtra,27,Nandurbar,497,2500,2500,2500
+2020-01-12,Gur (Jaggery),74,Maharashtra,27,Nandurbar,497,2500,2500,2500
+2018-12-24,Gur (Jaggery),74,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2016-03-02,Gur (Jaggery),74,Maharashtra,27,Nandurbar,497,2300,2300,2300

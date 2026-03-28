@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "census_district_id": 542,
+      "census_district_name": "Srikakulam"
+    },
+    {
+      "census_district_id": 543,
+      "census_district_name": "Vizianagaram"
+    },
+    {
+      "census_district_id": 544,
+      "census_district_name": "Visakhapatnam"
+    },
+    {
+      "census_district_id": 545,
+      "census_district_name": "East Godavari"
+    },
+    {
+      "census_district_id": 546,
+      "census_district_name": "West Godavari"
+    },
+    {
+      "census_district_id": 547,
+      "census_district_name": "Krishna"
+    },
+    {
+      "census_district_id": 548,
+      "census_district_name": "Guntur"
+    },
+    {
+      "census_district_id": 549,
+      "census_district_name": "Prakasam"
+    },
+    {
+      "census_district_id": 550,
+      "census_district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+      "census_district_id": 551,
+      "census_district_name": "Y.S.R."
+    },
+    {
+      "census_district_id": 552,
+      "census_district_name": "Kurnool"
+    },
+    {
+      "census_district_id": 553,
+      "census_district_name": "Anantapur"
+    },
+    {
+      "census_district_id": 554,
+      "census_district_name": "Chittoor"
+    }
+  ]
+}

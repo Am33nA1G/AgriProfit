@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-08,Mahua,335,Jharkhand,20,Garhwa,346,3000,3500,3200
+2019-06-19,Mahua,335,Jharkhand,20,Garhwa,346,2600,2715,2640
+2019-06-14,Mahua,335,Jharkhand,20,Garhwa,346,3250,3375,3325
+2019-06-13,Mahua,335,Jharkhand,20,Garhwa,346,3200,3350,3275
+2018-09-29,Mahua,335,Jharkhand,20,Garhwa,346,5000,5260,5130
+2018-09-27,Mahua,335,Jharkhand,20,Garhwa,346,4730,5000,4870

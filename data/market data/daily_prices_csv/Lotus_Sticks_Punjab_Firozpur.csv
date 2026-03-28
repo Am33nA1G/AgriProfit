@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-20,Lotus Sticks,339,Punjab,3,Firozpur,43,2464,3800,2550
+2023-09-14,Lotus Sticks,339,Punjab,3,Firozpur,43,2450,2850,2650
+2023-09-13,Lotus Sticks,339,Punjab,3,Firozpur,43,1580,2655,2154
+2023-09-12,Lotus Sticks,339,Punjab,3,Firozpur,43,2350,2750,2650
+2023-09-02,Lotus Sticks,339,Punjab,3,Firozpur,43,1545,2044,1840
+2023-08-31,Lotus Sticks,339,Punjab,3,Firozpur,43,1200,1800,1500
+2023-08-30,Lotus Sticks,339,Punjab,3,Firozpur,43,2450,2650,2500
+2023-08-05,Lotus Sticks,339,Punjab,3,Firozpur,43,2650,3800,3480
+2022-09-30,Lotus Sticks,339,Punjab,3,Firozpur,43,2500,3150,2840
+2022-09-29,Lotus Sticks,339,Punjab,3,Firozpur,43,2150,2854,2550
+2022-09-28,Lotus Sticks,339,Punjab,3,Firozpur,43,2450,2680,2550
+2022-09-26,Lotus Sticks,339,Punjab,3,Firozpur,43,2150,2850,2550
+2022-09-24,Lotus Sticks,339,Punjab,3,Firozpur,43,2400,2854,2600
+2022-09-08,Lotus Sticks,339,Punjab,3,Firozpur,43,2560,3156,2980

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-25,Carrot,153,Bihar,10,Lakhisarai,227,1800,1900,1850
+2022-04-09,Carrot,153,Bihar,10,Lakhisarai,227,2400,2550,2500
+2022-04-05,Carrot,153,Bihar,10,Lakhisarai,227,2000,2200,2050

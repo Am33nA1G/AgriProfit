@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-30,Sunflower Seed,285,Telangana,36,Nizamabad,533,2312,2312,2312
+2016-04-26,Sunflower Seed,285,Telangana,36,Nizamabad,533,3052,3052,3052
+2016-04-06,Sunflower Seed,285,Telangana,36,Nizamabad,533,2810,2860,2850
+2015-03-09,Sunflower Seed,285,Telangana,36,Nizamabad,533,2900,2900,2900
+2015-02-23,Sunflower Seed,285,Telangana,36,Nizamabad,533,2970,2970,2970
+2015-02-03,Sunflower Seed,285,Telangana,36,Nizamabad,533,2500,2500,2500

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-13,Sweet Potato,152,Uttar Pradesh,9,Deoria,190,1300,1330,1320
+2019-09-27,Sweet Potato,152,Uttar Pradesh,9,Deoria,190,1950,2100,2000
+2019-03-01,Sweet Potato,152,Uttar Pradesh,9,Deoria,190,1650,1680,1660
+2019-02-27,Sweet Potato,152,Uttar Pradesh,9,Deoria,190,640,680,665

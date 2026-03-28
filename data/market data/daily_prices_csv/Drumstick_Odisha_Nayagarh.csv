@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-03,Drumstick,168,Odisha,21,Nayagarh,385,2500,2500,2500
+2025-03-27,Drumstick,168,Odisha,21,Nayagarh,385,3500,3500,3500

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "census_district_id": 261,
+      "census_district_name": "Mon"
+    },
+    {
+      "census_district_id": 262,
+      "census_district_name": "Mokokchung"
+    },
+    {
+      "census_district_id": 263,
+      "census_district_name": "Zunheboto"
+    },
+    {
+      "census_district_id": 264,
+      "census_district_name": "Wokha"
+    },
+    {
+      "census_district_id": 265,
+      "census_district_name": "Dimapur"
+    },
+    {
+      "census_district_id": 266,
+      "census_district_name": "Phek"
+    },
+    {
+      "census_district_id": 267,
+      "census_district_name": "Tuensang"
+    },
+    {
+      "census_district_id": 268,
+      "census_district_name": "Longleng"
+    },
+    {
+      "census_district_id": 269,
+      "census_district_name": "Kiphire"
+    },
+    {
+      "census_district_id": 270,
+      "census_district_name": "Kohima"
+    },
+    {
+      "census_district_id": 271,
+      "census_district_name": "Peren"
+    }
+  ]
+}

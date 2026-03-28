@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-06,Turmeric (raw),309,Andaman & Nicobar Islands,35,South Andaman,640,70,120,90
+2018-06-15,Turmeric (raw),309,Andaman & Nicobar Islands,35,South Andaman,640,70,100,80

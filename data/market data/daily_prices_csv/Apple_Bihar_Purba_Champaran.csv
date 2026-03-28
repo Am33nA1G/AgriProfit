@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-08,Apple,17,Bihar,10,Purba Champaran,204,1400,1600,1500
+2022-10-22,Apple,17,Bihar,10,Purba Champaran,204,3800,4000,3900
+2022-06-29,Apple,17,Bihar,10,Purba Champaran,204,1800,2000,1900
+2022-05-08,Apple,17,Bihar,10,Purba Champaran,204,1400,1600,1500
+2022-04-05,Apple,17,Bihar,10,Purba Champaran,204,1800,2000,1900
+2022-03-26,Apple,17,Bihar,10,Purba Champaran,204,1600,2000,1800
+2022-03-01,Apple,17,Bihar,10,Purba Champaran,204,3100,3400,3200
+2022-02-19,Apple,17,Bihar,10,Purba Champaran,204,3200,3500,3300
+2022-02-08,Apple,17,Bihar,10,Purba Champaran,204,3000,3400,3100

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-06,Ginger (Green),103,Odisha,21,Nuapada,394,2500,3000,3000
+2018-07-11,Ginger (Green),103,Odisha,21,Nuapada,394,4000,4200,4100
+2018-06-10,Ginger (Green),103,Odisha,21,Nuapada,394,6000,6200,6100
+2018-04-30,Ginger (Green),103,Odisha,21,Nuapada,394,800,1000,1000
+2018-04-05,Ginger (Green),103,Odisha,21,Nuapada,394,8000,8100,8100
+2018-01-14,Ginger (Green),103,Odisha,21,Nuapada,394,5000,5600,5500
+2018-01-04,Ginger (Green),103,Odisha,21,Nuapada,394,6000,6000,6000
+2018-01-02,Ginger (Green),103,Odisha,21,Nuapada,394,5000,5350,5200

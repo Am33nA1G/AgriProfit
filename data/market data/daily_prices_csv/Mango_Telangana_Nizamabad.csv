@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-28,Mango,20,Telangana,36,Nizamabad,533,1330,1330,1330
+2016-05-20,Mango,20,Telangana,36,Nizamabad,533,1000,1250,1100
+2016-05-13,Mango,20,Telangana,36,Nizamabad,533,1200,1300,1250
+2016-05-08,Mango,20,Telangana,36,Nizamabad,533,1000,1000,1000
+2016-05-03,Mango,20,Telangana,36,Nizamabad,533,1000,1000,1000
+2016-05-02,Mango,20,Telangana,36,Nizamabad,533,1000,1000,1000
+2015-05-27,Mango,20,Telangana,36,Nizamabad,533,1000,1000,1000

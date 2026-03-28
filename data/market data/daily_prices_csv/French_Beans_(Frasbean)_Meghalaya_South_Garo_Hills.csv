@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-28,French Beans (Frasbean),298,Meghalaya,17,South Garo Hills,295,3500,4000,3750
+2015-05-27,French Beans (Frasbean),298,Meghalaya,17,South Garo Hills,295,3300,3500,3400
+2015-05-07,French Beans (Frasbean),298,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2015-05-06,French Beans (Frasbean),298,Meghalaya,17,South Garo Hills,295,5000,5500,5250

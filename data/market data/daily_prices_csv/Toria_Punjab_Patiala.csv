@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-30,Toria,66,Punjab,3,Patiala,48,1375,2100,1770
+2020-08-28,Toria,66,Punjab,3,Patiala,48,1200,1500,1300
+2020-08-25,Toria,66,Punjab,3,Patiala,48,1500,2000,1700
+2020-08-21,Toria,66,Punjab,3,Patiala,48,1000,1500,1200
+2020-08-14,Toria,66,Punjab,3,Patiala,48,800,1000,900
+2020-08-13,Toria,66,Punjab,3,Patiala,48,800,1000,900
+2020-08-10,Toria,66,Punjab,3,Patiala,48,1000,1200,1100
+2015-11-30,Toria,66,Punjab,3,Patiala,48,2500,3000,3000

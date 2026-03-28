@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-03,Potato,24,Karnataka,29,Chitradurga,566,1800,2000,1900
+2019-10-19,Potato,24,Karnataka,29,Chitradurga,566,2000,2000,2000
+2019-10-05,Potato,24,Karnataka,29,Chitradurga,566,1000,1000,1000
+2018-10-20,Potato,24,Karnataka,29,Chitradurga,566,1500,1500,1500
+2017-10-30,Potato,24,Karnataka,29,Chitradurga,566,1000,1000,1000
+2017-10-26,Potato,24,Karnataka,29,Chitradurga,566,1000,1000,1000
+2017-10-24,Potato,24,Karnataka,29,Chitradurga,566,800,800,800
+2016-10-22,Potato,24,Karnataka,29,Chitradurga,566,750,750,750
+2016-10-17,Potato,24,Karnataka,29,Chitradurga,566,1250,1250,1250
+2015-11-05,Potato,24,Karnataka,29,Chitradurga,566,900,900,900
+2015-10-28,Potato,24,Karnataka,29,Chitradurga,566,900,900,900
+2015-10-19,Potato,24,Karnataka,29,Chitradurga,566,1050,1050,1050
+2015-10-17,Potato,24,Karnataka,29,Chitradurga,566,700,700,700
+2015-10-15,Potato,24,Karnataka,29,Chitradurga,566,800,800,800
+2015-10-13,Potato,24,Karnataka,29,Chitradurga,566,1000,1200,1100
+2015-09-26,Potato,24,Karnataka,29,Chitradurga,566,1000,1000,1000

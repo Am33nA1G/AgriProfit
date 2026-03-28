@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-27,Copra,129,Karnataka,29,Bellary,565,7000,7000,7000
+2016-01-16,Copra,129,Karnataka,29,Bellary,565,12000,12000,12000
+2015-10-17,Copra,129,Karnataka,29,Bellary,565,11000,11000,11000

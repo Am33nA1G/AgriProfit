@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-30,Lentil (Masur)(Whole),63,Odisha,21,Kalahandi,395,4200,5000,4500
+2016-05-25,Lentil (Masur)(Whole),63,Odisha,21,Kalahandi,395,6000,7000,7000
+2016-03-27,Lentil (Masur)(Whole),63,Odisha,21,Kalahandi,395,8000,9000,9000
+2016-02-07,Lentil (Masur)(Whole),63,Odisha,21,Kalahandi,395,8000,10000,9000
+2015-05-27,Lentil (Masur)(Whole),63,Odisha,21,Kalahandi,395,6000,7000,7000

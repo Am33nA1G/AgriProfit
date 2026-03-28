@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-05,Radish,161,Bihar,10,Khagaria,223,600,800,700
+2023-09-03,Radish,161,Bihar,10,Khagaria,223,500,700,600
+2023-09-01,Radish,161,Bihar,10,Khagaria,223,800,1000,900

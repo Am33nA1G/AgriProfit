@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-30,Mint (Pudina),360,Punjab,3,Sangrur,53,1200,1500,1500
+2024-05-13,Mint (Pudina),360,Punjab,3,Sangrur,53,1500,1500,1500
+2024-04-30,Mint (Pudina),360,Punjab,3,Sangrur,53,1500,1500,1500
+2024-04-23,Mint (Pudina),360,Punjab,3,Sangrur,53,1000,1000,1000
+2024-04-14,Mint (Pudina),360,Punjab,3,Sangrur,53,800,1200,1000
+2023-12-16,Mint (Pudina),360,Punjab,3,Sangrur,53,1200,1200,1200
+2023-12-13,Mint (Pudina),360,Punjab,3,Sangrur,53,1000,1400,1100
+2019-04-19,Mint (Pudina),360,Punjab,3,Sangrur,53,400,400,400

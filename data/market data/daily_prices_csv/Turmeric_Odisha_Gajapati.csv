@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-20,Turmeric,39,Odisha,21,Gajapati,389,18000,20000,20000
+2019-08-24,Turmeric,39,Odisha,21,Gajapati,389,16000,20000,20000
+2019-05-12,Turmeric,39,Odisha,21,Gajapati,389,20000,25000,25000
+2018-05-31,Turmeric,39,Odisha,21,Gajapati,389,16000,18000,18000
+2018-05-30,Turmeric,39,Odisha,21,Gajapati,389,14000,16000,16000
+2017-07-28,Turmeric,39,Odisha,21,Gajapati,389,16000,20000,20000
+2016-12-02,Turmeric,39,Odisha,21,Gajapati,389,16000,20000,20000
+2016-10-07,Turmeric,39,Odisha,21,Gajapati,389,8000,9000,9000
+2016-07-17,Turmeric,39,Odisha,21,Gajapati,389,16000,20000,20000
+2016-06-24,Turmeric,39,Odisha,21,Gajapati,389,12000,15000,15000
+2016-04-18,Turmeric,39,Odisha,21,Gajapati,389,12000,18000,18000
+2015-09-19,Turmeric,39,Odisha,21,Gajapati,389,8000,10000,10000

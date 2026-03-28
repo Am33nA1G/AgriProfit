@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-13,Cherry,328,Punjab,3,Sangrur,53,2400,2400,2400
+2019-06-14,Cherry,328,Punjab,3,Sangrur,53,11000,11000,11000
+2019-06-12,Cherry,328,Punjab,3,Sangrur,53,11000,11000,11000
+2019-06-09,Cherry,328,Punjab,3,Sangrur,53,11000,11000,11000
+2019-06-08,Cherry,328,Punjab,3,Sangrur,53,11000,11000,11000
+2019-06-07,Cherry,328,Punjab,3,Sangrur,53,11000,11000,11000
+2019-06-06,Cherry,328,Punjab,3,Sangrur,53,10000,10000,10000

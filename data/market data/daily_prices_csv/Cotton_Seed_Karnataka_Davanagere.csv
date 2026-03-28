@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-10,Cotton Seed,99,Karnataka,29,Davanagere,567,3800,4000,3900
+2015-07-10,Cotton Seed,99,Karnataka,29,Davanagere,567,10000,10100,10050
+2015-06-08,Cotton Seed,99,Karnataka,29,Davanagere,567,3409,4469,4290

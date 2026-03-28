@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-23,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-04-25,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,,1175
+2015-04-24,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-04-22,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-04-21,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-04-20,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-04-16,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-03-24,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1150,1200,1175
+2015-03-18,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1100,1200,1150
+2015-03-12,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1100,1150,1125
+2015-02-06,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1000,1100,1050
+2015-02-04,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1000,1100,1050
+2015-01-21,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,1300,1350,1325
+2015-01-09,Paddy(Dhan)(Common),2,Assam,18,Jorhat,312,4000,4500,4300

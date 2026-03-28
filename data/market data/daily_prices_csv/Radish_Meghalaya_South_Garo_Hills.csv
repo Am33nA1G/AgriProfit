@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-30,Radish,161,Meghalaya,17,South Garo Hills,295,2000,3000,2500
+2025-01-02,Radish,161,Meghalaya,17,South Garo Hills,295,3000,4000,3500
+2024-12-30,Radish,161,Meghalaya,17,South Garo Hills,295,3000,4000,3500
+2024-12-09,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-12-05,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-12-02,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-11-28,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-11-25,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-11-21,Radish,161,Meghalaya,17,South Garo Hills,295,4000,5000,4500
+2024-11-18,Radish,161,Meghalaya,17,South Garo Hills,295,5000,6000,5500

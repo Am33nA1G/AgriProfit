@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-16,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1600,2000,2000
+2022-01-13,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,2000,1500
+2022-01-12,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,2000,1500
+2022-01-11,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,1500,1500
+2022-01-10,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1800,2000,2000
+2021-12-30,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,2000,2000,2000
+2021-12-28,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,2500,2500,2500
+2021-12-27,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1800,2000,1800
+2021-12-24,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,1500,1500
+2021-12-23,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,2000,2000
+2021-12-22,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,2000,2000
+2021-12-19,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1400,3000,2500
+2021-12-18,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,2000,3000,2000
+2021-12-16,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,1500,2000,1500
+2021-12-15,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,2000,2100,2000
+2021-12-14,Indian Beans (Seam),299,Madhya Pradesh,23,Shivpuri,423,2000,2100,2000

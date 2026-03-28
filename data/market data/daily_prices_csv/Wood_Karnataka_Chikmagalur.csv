@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-04,Wood,203,Karnataka,29,Chikmagalur,570,12000,12000,12000
+2015-03-31,Wood,203,Karnataka,29,Chikmagalur,570,33325,33350,33325

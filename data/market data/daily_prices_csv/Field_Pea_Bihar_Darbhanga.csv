@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-14,Field Pea,64,Bihar,10,Darbhanga,215,1600,2000,1850
+2023-01-13,Field Pea,64,Bihar,10,Darbhanga,215,2100,2300,2200

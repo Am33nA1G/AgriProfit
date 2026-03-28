@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-28,White Peas,412,Chhattisgarh,22,Durg,409,4000,4000,4000
+2024-03-19,White Peas,412,Chhattisgarh,22,Durg,409,4000,4000,4000
+2023-03-28,White Peas,412,Chhattisgarh,22,Durg,409,2500,3000,2800
+2023-03-19,White Peas,412,Chhattisgarh,22,Durg,409,3000,5000,4000
+2023-03-14,White Peas,412,Chhattisgarh,22,Durg,409,3000,4000,3500
+2020-03-03,White Peas,412,Chhattisgarh,22,Durg,409,3850,3900,3875
+2019-02-06,White Peas,412,Chhattisgarh,22,Durg,409,3800,4000,3900
+2017-12-30,White Peas,412,Chhattisgarh,22,Durg,409,2700,2700,2700

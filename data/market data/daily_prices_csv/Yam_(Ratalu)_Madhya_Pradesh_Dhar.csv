@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-08,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1700,1780,1750
+2023-01-07,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1500,1760,1600
+2023-01-06,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1500,1600,1550
+2023-01-04,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1700,1760,1750
+2023-01-01,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1800,1890,1850
+2022-12-31,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1800,1880,1860
+2022-12-30,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1800,1870,1860
+2021-03-31,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,2000,2900,2400
+2019-12-28,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1000,1800,1600
+2019-12-21,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1200,1700,1500
+2018-11-24,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,1000,1500,1200
+2018-11-15,Yam (Ratalu),297,Madhya Pradesh,23,Dhar,438,2000,2500,2200

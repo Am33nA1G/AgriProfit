@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-08,Tender Coconut,200,Karnataka,29,Chitradurga,566,15000,15000,15000
+2025-08-28,Tender Coconut,200,Karnataka,29,Chitradurga,566,16000,16000,16000
+2025-08-25,Tender Coconut,200,Karnataka,29,Chitradurga,566,17000,17000,17000
+2025-08-14,Tender Coconut,200,Karnataka,29,Chitradurga,566,10000,10000,10000

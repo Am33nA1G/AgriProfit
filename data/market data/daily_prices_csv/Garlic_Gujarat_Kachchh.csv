@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-08,Garlic,25,Gujarat,24,Kachchh,468,18000,22000,20000
+2024-08-06,Garlic,25,Gujarat,24,Kachchh,468,18000,22000,20000
+2024-08-05,Garlic,25,Gujarat,24,Kachchh,468,16000,22000,19000
+2024-07-30,Garlic,25,Gujarat,24,Kachchh,468,18000,25000,21500
+2024-07-29,Garlic,25,Gujarat,24,Kachchh,468,18000,25000,22000
+2024-07-26,Garlic,25,Gujarat,24,Kachchh,468,18000,22000,20000
+2024-07-24,Garlic,25,Gujarat,24,Kachchh,468,18000,20000,19000
+2024-07-23,Garlic,25,Gujarat,24,Kachchh,468,18000,20000,19000
+2024-07-19,Garlic,25,Gujarat,24,Kachchh,468,18000,22000,20000
+2024-07-18,Garlic,25,Gujarat,24,Kachchh,468,18000,22000,20000

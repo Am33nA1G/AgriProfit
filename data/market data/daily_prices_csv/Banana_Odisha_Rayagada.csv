@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-18,Banana,19,Odisha,21,Rayagada,396,1500,2000,2000
+2015-09-15,Banana,19,Odisha,21,Rayagada,396,1500,2500,2000
+2015-08-27,Banana,19,Odisha,21,Rayagada,396,2000,2500,2500

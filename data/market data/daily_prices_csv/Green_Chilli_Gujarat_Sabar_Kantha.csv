@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-16,Green Chilli,87,Gujarat,24,Sabar Kantha,472,1250,1500,1375
+2015-10-15,Green Chilli,87,Gujarat,24,Sabar Kantha,472,1000,1500,1250
+2015-10-14,Green Chilli,87,Gujarat,24,Sabar Kantha,472,1500,2000,1750
+2015-10-13,Green Chilli,87,Gujarat,24,Sabar Kantha,472,1750,2000,1875
+2015-06-19,Green Chilli,87,Gujarat,24,Sabar Kantha,472,1500,1750,1625

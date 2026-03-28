@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-22,Cabbage,154,Mizoram,15,Champhai,284,3000,3000,3000
+2015-06-02,Cabbage,154,Mizoram,15,Champhai,284,3000,3000,3000
+2015-05-07,Cabbage,154,Mizoram,15,Champhai,284,3000,4000,3500

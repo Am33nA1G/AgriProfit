@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-25,Guava,185,Madhya Pradesh,23,Satna,429,1900,1900,1900
+2025-10-24,Guava,185,Madhya Pradesh,23,Satna,429,2000,2000,2000
+2025-10-14,Guava,185,Madhya Pradesh,23,Satna,429,3500,3500,3500
+2025-10-08,Guava,185,Madhya Pradesh,23,Satna,429,3500,3500,3500
+2025-09-26,Guava,185,Madhya Pradesh,23,Satna,429,3200,3200,3200
+2022-11-26,Guava,185,Madhya Pradesh,23,Satna,429,2000,2000,2000
+2022-01-17,Guava,185,Madhya Pradesh,23,Satna,429,1500,1500,1500

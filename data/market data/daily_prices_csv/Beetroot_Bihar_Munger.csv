@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Beetroot,157,Bihar,10,Munger,226,2000,2000,2000
+2023-09-06,Beetroot,157,Bihar,10,Munger,226,2200,2200,2200
+2023-09-05,Beetroot,157,Bihar,10,Munger,226,2000,2500,2300
+2023-09-04,Beetroot,157,Bihar,10,Munger,226,2500,2500,2500
+2023-09-03,Beetroot,157,Bihar,10,Munger,226,2500,2500,2500
+2023-09-02,Beetroot,157,Bihar,10,Munger,226,2200,2200,2200
+2023-08-31,Beetroot,157,Bihar,10,Munger,226,2000,2000,2000
+2023-08-30,Beetroot,157,Bihar,10,Munger,226,3600,3600,3600

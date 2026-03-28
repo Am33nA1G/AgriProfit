@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-05,Coriander (Leaves),43,Bihar,10,Araria,209,4000,5500,5000
+2023-02-06,Coriander (Leaves),43,Bihar,10,Araria,209,2600,2800,2700
+2023-01-04,Coriander (Leaves),43,Bihar,10,Araria,209,2000,2250,2200
+2023-01-01,Coriander (Leaves),43,Bihar,10,Araria,209,2000,2300,2200
+2022-12-28,Coriander (Leaves),43,Bihar,10,Araria,209,1000,1400,1100
+2022-12-18,Coriander (Leaves),43,Bihar,10,Araria,209,2400,2600,2500
+2022-12-15,Coriander (Leaves),43,Bihar,10,Araria,209,3200,3800,3400
+2022-12-12,Coriander (Leaves),43,Bihar,10,Araria,209,3000,3500,3200
+2022-11-30,Coriander (Leaves),43,Bihar,10,Araria,209,2000,2500,2200
+2022-11-29,Coriander (Leaves),43,Bihar,10,Araria,209,3000,3300,3200
+2022-11-27,Coriander (Leaves),43,Bihar,10,Araria,209,2000,2500,2100
+2022-11-17,Coriander (Leaves),43,Bihar,10,Araria,209,4000,4500,4200

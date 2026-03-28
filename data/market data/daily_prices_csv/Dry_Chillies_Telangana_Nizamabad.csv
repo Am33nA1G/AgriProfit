@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-12,Dry Chillies,132,Telangana,36,Nizamabad,533,6600,6600,6600
+2022-02-11,Dry Chillies,132,Telangana,36,Nizamabad,533,8000,8000,8000
+2022-01-29,Dry Chillies,132,Telangana,36,Nizamabad,533,14501,14501,14501

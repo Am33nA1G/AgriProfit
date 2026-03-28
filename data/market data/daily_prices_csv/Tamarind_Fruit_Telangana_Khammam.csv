@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-23,Tamarind Fruit,261,Telangana,36,Khammam,541,1300,1300,1300
+2018-04-21,Tamarind Fruit,261,Telangana,36,Khammam,541,2000,3000,2500
+2018-04-15,Tamarind Fruit,261,Telangana,36,Khammam,541,2500,3500,3000
+2018-04-12,Tamarind Fruit,261,Telangana,36,Khammam,541,3000,3500,3000
+2018-04-09,Tamarind Fruit,261,Telangana,36,Khammam,541,3000,3500,3000
+2016-05-23,Tamarind Fruit,261,Telangana,36,Khammam,541,800,800,800
+2016-04-27,Tamarind Fruit,261,Telangana,36,Khammam,541,2500,2800,2600
+2016-03-30,Tamarind Fruit,261,Telangana,36,Khammam,541,3850,4000,3900
+2016-03-22,Tamarind Fruit,261,Telangana,36,Khammam,541,2300,2800,2500

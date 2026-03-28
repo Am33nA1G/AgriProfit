@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-14,Peas (Dry),347,Assam,18,Kamrup,321,4000,4500,4200
+2015-12-22,Peas (Dry),347,Assam,18,Kamrup,321,3000,3200,3100
+2015-12-16,Peas (Dry),347,Assam,18,Kamrup,321,3000,3200,3100
+2015-12-15,Peas (Dry),347,Assam,18,Kamrup,321,3000,3200,3100
+2015-03-23,Peas (Dry),347,Assam,18,Kamrup,321,3000,3700,3350
+2015-01-09,Peas (Dry),347,Assam,18,Kamrup,321,3900,4200,4050

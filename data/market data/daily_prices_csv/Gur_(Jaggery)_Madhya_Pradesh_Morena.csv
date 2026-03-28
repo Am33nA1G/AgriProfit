@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-16,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2301,2660,2500
+2016-01-09,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2530,3060,2814
+2016-01-08,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2080,2687,2221
+2016-01-07,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2171,3031,2875
+2015-12-29,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2093,3200,2900
+2015-12-28,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2100,3300,2930
+2015-12-25,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2091,3400,2975
+2015-12-24,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2095,3200,3000
+2015-12-23,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2100,2850,2800
+2015-12-09,Gur (Jaggery),74,Madhya Pradesh,23,Morena,419,2240,2400,2300

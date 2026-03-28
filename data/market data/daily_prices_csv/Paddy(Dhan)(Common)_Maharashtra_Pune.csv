@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-27,Paddy(Dhan)(Common),2,Maharashtra,27,Pune,521,1460,1463,1462
+2017-02-17,Paddy(Dhan)(Common),2,Maharashtra,27,Pune,521,1400,1600,1550
+2017-02-15,Paddy(Dhan)(Common),2,Maharashtra,27,Pune,521,1700,2000,1775

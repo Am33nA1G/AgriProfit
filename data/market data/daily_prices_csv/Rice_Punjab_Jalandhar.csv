@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-03,Rice,3,Punjab,3,Jalandhar,37,2500,3500,3100
+2018-11-28,Rice,3,Punjab,3,Jalandhar,37,2600,3650,3100
+2018-11-09,Rice,3,Punjab,3,Jalandhar,37,2600,2600,2600
+2018-10-31,Rice,3,Punjab,3,Jalandhar,37,2950,3000,2980
+2018-10-30,Rice,3,Punjab,3,Jalandhar,37,2900,3050,2940

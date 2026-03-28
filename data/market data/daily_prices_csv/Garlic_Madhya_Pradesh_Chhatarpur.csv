@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,4000,4000,4000
+2025-10-24,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,4500,4500,4500
+2025-10-13,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,3500,3500,3500
+2025-10-11,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,4000,4000,4000
+2025-10-06,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,3500,3500,3500
+2025-09-17,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,3500,3500,3500
+2025-08-27,Garlic,25,Madhya Pradesh,23,Chhatarpur,425,5000,5000,5000

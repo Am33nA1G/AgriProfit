@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-24,Guava,185,Kerala,32,Kozhikode,591,1200,1400,1300
+2016-05-23,Guava,185,Kerala,32,Kozhikode,591,4000,4500,4200
+2015-11-07,Guava,185,Kerala,32,Kozhikode,591,2600,3000,2800
+2015-10-15,Guava,185,Kerala,32,Kozhikode,591,1800,2100,2000

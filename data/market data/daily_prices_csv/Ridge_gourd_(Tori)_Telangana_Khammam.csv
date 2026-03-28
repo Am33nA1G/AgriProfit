@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-05,Ridge gourd (Tori),160,Telangana,36,Khammam,541,4200,4800,4600
+2021-10-02,Ridge gourd (Tori),160,Telangana,36,Khammam,541,4000,5000,4600
+2015-06-06,Ridge gourd (Tori),160,Telangana,36,Khammam,541,2500,3500,2500
+2015-06-03,Ridge gourd (Tori),160,Telangana,36,Khammam,541,2500,3000,2500

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-26,Water Melon,73,Kerala,32,Kozhikode,591,3300,3600,3600
+2016-06-20,Water Melon,73,Kerala,32,Kozhikode,591,1000,1200,1100
+2016-06-17,Water Melon,73,Kerala,32,Kozhikode,591,1000,1200,1100
+2016-06-14,Water Melon,73,Kerala,32,Kozhikode,591,1000,1200,1100
+2016-06-07,Water Melon,73,Kerala,32,Kozhikode,591,1200,1600,1400
+2016-05-17,Water Melon,73,Kerala,32,Kozhikode,591,1500,1800,1600
+2015-10-15,Water Melon,73,Kerala,32,Kozhikode,591,1800,2200,2000

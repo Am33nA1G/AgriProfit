@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-10,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,21300,21300,21300
+2025-05-08,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,21300,21400,21400
+2025-05-07,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,21300,21300,21300
+2025-05-03,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,800,22000,22000
+2025-04-23,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,800,22000,22000
+2025-04-15,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,20700,20700,20700
+2025-04-02,Ashwagandha,443,Madhya Pradesh,23,Chhindwara,455,600,20500,20500

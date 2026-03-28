@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-01,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sitapur,154,990,1010,1000
+2020-02-16,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sitapur,154,990,1010,1000
+2019-02-27,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sitapur,154,980,1050,1000

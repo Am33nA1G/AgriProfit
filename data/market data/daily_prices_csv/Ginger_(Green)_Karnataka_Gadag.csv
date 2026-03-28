@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-23,Ginger (Green),103,Karnataka,29,Gadag,561,2700,3000,2800
+2020-04-21,Ginger (Green),103,Karnataka,29,Gadag,561,4700,5800,5000
+2020-04-19,Ginger (Green),103,Karnataka,29,Gadag,561,5000,6200,6000
+2020-04-17,Ginger (Green),103,Karnataka,29,Gadag,561,18000,22000,19000
+2020-04-15,Ginger (Green),103,Karnataka,29,Gadag,561,14000,18000,15000
+2020-04-12,Ginger (Green),103,Karnataka,29,Gadag,561,11000,14000,12000
+2020-04-08,Ginger (Green),103,Karnataka,29,Gadag,561,8000,12000,10000

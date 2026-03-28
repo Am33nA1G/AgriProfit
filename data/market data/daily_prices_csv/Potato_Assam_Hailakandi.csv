@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-08,Potato,24,Assam,18,Hailakandi,318,1800,2200,2150
+2022-04-02,Potato,24,Assam,18,Hailakandi,318,2000,2100,2050
+2022-03-30,Potato,24,Assam,18,Hailakandi,318,1700,2200,2150
+2022-03-16,Potato,24,Assam,18,Hailakandi,318,1700,2200,2100

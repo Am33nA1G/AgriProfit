@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-07,Pomegranate,190,Punjab,3,Moga,42,5000,7000,6000
+2022-09-06,Pomegranate,190,Punjab,3,Moga,42,5000,7000,6000
+2022-09-01,Pomegranate,190,Punjab,3,Moga,42,5000,7000,6000
+2021-01-23,Pomegranate,190,Punjab,3,Moga,42,7000,9000,8000

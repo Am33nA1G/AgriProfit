@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-14,Big Gram,113,Chhattisgarh,22,Dhamtari,412,1500,1500,1500
+2015-10-05,Big Gram,113,Chhattisgarh,22,Dhamtari,412,3000,3000,3000
+2015-07-03,Big Gram,113,Chhattisgarh,22,Dhamtari,412,2500,2500,2500
+2015-05-18,Big Gram,113,Chhattisgarh,22,Dhamtari,412,2500,2500,2500
+2015-03-31,Big Gram,113,Chhattisgarh,22,Dhamtari,412,2500,2500,2500
+2015-03-26,Big Gram,113,Chhattisgarh,22,Dhamtari,412,2500,2500,2500
+2015-03-19,Big Gram,113,Chhattisgarh,22,Dhamtari,412,3200,3200,3200
+2015-03-09,Big Gram,113,Chhattisgarh,22,Dhamtari,412,3000,3000,3000
+2015-01-03,Big Gram,113,Chhattisgarh,22,Dhamtari,412,2500,2500,2500

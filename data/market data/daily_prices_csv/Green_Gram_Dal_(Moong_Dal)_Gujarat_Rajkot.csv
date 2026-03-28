@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-10,Green Gram Dal (Moong Dal),265,Gujarat,24,Rajkot,476,6080,7505,7055
+2022-06-27,Green Gram Dal (Moong Dal),265,Gujarat,24,Rajkot,476,5030,5880,5680
+2022-06-24,Green Gram Dal (Moong Dal),265,Gujarat,24,Rajkot,476,5005,6005,5805
+2016-08-10,Green Gram Dal (Moong Dal),265,Gujarat,24,Rajkot,476,4650,5200,4875

@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-01-23,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1250,1350,1300
+2016-12-30,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,600,700,650
+2016-12-29,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,700,800,750
+2016-12-27,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,500,600,550
+2016-12-15,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,650,750,700
+2016-11-23,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,700,800,750
+2016-02-10,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1100,1200,1150
+2015-12-17,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,500,600,550
+2015-11-30,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,700,1200,950
+2015-09-14,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1500,1600,1550
+2015-09-13,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,2900,3000,2950
+2015-08-25,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1300,1400,1350
+2015-08-20,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1400,1500,1450
+2015-08-13,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1300,1400,1350
+2015-08-05,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1250,1350,1300
+2015-07-25,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1100,1200,1150
+2015-07-22,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1050,1150,1100
+2015-07-20,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1050,1150,1100
+2015-07-13,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1050,1250,1150
+2015-07-12,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1050,1250,1150
+2015-07-11,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,1000,1200,1100
+2015-03-25,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,600,1000,800
+2015-01-25,Galgal (Lemon),350,Uttarakhand,5,Nainital,66,2250,3000,2625

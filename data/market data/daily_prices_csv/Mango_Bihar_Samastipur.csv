@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-06,Mango,20,Bihar,10,Samastipur,221,600,1000,800
+2015-07-02,Mango,20,Bihar,10,Samastipur,221,600,1200,1000
+2015-07-01,Mango,20,Bihar,10,Samastipur,221,2000,2500,2300
+2015-06-25,Mango,20,Bihar,10,Samastipur,221,700,900,800
+2015-06-24,Mango,20,Bihar,10,Samastipur,221,1700,2000,1800
+2015-06-23,Mango,20,Bihar,10,Samastipur,221,1600,1800,1700
+2015-06-22,Mango,20,Bihar,10,Samastipur,221,1700,1800,1750
+2015-06-19,Mango,20,Bihar,10,Samastipur,221,1600,2000,1800
+2015-06-18,Mango,20,Bihar,10,Samastipur,221,1600,1800,1700
+2015-06-13,Mango,20,Bihar,10,Samastipur,221,2000,3000,2500

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-14,Apple,17,Odisha,21,Kalahandi,395,8000,8000,8000
+2015-11-25,Apple,17,Odisha,21,Kalahandi,395,6000,7000,6500

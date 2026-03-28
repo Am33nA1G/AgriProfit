@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-18,Ram,282,Karnataka,29,Tumkur,571,9000,9000,9000
+2019-09-05,Ram,282,Karnataka,29,Tumkur,571,9000,9000,9000
+2019-06-24,Ram,282,Karnataka,29,Tumkur,571,9000,11000,9000
+2019-06-10,Ram,282,Karnataka,29,Tumkur,571,7000,9000,7000
+2019-06-03,Ram,282,Karnataka,29,Tumkur,571,10000,12000,10000
+2019-05-15,Ram,282,Karnataka,29,Tumkur,571,8000,8000,8000
+2016-06-30,Ram,282,Karnataka,29,Tumkur,571,5000,5000,5000
+2016-06-27,Ram,282,Karnataka,29,Tumkur,571,5000,5000,5000
+2016-06-14,Ram,282,Karnataka,29,Tumkur,571,10000,10000,10000
+2016-06-06,Ram,282,Karnataka,29,Tumkur,571,5200,5200,5200
+2016-05-30,Ram,282,Karnataka,29,Tumkur,571,6000,6000,6000
+2016-05-23,Ram,282,Karnataka,29,Tumkur,571,6000,7000,7000
+2016-05-16,Ram,282,Karnataka,29,Tumkur,571,5000,5000,5000

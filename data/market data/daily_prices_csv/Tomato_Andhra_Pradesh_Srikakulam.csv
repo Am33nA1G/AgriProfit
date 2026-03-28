@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-07,Tomato,78,Andhra Pradesh,28,Srikakulam,542,400,600,500
+2017-04-05,Tomato,78,Andhra Pradesh,28,Srikakulam,542,400,600,500
+2017-04-04,Tomato,78,Andhra Pradesh,28,Srikakulam,542,400,600,500
+2017-04-01,Tomato,78,Andhra Pradesh,28,Srikakulam,542,400,600,500
+2016-08-23,Tomato,78,Andhra Pradesh,28,Srikakulam,542,800,1200,1000
+2016-08-21,Tomato,78,Andhra Pradesh,28,Srikakulam,542,700,1000,800
+2015-12-12,Tomato,78,Andhra Pradesh,28,Srikakulam,542,900,1200,1000
+2015-12-11,Tomato,78,Andhra Pradesh,28,Srikakulam,542,800,1000,900
+2015-12-10,Tomato,78,Andhra Pradesh,28,Srikakulam,542,800,1000,900
+2015-12-07,Tomato,78,Andhra Pradesh,28,Srikakulam,542,900,1200,1000

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-08,Marasebu,181,Karnataka,29,Mysore,577,1800,2000,2000
+2022-10-13,Marasebu,181,Karnataka,29,Mysore,577,1800,3500,2500
+2021-12-28,Marasebu,181,Karnataka,29,Mysore,577,2800,3500,3100
+2020-08-31,Marasebu,181,Karnataka,29,Mysore,577,2500,3500,3000
+2020-06-17,Marasebu,181,Karnataka,29,Mysore,577,2000,3500,3000
+2015-10-21,Marasebu,181,Karnataka,29,Mysore,577,1548,1920,1655

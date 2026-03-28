@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-10,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1460,1480,1475
+2017-10-09,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1460,1480,1470
+2017-10-08,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1450,1480,1470
+2017-10-07,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1450,1480,1470
+2017-10-06,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-10-04,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-10-03,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-10-01,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-09-30,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1430,1460,1450
+2017-09-29,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-09-27,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1420,1460,1430
+2017-09-26,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1430,1460,1450
+2017-09-25,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1485,1480
+2017-09-24,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-09-23,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1470,1490,1480
+2017-09-22,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1430,1460,1450
+2017-09-20,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1450,1480,1475
+2017-09-19,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1450,1480,1480
+2017-09-18,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1400,1430,1420
+2017-09-17,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1400,1430,1420
+2017-09-16,Barley (Jau),29,Uttar Pradesh,9,Kannauj,160,1400,1500,1450

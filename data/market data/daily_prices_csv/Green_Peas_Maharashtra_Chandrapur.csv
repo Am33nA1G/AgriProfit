@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-27,Green Peas,50,Maharashtra,27,Chandrapur,509,4150,5025,4900
+2020-04-18,Green Peas,50,Maharashtra,27,Chandrapur,509,2900,3000,2950
+2020-04-17,Green Peas,50,Maharashtra,27,Chandrapur,509,2900,3000,2950

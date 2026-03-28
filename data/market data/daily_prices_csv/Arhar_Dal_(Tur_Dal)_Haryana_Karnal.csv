@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-02,Arhar Dal (Tur Dal),260,Haryana,6,Karnal,74,5600,8700,6500
+2019-05-30,Arhar Dal (Tur Dal),260,Haryana,6,Karnal,74,5500,8700,5500
+2019-05-29,Arhar Dal (Tur Dal),260,Haryana,6,Karnal,74,5500,8650,5500
+2019-05-28,Arhar Dal (Tur Dal),260,Haryana,6,Karnal,74,5500,8650,7700

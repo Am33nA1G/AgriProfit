@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-04,Kabuli Chana (Chickpeas-White),362,Punjab,3,Amritsar,49,6500,7000,6800
+2015-12-02,Kabuli Chana (Chickpeas-White),362,Punjab,3,Amritsar,49,6000,7000,6500
+2015-11-19,Kabuli Chana (Chickpeas-White),362,Punjab,3,Amritsar,49,7000,9500,8500

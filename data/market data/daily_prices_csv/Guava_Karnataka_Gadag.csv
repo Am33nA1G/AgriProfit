@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-17,Guava,185,Karnataka,29,Gadag,561,1000,2500,2200
+2020-06-13,Guava,185,Karnataka,29,Gadag,561,800,2000,1900
+2020-06-11,Guava,185,Karnataka,29,Gadag,561,2000,2500,2300
+2020-06-05,Guava,185,Karnataka,29,Gadag,561,800,2000,1900
+2020-06-01,Guava,185,Karnataka,29,Gadag,561,1000,1500,1200
+2020-05-30,Guava,185,Karnataka,29,Gadag,561,1000,4000,3500
+2020-05-26,Guava,185,Karnataka,29,Gadag,561,1800,2200,2000
+2020-05-17,Guava,185,Karnataka,29,Gadag,561,3800,5000,4000
+2020-05-15,Guava,185,Karnataka,29,Gadag,561,3800,5000,4000
+2020-05-09,Guava,185,Karnataka,29,Gadag,561,2000,5000,4000
+2020-04-27,Guava,185,Karnataka,29,Gadag,561,1500,3000,2500
+2020-04-21,Guava,185,Karnataka,29,Gadag,561,1500,3000,2500
+2020-04-19,Guava,185,Karnataka,29,Gadag,561,1000,3000,2600
+2020-04-06,Guava,185,Karnataka,29,Gadag,561,2300,2500,2400

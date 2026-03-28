@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-10,Neem Seed,126,Andhra Pradesh,28,Visakhapatnam,544,4200,4600,4400
+2017-02-21,Neem Seed,126,Andhra Pradesh,28,Visakhapatnam,544,5000,7000,6000

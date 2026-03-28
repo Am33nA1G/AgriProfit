@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-12,Turmeric,39,Tamil Nadu,33,Theni,624,2900,3100,3000
+2018-09-28,Turmeric,39,Tamil Nadu,33,Theni,624,6500,7500,7000

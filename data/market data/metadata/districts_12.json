@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "census_district_id": 245,
+      "census_district_name": "Tawang"
+    },
+    {
+      "census_district_id": 246,
+      "census_district_name": "West Kameng"
+    },
+    {
+      "census_district_id": 247,
+      "census_district_name": "East Kameng"
+    },
+    {
+      "census_district_id": 248,
+      "census_district_name": "Papum Pare"
+    },
+    {
+      "census_district_id": 249,
+      "census_district_name": "Upper Subansiri"
+    },
+    {
+      "census_district_id": 250,
+      "census_district_name": "West Siang"
+    },
+    {
+      "census_district_id": 251,
+      "census_district_name": "East Siang"
+    },
+    {
+      "census_district_id": 252,
+      "census_district_name": "Upper Siang"
+    },
+    {
+      "census_district_id": 253,
+      "census_district_name": "Changlang"
+    },
+    {
+      "census_district_id": 254,
+      "census_district_name": "Tirap"
+    },
+    {
+      "census_district_id": 255,
+      "census_district_name": "Lower Subansiri"
+    },
+    {
+      "census_district_id": 256,
+      "census_district_name": "Kurung Kumey"
+    },
+    {
+      "census_district_id": 257,
+      "census_district_name": "Dibang Valley"
+    },
+    {
+      "census_district_id": 258,
+      "census_district_name": "Lower Dibang Valley"
+    },
+    {
+      "census_district_id": 259,
+      "census_district_name": "Lohit"
+    },
+    {
+      "census_district_id": 260,
+      "census_district_name": "Anjaw"
+    }
+  ]
+}

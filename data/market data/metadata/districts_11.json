@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "census_district_id": 241,
+      "census_district_name": "North  District"
+    },
+    {
+      "census_district_id": 242,
+      "census_district_name": "West District"
+    },
+    {
+      "census_district_id": 243,
+      "census_district_name": "South District"
+    },
+    {
+      "census_district_id": 244,
+      "census_district_name": "East District"
+    }
+  ]
+}

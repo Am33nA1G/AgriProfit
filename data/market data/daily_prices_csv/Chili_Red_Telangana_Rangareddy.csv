@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-04,Chili Red,26,Telangana,36,Rangareddy,537,10000,10000,10000
+2017-03-10,Chili Red,26,Telangana,36,Rangareddy,537,6500,7000,6750
+2016-10-01,Chili Red,26,Telangana,36,Rangareddy,537,50,50,50
+2016-09-10,Chili Red,26,Telangana,36,Rangareddy,537,100,100,100

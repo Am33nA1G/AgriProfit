@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-07,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1350,1450,1400
+2025-08-06,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1350,1450,1400
+2025-08-05,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1450,1550,1500
+2025-07-23,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1700,1770,1750
+2025-07-22,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1750,1850,1800
+2025-07-21,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1800,1900,1860
+2025-07-19,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1830,1870,1850
+2025-07-17,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1800,1850,1830
+2025-07-16,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1800,1840,1820
+2025-07-08,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1950,2050,2000
+2025-07-07,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1925,1975,1950
+2025-07-05,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1870,1950,1920
+2025-07-04,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1850,1940,1900
+2025-06-27,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1920,1975,1950
+2025-06-26,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1950,2050,2000
+2025-06-23,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1850,1950,1900
+2025-06-20,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1820,1940,1880
+2025-06-19,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1810,1940,1875
+2025-06-17,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1800,1900,1850
+2025-06-13,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1800,1900,1850
+2025-06-11,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1860,1990,1925
+2025-06-09,Jack Fruit,182,Uttar Pradesh,9,Jaunpur,194,1975,2035,2000

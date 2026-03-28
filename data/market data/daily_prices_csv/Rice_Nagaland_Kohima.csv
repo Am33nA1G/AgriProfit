@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-22,Rice,3,Nagaland,13,Kohima,270,17500,17700,17600
+2018-06-15,Rice,3,Nagaland,13,Kohima,270,17500,17800,17600
+2018-06-08,Rice,3,Nagaland,13,Kohima,270,12400,12700,12600
+2018-06-01,Rice,3,Nagaland,13,Kohima,270,16000,16200,16100
+2018-05-11,Rice,3,Nagaland,13,Kohima,270,3100,3500,3200
+2018-05-04,Rice,3,Nagaland,13,Kohima,270,3000,3200,3100

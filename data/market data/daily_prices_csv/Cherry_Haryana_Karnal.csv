@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-04,Cherry,328,Haryana,6,Karnal,74,10000,12000,11000
+2025-07-02,Cherry,328,Haryana,6,Karnal,74,20000,20000,20000
+2025-07-01,Cherry,328,Haryana,6,Karnal,74,14000,20000,17000
+2025-06-26,Cherry,328,Haryana,6,Karnal,74,15000,15000,15000
+2025-06-25,Cherry,328,Haryana,6,Karnal,74,10000,15000,12500
+2025-06-21,Cherry,328,Haryana,6,Karnal,74,13000,14000,13500

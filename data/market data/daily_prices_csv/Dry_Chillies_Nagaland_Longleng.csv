@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-04,Dry Chillies,132,Nagaland,13,Longleng,268,1800,2100,1900
+2023-05-01,Dry Chillies,132,Nagaland,13,Longleng,268,2000,2300,2100
+2023-04-28,Dry Chillies,132,Nagaland,13,Longleng,268,2600,2900,2700
+2023-04-21,Dry Chillies,132,Nagaland,13,Longleng,268,2900,3200,3000
+2023-01-20,Dry Chillies,132,Nagaland,13,Longleng,268,3100,3400,3200
+2022-10-14,Dry Chillies,132,Nagaland,13,Longleng,268,3700,4000,3800
+2022-07-15,Dry Chillies,132,Nagaland,13,Longleng,268,4000,4300,4100
+2022-06-24,Dry Chillies,132,Nagaland,13,Longleng,268,3000,3300,3100
+2022-06-17,Dry Chillies,132,Nagaland,13,Longleng,268,3700,4000,3800
+2022-04-22,Dry Chillies,132,Nagaland,13,Longleng,268,3500,3800,3600

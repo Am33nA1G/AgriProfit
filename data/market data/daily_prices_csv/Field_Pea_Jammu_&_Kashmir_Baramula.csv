@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-23,Field Pea,64,Jammu & Kashmir,1,Baramula,8,3000,3000,3000
+2015-03-19,Field Pea,64,Jammu & Kashmir,1,Baramula,8,3500,3500,3500
+2015-03-18,Field Pea,64,Jammu & Kashmir,1,Baramula,8,4000,4000,4000
+2015-03-12,Field Pea,64,Jammu & Kashmir,1,Baramula,8,2700,2700,2700

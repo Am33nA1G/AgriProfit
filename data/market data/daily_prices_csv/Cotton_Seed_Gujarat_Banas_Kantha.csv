@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-29,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6340,6400,6370
+2024-08-09,Cotton Seed,99,Gujarat,24,Banas Kantha,469,5900,6050,5975
+2024-05-27,Cotton Seed,99,Gujarat,24,Banas Kantha,469,5470,5650,5560
+2023-12-09,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6905,7175,7040
+2023-12-05,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6250,7050,6650
+2023-11-23,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6570,7225,6897.5
+2023-11-04,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6155,7050,6602.5
+2023-10-26,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6675,7250,6962.5
+2023-10-16,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6700,7525,7112.5
+2023-10-09,Cotton Seed,99,Gujarat,24,Banas Kantha,469,7080,7550,7315
+2023-09-22,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6500,7100,6800
+2023-09-21,Cotton Seed,99,Gujarat,24,Banas Kantha,469,6550,6755,6652.5
+2021-02-13,Cotton Seed,99,Gujarat,24,Banas Kantha,469,4300,4325,4312.5
+2019-03-23,Cotton Seed,99,Gujarat,24,Banas Kantha,469,5000,5030,5015
+2015-01-16,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3650,4015,4000
+2015-01-15,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3250,3980,3900
+2015-01-13,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3750,4020,4000
+2015-01-12,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3255,3980,3965
+2015-01-10,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3125,3975,3950
+2015-01-09,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3750,4075,4025
+2015-01-08,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3500,4100,4085
+2015-01-02,Cotton Seed,99,Gujarat,24,Banas Kantha,469,3760,4100,4050

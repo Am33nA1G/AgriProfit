@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-06,Cluster beans,80,Rajasthan,8,Chittaurgarh,126,4000,5000,4500
+2016-02-11,Cluster beans,80,Rajasthan,8,Chittaurgarh,126,1800,2000,1900

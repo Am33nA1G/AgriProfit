@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-25,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,2150,2150,2150
+2021-05-22,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-07-11,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,950,1000,950
+2019-06-24,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,1050,1050,1050
+2019-06-18,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,910,1050,990
+2019-06-10,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,1000,1050,1000
+2019-05-17,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,1050,1050,1050
+2019-05-13,Bajra (Pearl Millet/Cumbu),28,Madhya Pradesh,23,Narsimhapur,452,1000,1050,1020

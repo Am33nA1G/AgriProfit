@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-03,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,4000,3500
+2023-11-07,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,4000,5000,4500
+2020-05-04,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,2800,3000,2900
+2020-05-01,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,2800,3000,2900
+2020-04-29,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,3200,3100
+2020-04-24,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,3300,3200
+2020-04-22,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,2800,3200,3000
+2020-04-20,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,2800,3200,3000
+2020-04-18,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,3500,3200
+2020-04-14,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,3500,3200
+2020-04-13,Papaya (Raw),313,Punjab,3,Hoshiarpur,38,3000,3200,3100

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-01,Gur (Jaggery),74,Chhattisgarh,22,Bilaspur,406,2300,2300,2300
+2017-04-29,Gur (Jaggery),74,Chhattisgarh,22,Bilaspur,406,3400,3400,3400

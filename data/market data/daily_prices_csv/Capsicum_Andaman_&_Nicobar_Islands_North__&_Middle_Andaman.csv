@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-28,Capsicum,164,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,5000,10000,6000
+2024-04-05,Capsicum,164,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,6000,10000,8000
+2024-03-26,Capsicum,164,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,9000,12000,11000
+2024-02-27,Capsicum,164,Andaman & Nicobar Islands,35,North  & Middle Andaman,639,9000,11000,10000

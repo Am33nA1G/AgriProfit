@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-05,Lime,180,Madhya Pradesh,23,Morena,419,3000,3000,3000
+2018-07-17,Lime,180,Madhya Pradesh,23,Morena,419,3000,3000,3000
+2017-08-27,Lime,180,Madhya Pradesh,23,Morena,419,3333,3333,3333
+2017-07-04,Lime,180,Madhya Pradesh,23,Morena,419,2500,2500,2500
+2016-08-02,Lime,180,Madhya Pradesh,23,Morena,419,5000,5000,5000
+2015-09-02,Lime,180,Madhya Pradesh,23,Morena,419,2000,2000,2000
+2015-08-27,Lime,180,Madhya Pradesh,23,Morena,419,3000,3000,3000
+2015-05-31,Lime,180,Madhya Pradesh,23,Morena,419,2000,2000,2000
+2015-05-04,Lime,180,Madhya Pradesh,23,Morena,419,2000,2000,2000
+2015-02-25,Lime,180,Madhya Pradesh,23,Morena,419,2000,2000,2000
+2015-02-13,Lime,180,Madhya Pradesh,23,Morena,419,1000,1000,1000
+2015-02-08,Lime,180,Madhya Pradesh,23,Morena,419,2000,2000,2000

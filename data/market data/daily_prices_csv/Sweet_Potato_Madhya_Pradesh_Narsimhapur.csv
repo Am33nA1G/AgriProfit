@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-01,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,800,2000,1400
+2019-04-25,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2019-04-13,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-04-12,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-04-10,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2019-04-08,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2019-04-07,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1600,1300
+2019-04-06,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1200,1500,1350
+2019-04-04,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-03-10,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1500,1800,1650
+2019-03-06,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2019-03-04,Sweet Potato,152,Madhya Pradesh,23,Narsimhapur,452,1000,1200,1100

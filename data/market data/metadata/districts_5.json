@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "census_district_id": 56,
+      "census_district_name": "Uttarkashi"
+    },
+    {
+      "census_district_id": 57,
+      "census_district_name": "Chamoli"
+    },
+    {
+      "census_district_id": 58,
+      "census_district_name": "Rudraprayag"
+    },
+    {
+      "census_district_id": 59,
+      "census_district_name": "Tehri Garhwal"
+    },
+    {
+      "census_district_id": 60,
+      "census_district_name": "Dehradun"
+    },
+    {
+      "census_district_id": 61,
+      "census_district_name": "Garhwal"
+    },
+    {
+      "census_district_id": 62,
+      "census_district_name": "Pithoragarh"
+    },
+    {
+      "census_district_id": 63,
+      "census_district_name": "Bageshwar"
+    },
+    {
+      "census_district_id": 64,
+      "census_district_name": "Almora "
+    },
+    {
+      "census_district_id": 65,
+      "census_district_name": "Champawat"
+    },
+    {
+      "census_district_id": 66,
+      "census_district_name": "Nainital"
+    },
+    {
+      "census_district_id": 67,
+      "census_district_name": "Udham Singh Nagar"
+    },
+    {
+      "census_district_id": 68,
+      "census_district_name": "Hardwar"
+    }
+  ]
+}

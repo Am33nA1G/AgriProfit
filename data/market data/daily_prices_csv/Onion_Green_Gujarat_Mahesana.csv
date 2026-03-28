@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-11,Onion Green,358,Gujarat,24,Mahesana,471,1200,1600,1400
+2015-04-07,Onion Green,358,Gujarat,24,Mahesana,471,250,300,250
+2015-03-18,Onion Green,358,Gujarat,24,Mahesana,471,755,1200,1000
+2015-03-16,Onion Green,358,Gujarat,24,Mahesana,471,1105,1300,1200
+2015-02-20,Onion Green,358,Gujarat,24,Mahesana,471,1100,1500,1250

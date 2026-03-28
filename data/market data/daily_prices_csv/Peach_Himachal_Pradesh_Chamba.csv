@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-21,Peach,331,Himachal Pradesh,2,Chamba,23,4900,5100,5000
+2017-09-25,Peach,331,Himachal Pradesh,2,Chamba,23,2300,2500,2400
+2017-08-31,Peach,331,Himachal Pradesh,2,Chamba,23,2250,2350,2300
+2017-05-16,Peach,331,Himachal Pradesh,2,Chamba,23,4500,4700,4600
+2017-05-15,Peach,331,Himachal Pradesh,2,Chamba,23,4400,4600,4500
+2017-04-05,Peach,331,Himachal Pradesh,2,Chamba,23,5000,7000,6000
+2017-03-06,Peach,331,Himachal Pradesh,2,Chamba,23,4500,5000,4750
+2015-05-19,Peach,331,Himachal Pradesh,2,Chamba,23,3000,4000,3500
+2015-05-06,Peach,331,Himachal Pradesh,2,Chamba,23,4500,5500,5000
+2015-04-30,Peach,331,Himachal Pradesh,2,Chamba,23,4500,4700,4600
+2015-04-29,Peach,331,Himachal Pradesh,2,Chamba,23,3300,4400,3800

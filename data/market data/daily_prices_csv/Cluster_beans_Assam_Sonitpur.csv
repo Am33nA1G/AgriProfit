@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-15,Cluster beans,80,Assam,18,Sonitpur,306,1400,1600,1600
+2016-12-12,Cluster beans,80,Assam,18,Sonitpur,306,2800,3000,3000

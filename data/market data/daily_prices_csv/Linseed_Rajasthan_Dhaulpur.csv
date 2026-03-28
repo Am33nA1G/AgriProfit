@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-29,Linseed,67,Rajasthan,8,Dhaulpur,106,6180,6225,6200
+2016-05-31,Linseed,67,Rajasthan,8,Dhaulpur,106,6080,6120,6100
+2015-07-01,Linseed,67,Rajasthan,8,Dhaulpur,106,7800,7900,7850
+2015-06-01,Linseed,67,Rajasthan,8,Dhaulpur,106,7850,7950,7900
+2015-01-24,Linseed,67,Rajasthan,8,Dhaulpur,106,7775,7825,7800
+2015-01-16,Linseed,67,Rajasthan,8,Dhaulpur,106,8150,8250,8200
+2015-01-13,Linseed,67,Rajasthan,8,Dhaulpur,106,8580,8620,8600

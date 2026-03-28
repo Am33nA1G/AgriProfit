@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-23,Papaya,72,Kerala,32,Pathanamthitta,599,3500,4700,4000
+2025-06-12,Papaya,72,Kerala,32,Pathanamthitta,599,3000,4000,3500
+2024-12-03,Papaya,72,Kerala,32,Pathanamthitta,599,4700,6000,5400
+2024-11-29,Papaya,72,Kerala,32,Pathanamthitta,599,1500,1500,1500
+2024-11-12,Papaya,72,Kerala,32,Pathanamthitta,599,3000,3500,3200
+2024-11-05,Papaya,72,Kerala,32,Pathanamthitta,599,2500,0,3100
+2024-10-12,Papaya,72,Kerala,32,Pathanamthitta,599,500,5700,3000
+2024-05-04,Papaya,72,Kerala,32,Pathanamthitta,599,2500,6000,3700

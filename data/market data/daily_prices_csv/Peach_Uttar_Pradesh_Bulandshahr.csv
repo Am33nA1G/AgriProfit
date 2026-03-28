@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-28,Peach,331,Uttar Pradesh,9,Bulandshahr,142,2000,2500,2200
+2025-08-07,Peach,331,Uttar Pradesh,9,Bulandshahr,142,2000,2500,2250
+2025-07-22,Peach,331,Uttar Pradesh,9,Bulandshahr,142,1400,1600,1500
+2025-07-19,Peach,331,Uttar Pradesh,9,Bulandshahr,142,1500,2000,1800
+2025-07-15,Peach,331,Uttar Pradesh,9,Bulandshahr,142,1500,2000,1800
+2025-07-14,Peach,331,Uttar Pradesh,9,Bulandshahr,142,1400,1600,1500
+2025-07-11,Peach,331,Uttar Pradesh,9,Bulandshahr,142,2000,2500,2250
+2025-07-04,Peach,331,Uttar Pradesh,9,Bulandshahr,142,2000,2200,2100
+2020-07-16,Peach,331,Uttar Pradesh,9,Bulandshahr,142,800,1000,900

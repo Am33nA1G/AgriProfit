@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-17,Grapes,22,Jharkhand,20,Ramgarh,361,4500,5500,5000
+2017-04-16,Grapes,22,Jharkhand,20,Ramgarh,361,6000,7000,6500
+2015-04-24,Grapes,22,Jharkhand,20,Ramgarh,361,6000,7000,6500
+2015-04-21,Grapes,22,Jharkhand,20,Ramgarh,361,8000,9000,8500
+2015-04-18,Grapes,22,Jharkhand,20,Ramgarh,361,6500,7500,7000
+2015-04-05,Grapes,22,Jharkhand,20,Ramgarh,361,6000,7000,6500
+2015-04-04,Grapes,22,Jharkhand,20,Ramgarh,361,6000,7000,6500
+2015-04-01,Grapes,22,Jharkhand,20,Ramgarh,361,5000,6000,5500
+2015-03-25,Grapes,22,Jharkhand,20,Ramgarh,361,5500,6500,6000
+2015-03-16,Grapes,22,Jharkhand,20,Ramgarh,361,5000,6000,5500
+2015-03-12,Grapes,22,Jharkhand,20,Ramgarh,361,5000,6000,5500
+2015-03-06,Grapes,22,Jharkhand,20,Ramgarh,361,5000,6000,5500
+2015-01-10,Grapes,22,Jharkhand,20,Ramgarh,361,7000,8000,7500
+2015-01-02,Grapes,22,Jharkhand,20,Ramgarh,361,8000,9000,8500

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-07,Wood,203,Uttarakhand,5,Dehradun,60,200,500,500
+2016-09-25,Wood,203,Uttarakhand,5,Dehradun,60,800,800,800
+2016-02-16,Wood,203,Uttarakhand,5,Dehradun,60,250,260,260
+2016-02-09,Wood,203,Uttarakhand,5,Dehradun,60,250,1000,1000
+2016-01-29,Wood,203,Uttarakhand,5,Dehradun,60,250,500,500

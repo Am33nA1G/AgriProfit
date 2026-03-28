@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-23,Black Gram (Urad Beans)(Whole),8,Punjab,3,Patiala,48,5100,5200,5150
+2015-12-09,Black Gram (Urad Beans)(Whole),8,Punjab,3,Patiala,48,5000,5500,5250
+2015-12-04,Black Gram (Urad Beans)(Whole),8,Punjab,3,Patiala,48,,,12500
+2015-11-11,Black Gram (Urad Beans)(Whole),8,Punjab,3,Patiala,48,9000,10000,9500
+2015-11-06,Black Gram (Urad Beans)(Whole),8,Punjab,3,Patiala,48,12000,13000,12500

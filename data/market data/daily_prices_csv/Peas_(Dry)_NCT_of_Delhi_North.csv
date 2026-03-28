@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-16,Peas (Dry),347,NCT of Delhi,7,North,91,1550,1550,1550
+2018-04-03,Peas (Dry),347,NCT of Delhi,7,North,91,2600,2600,2600
+2016-03-31,Peas (Dry),347,NCT of Delhi,7,North,91,1325,1325,1325
+2015-10-31,Peas (Dry),347,NCT of Delhi,7,North,91,1500,1500,1500

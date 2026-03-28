@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-29,Spinach,342,Bihar,10,Bhagalpur,224,1200,1500,1300
+2023-02-08,Spinach,342,Bihar,10,Bhagalpur,224,800,1000,900
+2022-11-30,Spinach,342,Bihar,10,Bhagalpur,224,2200,2500,2300
+2022-11-26,Spinach,342,Bihar,10,Bhagalpur,224,1000,1200,1050

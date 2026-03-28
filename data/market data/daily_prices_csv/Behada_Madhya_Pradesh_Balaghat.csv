@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-25,Behada,508,Madhya Pradesh,23,Balaghat,457,900,900,900
+2025-02-28,Behada,508,Madhya Pradesh,23,Balaghat,457,850,850,850
+2025-02-21,Behada,508,Madhya Pradesh,23,Balaghat,457,800,800,800
+2024-12-27,Behada,508,Madhya Pradesh,23,Balaghat,457,605,605,605

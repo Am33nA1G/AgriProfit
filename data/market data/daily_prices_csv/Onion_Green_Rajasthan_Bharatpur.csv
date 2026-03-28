@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-20,Onion Green,358,Rajasthan,8,Bharatpur,105,1000,1800,1400
+2022-07-07,Onion Green,358,Rajasthan,8,Bharatpur,105,1300,1800,1800
+2019-10-13,Onion Green,358,Rajasthan,8,Bharatpur,105,600,1200,1200

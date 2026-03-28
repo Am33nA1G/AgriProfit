@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-23,Chili Red,26,Madhya Pradesh,23,Shahdol,460,3500,4400,4200
+2019-05-16,Chili Red,26,Madhya Pradesh,23,Shahdol,460,4463,4823,4772
+2019-05-10,Chili Red,26,Madhya Pradesh,23,Shahdol,460,5000,5000,5000
+2019-04-26,Chili Red,26,Madhya Pradesh,23,Shahdol,460,5932,5932,5932
+2019-03-25,Chili Red,26,Madhya Pradesh,23,Shahdol,460,4200,4223,4223
+2019-03-16,Chili Red,26,Madhya Pradesh,23,Shahdol,460,4600,4650,4650
+2019-03-05,Chili Red,26,Madhya Pradesh,23,Shahdol,460,5500,5500,5500
+2016-07-03,Chili Red,26,Madhya Pradesh,23,Shahdol,460,10000,10000,10000

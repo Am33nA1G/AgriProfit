@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-06,Pineapple,21,Karnataka,29,Bangalore Rural,583,2400,3200,2800
+2025-08-02,Pineapple,21,Karnataka,29,Bangalore Rural,583,2100,2200,2150
+2025-07-23,Pineapple,21,Karnataka,29,Bangalore Rural,583,3000,3200,3100
+2025-07-18,Pineapple,21,Karnataka,29,Bangalore Rural,583,2700,2900,2800
+2025-07-16,Pineapple,21,Karnataka,29,Bangalore Rural,583,2900,3100,3000
+2025-07-08,Pineapple,21,Karnataka,29,Bangalore Rural,583,2400,3300,2800
+2016-03-01,Pineapple,21,Karnataka,29,Bangalore Rural,583,1800,2000,1900
+2016-02-23,Pineapple,21,Karnataka,29,Bangalore Rural,583,2000,2000,2000

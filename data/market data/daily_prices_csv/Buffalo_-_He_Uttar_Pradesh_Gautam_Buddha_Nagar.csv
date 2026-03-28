@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-31,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1900,2100,2000
+2024-01-30,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1745,2100,1955
+2024-01-29,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1800,2050,1950
+2024-01-28,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1815,2050,1900
+2024-01-27,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1950,2155,2050
+2024-01-26,Buffalo - He,216,Uttar Pradesh,9,Gautam Buddha Nagar,141,1900,2150,2000

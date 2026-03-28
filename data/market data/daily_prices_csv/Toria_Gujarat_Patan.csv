@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-13,Toria,66,Gujarat,24,Patan,470,1000,2500,1750
+2015-04-08,Toria,66,Gujarat,24,Patan,470,2500,2500,2500

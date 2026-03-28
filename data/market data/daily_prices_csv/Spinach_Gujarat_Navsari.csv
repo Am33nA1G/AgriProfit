@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-25,Spinach,342,Gujarat,24,Navsari,490,3500,4000,3750
+2023-07-24,Spinach,342,Gujarat,24,Navsari,490,3000,4000,3500
+2023-07-22,Spinach,342,Gujarat,24,Navsari,490,600,700,650
+2023-07-18,Spinach,342,Gujarat,24,Navsari,490,800,850,825
+2023-07-15,Spinach,342,Gujarat,24,Navsari,490,700,800,750
+2023-07-14,Spinach,342,Gujarat,24,Navsari,490,800,1000,900

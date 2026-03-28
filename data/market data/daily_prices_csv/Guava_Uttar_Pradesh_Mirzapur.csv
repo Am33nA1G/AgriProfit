@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-27,Guava,185,Uttar Pradesh,9,Mirzapur,199,2845,2950,2900
+2025-02-26,Guava,185,Uttar Pradesh,9,Mirzapur,199,2925,3015,2985
+2025-02-24,Guava,185,Uttar Pradesh,9,Mirzapur,199,3000,3100,3045
+2025-02-19,Guava,185,Uttar Pradesh,9,Mirzapur,199,2725,2800,2775
+2025-02-17,Guava,185,Uttar Pradesh,9,Mirzapur,199,2750,2800,2775
+2025-02-14,Guava,185,Uttar Pradesh,9,Mirzapur,199,2700,2775,2735
+2025-02-13,Guava,185,Uttar Pradesh,9,Mirzapur,199,2550,2645,2600
+2025-02-08,Guava,185,Uttar Pradesh,9,Mirzapur,199,2500,2600,2550
+2025-02-07,Guava,185,Uttar Pradesh,9,Mirzapur,199,2500,2600,2545
+2025-01-16,Guava,185,Uttar Pradesh,9,Mirzapur,199,2425,2500,2465

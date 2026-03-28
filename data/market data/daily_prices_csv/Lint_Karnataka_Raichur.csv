@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-06,Lint,280,Karnataka,29,Raichur,559,13000,13000,13000
+2021-06-15,Lint,280,Karnataka,29,Raichur,559,10500,10500,10500
+2020-11-23,Lint,280,Karnataka,29,Raichur,559,11000,11200,11000
+2020-09-14,Lint,280,Karnataka,29,Raichur,559,10100,10150,10120
+2020-08-31,Lint,280,Karnataka,29,Raichur,559,7000,7000,7000

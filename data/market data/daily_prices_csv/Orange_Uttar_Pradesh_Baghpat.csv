@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-21,Orange,18,Uttar Pradesh,9,Baghpat,139,1200,1400,1300
+2020-03-09,Orange,18,Uttar Pradesh,9,Baghpat,139,1100,1300,1200
+2020-03-04,Orange,18,Uttar Pradesh,9,Baghpat,139,1100,1250,1200
+2020-02-28,Orange,18,Uttar Pradesh,9,Baghpat,139,1200,1400,1300
+2020-02-27,Orange,18,Uttar Pradesh,9,Baghpat,139,1200,1400,1300
+2020-02-26,Orange,18,Uttar Pradesh,9,Baghpat,139,1200,1300,1250
+2020-02-21,Orange,18,Uttar Pradesh,9,Baghpat,139,1100,1250,1200
+2020-02-20,Orange,18,Uttar Pradesh,9,Baghpat,139,1150,1250,1200
+2020-02-19,Orange,18,Uttar Pradesh,9,Baghpat,139,1150,1250,1200

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-03,Methi (Leaves),46,Rajasthan,8,Ajmer,119,3600,4000,3800
+2015-03-26,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,4500,4500
+2015-03-25,Methi (Leaves),46,Rajasthan,8,Ajmer,119,3900,4200,4050
+2015-03-24,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,5100,4800
+2015-03-21,Methi (Leaves),46,Rajasthan,8,Ajmer,119,3800,4600,4200
+2015-03-19,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,4500,4500
+2015-03-18,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4700,5100,4900
+2015-03-11,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,4500,4500
+2015-03-10,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4200,4520,4360
+2015-02-17,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4800,5000,4900
+2015-02-12,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4800,4800,4800
+2015-02-11,Methi (Leaves),46,Rajasthan,8,Ajmer,119,3500,3600,3550
+2015-01-09,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,4500,4500
+2015-01-02,Methi (Leaves),46,Rajasthan,8,Ajmer,119,4500,4500,4500

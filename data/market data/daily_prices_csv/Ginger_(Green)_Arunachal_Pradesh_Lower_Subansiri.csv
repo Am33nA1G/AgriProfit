@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Ginger (Green),103,Arunachal Pradesh,12,Lower Subansiri,255,15000,15000,15000
+2025-10-29,Ginger (Green),103,Arunachal Pradesh,12,Lower Subansiri,255,15000,15000,15000
+2025-10-28,Ginger (Green),103,Arunachal Pradesh,12,Lower Subansiri,255,15000,0,15000
+2025-10-27,Ginger (Green),103,Arunachal Pradesh,12,Lower Subansiri,255,30000,30000,30000

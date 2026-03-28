@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-28,Bitter gourd,81,Gujarat,24,Jamnagar,477,6000,6500,6400
+2019-11-25,Bitter gourd,81,Gujarat,24,Jamnagar,477,1000,1450,1250
+2019-11-22,Bitter gourd,81,Gujarat,24,Jamnagar,477,1500,2500,1800
+2019-11-21,Bitter gourd,81,Gujarat,24,Jamnagar,477,1500,2550,1850
+2019-11-20,Bitter gourd,81,Gujarat,24,Jamnagar,477,1400,1850,1800
+2019-11-19,Bitter gourd,81,Gujarat,24,Jamnagar,477,1500,2500,2000
+2019-11-18,Bitter gourd,81,Gujarat,24,Jamnagar,477,1500,1850,1750
+2019-11-16,Bitter gourd,81,Gujarat,24,Jamnagar,477,2000,2650,2500
+2019-11-15,Bitter gourd,81,Gujarat,24,Jamnagar,477,2000,3000,2550
+2019-11-14,Bitter gourd,81,Gujarat,24,Jamnagar,477,1850,2150,1950
+2019-11-13,Bitter gourd,81,Gujarat,24,Jamnagar,477,1500,2500,2000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-24,Pointed gourd (Parval),303,Assam,18,Barpeta,303,2500,3000,2800
+2022-05-21,Pointed gourd (Parval),303,Assam,18,Barpeta,303,2300,2700,2500
+2022-05-20,Pointed gourd (Parval),303,Assam,18,Barpeta,303,2500,3000,2800
+2022-05-04,Pointed gourd (Parval),303,Assam,18,Barpeta,303,2700,2900,2800

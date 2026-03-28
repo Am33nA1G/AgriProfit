@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-21,Bottle gourd,82,Nagaland,13,Mokokchung,262,3000,3200,3100
+2018-05-14,Bottle gourd,82,Nagaland,13,Mokokchung,262,3000,3400,3200

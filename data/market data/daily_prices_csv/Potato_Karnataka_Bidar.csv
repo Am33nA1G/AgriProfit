@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-11,Potato,24,Karnataka,29,Bidar,558,1200,1500,1300
+2023-11-22,Potato,24,Karnataka,29,Bidar,558,1000,1500,1200
+2023-10-25,Potato,24,Karnataka,29,Bidar,558,1000,1500,1200
+2023-10-11,Potato,24,Karnataka,29,Bidar,558,800,1500,1300
+2023-10-08,Potato,24,Karnataka,29,Bidar,558,900,1500,1200
+2023-10-04,Potato,24,Karnataka,29,Bidar,558,900,1500,1100
+2023-10-01,Potato,24,Karnataka,29,Bidar,558,900,1500,1250
+2023-09-24,Potato,24,Karnataka,29,Bidar,558,1000,1500,1200
+2023-09-20,Potato,24,Karnataka,29,Bidar,558,900,1500,1100
+2023-09-13,Potato,24,Karnataka,29,Bidar,558,1100,1500,1300
+2020-04-19,Potato,24,Karnataka,29,Bidar,558,500,1000,800

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-11,Rice,3,Punjab,3,Firozpur,43,100,300,200
+2020-11-25,Rice,3,Punjab,3,Firozpur,43,1500,2200,2000
+2015-10-08,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-10-07,Rice,3,Punjab,3,Firozpur,43,1450,1455,1450
+2015-10-06,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-10-05,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-10-04,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-10-03,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-10-02,Rice,3,Punjab,3,Firozpur,43,1450,1450,1450
+2015-01-07,Rice,3,Punjab,3,Firozpur,43,2080,2300,2185

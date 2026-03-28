@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-03,Kinnow,336,Bihar,10,Aurangabad,235,20000,20800,20500
+2023-04-29,Kinnow,336,Bihar,10,Aurangabad,235,7000,7100,7050
+2023-03-24,Kinnow,336,Bihar,10,Aurangabad,235,6500,6600,6550
+2023-03-17,Kinnow,336,Bihar,10,Aurangabad,235,6500,6550,6550
+2023-03-09,Kinnow,336,Bihar,10,Aurangabad,235,5850,5950,5900

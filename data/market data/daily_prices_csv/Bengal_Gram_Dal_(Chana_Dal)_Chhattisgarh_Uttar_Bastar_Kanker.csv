@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-28,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Uttar Bastar Kanker,413,3000,3000,3000
+2021-03-07,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500
+2021-02-26,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500
+2021-02-25,Bengal Gram Dal (Chana Dal),263,Chhattisgarh,22,Uttar Bastar Kanker,413,2500,2500,2500

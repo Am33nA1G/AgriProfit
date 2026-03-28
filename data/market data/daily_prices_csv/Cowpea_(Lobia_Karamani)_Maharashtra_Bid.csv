@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-30,Cowpea (Lobia/Karamani),92,Maharashtra,27,Bid,523,2800,3500,3050
+2017-10-15,Cowpea (Lobia/Karamani),92,Maharashtra,27,Bid,523,2000,2000,2000
+2017-06-18,Cowpea (Lobia/Karamani),92,Maharashtra,27,Bid,523,4500,4500,4500
+2017-06-14,Cowpea (Lobia/Karamani),92,Maharashtra,27,Bid,523,3700,3700,3700
+2016-10-12,Cowpea (Lobia/Karamani),92,Maharashtra,27,Bid,523,3000,3000,3000

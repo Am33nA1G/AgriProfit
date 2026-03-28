@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-15,Orange,18,Karnataka,29,Hassan,574,3000,4000,3500
+2020-01-08,Orange,18,Karnataka,29,Hassan,574,2540,2540,2540
+2020-01-01,Orange,18,Karnataka,29,Hassan,574,4375,4375,4375
+2019-08-20,Orange,18,Karnataka,29,Hassan,574,3100,3100,3100
+2018-11-29,Orange,18,Karnataka,29,Hassan,574,2000,2000,2000
+2018-11-07,Orange,18,Karnataka,29,Hassan,574,1000,1000,1000
+2017-03-10,Orange,18,Karnataka,29,Hassan,574,1000,1000,1000
+2015-12-21,Orange,18,Karnataka,29,Hassan,574,900,900,900
+2015-12-10,Orange,18,Karnataka,29,Hassan,574,1366,1366,1366
+2015-11-30,Orange,18,Karnataka,29,Hassan,574,1310,1310,1310
+2015-11-21,Orange,18,Karnataka,29,Hassan,574,1296,1296,1296

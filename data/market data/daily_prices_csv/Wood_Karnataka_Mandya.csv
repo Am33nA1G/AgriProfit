@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-19,Wood,203,Karnataka,29,Mandya,573,10000,25000,23000
+2021-05-04,Wood,203,Karnataka,29,Mandya,573,8000,15000,11000
+2018-12-17,Wood,203,Karnataka,29,Mandya,573,10000,10000,10000
+2017-06-15,Wood,203,Karnataka,29,Mandya,573,10000,10000,10000
+2017-05-20,Wood,203,Karnataka,29,Mandya,573,6000,12000,9000
+2017-05-06,Wood,203,Karnataka,29,Mandya,573,5000,23000,10000
+2017-04-21,Wood,203,Karnataka,29,Mandya,573,6000,12000,9000
+2017-04-03,Wood,203,Karnataka,29,Mandya,573,8000,13000,10000
+2016-03-10,Wood,203,Karnataka,29,Mandya,573,6000,12000,9000
+2015-06-20,Wood,203,Karnataka,29,Mandya,573,6000,12000,9000

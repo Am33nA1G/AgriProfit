@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-21,Cluster beans,80,Punjab,3,Tarn Taran,50,1100,1200,1200
+2016-04-18,Cluster beans,80,Punjab,3,Tarn Taran,50,1000,1100,1000

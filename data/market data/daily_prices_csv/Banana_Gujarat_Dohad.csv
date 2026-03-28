@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-25,Banana,19,Gujarat,24,Dohad,485,4000,4000,4000
+2017-08-06,Banana,19,Gujarat,24,Dohad,485,1000,1500,1300
+2017-08-05,Banana,19,Gujarat,24,Dohad,485,1000,1500,1300
+2017-08-03,Banana,19,Gujarat,24,Dohad,485,1000,1500,1200
+2017-08-02,Banana,19,Gujarat,24,Dohad,485,1200,1500,1400
+2017-08-01,Banana,19,Gujarat,24,Dohad,485,1200,1500,1400
+2017-05-26,Banana,19,Gujarat,24,Dohad,485,500,1000,800
+2016-05-02,Banana,19,Gujarat,24,Dohad,485,500,1300,1000
+2016-04-19,Banana,19,Gujarat,24,Dohad,485,3500,9000,6000
+2016-04-02,Banana,19,Gujarat,24,Dohad,485,3000,4500,3200
+2016-03-29,Banana,19,Gujarat,24,Dohad,485,1500,3500,3000
+2016-02-17,Banana,19,Gujarat,24,Dohad,485,500,1000,750
+2015-10-20,Banana,19,Gujarat,24,Dohad,485,1200,2500,2000
+2015-08-21,Banana,19,Gujarat,24,Dohad,485,700,1500,1200
+2015-06-30,Banana,19,Gujarat,24,Dohad,485,800,2500,1800
+2015-06-27,Banana,19,Gujarat,24,Dohad,485,600,2000,1800

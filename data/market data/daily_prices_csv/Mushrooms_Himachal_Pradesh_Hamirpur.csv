@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-16,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,6000,6200,6100
+2024-11-25,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,5200,5200,5200
+2024-10-10,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,5500,6000,5850
+2024-10-08,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,5000,5500,5250
+2024-05-15,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,16000,17500,16700
+2022-09-16,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,3600,4400,4000
+2021-07-26,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,6000,6500,6250
+2021-02-05,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,1800,2000,1900
+2020-08-26,Mushrooms,340,Himachal Pradesh,2,Hamirpur,28,15000,15000,15000

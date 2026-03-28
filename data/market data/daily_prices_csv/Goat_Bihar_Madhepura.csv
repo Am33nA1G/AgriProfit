@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-22,Goat,219,Bihar,10,Madhepura,213,4000,8000,6000
+2015-12-15,Goat,219,Bihar,10,Madhepura,213,4000,8000,6000
+2015-06-16,Goat,219,Bihar,10,Madhepura,213,1500,7500,4500
+2015-06-15,Goat,219,Bihar,10,Madhepura,213,1500,7500,4500
+2015-06-14,Goat,219,Bihar,10,Madhepura,213,1500,7500,4500
+2015-06-11,Goat,219,Bihar,10,Madhepura,213,1500,7500,4500

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-28,Cowpea (Veg),89,Bihar,10,Vaishali,220,2500,3000,2500
+2022-11-25,Cowpea (Veg),89,Bihar,10,Vaishali,220,2000,2100,2000
+2022-11-21,Cowpea (Veg),89,Bihar,10,Vaishali,220,2000,2100,2000
+2022-11-10,Cowpea (Veg),89,Bihar,10,Vaishali,220,2000,2100,2000
+2022-10-24,Cowpea (Veg),89,Bihar,10,Vaishali,220,3200,3400,3200
+2022-10-17,Cowpea (Veg),89,Bihar,10,Vaishali,220,3500,3600,3500
+2022-10-13,Cowpea (Veg),89,Bihar,10,Vaishali,220,3000,3200,3100
+2022-10-06,Cowpea (Veg),89,Bihar,10,Vaishali,220,3000,3100,3050
+2022-10-03,Cowpea (Veg),89,Bihar,10,Vaishali,220,3000,3100,3050
+2022-09-29,Cowpea (Veg),89,Bihar,10,Vaishali,220,3000,3200,3100
+2022-09-26,Cowpea (Veg),89,Bihar,10,Vaishali,220,1500,1700,1600

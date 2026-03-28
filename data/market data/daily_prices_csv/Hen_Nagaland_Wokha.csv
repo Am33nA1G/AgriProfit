@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-25,Hen,369,Nagaland,13,Wokha,264,270,340,305
+2025-10-04,Hen,369,Nagaland,13,Wokha,264,305,345,330
+2025-09-17,Hen,369,Nagaland,13,Wokha,264,280,360,315
+2025-08-29,Hen,369,Nagaland,13,Wokha,264,255,300,280
+2025-08-26,Hen,369,Nagaland,13,Wokha,264,270,325,290
+2025-08-11,Hen,369,Nagaland,13,Wokha,264,250,305,270
+2025-07-29,Hen,369,Nagaland,13,Wokha,264,235,290,265
+2025-07-16,Hen,369,Nagaland,13,Wokha,264,310,355,330
+2025-06-11,Hen,369,Nagaland,13,Wokha,264,210,245,230
+2025-05-31,Hen,369,Nagaland,13,Wokha,264,140,180,160
+2025-05-28,Hen,369,Nagaland,13,Wokha,264,235,270,255

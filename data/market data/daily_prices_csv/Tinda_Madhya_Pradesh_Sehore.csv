@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-31,Tinda,349,Madhya Pradesh,23,Sehore,445,2000,3000,2500
+2025-07-30,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3000,2700
+2025-07-29,Tinda,349,Madhya Pradesh,23,Sehore,445,2800,3000,2900
+2025-07-28,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500
+2025-07-26,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500
+2025-07-25,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500
+2025-07-24,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500
+2025-07-22,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,3500,3200
+2025-05-31,Tinda,349,Madhya Pradesh,23,Sehore,445,2200,3500,3000
+2025-05-30,Tinda,349,Madhya Pradesh,23,Sehore,445,2000,3000,2500
+2025-05-29,Tinda,349,Madhya Pradesh,23,Sehore,445,2200,3000,2500
+2025-05-28,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3000,2800
+2025-05-27,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3000,2800
+2025-05-25,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3500,3000
+2025-05-24,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3500,3000
+2025-05-23,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3500,3000
+2025-05-22,Tinda,349,Madhya Pradesh,23,Sehore,445,2000,3000,2500
+2025-05-21,Tinda,349,Madhya Pradesh,23,Sehore,445,2000,3000,2500
+2025-05-20,Tinda,349,Madhya Pradesh,23,Sehore,445,2000,3000,2500
+2025-05-19,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,3500,3200
+2025-05-18,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,3500,3200
+2025-05-17,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500
+2025-05-16,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3000,2800
+2025-05-15,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,3500,3200
+2025-05-09,Tinda,349,Madhya Pradesh,23,Sehore,445,2500,3000,2800
+2025-04-23,Tinda,349,Madhya Pradesh,23,Sehore,445,3000,4000,3500

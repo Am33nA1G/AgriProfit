@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-28,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,2000,2200,2100
+2020-02-25,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,1650,1750,1700
+2020-02-24,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,1550,1650,1600
+2020-02-23,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,1600,1700,1650
+2020-02-22,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,1800,1900,1850
+2020-02-21,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,1875,2025,1975
+2020-02-14,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,2000,2300,2200
+2020-02-07,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Sultanpur,179,3000,3500,3250

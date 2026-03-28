@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-13,Mustard,12,Jharkhand,20,Garhwa,346,6250,6350,6300
+2022-03-30,Mustard,12,Jharkhand,20,Garhwa,346,5100,5190,5150
+2019-08-26,Mustard,12,Jharkhand,20,Garhwa,346,4800,4975,4900
+2019-07-24,Mustard,12,Jharkhand,20,Garhwa,346,4200,4205,4203
+2019-07-09,Mustard,12,Jharkhand,20,Garhwa,346,4200,4202.5,4202

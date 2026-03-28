@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-23,Indian Beans (Seam),299,Madhya Pradesh,23,Singrauli,463,1200,1200,1200
+2022-02-22,Indian Beans (Seam),299,Madhya Pradesh,23,Singrauli,463,1000,1000,1000
+2022-02-21,Indian Beans (Seam),299,Madhya Pradesh,23,Singrauli,463,1000,1000,1000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-27,Black pepper,38,Odisha,21,Koraput,398,7000,9000,8000
+2015-05-05,Black pepper,38,Odisha,21,Koraput,398,35000,37000,36000
+2015-05-02,Black pepper,38,Odisha,21,Koraput,398,40000,42000,41000
+2015-01-09,Black pepper,38,Odisha,21,Koraput,398,32000,33000,32500

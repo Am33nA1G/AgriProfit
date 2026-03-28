@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-05,Red Gram,7,Chhattisgarh,22,Raigarh,403,3200,3200,3200
+2015-08-26,Red Gram,7,Chhattisgarh,22,Raigarh,403,3000,3000,3000
+2015-06-04,Red Gram,7,Chhattisgarh,22,Raigarh,403,2800,2800,2800
+2015-01-15,Red Gram,7,Chhattisgarh,22,Raigarh,403,2500,2500,2500

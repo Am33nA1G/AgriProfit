@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-16,Safflower,59,Chhattisgarh,22,Durg,409,2500,2500,2500
+2021-08-03,Safflower,59,Chhattisgarh,22,Durg,409,450,450,450
+2020-12-29,Safflower,59,Chhattisgarh,22,Durg,409,1000,2450,1725
+2020-10-27,Safflower,59,Chhattisgarh,22,Durg,409,1000,1000,1000
+2019-11-13,Safflower,59,Chhattisgarh,22,Durg,409,2345,2345,2345
+2019-09-23,Safflower,59,Chhattisgarh,22,Durg,409,950,950,950
+2018-07-25,Safflower,59,Chhattisgarh,22,Durg,409,4000,4000,4000
+2018-06-05,Safflower,59,Chhattisgarh,22,Durg,409,3300,3300,3300
+2017-09-26,Safflower,59,Chhattisgarh,22,Durg,409,750,750,750

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-30,Indian Beans (Seam),299,Tamil Nadu,33,Erode,610,1800,2000,2000
+2025-01-08,Indian Beans (Seam),299,Tamil Nadu,33,Erode,610,5500,6000,6000
+2024-12-31,Indian Beans (Seam),299,Tamil Nadu,33,Erode,610,4500,5000,5000
+2024-06-20,Indian Beans (Seam),299,Tamil Nadu,33,Erode,610,38,40,40

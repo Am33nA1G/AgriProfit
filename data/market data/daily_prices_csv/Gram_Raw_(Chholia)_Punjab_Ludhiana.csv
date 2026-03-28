@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-07,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,1800,5000,3500
+2024-05-06,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,500,1200,800
+2015-03-14,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,600,800,700
+2015-03-13,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,600,800,700
+2015-03-12,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,500,700,600
+2015-03-10,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,600,800,700
+2015-03-09,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,800,1000,900
+2015-03-07,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,800,1000,900
+2015-03-05,Gram Raw (Chholia),359,Punjab,3,Ludhiana,41,500,700,600

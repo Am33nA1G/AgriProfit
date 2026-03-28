@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-08,Beans,94,Punjab,3,Sangrur,53,3300,3500,3500
+2022-07-28,Beans,94,Punjab,3,Sangrur,53,2000,2200,2100
+2022-07-23,Beans,94,Punjab,3,Sangrur,53,1500,1700,1600
+2022-07-18,Beans,94,Punjab,3,Sangrur,53,1500,1800,1700
+2022-07-03,Beans,94,Punjab,3,Sangrur,53,1500,1700,1600
+2022-06-30,Beans,94,Punjab,3,Sangrur,53,1600,1800,1700
+2021-07-24,Beans,94,Punjab,3,Sangrur,53,2300,2600,2500
+2021-07-03,Beans,94,Punjab,3,Sangrur,53,1300,1500,1400
+2020-07-22,Beans,94,Punjab,3,Sangrur,53,1300,1500,1400

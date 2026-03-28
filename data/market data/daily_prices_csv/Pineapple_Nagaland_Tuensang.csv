@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-04,Pineapple,21,Nagaland,13,Tuensang,267,7700,8000,7800
+2024-03-01,Pineapple,21,Nagaland,13,Tuensang,267,8800,9100,8900
+2024-02-20,Pineapple,21,Nagaland,13,Tuensang,267,7800,8200,8000
+2024-02-19,Pineapple,21,Nagaland,13,Tuensang,267,7800,8100,7900
+2024-02-10,Pineapple,21,Nagaland,13,Tuensang,267,8300,8600,8400
+2024-02-06,Pineapple,21,Nagaland,13,Tuensang,267,8400,8700,8500
+2024-02-05,Pineapple,21,Nagaland,13,Tuensang,267,8200,8500,8300
+2024-02-02,Pineapple,21,Nagaland,13,Tuensang,267,7400,7600,7500
+2024-02-01,Pineapple,21,Nagaland,13,Tuensang,267,8100,8400,8200
+2024-01-31,Pineapple,21,Nagaland,13,Tuensang,267,8600,8900,8700
+2024-01-30,Pineapple,21,Nagaland,13,Tuensang,267,8100,8400,8200
+2024-01-23,Pineapple,21,Nagaland,13,Tuensang,267,8300,8600,8400
+2024-01-22,Pineapple,21,Nagaland,13,Tuensang,267,11000,11400,11200
+2024-01-18,Pineapple,21,Nagaland,13,Tuensang,267,8500,8800,8600
+2024-01-15,Pineapple,21,Nagaland,13,Tuensang,267,5300,5600,5400
+2021-12-06,Pineapple,21,Nagaland,13,Tuensang,267,2500,2800,2600

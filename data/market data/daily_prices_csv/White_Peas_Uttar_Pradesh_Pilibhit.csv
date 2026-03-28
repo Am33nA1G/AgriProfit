@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-31,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4695,4735,4715
+2020-01-30,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4480,4515,4495
+2020-01-24,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4685,4725,4710
+2020-01-23,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4590,4635,4610
+2020-01-17,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4780,4825,4800
+2020-01-10,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4790,4850,4820
+2020-01-08,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4780,4835,4810
+2019-11-20,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4770,4880,4810
+2019-11-19,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4805,4865,4840
+2019-11-15,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4805,4875,4835
+2019-11-14,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4765,4850,4800
+2019-11-08,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4620,4715,4675
+2019-11-06,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4680,4740,4710
+2019-11-05,White Peas,412,Uttar Pradesh,9,Pilibhit,151,4620,4705,4680
+2019-11-02,White Peas,412,Uttar Pradesh,9,Pilibhit,151,5775,5835,5800

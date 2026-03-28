@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-08,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,950,1050,1000
+2018-08-08,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2050,2000
+2018-08-05,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2040,2000
+2018-08-04,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1900,2040,2000
+2018-08-03,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2048,2000
+2018-08-02,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2050,2000
+2018-07-28,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1400,1535,1500
+2018-07-27,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1400,1545,1500
+2018-07-21,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,750,835,800
+2018-07-20,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,750,825,800
+2018-07-19,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,750,850,800
+2018-07-17,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1550,1650,1600
+2018-07-13,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2045,2000
+2018-07-11,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1450,1540,1500
+2018-07-10,Yam (Ratalu),297,Uttar Pradesh,9,Jalaun,165,1950,2040,2000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-04,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1700,1900,1800
+2019-07-03,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1650,1900,1750
+2019-07-02,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1700,1900,1800
+2019-07-01,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1700,1900,1800
+2019-06-30,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1600,1800,1700
+2019-06-28,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1400,1600,1500
+2019-05-06,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1200,1600,1400
+2019-05-04,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1200,1600,1400
+2019-05-02,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1500,1800,1600
+2019-05-01,Bitter gourd,81,Madhya Pradesh,23,Shajapur,436,1200,1500,1350

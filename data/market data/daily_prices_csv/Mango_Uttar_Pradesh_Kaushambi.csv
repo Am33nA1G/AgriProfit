@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-26,Mango,20,Uttar Pradesh,9,Kaushambi,174,3930,4250,4100
+2022-07-12,Mango,20,Uttar Pradesh,9,Kaushambi,174,2700,2880,2800

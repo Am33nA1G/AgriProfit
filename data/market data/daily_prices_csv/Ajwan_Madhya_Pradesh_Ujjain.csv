@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-28,Ajwan,137,Madhya Pradesh,23,Ujjain,435,1925,1940,1927
+2019-10-07,Ajwan,137,Madhya Pradesh,23,Ujjain,435,1836,2207,2032
+2017-11-07,Ajwan,137,Madhya Pradesh,23,Ujjain,435,3701,3701,3701

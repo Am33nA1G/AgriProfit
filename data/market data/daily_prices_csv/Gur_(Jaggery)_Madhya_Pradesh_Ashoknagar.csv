@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-26,Gur (Jaggery),74,Madhya Pradesh,23,Ashoknagar,459,2751,2751,2751
+2025-03-25,Gur (Jaggery),74,Madhya Pradesh,23,Ashoknagar,459,2701,2775,2721
+2022-02-08,Gur (Jaggery),74,Madhya Pradesh,23,Ashoknagar,459,2561,2774,2652
+2021-02-06,Gur (Jaggery),74,Madhya Pradesh,23,Ashoknagar,459,2600,2650,2630

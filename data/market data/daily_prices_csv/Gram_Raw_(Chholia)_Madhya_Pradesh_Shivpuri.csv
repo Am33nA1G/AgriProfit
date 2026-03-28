@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-20,Gram Raw (Chholia),359,Madhya Pradesh,23,Shivpuri,423,0,9505,9505
+2021-02-12,Gram Raw (Chholia),359,Madhya Pradesh,23,Shivpuri,423,,4405,4200
+2021-02-11,Gram Raw (Chholia),359,Madhya Pradesh,23,Shivpuri,423,,4235,4200
+2015-03-18,Gram Raw (Chholia),359,Madhya Pradesh,23,Shivpuri,423,1085,1387,1350

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-05,Jack Fruit,182,Jharkhand,20,Kodarma,348,1000,1200,1100
+2018-04-18,Jack Fruit,182,Jharkhand,20,Kodarma,348,1500,1800,1600
+2017-07-14,Jack Fruit,182,Jharkhand,20,Kodarma,348,1600,1900,1800
+2017-05-15,Jack Fruit,182,Jharkhand,20,Kodarma,348,900,1100,1000
+2017-04-08,Jack Fruit,182,Jharkhand,20,Kodarma,348,1200,1400,1300
+2017-03-06,Jack Fruit,182,Jharkhand,20,Kodarma,348,2300,2500,2400
+2016-03-14,Jack Fruit,182,Jharkhand,20,Kodarma,348,1200,1400,1300
+2015-06-05,Jack Fruit,182,Jharkhand,20,Kodarma,348,800,1000,900
+2015-06-01,Jack Fruit,182,Jharkhand,20,Kodarma,348,900,1200,1000
+2015-05-22,Jack Fruit,182,Jharkhand,20,Kodarma,348,800,1200,1000
+2015-05-16,Jack Fruit,182,Jharkhand,20,Kodarma,348,900,1200,1000
+2015-05-15,Jack Fruit,182,Jharkhand,20,Kodarma,348,750,1200,1000
+2015-05-11,Jack Fruit,182,Jharkhand,20,Kodarma,348,700,1100,900
+2015-04-15,Jack Fruit,182,Jharkhand,20,Kodarma,348,1800,2200,2000
+2015-04-13,Jack Fruit,182,Jharkhand,20,Kodarma,348,1300,1600,1500

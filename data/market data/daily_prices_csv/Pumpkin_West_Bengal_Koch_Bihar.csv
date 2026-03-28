@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-26,Pumpkin,84,West Bengal,19,Koch Bihar,329,1300,1500,1400
+2021-06-07,Pumpkin,84,West Bengal,19,Koch Bihar,329,800,1000,900
+2021-06-02,Pumpkin,84,West Bengal,19,Koch Bihar,329,1000,1200,1100
+2021-05-19,Pumpkin,84,West Bengal,19,Koch Bihar,329,800,1000,900
+2021-04-22,Pumpkin,84,West Bengal,19,Koch Bihar,329,1800,2000,1900
+2021-01-01,Pumpkin,84,West Bengal,19,Koch Bihar,329,2400,2600,2500
+2020-12-18,Pumpkin,84,West Bengal,19,Koch Bihar,329,2500,2700,2600
+2020-12-17,Pumpkin,84,West Bengal,19,Koch Bihar,329,2800,3000,2900
+2020-12-15,Pumpkin,84,West Bengal,19,Koch Bihar,329,2800,3000,2900
+2020-12-13,Pumpkin,84,West Bengal,19,Koch Bihar,329,2800,3000,2900
+2020-12-12,Pumpkin,84,West Bengal,19,Koch Bihar,329,3000,3200,3100
+2020-12-06,Pumpkin,84,West Bengal,19,Koch Bihar,329,2400,2600,2500
+2020-12-05,Pumpkin,84,West Bengal,19,Koch Bihar,329,2400,2600,2500
+2020-12-01,Pumpkin,84,West Bengal,19,Koch Bihar,329,2400,2600,2500

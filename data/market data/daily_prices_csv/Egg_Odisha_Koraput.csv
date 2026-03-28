@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-08,Egg,367,Odisha,21,Koraput,398,300,350,325
+2016-02-24,Egg,367,Odisha,21,Koraput,398,250,300,270
+2015-12-11,Egg,367,Odisha,21,Koraput,398,200,300,250
+2015-12-10,Egg,367,Odisha,21,Koraput,398,200,300,250
+2015-11-27,Egg,367,Odisha,21,Koraput,398,200,300,250
+2015-10-26,Egg,367,Odisha,21,Koraput,398,350,420,400

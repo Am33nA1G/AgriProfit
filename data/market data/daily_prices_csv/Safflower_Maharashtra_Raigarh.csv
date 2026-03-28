@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-11,Safflower,59,Maharashtra,27,Raigarh,520,3000,3000,3000
+2017-03-29,Safflower,59,Maharashtra,27,Raigarh,520,2625,2625,2625

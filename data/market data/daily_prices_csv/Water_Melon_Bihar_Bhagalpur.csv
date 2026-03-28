@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-28,Water Melon,73,Bihar,10,Bhagalpur,224,1800,2000,1900
+2023-05-12,Water Melon,73,Bihar,10,Bhagalpur,224,2700,2900,2800
+2023-05-04,Water Melon,73,Bihar,10,Bhagalpur,224,1700,1850,1800
+2023-04-25,Water Melon,73,Bihar,10,Bhagalpur,224,2000,2200,2100
+2023-04-15,Water Melon,73,Bihar,10,Bhagalpur,224,2000,2200,2100
+2023-03-25,Water Melon,73,Bihar,10,Bhagalpur,224,1600,1800,1700
+2022-05-17,Water Melon,73,Bihar,10,Bhagalpur,224,850,900,900
+2022-05-11,Water Melon,73,Bihar,10,Bhagalpur,224,1000,1150,1100
+2022-05-04,Water Melon,73,Bihar,10,Bhagalpur,224,1000,1200,1100
+2022-04-28,Water Melon,73,Bihar,10,Bhagalpur,224,1300,1500,1400
+2022-04-17,Water Melon,73,Bihar,10,Bhagalpur,224,1700,1800,1750

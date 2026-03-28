@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-06,Beetroot,157,Madhya Pradesh,23,Chhatarpur,425,4000,4000,4000
+2025-05-20,Beetroot,157,Madhya Pradesh,23,Chhatarpur,425,2000,2000,2000
+2025-04-09,Beetroot,157,Madhya Pradesh,23,Chhatarpur,425,1200,1200,1200

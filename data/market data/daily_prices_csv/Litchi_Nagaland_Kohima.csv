@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-12,Litchi,351,Nagaland,13,Kohima,270,3000,4000,3500
+2024-06-25,Litchi,351,Nagaland,13,Kohima,270,4500,5500,5000
+2024-06-21,Litchi,351,Nagaland,13,Kohima,270,4000,5000,4500

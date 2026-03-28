@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-22,Black Gram Dal (Urd Dal),264,Karnataka,29,Bagalkot,556,3223,3223,3223
+2022-10-17,Black Gram Dal (Urd Dal),264,Karnataka,29,Bagalkot,556,6000,6201,6067
+2022-10-07,Black Gram Dal (Urd Dal),264,Karnataka,29,Bagalkot,556,6003,6003,6003
+2022-10-05,Black Gram Dal (Urd Dal),264,Karnataka,29,Bagalkot,556,6003,6402,6353

@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-23,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3100,3300,3200
+2023-02-11,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3700,3900,3800
+2023-02-09,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3400,3600,3500
+2023-02-03,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3100,3350,3200
+2023-02-02,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3200,3450,3300
+2023-01-28,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3400,3650,3500
+2023-01-26,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3500,3700,3600
+2023-01-13,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3400,3600,3500
+2023-01-11,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2600,2800,2700
+2023-01-05,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3500,3700,3600
+2023-01-04,French Beans (Frasbean),298,Bihar,10,Begusarai,222,3000,3000,3000
+2022-04-08,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2300,2500,2400
+2022-03-31,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1400,1600,1500
+2022-03-30,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1600,1800,1700
+2022-03-29,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1500,1700,1600
+2022-03-28,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1600,1700,1650
+2022-03-26,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1700,1900,1800
+2022-03-25,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1850,2000,1900
+2022-03-24,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1750,1850,1800
+2022-03-23,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1400,1600,1500
+2022-03-16,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2300,2500,2400
+2022-03-14,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2200,2400,2300
+2022-03-12,French Beans (Frasbean),298,Bihar,10,Begusarai,222,1900,2100,2000
+2022-03-11,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2000,2200,2100
+2022-03-10,French Beans (Frasbean),298,Bihar,10,Begusarai,222,2400,2600,2500

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-03,Radish,161,Gujarat,24,Kachchh,468,3500,3600,3600
+2015-02-24,Radish,161,Gujarat,24,Kachchh,468,400,600,500

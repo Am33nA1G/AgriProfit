@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-28,Cotton Seed,99,Karnataka,29,Belgaum,555,1800,2100,2000
+2024-11-20,Cotton Seed,99,Karnataka,29,Belgaum,555,3374,3377,3377
+2024-10-28,Cotton Seed,99,Karnataka,29,Belgaum,555,5900,6300,6000
+2024-10-21,Cotton Seed,99,Karnataka,29,Belgaum,555,4258,4258,4258
+2020-01-06,Cotton Seed,99,Karnataka,29,Belgaum,555,2270,2270,2270
+2018-10-29,Cotton Seed,99,Karnataka,29,Belgaum,555,4900,5400,5000
+2018-10-22,Cotton Seed,99,Karnataka,29,Belgaum,555,4500,5500,5000
+2018-08-14,Cotton Seed,99,Karnataka,29,Belgaum,555,9570,10031,10017
+2016-03-04,Cotton Seed,99,Karnataka,29,Belgaum,555,1700,1700,1700

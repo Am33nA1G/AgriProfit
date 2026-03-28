@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-17,Sheep,218,Karnataka,29,Mysore,577,6000,10000,8000
+2025-10-03,Sheep,218,Karnataka,29,Mysore,577,5000,10000,8000
+2025-09-26,Sheep,218,Karnataka,29,Mysore,577,4000,8000,5000
+2025-01-17,Sheep,218,Karnataka,29,Mysore,577,7000,9000,8000
+2024-03-30,Sheep,218,Karnataka,29,Mysore,577,6000,9000,8000
+2023-10-13,Sheep,218,Karnataka,29,Mysore,577,3000,6000,4000
+2023-09-15,Sheep,218,Karnataka,29,Mysore,577,3000,6000,4000
+2015-08-14,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-08-07,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-07-31,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-07-24,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-07-17,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-07-10,Sheep,218,Karnataka,29,Mysore,577,1,1,1
+2015-07-03,Sheep,218,Karnataka,29,Mysore,577,1,1,1

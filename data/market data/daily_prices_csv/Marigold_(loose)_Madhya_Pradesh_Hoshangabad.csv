@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-02,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1890,3440,2660
+2025-10-01,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1830,3020,2540
+2025-09-30,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1790,2990,2500
+2025-09-29,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1770,2350,1820
+2025-09-27,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1790,2370,1850
+2025-09-25,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1850,2510,1970
+2025-09-24,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1870,2640,2110
+2025-09-23,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1950,2860,2230
+2025-09-22,Marigold (loose),405,Madhya Pradesh,23,Hoshangabad,449,1990,3050,2390

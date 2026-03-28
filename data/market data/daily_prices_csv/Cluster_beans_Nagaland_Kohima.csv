@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-01,Cluster beans,80,Nagaland,13,Kohima,270,4000,5000,4500
+2023-05-22,Cluster beans,80,Nagaland,13,Kohima,270,4000,4800,4500
+2023-04-19,Cluster beans,80,Nagaland,13,Kohima,270,3500,4500,4000
+2020-02-05,Cluster beans,80,Nagaland,13,Kohima,270,3500,4500,4000
+2018-04-11,Cluster beans,80,Nagaland,13,Kohima,270,4000,4010,4005
+2018-04-04,Cluster beans,80,Nagaland,13,Kohima,270,4000,4800,4500
+2018-03-28,Cluster beans,80,Nagaland,13,Kohima,270,4000,4015,4010
+2018-03-21,Cluster beans,80,Nagaland,13,Kohima,270,4000,4010,4005

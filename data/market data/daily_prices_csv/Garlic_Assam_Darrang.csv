@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-30,Garlic,25,Assam,18,Darrang,325,9500,9800,9700
+2019-09-26,Garlic,25,Assam,18,Darrang,325,10000,10500,10200
+2019-09-24,Garlic,25,Assam,18,Darrang,325,9500,10000,9800
+2019-09-19,Garlic,25,Assam,18,Darrang,325,9500,10000,9800
+2019-09-16,Garlic,25,Assam,18,Darrang,325,8000,10000,9000

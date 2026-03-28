@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-26,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,7000,8200,8000
+2015-11-26,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,10000,10500,10000
+2015-11-17,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,10000,11000,10000
+2015-11-13,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,10000,10500,10000
+2015-11-10,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,10000,10500,10000
+2015-11-07,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,9000,9800,9600
+2015-11-06,Lentil (Masur)(Whole),63,Punjab,3,Hoshiarpur,38,9000,10000,10000

@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-27,Cluster beans,80,Haryana,6,Hisar,80,2500,3000,2800
+2019-07-08,Cluster beans,80,Haryana,6,Hisar,80,1500,1600,1600
+2019-06-04,Cluster beans,80,Haryana,6,Hisar,80,1000,1000,1000
+2019-05-17,Cluster beans,80,Haryana,6,Hisar,80,2000,2000,2000
+2018-06-23,Cluster beans,80,Haryana,6,Hisar,80,500,500,500
+2018-06-18,Cluster beans,80,Haryana,6,Hisar,80,2500,2500,2500
+2018-06-01,Cluster beans,80,Haryana,6,Hisar,80,1000,1000,1000
+2018-05-27,Cluster beans,80,Haryana,6,Hisar,80,800,800,800
+2018-05-12,Cluster beans,80,Haryana,6,Hisar,80,1800,1800,1800
+2018-04-08,Cluster beans,80,Haryana,6,Hisar,80,800,800,800
+2017-09-16,Cluster beans,80,Haryana,6,Hisar,80,2000,2000,2000
+2017-09-02,Cluster beans,80,Haryana,6,Hisar,80,1500,1500,1500
+2017-08-15,Cluster beans,80,Haryana,6,Hisar,80,4000,4000,4000
+2017-07-18,Cluster beans,80,Haryana,6,Hisar,80,2000,2000,2000
+2017-07-05,Cluster beans,80,Haryana,6,Hisar,80,2500,2500,2500
+2017-07-04,Cluster beans,80,Haryana,6,Hisar,80,2400,2400,2400
+2017-06-28,Cluster beans,80,Haryana,6,Hisar,80,1400,1700,1600
+2017-06-27,Cluster beans,80,Haryana,6,Hisar,80,1500,1500,1500
+2017-06-23,Cluster beans,80,Haryana,6,Hisar,80,1500,1600,1600
+2017-06-21,Cluster beans,80,Haryana,6,Hisar,80,1500,1500,1500
+2015-09-13,Cluster beans,80,Haryana,6,Hisar,80,2000,2000,2000
+2015-08-26,Cluster beans,80,Haryana,6,Hisar,80,1500,1500,1500
+2015-08-16,Cluster beans,80,Haryana,6,Hisar,80,2500,2500,2500
+2015-06-11,Cluster beans,80,Haryana,6,Hisar,80,2000,2000,2000

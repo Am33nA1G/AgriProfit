@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-28,Broken Rice,293,Odisha,21,Cuttack,381,1200,1200,1200
+2016-07-20,Broken Rice,293,Odisha,21,Cuttack,381,1600,1600,1600
+2016-07-17,Broken Rice,293,Odisha,21,Cuttack,381,1000,1000,1000
+2016-07-05,Broken Rice,293,Odisha,21,Cuttack,381,1000,1000,1000
+2016-07-04,Broken Rice,293,Odisha,21,Cuttack,381,1200,1200,1200
+2016-05-24,Broken Rice,293,Odisha,21,Cuttack,381,700,700,700
+2016-05-10,Broken Rice,293,Odisha,21,Cuttack,381,700,700,700
+2016-05-06,Broken Rice,293,Odisha,21,Cuttack,381,750,750,750

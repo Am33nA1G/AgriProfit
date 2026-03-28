@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-05-28,Beans,94,Chhattisgarh,22,Raipur,410,1400,1420,1410
+2015-10-09,Beans,94,Chhattisgarh,22,Raipur,410,4000,4000,4000
+2015-03-24,Beans,94,Chhattisgarh,22,Raipur,410,4000,4000,4000
+2015-01-31,Beans,94,Chhattisgarh,22,Raipur,410,2200,2300,2250

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-20,Plum,329,Uttar Pradesh,9,Unnao,156,750,850,800
+2018-03-14,Plum,329,Uttar Pradesh,9,Unnao,156,800,900,850
+2018-02-26,Plum,329,Uttar Pradesh,9,Unnao,156,800,900,850
+2018-02-16,Plum,329,Uttar Pradesh,9,Unnao,156,800,900,850
+2018-02-14,Plum,329,Uttar Pradesh,9,Unnao,156,1800,1900,1850
+2018-02-11,Plum,329,Uttar Pradesh,9,Unnao,156,850,950,900
+2018-02-10,Plum,329,Uttar Pradesh,9,Unnao,156,800,900,850

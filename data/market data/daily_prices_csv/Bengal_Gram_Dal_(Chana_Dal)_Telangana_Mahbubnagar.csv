@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-01,Bengal Gram Dal (Chana Dal),263,Telangana,36,Mahbubnagar,538,6600,6600,6600
+2018-04-06,Bengal Gram Dal (Chana Dal),263,Telangana,36,Mahbubnagar,538,3453,3651,3453
+2018-03-07,Bengal Gram Dal (Chana Dal),263,Telangana,36,Mahbubnagar,538,4400,4400,4400

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-18,Arhar (Tur/Red Gram)(Whole),49,Maharashtra,27,Thane,517,8000,9000,8500
+2022-12-01,Arhar (Tur/Red Gram)(Whole),49,Maharashtra,27,Thane,517,7800,8000,7900
+2022-11-01,Arhar (Tur/Red Gram)(Whole),49,Maharashtra,27,Thane,517,14000,15000,14500
+2022-10-26,Arhar (Tur/Red Gram)(Whole),49,Maharashtra,27,Thane,517,12000,14000,13000

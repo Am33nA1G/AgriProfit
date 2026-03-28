@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-26,Sheep,218,Odisha,21,Koraput,398,2800,4000,3500
+2015-11-27,Sheep,218,Odisha,21,Koraput,398,2500,4500,3500
+2015-10-26,Sheep,218,Odisha,21,Koraput,398,25,3500,3000
+2015-09-23,Sheep,218,Odisha,21,Koraput,398,3000,4000,3500
+2015-07-09,Sheep,218,Odisha,21,Koraput,398,3000,4000,3500
+2015-06-02,Sheep,218,Odisha,21,Koraput,398,3000,3500,3200
+2015-04-30,Sheep,218,Odisha,21,Koraput,398,3000,4000,3500
+2015-01-09,Sheep,218,Odisha,21,Koraput,398,3000,3500,3200
+2015-01-07,Sheep,218,Odisha,21,Koraput,398,3200,4000,3600
+2015-01-02,Sheep,218,Odisha,21,Koraput,398,3500,4500,4000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-28,Papaya,72,Nagaland,13,Mon,261,750,1050,840
+2023-09-26,Papaya,72,Nagaland,13,Mon,261,900,1140,1020
+2023-07-20,Papaya,72,Nagaland,13,Mon,261,900,1140,1020
+2023-07-19,Papaya,72,Nagaland,13,Mon,261,1050,1400,1190

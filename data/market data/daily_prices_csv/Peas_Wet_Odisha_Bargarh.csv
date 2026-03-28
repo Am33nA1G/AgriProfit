@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-04-09,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2000
+2018-03-12,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2000
+2018-03-05,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2500
+2018-02-26,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2500
+2018-02-19,Peas Wet,174,Odisha,21,Bargarh,370,2500,3000,3000
+2018-02-12,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2000
+2018-02-05,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2500
+2018-01-29,Peas Wet,174,Odisha,21,Bargarh,370,2000,2500,2500

@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-07,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1700,1900,1800
+2023-02-27,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1500,1700,1600
+2023-02-23,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1600,1700,1650
+2023-02-22,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1600,1800,1700
+2023-02-21,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1500,1600,1550
+2023-02-11,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1500,1700,1600
+2023-02-10,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1400,1500,1450
+2023-02-08,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1400,1500,1450
+2023-02-07,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1500,1600,1550
+2023-02-06,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1300,1500,1400
+2023-02-05,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1400,1500,1450
+2023-02-04,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2023-02-01,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1300,1400,1350
+2023-01-31,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1200,1300,1250
+2023-01-30,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1200,1300,1250
+2023-01-29,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1600,1700,1650
+2023-01-22,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1700,1900,1800
+2023-01-21,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1600,1800,1700
+2023-01-16,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1850,2000,1900
+2023-01-11,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1900,2100,2000
+2023-01-10,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1900,2100,2000
+2023-01-09,Green Peas,50,Bihar,10,Kaimur (Bhabua),233,1750,1950,1850

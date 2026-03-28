@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-27,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,600,1600,1300
+2020-01-18,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,1200,2400,2000
+2020-01-13,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,1600,2400,2000
+2019-06-26,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,600,1200,1000
+2019-06-22,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,1000,1600,1200
+2019-06-21,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,1000,1600,1200
+2019-06-16,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,1200,1600,1400
+2019-06-07,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,600,1400,1000
+2019-05-13,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,600,1400,1000
+2019-05-11,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,600,1400,1000
+2019-05-09,Papaya (Raw),313,Madhya Pradesh,23,Burhanpur,467,800,1400,1200

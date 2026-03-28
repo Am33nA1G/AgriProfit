@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-22,Skin And Hide,226,Maharashtra,27,Solapur,526,400,1100,800
+2021-05-01,Skin And Hide,226,Maharashtra,27,Solapur,526,2000,3200,2700
+2016-05-26,Skin And Hide,226,Maharashtra,27,Solapur,526,300,700,700

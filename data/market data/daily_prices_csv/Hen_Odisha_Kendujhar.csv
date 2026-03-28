@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-07,Hen,369,Odisha,21,Kendujhar,375,400,1500,400
+2016-08-07,Hen,369,Odisha,21,Kendujhar,375,500,1000,600
+2016-07-30,Hen,369,Odisha,21,Kendujhar,375,500,800,600
+2015-01-11,Hen,369,Odisha,21,Kendujhar,375,300,3500,350

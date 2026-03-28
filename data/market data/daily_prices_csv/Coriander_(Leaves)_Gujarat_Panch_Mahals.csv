@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,1000,1500,1250
+2021-01-05,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,800,1000,900
+2021-01-02,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,600,1200,950
+2020-12-29,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,700,900,800
+2020-12-23,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,500,600,550
+2015-03-14,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,200,400,300
+2015-02-28,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,100,200,150
+2015-02-19,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,200,300,250
+2015-02-16,Coriander (Leaves),43,Gujarat,24,Panch Mahals,484,100,200,150

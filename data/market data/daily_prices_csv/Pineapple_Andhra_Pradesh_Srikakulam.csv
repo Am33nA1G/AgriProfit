@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-14,Pineapple,21,Andhra Pradesh,28,Srikakulam,542,300,5000,4000
+2016-07-02,Pineapple,21,Andhra Pradesh,28,Srikakulam,542,4000,6000,5000

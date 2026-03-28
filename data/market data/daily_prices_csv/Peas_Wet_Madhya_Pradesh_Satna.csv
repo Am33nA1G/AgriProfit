@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-03,Peas Wet,174,Madhya Pradesh,23,Satna,429,3000,3000,3000
+2022-12-31,Peas Wet,174,Madhya Pradesh,23,Satna,429,1400,1400,1400
+2022-12-30,Peas Wet,174,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-12-29,Peas Wet,174,Madhya Pradesh,23,Satna,429,1200,1400,1300
+2022-12-28,Peas Wet,174,Madhya Pradesh,23,Satna,429,1100,1100,1100
+2022-12-25,Peas Wet,174,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-12-24,Peas Wet,174,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-12-21,Peas Wet,174,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-12-19,Peas Wet,174,Madhya Pradesh,23,Satna,429,1500,1500,1500
+2022-12-13,Peas Wet,174,Madhya Pradesh,23,Satna,429,2000,2000,2000
+2022-12-12,Peas Wet,174,Madhya Pradesh,23,Satna,429,2000,2000,2000

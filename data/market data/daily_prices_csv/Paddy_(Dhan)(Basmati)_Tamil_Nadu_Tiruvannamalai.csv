@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-19,Paddy (Dhan)(Basmati),414,Tamil Nadu,33,Tiruvannamalai,606,1388,1712,1547
+2024-01-10,Paddy (Dhan)(Basmati),414,Tamil Nadu,33,Tiruvannamalai,606,2055,3015,2955
+2023-04-11,Paddy (Dhan)(Basmati),414,Tamil Nadu,33,Tiruvannamalai,606,1664,2396,2187

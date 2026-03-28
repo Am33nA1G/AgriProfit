@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-02,Mushrooms,340,NCT of Delhi,7,North East,92,4000,6000,5000
+2022-02-24,Mushrooms,340,NCT of Delhi,7,North East,92,4000,5000,4500
+2021-05-31,Mushrooms,340,NCT of Delhi,7,North East,92,10000,14000,12000
+2021-01-31,Mushrooms,340,NCT of Delhi,7,North East,92,7000,11000,9000
+2019-01-12,Mushrooms,340,NCT of Delhi,7,North East,92,6000,8000,7000

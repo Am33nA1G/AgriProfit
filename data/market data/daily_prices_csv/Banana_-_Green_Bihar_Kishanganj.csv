@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-20,Banana - Green,90,Bihar,10,Kishanganj,210,1030,1070,1050
+2023-02-19,Banana - Green,90,Bihar,10,Kishanganj,210,1030,1070,1050
+2023-02-17,Banana - Green,90,Bihar,10,Kishanganj,210,1010,1100,1050
+2023-02-16,Banana - Green,90,Bihar,10,Kishanganj,210,1020,1200,1150
+2023-02-14,Banana - Green,90,Bihar,10,Kishanganj,210,1140,1300,1260

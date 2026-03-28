@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-15,Sheep,218,Maharashtra,27,Dhule,498,1500,3500,2000
+2017-09-01,Sheep,218,Maharashtra,27,Dhule,498,1500,2500,2000
+2017-07-21,Sheep,218,Maharashtra,27,Dhule,498,2100,3500,2500
+2017-07-14,Sheep,218,Maharashtra,27,Dhule,498,2000,3500,2500
+2017-07-07,Sheep,218,Maharashtra,27,Dhule,498,1800,3500,2500
+2017-06-30,Sheep,218,Maharashtra,27,Dhule,498,1650,3500,2100
+2017-06-16,Sheep,218,Maharashtra,27,Dhule,498,2000,3500,2500
+2017-05-12,Sheep,218,Maharashtra,27,Dhule,498,1700,4000,2500
+2017-04-07,Sheep,218,Maharashtra,27,Dhule,498,2000,4000,3500
+2017-03-17,Sheep,218,Maharashtra,27,Dhule,498,1500,3500,2250
+2017-03-10,Sheep,218,Maharashtra,27,Dhule,498,1800,4000,2900
+2017-03-03,Sheep,218,Maharashtra,27,Dhule,498,3000,5000,4000
+2016-11-18,Sheep,218,Maharashtra,27,Dhule,498,1200,2000,1300
+2016-08-12,Sheep,218,Maharashtra,27,Dhule,498,1750,4000,3500
+2016-06-03,Sheep,218,Maharashtra,27,Dhule,498,1000,2500,2000
+2016-05-19,Sheep,218,Maharashtra,27,Dhule,498,900,2000,1000

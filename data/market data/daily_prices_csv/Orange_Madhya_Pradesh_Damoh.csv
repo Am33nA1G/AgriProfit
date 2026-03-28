@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-20,Orange,18,Madhya Pradesh,23,Damoh,428,3000,3000,3000
+2020-04-16,Orange,18,Madhya Pradesh,23,Damoh,428,3000,3000,3000
+2019-03-27,Orange,18,Madhya Pradesh,23,Damoh,428,1000,1500,1500
+2017-02-19,Orange,18,Madhya Pradesh,23,Damoh,428,1500,1500,1500
+2017-01-31,Orange,18,Madhya Pradesh,23,Damoh,428,1500,1500,1500
+2015-12-03,Orange,18,Madhya Pradesh,23,Damoh,428,2000,2000,2000
+2015-11-18,Orange,18,Madhya Pradesh,23,Damoh,428,5000,5000,5000
+2015-01-15,Orange,18,Madhya Pradesh,23,Damoh,428,2000,2000,2000

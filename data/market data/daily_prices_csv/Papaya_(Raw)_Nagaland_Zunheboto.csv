@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-20,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,1900
+2020-01-13,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1900,2200,2100
+2020-01-06,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,1900
+2019-12-30,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1900,2200,2100
+2019-12-23,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,1900
+2019-12-16,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1900,2200,2100
+2019-12-09,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1700,2000,1800
+2019-12-02,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,2000
+2019-11-25,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1700,2000,1800
+2019-11-18,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1600,1900,1700
+2019-11-04,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1700,2000,1800
+2019-10-28,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,2000
+2019-10-21,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1700,2000,1800
+2019-10-14,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1800,2100,1900
+2019-10-08,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1900,2200,2000
+2019-10-07,Papaya (Raw),313,Nagaland,13,Zunheboto,263,1900,2200,2000

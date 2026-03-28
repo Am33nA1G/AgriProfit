@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-05,Banana - Green,90,Bihar,10,Nawada,237,3000,4000,3500
+2023-09-02,Banana - Green,90,Bihar,10,Nawada,237,3000,3500,3200
+2023-08-25,Banana - Green,90,Bihar,10,Nawada,237,3500,4500,4000
+2023-08-24,Banana - Green,90,Bihar,10,Nawada,237,40000,50000,45000

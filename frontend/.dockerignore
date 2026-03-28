@@ -1,0 +1,25 @@
+# =============================================================================
+# Frontend .dockerignore — build context is ./frontend
+# =============================================================================
+
+node_modules/
+.next/
+.env*.local
+.env.development
+.env.staging
+
+# Tests
+__tests__/
+test-results/
+playwright.config.ts
+vitest.config.ts
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Git
+.git/
+.gitignore

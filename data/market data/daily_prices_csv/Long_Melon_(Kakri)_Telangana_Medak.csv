@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-18,Long Melon (Kakri),304,Telangana,36,Medak,535,300,300,300
+2016-02-13,Long Melon (Kakri),304,Telangana,36,Medak,535,200,400,300
+2016-01-27,Long Melon (Kakri),304,Telangana,36,Medak,535,500,800,700
+2016-01-26,Long Melon (Kakri),304,Telangana,36,Medak,535,400,700,600
+2016-01-25,Long Melon (Kakri),304,Telangana,36,Medak,535,500,600,500
+2016-01-24,Long Melon (Kakri),304,Telangana,36,Medak,535,500,800,700
+2016-01-23,Long Melon (Kakri),304,Telangana,36,Medak,535,400,1000,800
+2016-01-22,Long Melon (Kakri),304,Telangana,36,Medak,535,400,1000,900
+2016-01-21,Long Melon (Kakri),304,Telangana,36,Medak,535,500,900,800
+2016-01-20,Long Melon (Kakri),304,Telangana,36,Medak,535,500,900,800
+2016-01-19,Long Melon (Kakri),304,Telangana,36,Medak,535,600,1000,800
+2016-01-18,Long Melon (Kakri),304,Telangana,36,Medak,535,400,1200,900
+2016-01-17,Long Melon (Kakri),304,Telangana,36,Medak,535,800,1250,1000
+2016-01-16,Long Melon (Kakri),304,Telangana,36,Medak,535,800,1300,1000
+2016-01-13,Long Melon (Kakri),304,Telangana,36,Medak,535,500,1300,1200
+2016-01-12,Long Melon (Kakri),304,Telangana,36,Medak,535,800,1300,1200
+2016-01-11,Long Melon (Kakri),304,Telangana,36,Medak,535,800,1400,1300
+2016-01-10,Long Melon (Kakri),304,Telangana,36,Medak,535,1000,1300,1200

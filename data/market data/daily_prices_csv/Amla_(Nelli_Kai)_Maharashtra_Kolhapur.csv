@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-11-20,Amla (Nelli Kai),355,Maharashtra,27,Kolhapur,530,1500,1500,1500
+2016-11-06,Amla (Nelli Kai),355,Maharashtra,27,Kolhapur,530,2000,2000,2000
+2016-10-10,Amla (Nelli Kai),355,Maharashtra,27,Kolhapur,530,1000,2500,1700

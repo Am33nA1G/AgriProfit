@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-28,Sunflower,14,Punjab,3,Fatehgarh Sahib,40,4300,4530,4450
+2023-06-07,Sunflower,14,Punjab,3,Fatehgarh Sahib,40,3660,4150,3920
+2023-06-05,Sunflower,14,Punjab,3,Fatehgarh Sahib,40,3480,4050,3938
+2023-06-02,Sunflower,14,Punjab,3,Fatehgarh Sahib,40,3760,4290,4010
+2023-05-26,Sunflower,14,Punjab,3,Fatehgarh Sahib,40,3750,3940,3842

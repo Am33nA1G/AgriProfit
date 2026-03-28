@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-05,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,11000,12000,12000
+2023-06-02,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,11000,12000,12000
+2017-04-25,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,6000,10000,8000
+2017-03-28,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000
+2017-03-25,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000
+2017-03-24,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000
+2017-02-21,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,10000,15000,12000
+2017-02-01,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,12000,15000,13000
+2016-10-18,Sweet Potato,152,Andaman & Nicobar Islands,35,Nicobars,638,7000,9000,8000

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-30,Sugarcane,150,Chhattisgarh,22,Bilaspur,406,180,180,180
+2017-04-11,Sugarcane,150,Chhattisgarh,22,Bilaspur,406,750,750,750

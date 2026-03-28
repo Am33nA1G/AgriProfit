@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-09,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2850,2900,2875
+2022-06-08,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2430,2580,2450
+2022-06-06,Litchi,351,Uttar Pradesh,9,Kushinagar,189,1800,2000,1900
+2022-05-30,Litchi,351,Uttar Pradesh,9,Kushinagar,189,1800,1875,1835
+2022-05-28,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2000,2060,2035
+2022-05-25,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2000,2065,2035
+2022-05-21,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2800,2900,2850
+2021-06-07,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2500,2600,2550
+2021-06-04,Litchi,351,Uttar Pradesh,9,Kushinagar,189,1250,1350,1300
+2021-06-02,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2050,2150,2100
+2021-05-31,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2050,2100,2075
+2021-05-27,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2050,2150,2100
+2021-05-25,Litchi,351,Uttar Pradesh,9,Kushinagar,189,1950,2000,1975
+2021-05-24,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2400,2500,2450
+2021-05-22,Litchi,351,Uttar Pradesh,9,Kushinagar,189,2050,2125,2100

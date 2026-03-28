@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-06,Cotton Seed,99,Odisha,21,Kalahandi,395,2500,2600,2550
+2017-02-24,Cotton Seed,99,Odisha,21,Kalahandi,395,2400,2600,2500
+2016-11-29,Cotton Seed,99,Odisha,21,Kalahandi,395,1900,2000,1950
+2016-04-08,Cotton Seed,99,Odisha,21,Kalahandi,395,2400,2500,2500
+2016-04-01,Cotton Seed,99,Odisha,21,Kalahandi,395,2300,2400,2400
+2016-03-26,Cotton Seed,99,Odisha,21,Kalahandi,395,2400,2600,2600
+2016-03-14,Cotton Seed,99,Odisha,21,Kalahandi,395,2200,2400,2400
+2016-02-23,Cotton Seed,99,Odisha,21,Kalahandi,395,2200,2300,2300
+2016-02-18,Cotton Seed,99,Odisha,21,Kalahandi,395,2200,2300,2300
+2016-02-10,Cotton Seed,99,Odisha,21,Kalahandi,395,2230,2400,2400
+2016-02-06,Cotton Seed,99,Odisha,21,Kalahandi,395,2000,2200,2100
+2016-01-22,Cotton Seed,99,Odisha,21,Kalahandi,395,2100,2300,2300
+2016-01-09,Cotton Seed,99,Odisha,21,Kalahandi,395,1800,2200,2000
+2015-12-28,Cotton Seed,99,Odisha,21,Kalahandi,395,2000,2200,2200
+2015-12-17,Cotton Seed,99,Odisha,21,Kalahandi,395,2000,2000,2000

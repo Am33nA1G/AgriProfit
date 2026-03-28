@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-12,Cauliflower,34,Assam,18,Hailakandi,318,3000,3500,3250
+2022-04-08,Cauliflower,34,Assam,18,Hailakandi,318,2200,2400,2300
+2022-04-07,Cauliflower,34,Assam,18,Hailakandi,318,2500,3000,2750
+2022-04-02,Cauliflower,34,Assam,18,Hailakandi,318,1700,2000,1900
+2022-03-30,Cauliflower,34,Assam,18,Hailakandi,318,1500,1700,1600
+2022-03-17,Cauliflower,34,Assam,18,Hailakandi,318,1600,1900,1800
+2022-03-16,Cauliflower,34,Assam,18,Hailakandi,318,2000,2200,2000
+2015-02-09,Cauliflower,34,Assam,18,Hailakandi,318,600,900,700

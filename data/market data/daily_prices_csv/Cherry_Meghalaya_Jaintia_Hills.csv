@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-09,Cherry,328,Meghalaya,17,Jaintia Hills,299,5500,6500,6000
+2018-10-01,Cherry,328,Meghalaya,17,Jaintia Hills,299,5500,7000,6000
+2018-09-21,Cherry,328,Meghalaya,17,Jaintia Hills,299,6000,7000,6500
+2018-09-04,Cherry,328,Meghalaya,17,Jaintia Hills,299,5500,6500,6000
+2018-08-27,Cherry,328,Meghalaya,17,Jaintia Hills,299,5000,6000,5500
+2018-08-20,Cherry,328,Meghalaya,17,Jaintia Hills,299,4500,6000,5000
+2017-10-11,Cherry,328,Meghalaya,17,Jaintia Hills,299,6000,8000,6500
+2017-09-25,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7000
+2017-09-18,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7500
+2017-09-01,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7500
+2017-08-24,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7000
+2017-08-16,Cherry,328,Meghalaya,17,Jaintia Hills,299,6000,7000,6500
+2016-09-30,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7000
+2016-09-22,Cherry,328,Meghalaya,17,Jaintia Hills,299,5000,6000,5500
+2016-09-06,Cherry,328,Meghalaya,17,Jaintia Hills,299,6500,8000,7000
+2016-08-29,Cherry,328,Meghalaya,17,Jaintia Hills,299,7000,8000,7500
+2016-08-05,Cherry,328,Meghalaya,17,Jaintia Hills,299,8000,12000,10000
+2015-09-28,Cherry,328,Meghalaya,17,Jaintia Hills,299,10000,12000,11000
+2015-09-12,Cherry,328,Meghalaya,17,Jaintia Hills,299,8000,12000,10000

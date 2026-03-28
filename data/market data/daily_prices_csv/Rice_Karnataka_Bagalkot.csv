@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-10,Rice,3,Karnataka,29,Bagalkot,556,2160,2361,2323
+2025-01-17,Rice,3,Karnataka,29,Bagalkot,556,2970,2970,2970
+2025-01-07,Rice,3,Karnataka,29,Bagalkot,556,3070,3070,3070
+2017-06-05,Rice,3,Karnataka,29,Bagalkot,556,3000,4000,3545
+2016-11-21,Rice,3,Karnataka,29,Bagalkot,556,3000,3000,3000
+2016-07-08,Rice,3,Karnataka,29,Bagalkot,556,4400,4400,4400
+2015-06-29,Rice,3,Karnataka,29,Bagalkot,556,3000,3000,3000
+2015-04-06,Rice,3,Karnataka,29,Bagalkot,556,3200,3200,3200

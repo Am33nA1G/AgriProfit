@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-21,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-07-07,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-06-23,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-06-16,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-06-09,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-06-02,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600
+2018-05-26,Rice,3,Nagaland,13,Mokokchung,262,7500,7800,7600

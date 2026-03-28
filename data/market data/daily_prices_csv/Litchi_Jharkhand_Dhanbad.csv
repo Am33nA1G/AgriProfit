@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-09,Litchi,351,Jharkhand,20,Dhanbad,354,6000,8000,7850
+2016-06-08,Litchi,351,Jharkhand,20,Dhanbad,354,6000,8000,7450
+2016-05-30,Litchi,351,Jharkhand,20,Dhanbad,354,4000,6000,5780
+2016-05-28,Litchi,351,Jharkhand,20,Dhanbad,354,4000,6000,5870
+2016-05-27,Litchi,351,Jharkhand,20,Dhanbad,354,4000,6000,5680
+2016-05-26,Litchi,351,Jharkhand,20,Dhanbad,354,4000,6000,5670

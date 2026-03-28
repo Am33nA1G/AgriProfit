@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-17,White Peas,412,Chhattisgarh,22,Raigarh,403,4000,4000,4000
+2019-01-30,White Peas,412,Chhattisgarh,22,Raigarh,403,3400,3400,3400
+2018-05-09,White Peas,412,Chhattisgarh,22,Raigarh,403,2000,2000,2000
+2017-03-31,White Peas,412,Chhattisgarh,22,Raigarh,403,500,500,500

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-14,Tamarind Fruit,261,Gujarat,24,Kheda,483,2000,3000,2800
+2017-04-01,Tamarind Fruit,261,Gujarat,24,Kheda,483,3400,3800,3600
+2017-03-28,Tamarind Fruit,261,Gujarat,24,Kheda,483,3375,3675,3525
+2017-03-20,Tamarind Fruit,261,Gujarat,24,Kheda,483,3050,3150,3100

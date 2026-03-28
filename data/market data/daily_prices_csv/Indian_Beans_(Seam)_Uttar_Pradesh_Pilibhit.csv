@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-06,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1635,1675,1655
+2019-12-05,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1765,1835,1795
+2019-12-04,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1665,1715,1695
+2019-12-02,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1800,1845,1820
+2019-11-30,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1650,1695,1680
+2019-11-29,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1710,1745,1730
+2019-11-28,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1725,1765,1750
+2019-11-26,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1680,1735,1710
+2019-11-23,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1665,1715,1690
+2019-11-22,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1710,1760,1740
+2019-11-21,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1705,1760,1745
+2019-11-18,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1780,1835,1810
+2019-11-15,Indian Beans (Seam),299,Uttar Pradesh,9,Pilibhit,151,1670,1735,1710

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-03,Apple,17,Bihar,10,Bhagalpur,224,10500,10700,10600
+2023-02-23,Apple,17,Bihar,10,Bhagalpur,224,14000,14000,14000
+2023-02-21,Apple,17,Bihar,10,Bhagalpur,224,12000,12000,12000
+2023-01-22,Apple,17,Bihar,10,Bhagalpur,224,6800,7100,7000
+2023-01-13,Apple,17,Bihar,10,Bhagalpur,224,6500,6700,6600
+2023-01-07,Apple,17,Bihar,10,Bhagalpur,224,4500,4500,4500
+2023-01-05,Apple,17,Bihar,10,Bhagalpur,224,4000,4000,4000
+2023-01-02,Apple,17,Bihar,10,Bhagalpur,224,6000,6300,6200
+2022-12-14,Apple,17,Bihar,10,Bhagalpur,224,6200,6400,6300
+2022-12-09,Apple,17,Bihar,10,Bhagalpur,224,6800,7200,7000
+2022-11-16,Apple,17,Bihar,10,Bhagalpur,224,6500,6800,6600
+2022-11-01,Apple,17,Bihar,10,Bhagalpur,224,7200,7500,7300
+2022-10-07,Apple,17,Bihar,10,Bhagalpur,224,6800,7100,7000
+2022-09-28,Apple,17,Bihar,10,Bhagalpur,224,5500,6000,5800

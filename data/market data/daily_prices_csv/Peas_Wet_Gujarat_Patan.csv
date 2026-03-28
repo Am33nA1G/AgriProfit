@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-09,Peas Wet,174,Gujarat,24,Patan,470,5500,5500,5500
+2015-04-06,Peas Wet,174,Gujarat,24,Patan,470,4500,5000,4750
+2015-04-03,Peas Wet,174,Gujarat,24,Patan,470,5000,5000,5000
+2015-04-02,Peas Wet,174,Gujarat,24,Patan,470,4000,4500,4250
+2015-04-01,Peas Wet,174,Gujarat,24,Patan,470,2800,4200,3500
+2015-03-31,Peas Wet,174,Gujarat,24,Patan,470,4000,4500,4250
+2015-03-29,Peas Wet,174,Gujarat,24,Patan,470,1200,3800,2500
+2015-03-28,Peas Wet,174,Gujarat,24,Patan,470,3800,5000,4400
+2015-03-27,Peas Wet,174,Gujarat,24,Patan,470,2500,4000,3250
+2015-03-26,Peas Wet,174,Gujarat,24,Patan,470,1000,4000,2500
+2015-03-18,Peas Wet,174,Gujarat,24,Patan,470,2000,3000,2500
+2015-03-11,Peas Wet,174,Gujarat,24,Patan,470,2000,2300,2150
+2015-02-10,Peas Wet,174,Gujarat,24,Patan,470,1500,1800,1650
+2015-01-26,Peas Wet,174,Gujarat,24,Patan,470,1500,2500,2000
+2015-01-24,Peas Wet,174,Gujarat,24,Patan,470,2150,3000,2575
+2015-01-14,Peas Wet,174,Gujarat,24,Patan,470,2900,3400,3150
+2015-01-01,Peas Wet,174,Gujarat,24,Patan,470,2800,3500,3150

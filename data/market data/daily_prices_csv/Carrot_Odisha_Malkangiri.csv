@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-26,Carrot,153,Odisha,21,Malkangiri,399,5500,5500,5500
+2020-11-22,Carrot,153,Odisha,21,Malkangiri,399,7000,7000,7000
+2020-05-12,Carrot,153,Odisha,21,Malkangiri,399,4500,5000,4700
+2020-04-28,Carrot,153,Odisha,21,Malkangiri,399,4500,5000,4800
+2020-04-27,Carrot,153,Odisha,21,Malkangiri,399,4000,5000,4500
+2020-04-25,Carrot,153,Odisha,21,Malkangiri,399,5500,6000,5800
+2020-04-18,Carrot,153,Odisha,21,Malkangiri,399,5500,5900,5600
+2020-04-16,Carrot,153,Odisha,21,Malkangiri,399,5500,6000,5700

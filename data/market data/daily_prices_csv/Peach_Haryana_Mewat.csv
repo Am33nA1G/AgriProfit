@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-09,Peach,331,Haryana,6,Mewat,87,1200,1500,1300
+2015-04-06,Peach,331,Haryana,6,Mewat,87,1500,1700,1600
+2015-03-02,Peach,331,Haryana,6,Mewat,87,2000,2000,2000
+2015-02-06,Peach,331,Haryana,6,Mewat,87,2000,,2100
+2015-02-05,Peach,331,Haryana,6,Mewat,87,2000,2200,2110
+2015-01-20,Peach,331,Haryana,6,Mewat,87,2000,2200,2100

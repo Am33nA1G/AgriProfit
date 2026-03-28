@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-21,Green Peas,50,Karnataka,29,Chikmagalur,570,5000,5000,5000
+2019-03-30,Green Peas,50,Karnataka,29,Chikmagalur,570,6700,6700,6700
+2019-02-28,Green Peas,50,Karnataka,29,Chikmagalur,570,6700,6700,6700
+2019-02-02,Green Peas,50,Karnataka,29,Chikmagalur,570,6000,6000,6000
+2016-08-03,Green Peas,50,Karnataka,29,Chikmagalur,570,2550,2950,2750
+2016-08-01,Green Peas,50,Karnataka,29,Chikmagalur,570,2482,2882,2682
+2015-06-19,Green Peas,50,Karnataka,29,Chikmagalur,570,8500,10000,9000
+2015-03-16,Green Peas,50,Karnataka,29,Chikmagalur,570,4000,4000,4000
+2015-02-19,Green Peas,50,Karnataka,29,Chikmagalur,570,4000,4000,4000

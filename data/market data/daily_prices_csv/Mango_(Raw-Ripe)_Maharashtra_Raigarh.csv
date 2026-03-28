@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-25,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,3000,4000,3500
+2024-04-19,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,3600,4000,3800
+2024-04-06,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,3000,3200,3100
+2024-03-30,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,3600,4000,3800
+2024-03-27,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,4000,4400,4200
+2024-03-22,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,3000,3500,3250
+2024-02-11,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,8000,9000,8500
+2024-01-07,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,12000,14000,13000
+2023-12-20,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,11000,12000,11500
+2023-12-05,Mango (Raw-Ripe),172,Maharashtra,27,Raigarh,520,6000,7000,6500

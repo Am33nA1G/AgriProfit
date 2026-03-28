@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-27,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3200
+2015-04-28,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3150
+2015-04-25,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3200
+2015-04-24,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3200
+2015-03-24,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3320
+2015-02-26,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3300
+2015-02-24,White Peas,412,Uttar Pradesh,9,Bijnor,134,,,3200
+2015-02-07,White Peas,412,Uttar Pradesh,9,Bijnor,134,3200,3300,3250

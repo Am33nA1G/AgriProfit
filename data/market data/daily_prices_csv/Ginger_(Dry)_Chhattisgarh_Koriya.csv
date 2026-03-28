@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-29,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,1000,1000,1000
+2018-12-31,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,1000,1000,1000
+2018-06-30,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,1000,1000,1000
+2018-05-31,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,1500,1500,1500
+2017-06-12,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,2500,2500,2500
+2016-06-30,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,2500,2500,2500
+2016-06-09,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,2500,2500,2500
+2016-05-30,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,4000,4000,4000
+2016-05-09,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2015-06-16,Ginger (Dry),27,Chhattisgarh,22,Koriya,400,2500,2500,2500

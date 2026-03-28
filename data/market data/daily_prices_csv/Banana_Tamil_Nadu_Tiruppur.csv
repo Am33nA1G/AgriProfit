@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-31,Banana,19,Tamil Nadu,33,Tiruppur,633,3000,3900,3900
+2024-07-30,Banana,19,Tamil Nadu,33,Tiruppur,633,3000,3900,3900
+2024-07-29,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,3900,3900
+2024-07-28,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,4000,4000
+2024-07-27,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,4000,4000
+2024-07-26,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,3900,3900
+2024-07-25,Banana,19,Tamil Nadu,33,Tiruppur,633,3100,4000,4000
+2024-07-24,Banana,19,Tamil Nadu,33,Tiruppur,633,3100,4200,4200
+2024-07-23,Banana,19,Tamil Nadu,33,Tiruppur,633,3000,4100,4100
+2024-07-22,Banana,19,Tamil Nadu,33,Tiruppur,633,3000,3900,3900
+2024-07-21,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,3900,3900
+2024-07-20,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,3900,3900
+2024-07-19,Banana,19,Tamil Nadu,33,Tiruppur,633,3200,3900,3900
+2024-07-18,Banana,19,Tamil Nadu,33,Tiruppur,633,3300,4060,4060
+2024-07-17,Banana,19,Tamil Nadu,33,Tiruppur,633,3100,4060,4060
+2024-07-16,Banana,19,Tamil Nadu,33,Tiruppur,633,3000,4200,4200

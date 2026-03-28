@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-27,Grapes,22,Bihar,10,Rohtas,234,7000,8000,7500
+2022-04-20,Grapes,22,Bihar,10,Rohtas,234,7000,8000,7500

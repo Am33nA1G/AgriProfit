@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-09-06,Thondekai,162,Karnataka,29,Bangalore Rural,583,1400,1800,1600
+2015-07-09,Thondekai,162,Karnataka,29,Bangalore Rural,583,2000,2500,2300
+2015-06-17,Thondekai,162,Karnataka,29,Bangalore Rural,583,2000,2500,2300
+2015-05-06,Thondekai,162,Karnataka,29,Bangalore Rural,583,2000,2000,2000
+2015-05-02,Thondekai,162,Karnataka,29,Bangalore Rural,583,1500,1500,1500
+2015-04-01,Thondekai,162,Karnataka,29,Bangalore Rural,583,1000,1500,1200
+2015-02-28,Thondekai,162,Karnataka,29,Bangalore Rural,583,1800,2200,2000
+2015-01-31,Thondekai,162,Karnataka,29,Bangalore Rural,583,1500,2500,2000
+2015-01-07,Thondekai,162,Karnataka,29,Bangalore Rural,583,2000,2500,2200

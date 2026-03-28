@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-13,Lukad,337,Punjab,3,Patiala,48,400,400,400
+2022-04-08,Lukad,337,Punjab,3,Patiala,48,1000,1800,1200
+2022-04-05,Lukad,337,Punjab,3,Patiala,48,1200,2000,1400

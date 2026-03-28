@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-01,Mushrooms,340,Kerala,32,Idukki,596,15000,20000,18000
+2023-09-21,Mushrooms,340,Kerala,32,Idukki,596,12000,13000,13000
+2023-07-03,Mushrooms,340,Kerala,32,Idukki,596,12000,14000,14000
+2023-06-17,Mushrooms,340,Kerala,32,Idukki,596,12000,15000,15000
+2023-01-18,Mushrooms,340,Kerala,32,Idukki,596,7000,8000,8000
+2023-01-03,Mushrooms,340,Kerala,32,Idukki,596,12000,15000,14000
+2022-12-09,Mushrooms,340,Kerala,32,Idukki,596,12000,18000,15000
+2022-03-16,Mushrooms,340,Kerala,32,Idukki,596,12000,15000,14000
+2022-03-11,Mushrooms,340,Kerala,32,Idukki,596,12000,15000,14000
+2022-03-08,Mushrooms,340,Kerala,32,Idukki,596,9000,14000,12000
+2022-03-02,Mushrooms,340,Kerala,32,Idukki,596,9000,12000,12000
+2019-05-23,Mushrooms,340,Kerala,32,Idukki,596,6000,9000,8000
+2019-02-14,Mushrooms,340,Kerala,32,Idukki,596,4000,4500,4500

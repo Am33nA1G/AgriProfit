@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-04,Pineapple,21,Karnataka,29,Chikmagalur,570,800,800,800
+2015-06-30,Pineapple,21,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-03-06,Pineapple,21,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-02-20,Pineapple,21,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-02-10,Pineapple,21,Karnataka,29,Chikmagalur,570,1000,1000,1000
+2015-01-21,Pineapple,21,Karnataka,29,Chikmagalur,570,1000,1000,1000

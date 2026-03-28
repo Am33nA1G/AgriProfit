@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-21,Dalda,273,Telangana,36,Hyderabad,536,400,1100,800
+2016-12-26,Dalda,273,Telangana,36,Hyderabad,536,1000,2000,1600
+2016-12-25,Dalda,273,Telangana,36,Hyderabad,536,600,1600,1300
+2016-08-13,Dalda,273,Telangana,36,Hyderabad,536,400,1600,1300
+2016-04-22,Dalda,273,Telangana,36,Hyderabad,536,800,1600,1000

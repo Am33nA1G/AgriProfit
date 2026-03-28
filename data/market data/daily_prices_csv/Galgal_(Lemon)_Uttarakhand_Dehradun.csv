@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-08,Galgal (Lemon),350,Uttarakhand,5,Dehradun,60,2380,2400,2400
+2015-03-11,Galgal (Lemon),350,Uttarakhand,5,Dehradun,60,2500,3200,3200
+2015-03-05,Galgal (Lemon),350,Uttarakhand,5,Dehradun,60,3000,3100,3100
+2015-01-18,Galgal (Lemon),350,Uttarakhand,5,Dehradun,60,1600,2700,2700

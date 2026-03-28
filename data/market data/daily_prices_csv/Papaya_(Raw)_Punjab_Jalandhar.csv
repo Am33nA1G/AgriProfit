@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-29,Papaya (Raw),313,Punjab,3,Jalandhar,37,2000,2500,2500
+2020-10-28,Papaya (Raw),313,Punjab,3,Jalandhar,37,1800,2000,2000
+2016-04-30,Papaya (Raw),313,Punjab,3,Jalandhar,37,1200,1300,1200
+2015-04-06,Papaya (Raw),313,Punjab,3,Jalandhar,37,1200,1300,1300

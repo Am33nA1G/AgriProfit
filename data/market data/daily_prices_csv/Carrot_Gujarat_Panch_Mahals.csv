@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Carrot,153,Gujarat,24,Panch Mahals,484,1000,1500,1250
+2021-01-05,Carrot,153,Gujarat,24,Panch Mahals,484,1700,2000,1850
+2015-03-14,Carrot,153,Gujarat,24,Panch Mahals,484,800,1000,900
+2015-02-28,Carrot,153,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-19,Carrot,153,Gujarat,24,Panch Mahals,484,600,700,650
+2015-02-16,Carrot,153,Gujarat,24,Panch Mahals,484,500,600,550

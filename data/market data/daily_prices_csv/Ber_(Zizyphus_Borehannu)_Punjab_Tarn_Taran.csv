@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-15,Ber (Zizyphus/Borehannu),357,Punjab,3,Tarn Taran,50,1800,2200,2000
+2020-03-02,Ber (Zizyphus/Borehannu),357,Punjab,3,Tarn Taran,50,800,1200,1000
+2020-03-01,Ber (Zizyphus/Borehannu),357,Punjab,3,Tarn Taran,50,1800,2000,1900
+2020-01-30,Ber (Zizyphus/Borehannu),357,Punjab,3,Tarn Taran,50,2400,3000,2700
+2020-01-27,Ber (Zizyphus/Borehannu),357,Punjab,3,Tarn Taran,50,800,1000,900

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-20,Tomato,78,Jammu & Kashmir,1,Kupwara,1,3200,4000,3400
+2022-08-27,Tomato,78,Jammu & Kashmir,1,Kupwara,1,3500,4000,3700
+2022-08-26,Tomato,78,Jammu & Kashmir,1,Kupwara,1,3000,4000,3500
+2022-08-24,Tomato,78,Jammu & Kashmir,1,Kupwara,1,4000,4500,4200

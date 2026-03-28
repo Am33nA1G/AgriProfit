@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-08,Cherry,328,Jammu & Kashmir,1,Pulwama,12,5000,9000,7000
+2019-07-06,Cherry,328,Jammu & Kashmir,1,Pulwama,12,5000,9000,7000
+2019-07-04,Cherry,328,Jammu & Kashmir,1,Pulwama,12,6000,10000,8000
+2019-07-03,Cherry,328,Jammu & Kashmir,1,Pulwama,12,4000,8000,6000
+2019-07-02,Cherry,328,Jammu & Kashmir,1,Pulwama,12,4000,8000,6000
+2019-07-01,Cherry,328,Jammu & Kashmir,1,Pulwama,12,4000,10000,7000
+2019-06-28,Cherry,328,Jammu & Kashmir,1,Pulwama,12,5000,9000,7000
+2019-06-27,Cherry,328,Jammu & Kashmir,1,Pulwama,12,5000,9000,7000
+2019-06-26,Cherry,328,Jammu & Kashmir,1,Pulwama,12,5000,11000,8000
+2019-06-25,Cherry,328,Jammu & Kashmir,1,Pulwama,12,6000,10000,8000
+2019-06-24,Cherry,328,Jammu & Kashmir,1,Pulwama,12,6000,10000,8000
+2019-06-22,Cherry,328,Jammu & Kashmir,1,Pulwama,12,10000,18000,14000
+2019-06-21,Cherry,328,Jammu & Kashmir,1,Pulwama,12,10000,16000,13000

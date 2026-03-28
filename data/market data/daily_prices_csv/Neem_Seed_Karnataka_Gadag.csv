@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-11,Neem Seed,126,Karnataka,29,Gadag,561,7219,7219,7219
+2015-09-19,Neem Seed,126,Karnataka,29,Gadag,561,800,800,800
+2015-05-28,Neem Seed,126,Karnataka,29,Gadag,561,2869,2869,2869
+2015-04-27,Neem Seed,126,Karnataka,29,Gadag,561,500,900,824

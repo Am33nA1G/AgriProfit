@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-23,Sponge gourd,311,Jharkhand,20,Garhwa,346,690,730,715
+2019-05-19,Sponge gourd,311,Jharkhand,20,Garhwa,346,780,820,810
+2019-05-18,Sponge gourd,311,Jharkhand,20,Garhwa,346,1260,1310,1275
+2019-05-08,Sponge gourd,311,Jharkhand,20,Garhwa,346,1410,1500,1440
+2019-05-02,Sponge gourd,311,Jharkhand,20,Garhwa,346,1360,1450,1410

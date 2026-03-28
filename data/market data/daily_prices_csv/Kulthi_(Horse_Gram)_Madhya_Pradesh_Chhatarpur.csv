@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-11,Kulthi (Horse Gram),114,Madhya Pradesh,23,Chhatarpur,425,2500,2510,2505
+2018-08-30,Kulthi (Horse Gram),114,Madhya Pradesh,23,Chhatarpur,425,3280,3290,3285
+2018-08-21,Kulthi (Horse Gram),114,Madhya Pradesh,23,Chhatarpur,425,3450,3501,3476

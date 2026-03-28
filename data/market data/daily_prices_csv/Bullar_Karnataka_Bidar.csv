@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-15,Bullar,284,Karnataka,29,Bidar,558,4750,5000,4800
+2020-05-23,Bullar,284,Karnataka,29,Bidar,558,2750,2900,2800
+2017-09-11,Bullar,284,Karnataka,29,Bidar,558,3509,4208,4134
+2015-01-23,Bullar,284,Karnataka,29,Bidar,558,3110,3250,3201

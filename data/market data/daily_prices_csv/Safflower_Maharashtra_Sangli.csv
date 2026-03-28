@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-05,Safflower,59,Maharashtra,27,Sangli,531,5940,6100,6020
+2025-02-18,Safflower,59,Maharashtra,27,Sangli,531,5800,6100,5950
+2021-08-17,Safflower,59,Maharashtra,27,Sangli,531,5250,5500,5375
+2021-07-29,Safflower,59,Maharashtra,27,Sangli,531,5250,5600,5425
+2020-02-15,Safflower,59,Maharashtra,27,Sangli,531,4900,5100,5000
+2019-11-15,Safflower,59,Maharashtra,27,Sangli,531,4500,4600,4550
+2019-08-31,Safflower,59,Maharashtra,27,Sangli,531,4500,5000,4750

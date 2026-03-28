@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-14,Wheat Atta,287,Kerala,32,Idukki,596,6500,7000,7000
+2023-06-20,Wheat Atta,287,Kerala,32,Idukki,596,6000,7000,7000
+2023-06-16,Wheat Atta,287,Kerala,32,Idukki,596,6000,7000,7000
+2023-06-10,Wheat Atta,287,Kerala,32,Idukki,596,7000,8000,8000
+2023-06-03,Wheat Atta,287,Kerala,32,Idukki,596,6500,8500,8000

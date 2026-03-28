@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-26,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,9000,10500,10000
+2015-12-25,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,9000,10000,10000
+2015-11-26,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,11000,12000,12000
+2015-11-19,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,10000,12000,11000
+2015-11-17,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,11000,11500,11500
+2015-11-13,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,11000,12000,11000
+2015-11-10,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,11000,11500,11500
+2015-11-09,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,10000,11000,11000
+2015-11-07,Green Gram (Moong)(Whole),9,Punjab,3,Hoshiarpur,38,8000,8500,8500

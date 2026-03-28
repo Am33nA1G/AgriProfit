@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-18,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1600,2000,1800
+2017-03-24,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2400,2600,2500
+2017-03-13,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1500,1800,1600
+2017-02-21,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1800,2200,2000
+2017-02-01,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1500,2100,1800
+2017-01-27,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1500,1700,1600
+2017-01-10,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1500,1700,1600
+2016-03-07,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1800,2000,1900
+2016-02-17,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2400,2200
+2016-02-14,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-02-11,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-02-08,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-02-04,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-02-02,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-01-22,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2300
+2016-01-12,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,1500,2500,2000
+2015-12-27,Jowar (Sorghum),5,Andhra Pradesh,28,Visakhapatnam,544,2000,2500,2200

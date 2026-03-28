@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-17,Papaya (Raw),313,Kerala,32,Palakkad,593,1800,2000,1900
+2025-03-12,Papaya (Raw),313,Kerala,32,Palakkad,593,2000,2000,2000
+2025-02-07,Papaya (Raw),313,Kerala,32,Palakkad,593,2400,2600,2500
+2024-12-08,Papaya (Raw),313,Kerala,32,Palakkad,593,2500,2500,2500
+2024-03-18,Papaya (Raw),313,Kerala,32,Palakkad,593,2500,3100,2800
+2024-03-11,Papaya (Raw),313,Kerala,32,Palakkad,593,2500,2500,2500

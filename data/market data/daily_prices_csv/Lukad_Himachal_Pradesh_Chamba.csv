@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-30,Lukad,337,Himachal Pradesh,2,Chamba,23,4800,5000,4900
+2016-04-11,Lukad,337,Himachal Pradesh,2,Chamba,23,2500,2700,2600
+2015-05-11,Lukad,337,Himachal Pradesh,2,Chamba,23,4800,5200,5000
+2015-05-06,Lukad,337,Himachal Pradesh,2,Chamba,23,2600,3000,2800
+2015-05-05,Lukad,337,Himachal Pradesh,2,Chamba,23,4900,5100,5000
+2015-04-29,Lukad,337,Himachal Pradesh,2,Chamba,23,3000,4000,3500
+2015-04-28,Lukad,337,Himachal Pradesh,2,Chamba,23,3500,3700,3600
+2015-04-27,Lukad,337,Himachal Pradesh,2,Chamba,23,2400,2600,2500

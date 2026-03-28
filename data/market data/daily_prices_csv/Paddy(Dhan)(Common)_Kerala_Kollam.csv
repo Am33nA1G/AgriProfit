@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-21,Paddy(Dhan)(Common),2,Kerala,32,Kollam,600,1700,1900,1800
+2015-10-14,Paddy(Dhan)(Common),2,Kerala,32,Kollam,600,1600,1900,1800
+2015-10-10,Paddy(Dhan)(Common),2,Kerala,32,Kollam,600,1700,1900,1800
+2015-10-07,Paddy(Dhan)(Common),2,Kerala,32,Kollam,600,1700,1900,1800

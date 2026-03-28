@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-21,Mushrooms,340,Himachal Pradesh,2,Una,29,5500,5700,5600
+2022-09-03,Mushrooms,340,Himachal Pradesh,2,Una,29,4000,5000,4500
+2022-04-13,Mushrooms,340,Himachal Pradesh,2,Una,29,9000,10000,9500
+2017-04-12,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-04-11,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-03-29,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-03-28,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-03-27,Mushrooms,340,Himachal Pradesh,2,Una,29,3000,4000,3500
+2017-03-20,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-03-18,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000
+2017-03-06,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,,10000
+2017-03-02,Mushrooms,340,Himachal Pradesh,2,Una,29,10000,10000,10000

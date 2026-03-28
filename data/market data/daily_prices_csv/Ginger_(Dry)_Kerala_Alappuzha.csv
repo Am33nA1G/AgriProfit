@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-29,Ginger (Dry),27,Kerala,32,Alappuzha,598,5000,5300,5200
+2024-09-02,Ginger (Dry),27,Kerala,32,Alappuzha,598,15700,16200,16000
+2021-02-22,Ginger (Dry),27,Kerala,32,Alappuzha,598,8000,8200,8100
+2019-01-26,Ginger (Dry),27,Kerala,32,Alappuzha,598,8000,8600,8500
+2016-08-29,Ginger (Dry),27,Kerala,32,Alappuzha,598,8500,8700,8600
+2016-08-27,Ginger (Dry),27,Kerala,32,Alappuzha,598,8500,8700,8600

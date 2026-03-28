@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-01,Methi (Leaves),46,Maharashtra,27,Raigarh,520,1500,1600,1550
+2020-08-05,Methi (Leaves),46,Maharashtra,27,Raigarh,520,18,20,19
+2020-08-03,Methi (Leaves),46,Maharashtra,27,Raigarh,520,14,16,15

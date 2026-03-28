@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-22,Pumpkin,84,Bihar,10,Buxar,232,1000,1500,1200
+2022-11-26,Pumpkin,84,Bihar,10,Buxar,232,1000,1500,1200
+2022-11-09,Pumpkin,84,Bihar,10,Buxar,232,1500,2500,2000
+2022-10-31,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-26,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-25,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-24,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-17,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-15,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-10-05,Pumpkin,84,Bihar,10,Buxar,232,2000,3000,2500
+2022-09-16,Pumpkin,84,Bihar,10,Buxar,232,1000,1500,1200

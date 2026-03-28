@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-04,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2024-01-03,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2023-12-24,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2023-12-22,Papaya,72,Bihar,10,Buxar,232,3200,4000,3500
+2023-12-21,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2023-12-14,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2023-12-13,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500
+2023-12-10,Papaya,72,Bihar,10,Buxar,232,3000,4000,3500

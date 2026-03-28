@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-06,Brinjal,35,Telangana,36,Khammam,541,2600,3000,2800
+2022-01-05,Brinjal,35,Telangana,36,Khammam,541,2400,3000,2600
+2015-06-06,Brinjal,35,Telangana,36,Khammam,541,600,800,600
+2015-06-04,Brinjal,35,Telangana,36,Khammam,541,1800,2000,1800
+2015-06-03,Brinjal,35,Telangana,36,Khammam,541,1600,2000,1600
+2015-05-29,Brinjal,35,Telangana,36,Khammam,541,1500,1800,1500
+2015-05-28,Brinjal,35,Telangana,36,Khammam,541,1500,1800,1500
+2015-05-26,Brinjal,35,Telangana,36,Khammam,541,1300,1600,1300

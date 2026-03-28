@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-04,Banana,19,Karnataka,29,Chikmagalur,570,1500,1522,1512
+2019-12-02,Banana,19,Karnataka,29,Chikmagalur,570,700,1100,985
+2015-09-16,Banana,19,Karnataka,29,Chikmagalur,570,300,600,400

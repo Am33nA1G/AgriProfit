@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-24,Buffalo - He,216,Kerala,32,Malappuram,592,3000,3800,3600
+2024-01-22,Buffalo - He,216,Kerala,32,Malappuram,592,3200,4000,3800
+2024-01-17,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4500,4000
+2024-01-16,Buffalo - He,216,Kerala,32,Malappuram,592,7500,8200,8000
+2024-01-15,Buffalo - He,216,Kerala,32,Malappuram,592,3000,3500,3200
+2024-01-08,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4000,3800
+2024-01-06,Buffalo - He,216,Kerala,32,Malappuram,592,7500,8500,8000
+2024-01-05,Buffalo - He,216,Kerala,32,Malappuram,592,3000,4000,3500
+2024-01-03,Buffalo - He,216,Kerala,32,Malappuram,592,3500,5000,4000
+2024-01-01,Buffalo - He,216,Kerala,32,Malappuram,592,3000,4000,3500
+2023-12-31,Buffalo - He,216,Kerala,32,Malappuram,592,3000,4000,3500
+2023-12-29,Buffalo - He,216,Kerala,32,Malappuram,592,3800,5000,4300
+2023-12-28,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4800,3800
+2023-12-21,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4500,4000
+2023-12-20,Buffalo - He,216,Kerala,32,Malappuram,592,3500,3800,3600
+2023-12-19,Buffalo - He,216,Kerala,32,Malappuram,592,2800,3200,3000
+2023-12-15,Buffalo - He,216,Kerala,32,Malappuram,592,7500,8500,8000
+2023-12-12,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4000,3800
+2023-12-11,Buffalo - He,216,Kerala,32,Malappuram,592,3400,4500,3800
+2023-12-08,Buffalo - He,216,Kerala,32,Malappuram,592,4500,5000,4800
+2023-12-07,Buffalo - He,216,Kerala,32,Malappuram,592,4500,5000,4800
+2023-12-06,Buffalo - He,216,Kerala,32,Malappuram,592,3500,4600,4000
+2023-12-05,Buffalo - He,216,Kerala,32,Malappuram,592,2500,3500,3000
+2023-12-04,Buffalo - He,216,Kerala,32,Malappuram,592,4000,5000,4500

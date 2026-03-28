@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-07,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Alwar,104,5071,5071,5071
+2019-10-23,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Alwar,104,4051,4155,4100
+2019-10-21,Bengal Gram Dal (Chana Dal),263,Rajasthan,8,Alwar,104,4100,4100,4100

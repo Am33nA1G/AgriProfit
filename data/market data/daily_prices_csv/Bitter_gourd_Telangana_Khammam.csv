@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-06,Bitter gourd,81,Telangana,36,Khammam,541,4000,4800,4300
+2022-01-05,Bitter gourd,81,Telangana,36,Khammam,541,4000,4600,4300
+2021-10-02,Bitter gourd,81,Telangana,36,Khammam,541,2000,3000,2400
+2015-06-06,Bitter gourd,81,Telangana,36,Khammam,541,2000,4000,2000
+2015-06-04,Bitter gourd,81,Telangana,36,Khammam,541,3000,3500,3000
+2015-06-03,Bitter gourd,81,Telangana,36,Khammam,541,2500,3000,2500
+2015-06-01,Bitter gourd,81,Telangana,36,Khammam,541,3000,3500,3000
+2015-05-29,Bitter gourd,81,Telangana,36,Khammam,541,3000,3200,3000
+2015-05-28,Bitter gourd,81,Telangana,36,Khammam,541,2500,3000,2500
+2015-05-26,Bitter gourd,81,Telangana,36,Khammam,541,2200,2500,2200
+2015-05-25,Bitter gourd,81,Telangana,36,Khammam,541,2300,2500,2300

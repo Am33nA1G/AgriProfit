@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-30,Niger Seed (Ramtil),98,Maharashtra,27,Bid,523,10501,10501,10501
+2022-04-13,Niger Seed (Ramtil),98,Maharashtra,27,Bid,523,2000,2300,2100
+2016-01-15,Niger Seed (Ramtil),98,Maharashtra,27,Bid,523,4599,4625,4608
+2015-03-27,Niger Seed (Ramtil),98,Maharashtra,27,Bid,523,4000,4050,4025

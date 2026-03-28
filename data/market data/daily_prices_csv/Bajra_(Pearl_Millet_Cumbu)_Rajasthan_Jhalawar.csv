@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-27,Bajra (Pearl Millet/Cumbu),28,Rajasthan,8,Jhalawar,129,3680,3730,3705
+2020-07-24,Bajra (Pearl Millet/Cumbu),28,Rajasthan,8,Jhalawar,129,3735,3735,3735
+2020-06-27,Bajra (Pearl Millet/Cumbu),28,Rajasthan,8,Jhalawar,129,3800,3970,3885
+2020-06-12,Bajra (Pearl Millet/Cumbu),28,Rajasthan,8,Jhalawar,129,3600,3675,3637

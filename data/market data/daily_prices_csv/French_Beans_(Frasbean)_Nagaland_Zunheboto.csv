@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-28,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3300,3500,3400
+2024-03-27,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3500,3700,3600
+2024-03-13,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3000,3200,3100
+2024-03-07,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3100,3300,3200
+2024-03-05,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3100,3300,3200
+2024-02-26,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3300,3500,3400
+2024-02-23,French Beans (Frasbean),298,Nagaland,13,Zunheboto,263,3400,3600,3500

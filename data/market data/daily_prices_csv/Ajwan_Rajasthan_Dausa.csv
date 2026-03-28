@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-01,Ajwan,137,Rajasthan,8,Dausa,109,1870,1980,1950
+2019-02-09,Ajwan,137,Rajasthan,8,Dausa,109,1950,2043,1980
+2017-02-13,Ajwan,137,Rajasthan,8,Dausa,109,1740,1800,1770
+2016-10-16,Ajwan,137,Rajasthan,8,Dausa,109,1620,1700,1620
+2016-08-28,Ajwan,137,Rajasthan,8,Dausa,109,1600,1740,1700
+2016-06-25,Ajwan,137,Rajasthan,8,Dausa,109,1620,1693,1650
+2016-06-16,Ajwan,137,Rajasthan,8,Dausa,109,1526,1685,1600
+2016-02-24,Ajwan,137,Rajasthan,8,Dausa,109,1525,1711,1550
+2015-12-30,Ajwan,137,Rajasthan,8,Dausa,109,1560,1785,1600

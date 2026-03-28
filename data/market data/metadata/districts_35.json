@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "census_district_id": 638,
+      "census_district_name": "Nicobars"
+    },
+    {
+      "census_district_id": 639,
+      "census_district_name": "North  & Middle Andaman"
+    },
+    {
+      "census_district_id": 640,
+      "census_district_name": "South Andaman"
+    }
+  ]
+}

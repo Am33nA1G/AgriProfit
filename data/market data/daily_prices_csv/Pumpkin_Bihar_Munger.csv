@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Pumpkin,84,Bihar,10,Munger,226,2800,2800,2800
+2023-09-05,Pumpkin,84,Bihar,10,Munger,226,1500,1600,1600
+2023-09-04,Pumpkin,84,Bihar,10,Munger,226,2000,2000,2000
+2023-09-03,Pumpkin,84,Bihar,10,Munger,226,1400,1400,1400
+2023-09-02,Pumpkin,84,Bihar,10,Munger,226,1500,1500,1500
+2023-09-01,Pumpkin,84,Bihar,10,Munger,226,2000,2000,2000
+2023-08-31,Pumpkin,84,Bihar,10,Munger,226,2000,2000,2000
+2023-08-30,Pumpkin,84,Bihar,10,Munger,226,1600,1600,1600

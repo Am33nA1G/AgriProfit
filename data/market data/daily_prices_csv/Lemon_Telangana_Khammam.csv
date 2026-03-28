@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-10,Lemon,310,Telangana,36,Khammam,541,2400,2400,2400
+2017-03-16,Lemon,310,Telangana,36,Khammam,541,300,300,300
+2017-02-14,Lemon,310,Telangana,36,Khammam,541,250,250,250
+2016-11-16,Lemon,310,Telangana,36,Khammam,541,30,60,40
+2016-09-12,Lemon,310,Telangana,36,Khammam,541,150,150,150
+2016-05-31,Lemon,310,Telangana,36,Khammam,541,200,200,200
+2016-04-30,Lemon,310,Telangana,36,Khammam,541,400,400,400
+2016-04-25,Lemon,310,Telangana,36,Khammam,541,500,500,500
+2016-04-04,Lemon,310,Telangana,36,Khammam,541,500,500,500

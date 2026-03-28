@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-31,Green Peas,50,Haryana,6,Mahendragarh,84,1500,2500,2200
+2016-11-12,Green Peas,50,Haryana,6,Mahendragarh,84,3000,3000,3000
+2016-10-21,Green Peas,50,Haryana,6,Mahendragarh,84,3400,3400,3400

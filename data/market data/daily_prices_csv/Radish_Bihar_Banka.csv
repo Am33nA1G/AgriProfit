@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-29,Radish,161,Bihar,10,Banka,225,800,1000,900
+2023-01-22,Radish,161,Bihar,10,Banka,225,1200,1400,1300
+2023-01-08,Radish,161,Bihar,10,Banka,225,1000,1200,1100
+2023-01-01,Radish,161,Bihar,10,Banka,225,1000,1200,1100
+2022-12-25,Radish,161,Bihar,10,Banka,225,600,800,700
+2022-12-21,Radish,161,Bihar,10,Banka,225,1100,1500,1300

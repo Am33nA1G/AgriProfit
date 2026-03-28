@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-28,Papaya,72,Karnataka,29,Gadag,561,500,2000,1600
+2023-12-22,Papaya,72,Karnataka,29,Gadag,561,1000,2500,1600
+2023-12-21,Papaya,72,Karnataka,29,Gadag,561,500,2500,1400
+2023-12-20,Papaya,72,Karnataka,29,Gadag,561,1000,2500,1800
+2023-12-19,Papaya,72,Karnataka,29,Gadag,561,1000,2500,1500
+2023-12-18,Papaya,72,Karnataka,29,Gadag,561,500,2500,1000
+2023-12-16,Papaya,72,Karnataka,29,Gadag,561,500,2500,1500
+2023-12-15,Papaya,72,Karnataka,29,Gadag,561,500,2500,1500
+2023-12-14,Papaya,72,Karnataka,29,Gadag,561,1000,3000,2500
+2023-12-13,Papaya,72,Karnataka,29,Gadag,561,1000,3200,2500
+2023-12-11,Papaya,72,Karnataka,29,Gadag,561,800,3200,2000
+2023-12-08,Papaya,72,Karnataka,29,Gadag,561,1000,3500,2000
+2023-12-06,Papaya,72,Karnataka,29,Gadag,561,1000,4000,2900
+2023-12-05,Papaya,72,Karnataka,29,Gadag,561,1000,4000,3000

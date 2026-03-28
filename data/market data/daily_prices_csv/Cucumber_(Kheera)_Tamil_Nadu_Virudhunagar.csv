@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-27,Cucumber (Kheera),159,Tamil Nadu,33,Virudhunagar,625,3500,4000,4000
+2024-10-13,Cucumber (Kheera),159,Tamil Nadu,33,Virudhunagar,625,3200,4000,4000
+2024-07-11,Cucumber (Kheera),159,Tamil Nadu,33,Virudhunagar,625,3800,4000,4000

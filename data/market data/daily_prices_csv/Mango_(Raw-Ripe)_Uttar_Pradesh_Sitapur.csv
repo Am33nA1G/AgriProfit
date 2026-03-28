@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-23,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2300,3000,2620
+2018-07-09,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1800,2200,2000
+2018-06-29,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1320,1600,1450
+2018-06-28,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1320,1600,1460
+2018-06-21,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1300,1710,1550
+2018-06-01,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2000,2700,2500
+2017-07-11,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2300,2800,2550
+2017-07-10,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2300,2800,2500
+2017-07-08,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2000,2800,2500
+2017-07-04,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2000,2500,2300
+2017-06-27,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2000,2500,2250
+2017-06-26,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,2100,2500,2300
+2017-06-22,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1900,2400,2200
+2017-06-19,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1800,2400,2000
+2017-06-13,Mango (Raw-Ripe),172,Uttar Pradesh,9,Sitapur,154,1800,2200,1980

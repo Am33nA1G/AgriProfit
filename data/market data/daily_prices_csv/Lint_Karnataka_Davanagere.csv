@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-09-05,Lint,280,Karnataka,29,Davanagere,567,9500,9500,9500
+2020-07-16,Lint,280,Karnataka,29,Davanagere,567,13080,14599,13700

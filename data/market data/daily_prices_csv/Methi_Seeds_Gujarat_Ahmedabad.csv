@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-08,Methi Seeds,47,Gujarat,24,Ahmedabad,474,5750,6390,6070
+2023-06-19,Methi Seeds,47,Gujarat,24,Ahmedabad,474,5750,6125,5935
+2023-06-01,Methi Seeds,47,Gujarat,24,Ahmedabad,474,5500,5780,5640
+2023-05-30,Methi Seeds,47,Gujarat,24,Ahmedabad,474,5375,5625,5500

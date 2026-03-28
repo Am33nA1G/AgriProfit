@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-03,Coconut,138,Uttarakhand,5,Hardwar,68,4500,4800,4600
+2025-09-26,Coconut,138,Uttarakhand,5,Hardwar,68,2000,3000,2500
+2024-12-13,Coconut,138,Uttarakhand,5,Hardwar,68,3000,4000,3500
+2024-12-01,Coconut,138,Uttarakhand,5,Hardwar,68,4000,5000,4500
+2024-11-02,Coconut,138,Uttarakhand,5,Hardwar,68,1500,1800,1700
+2024-11-01,Coconut,138,Uttarakhand,5,Hardwar,68,1500,1800,1600
+2024-10-27,Coconut,138,Uttarakhand,5,Hardwar,68,2000,2500,2000
+2024-10-26,Coconut,138,Uttarakhand,5,Hardwar,68,2000,2500,2200
+2024-10-22,Coconut,138,Uttarakhand,5,Hardwar,68,2000,2500,2200
+2024-10-21,Coconut,138,Uttarakhand,5,Hardwar,68,2000,2500,2200
+2019-07-20,Coconut,138,Uttarakhand,5,Hardwar,68,1200,1800,1500

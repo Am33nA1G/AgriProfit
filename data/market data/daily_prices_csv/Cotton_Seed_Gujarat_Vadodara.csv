@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-05,Cotton Seed,99,Gujarat,24,Vadodara,486,3650,3700,3675
+2017-06-24,Cotton Seed,99,Gujarat,24,Vadodara,486,3920,4050,3950
+2017-06-23,Cotton Seed,99,Gujarat,24,Vadodara,486,4000,4050,4020
+2017-06-07,Cotton Seed,99,Gujarat,24,Vadodara,486,4100,4150,4120
+2017-05-29,Cotton Seed,99,Gujarat,24,Vadodara,486,4150,4250,4200
+2017-05-10,Cotton Seed,99,Gujarat,24,Vadodara,486,4300,4400,4350
+2016-12-26,Cotton Seed,99,Gujarat,24,Vadodara,486,4755,4875,4850
+2015-09-08,Cotton Seed,99,Gujarat,24,Vadodara,486,4000,4300,4200
+2015-02-10,Cotton Seed,99,Gujarat,24,Vadodara,486,3750,3785,3770

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-24,Egg,367,Odisha,21,Baleshwar,377,100,120,110
+2015-09-15,Egg,367,Odisha,21,Baleshwar,377,3,3.2,3.1
+2015-02-01,Egg,367,Odisha,21,Baleshwar,377,95,110,100

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-04,Grapes,22,Odisha,21,Nuapada,394,9000,9500,9000
+2020-03-20,Grapes,22,Odisha,21,Nuapada,394,8000,8600,8500
+2020-03-16,Grapes,22,Odisha,21,Nuapada,394,8000,8500,8100
+2020-03-12,Grapes,22,Odisha,21,Nuapada,394,8000,8500,8500
+2020-03-10,Grapes,22,Odisha,21,Nuapada,394,8000,8500,8500
+2020-03-07,Grapes,22,Odisha,21,Nuapada,394,8000,8100,8100
+2020-03-06,Grapes,22,Odisha,21,Nuapada,394,8000,8500,8400
+2020-03-01,Grapes,22,Odisha,21,Nuapada,394,8000,8100,8000

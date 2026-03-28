@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-10,Snake gourd,156,Himachal Pradesh,2,Mandi,27,500,500,500
+2015-07-04,Snake gourd,156,Himachal Pradesh,2,Mandi,27,700,900,800
+2015-07-02,Snake gourd,156,Himachal Pradesh,2,Mandi,27,800,1200,900

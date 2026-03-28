@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-29,Little gourd (Kundru),302,Uttar Pradesh,9,Allahabad,175,1835,1920,1870
+2025-07-05,Little gourd (Kundru),302,Uttar Pradesh,9,Allahabad,175,2000,2100,2060
+2025-07-04,Little gourd (Kundru),302,Uttar Pradesh,9,Allahabad,175,2040,2100,2065
+2025-07-03,Little gourd (Kundru),302,Uttar Pradesh,9,Allahabad,175,2025,2100,2070
+2025-06-04,Little gourd (Kundru),302,Uttar Pradesh,9,Allahabad,175,2180,2250,2200

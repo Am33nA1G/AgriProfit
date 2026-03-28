@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-17,Ox,213,Karnataka,29,Mysore,577,30000,50000,40000
+2025-10-03,Ox,213,Karnataka,29,Mysore,577,30000,40000,35000
+2025-09-26,Ox,213,Karnataka,29,Mysore,577,50000,70000,60000
+2025-01-17,Ox,213,Karnataka,29,Mysore,577,40000,80000,60000
+2024-03-30,Ox,213,Karnataka,29,Mysore,577,40000,80000,60000
+2023-10-13,Ox,213,Karnataka,29,Mysore,577,40000,60000,45000
+2023-09-22,Ox,213,Karnataka,29,Mysore,577,30000,50000,40000
+2023-09-15,Ox,213,Karnataka,29,Mysore,577,30000,50000,40000

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-31,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,1800,1800,1800
+2023-01-30,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,1100,1100,1100
+2017-01-27,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,350
+2017-01-22,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,250,500,350
+2017-01-20,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,275,500,400
+2017-01-19,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,400
+2017-01-18,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,400
+2017-01-17,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,400
+2017-01-13,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,250,500,395
+2017-01-10,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,200,500,300
+2017-01-08,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,275,500,375
+2017-01-07,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,250,500,375
+2017-01-05,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,400
+2017-01-04,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,275,500,375
+2017-01-03,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,415
+2017-01-02,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,350
+2016-12-31,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,500,400
+2016-12-29,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,250,400,300
+2016-12-28,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,300,400,350
+2016-12-27,Cabbage,154,Madhya Pradesh,23,Jabalpur,451,250,400,300

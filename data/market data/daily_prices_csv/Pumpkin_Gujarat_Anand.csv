@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-13,Pumpkin,84,Gujarat,24,Anand,482,700,900,800
+2015-02-09,Pumpkin,84,Gujarat,24,Anand,482,400,750,625
+2015-02-06,Pumpkin,84,Gujarat,24,Anand,482,750,900,825
+2015-02-05,Pumpkin,84,Gujarat,24,Anand,482,800,900,850
+2015-01-29,Pumpkin,84,Gujarat,24,Anand,482,400,500,450
+2015-01-28,Pumpkin,84,Gujarat,24,Anand,482,700,900,800
+2015-01-11,Pumpkin,84,Gujarat,24,Anand,482,600,700,675

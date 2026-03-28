@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-08,Turmeric,39,Karnataka,29,Kodagu,576,8000,8000,8000
+2017-01-11,Turmeric,39,Karnataka,29,Kodagu,576,8000,8000,8000
+2016-12-24,Turmeric,39,Karnataka,29,Kodagu,576,7000,7000,7000
+2016-08-17,Turmeric,39,Karnataka,29,Kodagu,576,4000,4000,4000
+2016-07-02,Turmeric,39,Karnataka,29,Kodagu,576,7000,7000,7000

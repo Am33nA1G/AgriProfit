@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-24,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,2000,2200,2100
+2023-02-23,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,2000,2200,2100
+2023-02-22,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1900,2100,2000
+2023-02-21,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1900,2100,2000
+2023-02-20,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1500,1700,1600
+2023-02-19,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1200,1400,1300
+2023-02-18,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1600,1800,1700
+2023-02-17,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1500,1700,1600
+2023-02-16,Amla (Nelli Kai),355,Uttar Pradesh,9,Mahrajganj,187,1000,1200,1100

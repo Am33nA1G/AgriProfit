@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-03,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,550,1600,980
+2017-06-02,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,550,1600,980
+2017-06-01,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,550,1600,980
+2015-01-25,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1810,2012,1908
+2015-01-24,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1810,2009,1908
+2015-01-13,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1780,2010,1885
+2015-01-12,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1800,2000,1900
+2015-01-09,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1800,2000,1900
+2015-01-08,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1800,2000,1900
+2015-01-07,Tobacco,141,Tamil Nadu,33,Nagapattinam,618,1800,2000,1900

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-20,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,606,606,606
+2023-08-21,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,2000,2500,2300
+2015-11-24,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,1200,1600,1400
+2015-10-19,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,1000,1400,1200
+2015-08-24,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,500,800,650
+2015-02-05,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,1400,2000,1700
+2015-01-12,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,1400,1600,1500
+2015-01-05,Chapparad Avare,169,Karnataka,29,Chikmagalur,570,1000,1800,1500

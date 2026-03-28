@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-30,Rajgir,248,Chhattisgarh,22,Raipur,410,5600,6000,5829
+2025-03-31,Rajgir,248,Chhattisgarh,22,Raipur,410,4800,5200,5013
+2025-02-28,Rajgir,248,Chhattisgarh,22,Raipur,410,6000,6000,6000
+2024-12-31,Rajgir,248,Chhattisgarh,22,Raipur,410,6600,7000,6886

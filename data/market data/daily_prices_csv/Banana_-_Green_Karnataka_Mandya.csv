@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-11,Banana - Green,90,Karnataka,29,Mandya,573,1800,1800,1800
+2022-09-16,Banana - Green,90,Karnataka,29,Mandya,573,1000,1000,1000
+2022-09-08,Banana - Green,90,Karnataka,29,Mandya,573,2400,2400,2400
+2022-07-28,Banana - Green,90,Karnataka,29,Mandya,573,1800,1800,1800
+2022-06-02,Banana - Green,90,Karnataka,29,Mandya,573,3000,3000,3000
+2022-02-17,Banana - Green,90,Karnataka,29,Mandya,573,1800,3300,2400
+2021-12-30,Banana - Green,90,Karnataka,29,Mandya,573,8000,19000,13000
+2016-01-23,Banana - Green,90,Karnataka,29,Mandya,573,1200,1200,1200

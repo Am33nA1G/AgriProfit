@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-13,Ashgourd,83,Karnataka,29,Chamarajanagar,578,3600,3600,3600
+2022-07-28,Ashgourd,83,Karnataka,29,Chamarajanagar,578,3100,3100,3100
+2022-02-25,Ashgourd,83,Karnataka,29,Chamarajanagar,578,5506,5900,5506
+2021-08-10,Ashgourd,83,Karnataka,29,Chamarajanagar,578,3400,3615,3400
+2020-09-05,Ashgourd,83,Karnataka,29,Chamarajanagar,578,400,2600,1600

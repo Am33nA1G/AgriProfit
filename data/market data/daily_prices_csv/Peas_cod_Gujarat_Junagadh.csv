@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-07,Peas cod,308,Gujarat,24,Junagadh,479,2050,3400,2850
+2015-02-06,Peas cod,308,Gujarat,24,Junagadh,479,2100,3050,2750
+2015-02-05,Peas cod,308,Gujarat,24,Junagadh,479,2600,4100,3700
+2015-02-03,Peas cod,308,Gujarat,24,Junagadh,479,2300,3200,2850
+2015-01-31,Peas cod,308,Gujarat,24,Junagadh,479,2950,4100,3500
+2015-01-30,Peas cod,308,Gujarat,24,Junagadh,479,2750,4250,3450
+2015-01-29,Peas cod,308,Gujarat,24,Junagadh,479,2850,4400,3550
+2015-01-24,Peas cod,308,Gujarat,24,Junagadh,479,2950,4250,3400
+2015-01-23,Peas cod,308,Gujarat,24,Junagadh,479,2700,4050,3375

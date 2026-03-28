@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-08,Potato,24,Karnataka,29,Kodagu,576,1082,1082,1082
+2024-09-06,Potato,24,Karnataka,29,Kodagu,576,1018,1018,1018
+2017-12-01,Potato,24,Karnataka,29,Kodagu,576,750,750,750
+2017-11-07,Potato,24,Karnataka,29,Kodagu,576,750,1000,1000
+2017-10-06,Potato,24,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-08-11,Potato,24,Karnataka,29,Kodagu,576,1142,1142,1142
+2015-05-21,Potato,24,Karnataka,29,Kodagu,576,333,333,333
+2015-05-15,Potato,24,Karnataka,29,Kodagu,576,750,750,750

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-22,Javi,250,Uttarakhand,5,Dehradun,60,2850,3000,3000
+2015-08-07,Javi,250,Uttarakhand,5,Dehradun,60,2000,2000,2000

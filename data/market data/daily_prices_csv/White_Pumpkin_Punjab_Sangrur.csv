@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-19,White Pumpkin,158,Punjab,3,Sangrur,53,500,650,600
+2022-03-16,White Pumpkin,158,Punjab,3,Sangrur,53,1500,1700,1600

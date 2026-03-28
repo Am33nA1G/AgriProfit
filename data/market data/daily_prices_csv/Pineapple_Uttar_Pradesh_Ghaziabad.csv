@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-18,Pineapple,21,Uttar Pradesh,9,Ghaziabad,140,1600,2370,2200
+2019-01-22,Pineapple,21,Uttar Pradesh,9,Ghaziabad,140,1645,1943,1754

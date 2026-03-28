@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-11,Water Melon,73,Bihar,10,Darbhanga,215,1400,1600,1500
+2022-04-28,Water Melon,73,Bihar,10,Darbhanga,215,1400,1600,1500
+2022-04-27,Water Melon,73,Bihar,10,Darbhanga,215,1400,1600,1500

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-29,Grapes,22,Jharkhand,20,Kodarma,348,7600,8000,7800
+2017-01-14,Grapes,22,Jharkhand,20,Kodarma,348,8400,9000,8600
+2016-03-06,Grapes,22,Jharkhand,20,Kodarma,348,5600,5800,5700
+2015-04-25,Grapes,22,Jharkhand,20,Kodarma,348,3400,3700,3500
+2015-04-13,Grapes,22,Jharkhand,20,Kodarma,348,3200,3600,3400

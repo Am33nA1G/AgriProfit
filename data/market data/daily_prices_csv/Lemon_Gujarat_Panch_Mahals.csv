@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-14,Lemon,310,Gujarat,24,Panch Mahals,484,1700,1800,1750
+2015-02-19,Lemon,310,Gujarat,24,Panch Mahals,484,1100,1300,1200
+2015-02-16,Lemon,310,Gujarat,24,Panch Mahals,484,900,1000,950

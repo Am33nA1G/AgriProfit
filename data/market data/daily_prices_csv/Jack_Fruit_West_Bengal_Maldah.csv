@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-07,Jack Fruit,182,West Bengal,19,Maldah,332,1500,1560,1550
+2015-08-11,Jack Fruit,182,West Bengal,19,Maldah,332,1380,1420,1400
+2015-07-31,Jack Fruit,182,West Bengal,19,Maldah,332,1480,1520,1500
+2015-07-30,Jack Fruit,182,West Bengal,19,Maldah,332,1400,1600,1500
+2015-07-29,Jack Fruit,182,West Bengal,19,Maldah,332,1990,2020,2000
+2015-07-28,Jack Fruit,182,West Bengal,19,Maldah,332,2990,3020,3000
+2015-07-21,Jack Fruit,182,West Bengal,19,Maldah,332,1480,1520,1500
+2015-07-20,Jack Fruit,182,West Bengal,19,Maldah,332,1480,1520,1500
+2015-07-19,Jack Fruit,182,West Bengal,19,Maldah,332,1180,1230,1200

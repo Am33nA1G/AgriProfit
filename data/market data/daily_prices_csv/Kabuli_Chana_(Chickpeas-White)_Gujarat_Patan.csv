@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-27,Kabuli Chana (Chickpeas-White),362,Gujarat,24,Patan,470,4400,4575,4475
+2017-02-25,Kabuli Chana (Chickpeas-White),362,Gujarat,24,Patan,470,4500,4670,4625
+2017-02-23,Kabuli Chana (Chickpeas-White),362,Gujarat,24,Patan,470,4450,4675,4610
+2017-02-22,Kabuli Chana (Chickpeas-White),362,Gujarat,24,Patan,470,4450,4650,4600

@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-03,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1600,2000,1800
+2023-09-01,Pumpkin,84,Bihar,10,Pashchim Champaran,203,2000,2500,2200
+2022-05-06,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2000,1700
+2022-04-16,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1400,1800,1700
+2022-04-11,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,1800,1700
+2022-04-10,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2000,2000
+2022-04-09,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2000,1800
+2022-04-08,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2200,1800
+2022-04-07,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2000,2000
+2022-04-06,Pumpkin,84,Bihar,10,Pashchim Champaran,203,1500,2000,1800
+2022-04-04,Pumpkin,84,Bihar,10,Pashchim Champaran,203,2000,2500,2200
+2022-04-03,Pumpkin,84,Bihar,10,Pashchim Champaran,203,2000,2400,2200
+2022-04-02,Pumpkin,84,Bihar,10,Pashchim Champaran,203,2000,2500,2200

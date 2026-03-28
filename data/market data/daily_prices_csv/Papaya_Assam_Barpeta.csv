@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-10-26,Papaya,72,Assam,18,Barpeta,303,1500,1600,1500
+2016-10-25,Papaya,72,Assam,18,Barpeta,303,1200,1400,1300
+2016-10-22,Papaya,72,Assam,18,Barpeta,303,1200,1400,1300
+2016-10-17,Papaya,72,Assam,18,Barpeta,303,800,1000,900
+2016-10-12,Papaya,72,Assam,18,Barpeta,303,1100,1200,1100

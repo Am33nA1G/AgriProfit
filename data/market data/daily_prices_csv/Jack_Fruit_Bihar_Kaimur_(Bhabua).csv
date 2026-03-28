@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-15,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,2000,2200,2100
+2022-09-23,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,2200,2400,2300
+2022-05-29,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1500,1700,1600
+2022-05-28,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1500,1700,1600
+2022-05-26,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2022-05-05,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1300,1500,1400
+2022-05-03,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2022-05-02,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1400,1600,1500
+2022-05-01,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1500,1700,1600
+2022-04-28,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1900,2100,2000
+2022-04-26,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,1800,2000,1900
+2022-04-09,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,2500,2700,2600
+2022-04-04,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,2500,2700,2600
+2022-04-01,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,3000,3200,3100
+2022-03-26,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,3600,3800,3700
+2022-03-25,Jack Fruit,182,Bihar,10,Kaimur (Bhabua),233,4000,4200,4100

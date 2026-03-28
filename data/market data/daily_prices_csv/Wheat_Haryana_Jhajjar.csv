@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-09,Wheat,1,Haryana,6,Jhajjar,83,2425,2425,2425
+2019-06-28,Wheat,1,Haryana,6,Jhajjar,83,,600,600
+2015-04-10,Wheat,1,Haryana,6,Jhajjar,83,1400,1500,1450
+2015-02-06,Wheat,1,Haryana,6,Jhajjar,83,1600,1600,1600

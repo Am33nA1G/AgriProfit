@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-15,Chili Red,26,Odisha,21,Baleshwar,377,13000,18000,15000
+2025-09-06,Chili Red,26,Odisha,21,Baleshwar,377,12000,17000,15000
+2023-03-17,Chili Red,26,Odisha,21,Baleshwar,377,1200,1400,1300
+2020-12-03,Chili Red,26,Odisha,21,Baleshwar,377,16000,18000,17000
+2020-10-13,Chili Red,26,Odisha,21,Baleshwar,377,17000,18000,17500
+2020-09-01,Chili Red,26,Odisha,21,Baleshwar,377,800,1000,900

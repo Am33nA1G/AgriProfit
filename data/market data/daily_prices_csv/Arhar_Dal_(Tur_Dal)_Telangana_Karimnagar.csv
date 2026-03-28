@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-10,Arhar Dal (Tur Dal),260,Telangana,36,Karimnagar,534,3761,3761,3761
+2018-01-09,Arhar Dal (Tur Dal),260,Telangana,36,Karimnagar,534,3511,3511,3511
+2017-11-29,Arhar Dal (Tur Dal),260,Telangana,36,Karimnagar,534,3060,3060,3060

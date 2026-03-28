@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-30,Mushrooms,340,Punjab,3,Tarn Taran,50,4000,5000,4500
+2021-01-18,Mushrooms,340,Punjab,3,Tarn Taran,50,2000,3000,2500
+2019-07-08,Mushrooms,340,Punjab,3,Tarn Taran,50,3000,4500,3500
+2019-07-04,Mushrooms,340,Punjab,3,Tarn Taran,50,4000,5000,4500
+2019-03-21,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2019-03-04,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2019-02-01,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2019-01-28,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2019-01-07,Mushrooms,340,Punjab,3,Tarn Taran,50,1500,2000,1800
+2019-01-01,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2018-12-24,Mushrooms,340,Punjab,3,Tarn Taran,50,1500,2000,1800
+2018-12-23,Mushrooms,340,Punjab,3,Tarn Taran,50,1500,2000,1800
+2018-12-22,Mushrooms,340,Punjab,3,Tarn Taran,50,1500,2000,1800
+2018-12-20,Mushrooms,340,Punjab,3,Tarn Taran,50,2000,2400,2200
+2018-12-17,Mushrooms,340,Punjab,3,Tarn Taran,50,1500,2000,1800
+2018-12-15,Mushrooms,340,Punjab,3,Tarn Taran,50,2000,3000,2500
+2018-12-11,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2018-12-05,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2018-11-27,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2018-11-26,Mushrooms,340,Punjab,3,Tarn Taran,50,2000,2400,2200
+2018-11-24,Mushrooms,340,Punjab,3,Tarn Taran,50,1200,1800,1500
+2018-11-22,Mushrooms,340,Punjab,3,Tarn Taran,50,1800,2500,2000
+2018-10-15,Mushrooms,340,Punjab,3,Tarn Taran,50,3400,4000,3800
+2017-11-20,Mushrooms,340,Punjab,3,Tarn Taran,50,3800,4050,4000

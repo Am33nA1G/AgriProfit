@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-07,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2300,2500,2400
+2022-10-29,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2200,2800,2500
+2022-10-23,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1200,1500,1400
+2022-10-22,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1000,1200,1100
+2022-10-20,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,800,1000,900
+2022-10-11,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1225,1500,1375
+2022-10-10,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1150,1500,1350
+2022-10-08,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,800,1100,1000
+2022-09-28,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1000,1200,1100
+2022-09-27,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1000,1100,1000
+2022-09-26,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1100,1200,1150
+2022-08-07,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1000,1200,1050
+2022-08-06,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,600,700,650
+2022-08-05,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1000,1200,1050
+2022-08-04,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1200,1300,1250
+2022-08-03,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,1200,1500,1400
+2022-05-11,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2900,3200,3000
+2022-05-04,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2500,3000,2800
+2022-04-28,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2600,3000,2800
+2022-04-24,Bhindi (Ladies Finger),85,Bihar,10,Darbhanga,215,2500,3000,2700

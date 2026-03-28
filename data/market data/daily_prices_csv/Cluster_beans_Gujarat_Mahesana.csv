@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-02,Cluster beans,80,Gujarat,24,Mahesana,471,650,2500,1575
+2020-01-24,Cluster beans,80,Gujarat,24,Mahesana,471,1000,2000,1500

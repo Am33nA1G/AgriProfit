@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-25,Orange,18,Bihar,10,Aurangabad,235,7500,8000,7850
+2023-05-17,Orange,18,Bihar,10,Aurangabad,235,8000,8100,8050
+2023-05-08,Orange,18,Bihar,10,Aurangabad,235,8000,8150,8100
+2023-05-04,Orange,18,Bihar,10,Aurangabad,235,8000,8100,8050
+2023-04-30,Orange,18,Bihar,10,Aurangabad,235,7550,7650,7600
+2023-04-25,Orange,18,Bihar,10,Aurangabad,235,7000,7100,7050
+2023-04-23,Orange,18,Bihar,10,Aurangabad,235,11000,11500,11200
+2023-04-19,Orange,18,Bihar,10,Aurangabad,235,10000,10100,10050
+2023-04-14,Orange,18,Bihar,10,Aurangabad,235,7550,7700,7650
+2023-04-09,Orange,18,Bihar,10,Aurangabad,235,7500,7650,7600
+2023-04-06,Orange,18,Bihar,10,Aurangabad,235,7000,7300,7250
+2023-04-02,Orange,18,Bihar,10,Aurangabad,235,6850,6950,6900
+2023-03-29,Orange,18,Bihar,10,Aurangabad,235,8000,8100,8050
+2023-03-25,Orange,18,Bihar,10,Aurangabad,235,6850,7000,6900
+2023-03-18,Orange,18,Bihar,10,Aurangabad,235,5850,6000,5900
+2023-03-10,Orange,18,Bihar,10,Aurangabad,235,5650,5750,5700

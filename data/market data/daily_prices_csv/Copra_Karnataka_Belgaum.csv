@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-01-06,Copra,129,Karnataka,29,Belgaum,555,2500,2500,2500
+2019-10-14,Copra,129,Karnataka,29,Belgaum,555,13000,13000,13000
+2019-05-03,Copra,129,Karnataka,29,Belgaum,555,13000,13000,13000
+2018-10-12,Copra,129,Karnataka,29,Belgaum,555,7500,16000,16000
+2016-12-30,Copra,129,Karnataka,29,Belgaum,555,4000,4000,4000
+2016-05-24,Copra,129,Karnataka,29,Belgaum,555,5720,5720,5720
+2015-12-17,Copra,129,Karnataka,29,Belgaum,555,10000,10000,10000
+2015-12-15,Copra,129,Karnataka,29,Belgaum,555,10000,10000,10000
+2015-10-16,Copra,129,Karnataka,29,Belgaum,555,7956,7956,7956
+2015-10-13,Copra,129,Karnataka,29,Belgaum,555,10000,10000,10000
+2015-10-05,Copra,129,Karnataka,29,Belgaum,555,11200,11200,11200
+2015-09-23,Copra,129,Karnataka,29,Belgaum,555,6235,6235,6235
+2015-09-08,Copra,129,Karnataka,29,Belgaum,555,9000,9000,9000
+2015-08-18,Copra,129,Karnataka,29,Belgaum,555,8670,8670,8670
+2015-02-18,Copra,129,Karnataka,29,Belgaum,555,7200,7200,7200
+2015-01-16,Copra,129,Karnataka,29,Belgaum,555,6667,6667,6667

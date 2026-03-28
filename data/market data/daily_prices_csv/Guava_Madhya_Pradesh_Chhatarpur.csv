@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-28,Guava,185,Madhya Pradesh,23,Chhatarpur,425,1500,1500,1500
+2020-12-26,Guava,185,Madhya Pradesh,23,Chhatarpur,425,2000,2000,2000
+2020-12-23,Guava,185,Madhya Pradesh,23,Chhatarpur,425,1500,1500,1500
+2020-12-22,Guava,185,Madhya Pradesh,23,Chhatarpur,425,1500,1500,1500
+2020-12-18,Guava,185,Madhya Pradesh,23,Chhatarpur,425,1000,1000,1000
+2020-12-10,Guava,185,Madhya Pradesh,23,Chhatarpur,425,1500,1500,1500
+2020-12-07,Guava,185,Madhya Pradesh,23,Chhatarpur,425,2000,2000,2000

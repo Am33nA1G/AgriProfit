@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-05-16,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,1800,2000,2000
+2015-04-30,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,700,800,750
+2015-04-29,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,700,1100,900
+2015-04-28,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,700,1000,900
+2015-04-27,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,700,800,750
+2015-04-25,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,700,800,750
+2015-04-24,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,600,700,650
+2015-04-23,White Pumpkin,158,Jammu & Kashmir,1,Kathua,7,600,700,650

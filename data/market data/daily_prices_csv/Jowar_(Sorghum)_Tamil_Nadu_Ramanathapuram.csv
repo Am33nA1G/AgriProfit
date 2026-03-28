@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-06,Jowar (Sorghum),5,Tamil Nadu,33,Ramanathapuram,626,1600,2000,1800
+2024-05-27,Jowar (Sorghum),5,Tamil Nadu,33,Ramanathapuram,626,3200,3400,3250

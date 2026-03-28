@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-09,Yam,244,Kerala,32,Kottayam,597,5000,5000,5000
+2025-01-26,Yam,244,Kerala,32,Kottayam,597,3500,4300,4300
+2025-01-24,Yam,244,Kerala,32,Kottayam,597,4500,4500,4500
+2025-01-10,Yam,244,Kerala,32,Kottayam,597,4500,4500,4500
+2024-12-08,Yam,244,Kerala,32,Kottayam,597,4500,4500,4500
+2024-12-06,Yam,244,Kerala,32,Kottayam,597,4800,5000,4800
+2024-07-02,Yam,244,Kerala,32,Kottayam,597,4000,4000,4000

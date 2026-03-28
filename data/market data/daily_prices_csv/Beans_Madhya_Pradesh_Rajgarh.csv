@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-15,Beans,94,Madhya Pradesh,23,Rajgarh,442,2650,3660,3550
+2018-08-21,Beans,94,Madhya Pradesh,23,Rajgarh,442,2300,3300,3150
+2017-08-29,Beans,94,Madhya Pradesh,23,Rajgarh,442,2060,2995,2900
+2017-05-26,Beans,94,Madhya Pradesh,23,Rajgarh,442,2200,2875,2775
+2016-10-16,Beans,94,Madhya Pradesh,23,Rajgarh,442,2000,3120,2800
+2016-09-08,Beans,94,Madhya Pradesh,23,Rajgarh,442,2800,3400,3300
+2016-07-27,Beans,94,Madhya Pradesh,23,Rajgarh,442,6200,7650,6500
+2016-07-26,Beans,94,Madhya Pradesh,23,Rajgarh,442,2800,3575,3400
+2016-07-06,Beans,94,Madhya Pradesh,23,Rajgarh,442,3000,4000,3800
+2016-01-17,Beans,94,Madhya Pradesh,23,Rajgarh,442,3000,3000,3000
+2015-12-08,Beans,94,Madhya Pradesh,23,Rajgarh,442,4400,4800,4400
+2015-06-28,Beans,94,Madhya Pradesh,23,Rajgarh,442,7000,9200,8000

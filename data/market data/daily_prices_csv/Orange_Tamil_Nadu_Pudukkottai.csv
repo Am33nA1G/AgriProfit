@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-22,Orange,18,Tamil Nadu,33,Pudukkottai,621,5000,6000,6000
+2025-03-18,Orange,18,Tamil Nadu,33,Pudukkottai,621,5000,6000,6000
+2025-03-15,Orange,18,Tamil Nadu,33,Pudukkottai,621,6000,7000,7000

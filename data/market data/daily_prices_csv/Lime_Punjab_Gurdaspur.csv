@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-29,Lime,180,Punjab,3,Gurdaspur,35,4000,4200,4100
+2016-07-26,Lime,180,Punjab,3,Gurdaspur,35,3900,4100,4000
+2016-07-24,Lime,180,Punjab,3,Gurdaspur,35,3900,4100,4000
+2016-07-23,Lime,180,Punjab,3,Gurdaspur,35,3900,4100,4000
+2016-07-15,Lime,180,Punjab,3,Gurdaspur,35,4400,4600,4500
+2016-05-10,Lime,180,Punjab,3,Gurdaspur,35,4300,4500,4400

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-11,Other Pulses,97,Rajasthan,8,Pali,118,8500,8500,8500
+2015-11-06,Other Pulses,97,Rajasthan,8,Pali,118,8800,8800,8800
+2015-03-21,Other Pulses,97,Rajasthan,8,Pali,118,6700,7500,7100

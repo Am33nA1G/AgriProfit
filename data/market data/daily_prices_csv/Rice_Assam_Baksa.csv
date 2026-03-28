@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-15,Rice,3,Assam,18,Baksa,324,1000,1200,1100
+2017-09-14,Rice,3,Assam,18,Baksa,324,1000,1200,1100
+2016-05-20,Rice,3,Assam,18,Baksa,324,2100,2200,2150
+2016-05-17,Rice,3,Assam,18,Baksa,324,2100,2200,2150

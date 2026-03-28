@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-15,Muleti,428,Chhattisgarh,22,Rajnandgaon,408,3299,3400,3350
+2024-12-31,Muleti,428,Chhattisgarh,22,Rajnandgaon,408,3500,3500,3500
+2024-12-02,Muleti,428,Chhattisgarh,22,Rajnandgaon,408,4101,4101,4101

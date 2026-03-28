@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-22,Cotton Seed,99,Telangana,36,Warangal,540,4500,4500,4500
+2016-01-16,Cotton Seed,99,Telangana,36,Warangal,540,3950,4310,4210

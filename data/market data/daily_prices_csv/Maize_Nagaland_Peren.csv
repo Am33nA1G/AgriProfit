@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-19,Maize,4,Nagaland,13,Peren,271,3800,4100,4000
+2019-07-12,Maize,4,Nagaland,13,Peren,271,3700,4000,3900
+2019-07-05,Maize,4,Nagaland,13,Peren,271,3400,3700,3500
+2019-06-28,Maize,4,Nagaland,13,Peren,271,1600,1900,1800

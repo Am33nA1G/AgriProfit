@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-30,Garlic,25,Madhya Pradesh,23,Satna,429,6500,6500,6500
+2025-09-17,Garlic,25,Madhya Pradesh,23,Satna,429,6000,6000,6000
+2025-09-05,Garlic,25,Madhya Pradesh,23,Satna,429,5000,5000,5000
+2023-09-18,Garlic,25,Madhya Pradesh,23,Satna,429,2100,2100,2100
+2023-07-11,Garlic,25,Madhya Pradesh,23,Satna,429,1320,1320,1320
+2023-04-25,Garlic,25,Madhya Pradesh,23,Satna,429,5000,5000,5000
+2023-01-16,Garlic,25,Madhya Pradesh,23,Satna,429,1000,1000,1000
+2022-11-20,Garlic,25,Madhya Pradesh,23,Satna,429,1000,1000,1000
+2022-10-30,Garlic,25,Madhya Pradesh,23,Satna,429,1500,1500,1500
+2022-10-18,Garlic,25,Madhya Pradesh,23,Satna,429,600,1500,1050
+2022-09-20,Garlic,25,Madhya Pradesh,23,Satna,429,600,600,600
+2022-09-09,Garlic,25,Madhya Pradesh,23,Satna,429,600,600,600
+2022-09-03,Garlic,25,Madhya Pradesh,23,Satna,429,600,1000,800
+2022-07-24,Garlic,25,Madhya Pradesh,23,Satna,429,1500,1500,1500
+2022-07-20,Garlic,25,Madhya Pradesh,23,Satna,429,1500,1500,1500
+2022-05-30,Garlic,25,Madhya Pradesh,23,Satna,429,2000,3000,2500
+2022-05-18,Garlic,25,Madhya Pradesh,23,Satna,429,1200,1200,1200
+2022-05-16,Garlic,25,Madhya Pradesh,23,Satna,429,1000,1500,1250

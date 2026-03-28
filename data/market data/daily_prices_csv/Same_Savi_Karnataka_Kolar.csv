@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-31,Same/Savi,122,Karnataka,29,Kolar,581,6500,7000,6911
+2025-06-30,Same/Savi,122,Karnataka,29,Kolar,581,9000,9500,9200
+2025-01-30,Same/Savi,122,Karnataka,29,Kolar,581,6000,6300,6182
+2024-12-31,Same/Savi,122,Karnataka,29,Kolar,581,3500,4000,3700
+2020-02-01,Same/Savi,122,Karnataka,29,Kolar,581,1500,1700,1600
+2019-12-30,Same/Savi,122,Karnataka,29,Kolar,581,1400,1500,1450
+2015-06-09,Same/Savi,122,Karnataka,29,Kolar,581,1000,1400,1084

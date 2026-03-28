@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-19,Sweet Pumpkin,173,Haryana,6,Fatehabad,78,300,500,400
+2015-04-12,Sweet Pumpkin,173,Haryana,6,Fatehabad,78,500,600,550
+2015-04-08,Sweet Pumpkin,173,Haryana,6,Fatehabad,78,1000,1400,1200
+2015-04-07,Sweet Pumpkin,173,Haryana,6,Fatehabad,78,1000,1200,1100

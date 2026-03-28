@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-24,Pumpkin,84,Telangana,36,Adilabad,532,550,625,587
+2024-01-29,Pumpkin,84,Telangana,36,Adilabad,532,550,625,587
+2023-04-07,Pumpkin,84,Telangana,36,Adilabad,532,550,625,587
+2023-02-12,Pumpkin,84,Telangana,36,Adilabad,532,550,625,587

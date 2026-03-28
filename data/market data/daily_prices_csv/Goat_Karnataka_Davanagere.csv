@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-29,Goat,219,Karnataka,29,Davanagere,567,6000,9000,7500
+2020-11-06,Goat,219,Karnataka,29,Davanagere,567,5000,7000,6000
+2020-09-11,Goat,219,Karnataka,29,Davanagere,567,5000,7000,6000
+2020-09-04,Goat,219,Karnataka,29,Davanagere,567,5000,7000,6000
+2019-07-12,Goat,219,Karnataka,29,Davanagere,567,6000,8000,7000
+2018-11-02,Goat,219,Karnataka,29,Davanagere,567,5000,7000,6000
+2018-02-23,Goat,219,Karnataka,29,Davanagere,567,5000,7000,6000
+2018-02-02,Goat,219,Karnataka,29,Davanagere,567,9000,12000,10500

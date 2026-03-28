@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-31,Onion,23,Karnataka,29,Uttara Kannada,563,1000,1030,1015
+2016-11-30,Onion,23,Karnataka,29,Uttara Kannada,563,1300,1300,1300
+2016-10-28,Onion,23,Karnataka,29,Uttara Kannada,563,1100,1100,1100
+2016-09-29,Onion,23,Karnataka,29,Uttara Kannada,563,1150,1200,1175
+2016-08-31,Onion,23,Karnataka,29,Uttara Kannada,563,1300,1900,1700
+2016-07-30,Onion,23,Karnataka,29,Uttara Kannada,563,1600,1700,1650
+2016-06-30,Onion,23,Karnataka,29,Uttara Kannada,563,1500,1550,1525
+2016-05-31,Onion,23,Karnataka,29,Uttara Kannada,563,1200,1700,1400
+2016-04-30,Onion,23,Karnataka,29,Uttara Kannada,563,2000,2000,2000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-15,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,850,870,860
+2016-07-25,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4200,4400,4300
+2015-12-10,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4000,4200,4100
+2015-12-03,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4300,4500,4400
+2015-10-19,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4100,4300,4200
+2015-09-03,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,5100,5300,5200
+2015-07-06,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4900,5100,5000
+2015-07-02,Betel Leaves,143,Kerala,32,Thiruvananthapuram,601,4700,4900,4800

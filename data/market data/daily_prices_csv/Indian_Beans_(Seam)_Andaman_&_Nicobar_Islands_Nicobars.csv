@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-16,Indian Beans (Seam),299,Andaman & Nicobar Islands,35,Nicobars,638,8000,10000,9000
+2016-03-14,Indian Beans (Seam),299,Andaman & Nicobar Islands,35,Nicobars,638,8000,10000,9000
+2016-03-10,Indian Beans (Seam),299,Andaman & Nicobar Islands,35,Nicobars,638,8000,10000,9000

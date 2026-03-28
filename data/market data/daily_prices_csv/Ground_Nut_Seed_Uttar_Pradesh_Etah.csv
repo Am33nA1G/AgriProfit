@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-22,Ground Nut Seed,268,Uttar Pradesh,9,Etah,201,4300,4700,4600
+2017-09-17,Ground Nut Seed,268,Uttar Pradesh,9,Etah,201,4400,4650,4500
+2015-08-13,Ground Nut Seed,268,Uttar Pradesh,9,Etah,201,4000,4200,4100
+2015-08-12,Ground Nut Seed,268,Uttar Pradesh,9,Etah,201,3950,4100,4000

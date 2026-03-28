@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-29,Orange,18,Madhya Pradesh,23,Khandwa (East Nimar),466,400,800,600
+2016-01-03,Orange,18,Madhya Pradesh,23,Khandwa (East Nimar),466,300,500,400
+2015-12-05,Orange,18,Madhya Pradesh,23,Khandwa (East Nimar),466,300,500,400
+2015-12-04,Orange,18,Madhya Pradesh,23,Khandwa (East Nimar),466,300,500,400

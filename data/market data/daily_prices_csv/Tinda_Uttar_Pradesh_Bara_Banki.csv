@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-19,Tinda,349,Uttar Pradesh,9,Bara Banki,176,4010,4100,4060
+2024-10-18,Tinda,349,Uttar Pradesh,9,Bara Banki,176,4000,4100,4050
+2023-02-04,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1030,1140,1080
+2019-10-06,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1100,1300,1200
+2019-09-27,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1300,1500,1400
+2019-09-25,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1200,1400,1300
+2019-09-18,Tinda,349,Uttar Pradesh,9,Bara Banki,176,850,1000,950
+2019-09-13,Tinda,349,Uttar Pradesh,9,Bara Banki,176,950,1125,1050
+2019-09-12,Tinda,349,Uttar Pradesh,9,Bara Banki,176,850,1050,950
+2019-09-04,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1200,1400,1300
+2019-08-25,Tinda,349,Uttar Pradesh,9,Bara Banki,176,850,1000,900
+2019-08-23,Tinda,349,Uttar Pradesh,9,Bara Banki,176,800,1000,900
+2019-08-19,Tinda,349,Uttar Pradesh,9,Bara Banki,176,950,1100,1000
+2018-09-11,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1250,1350,1300
+2018-09-09,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1300,1400,1350
+2018-09-05,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1450,1575,1525
+2018-09-03,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1550,1650,1600
+2018-08-28,Tinda,349,Uttar Pradesh,9,Bara Banki,176,1280,1390,1320
+2017-08-11,Tinda,349,Uttar Pradesh,9,Bara Banki,176,2300,2500,2450

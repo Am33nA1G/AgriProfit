@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-19,Ginger (Green),103,Chhattisgarh,22,Koriya,400,2000,2000,2000
+2017-06-27,Ginger (Green),103,Chhattisgarh,22,Koriya,400,2500,2500,2500
+2017-05-26,Ginger (Green),103,Chhattisgarh,22,Koriya,400,2000,2000,2000
+2017-05-19,Ginger (Green),103,Chhattisgarh,22,Koriya,400,2500,2500,2500
+2016-12-13,Ginger (Green),103,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2015-05-11,Ginger (Green),103,Chhattisgarh,22,Koriya,400,4000,4000,4000

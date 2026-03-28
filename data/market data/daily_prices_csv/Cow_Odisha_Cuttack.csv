@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-23,Cow,212,Odisha,21,Cuttack,381,3000,3000,3000
+2016-08-14,Cow,212,Odisha,21,Cuttack,381,5000,5000,5000
+2016-06-08,Cow,212,Odisha,21,Cuttack,381,5000,5000,5000
+2016-05-18,Cow,212,Odisha,21,Cuttack,381,5000,5000,5000
+2016-04-24,Cow,212,Odisha,21,Cuttack,381,5000,5000,5000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-05,Lime,180,Tamil Nadu,33,Kancheepuram,604,13000,14000,14000
+2025-09-04,Lime,180,Tamil Nadu,33,Kancheepuram,604,14000,15000,15000
+2025-09-03,Lime,180,Tamil Nadu,33,Kancheepuram,604,18000,19000,19000
+2025-07-30,Lime,180,Tamil Nadu,33,Kancheepuram,604,5000,6000,6000
+2025-02-08,Lime,180,Tamil Nadu,33,Kancheepuram,604,4000,5000,5000
+2025-01-29,Lime,180,Tamil Nadu,33,Kancheepuram,604,4000,5000,5000
+2025-01-13,Lime,180,Tamil Nadu,33,Kancheepuram,604,3000,3500,3500
+2025-01-03,Lime,180,Tamil Nadu,33,Kancheepuram,604,3000,4000,4000
+2025-01-02,Lime,180,Tamil Nadu,33,Kancheepuram,604,3000,4000,4000
+2024-12-02,Lime,180,Tamil Nadu,33,Kancheepuram,604,7000,9000,9000

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-28,Onion,23,Gujarat,24,Panch Mahals,484,700,1100,900
+2020-06-27,Onion,23,Gujarat,24,Panch Mahals,484,700,1100,950
+2020-06-20,Onion,23,Gujarat,24,Panch Mahals,484,1000,1300,1100
+2020-06-19,Onion,23,Gujarat,24,Panch Mahals,484,900,1300,1100
+2015-03-14,Onion,23,Gujarat,24,Panch Mahals,484,900,1100,1000
+2015-03-13,Onion,23,Gujarat,24,Panch Mahals,484,900,1100,1000
+2015-02-28,Onion,23,Gujarat,24,Panch Mahals,484,1200,1300,1250
+2015-02-19,Onion,23,Gujarat,24,Panch Mahals,484,1000,1100,1050

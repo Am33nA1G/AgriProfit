@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-14,Turmeric (raw),309,Nagaland,13,Mokokchung,262,2000,2200,2100
+2023-04-10,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1700,1900,1800
+2023-03-31,Turmeric (raw),309,Nagaland,13,Mokokchung,262,2000,2200,2100
+2023-03-25,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1500,1700,1600
+2023-03-24,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1200,1400,1300
+2019-04-15,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1500,1800,1700
+2019-04-08,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1400,1700,1500
+2019-04-01,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1500,1900,1700
+2019-03-25,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1400,1700,1500
+2019-03-18,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1500,1800,1700
+2019-03-11,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1400,1700,1500
+2019-03-04,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1500,1800,1700
+2019-02-25,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1400,1700,1500
+2019-02-18,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1300,1600,1400
+2019-02-11,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1400,1700,1600
+2019-02-04,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1300,1600,1500
+2019-01-28,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1100,1400,1200
+2019-01-21,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1200,1500,1300
+2019-01-14,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1300,1600,1400
+2019-01-07,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1000,1300,1100
+2018-12-31,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1100,1400,1200
+2018-12-24,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1200,1500,1300
+2018-12-17,Turmeric (raw),309,Nagaland,13,Mokokchung,262,1300,1600,1400

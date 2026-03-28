@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-18,Cotton,15,Gujarat,24,Porbandar,478,6000,6000,6000
+2021-01-03,Cotton,15,Gujarat,24,Porbandar,478,,10700,10700
+2019-01-10,Cotton,15,Gujarat,24,Porbandar,478,,14525,14525

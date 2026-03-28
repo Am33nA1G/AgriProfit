@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-30,Toria,66,Uttar Pradesh,9,Sitapur,154,1522.5,1781.25,1720
+2019-05-15,Toria,66,Uttar Pradesh,9,Sitapur,154,2000,2200,2100
+2019-05-01,Toria,66,Uttar Pradesh,9,Sitapur,154,3000,4000,3500

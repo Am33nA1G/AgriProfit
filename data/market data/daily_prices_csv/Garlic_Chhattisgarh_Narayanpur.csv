@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-29,Garlic,25,Chhattisgarh,22,Narayanpur,415,12000,13000,12500
+2022-12-30,Garlic,25,Chhattisgarh,22,Narayanpur,415,3500,3700,3600
+2021-12-30,Garlic,25,Chhattisgarh,22,Narayanpur,415,5300,5500,5400
+2020-11-27,Garlic,25,Chhattisgarh,22,Narayanpur,415,5700,5900,5800
+2019-06-27,Garlic,25,Chhattisgarh,22,Narayanpur,415,1500,1800,1600
+2017-05-29,Garlic,25,Chhattisgarh,22,Narayanpur,415,4000,5000,4500
+2016-04-14,Garlic,25,Chhattisgarh,22,Narayanpur,415,7000,8000,7500

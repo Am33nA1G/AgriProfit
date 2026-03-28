@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-06,Garlic,25,Chhattisgarh,22,Bilaspur,406,3000,5500,4500
+2025-09-30,Garlic,25,Chhattisgarh,22,Bilaspur,406,3000,5500,4500
+2025-09-17,Garlic,25,Chhattisgarh,22,Bilaspur,406,3000,5500,3200
+2025-08-19,Garlic,25,Chhattisgarh,22,Bilaspur,406,3200,3749,3373
+2025-07-31,Garlic,25,Chhattisgarh,22,Bilaspur,406,3100,6450,3100
+2024-12-04,Garlic,25,Chhattisgarh,22,Bilaspur,406,5000,5000,5000
+2024-11-16,Garlic,25,Chhattisgarh,22,Bilaspur,406,5000,5000,5000

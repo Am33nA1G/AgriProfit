@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-20,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,700,700,700
+2015-08-06,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,800,900,850
+2015-07-09,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,900,900,900
+2015-07-03,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,900,900,900
+2015-06-25,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,1000,1000,1000
+2015-06-18,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,800,900,850
+2015-06-16,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,700,800,750
+2015-06-06,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,1000,1150,1100
+2015-06-03,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,800,800,800
+2015-05-30,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,750,750,750
+2015-05-22,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,900,900,900
+2015-05-13,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,800,800,800
+2015-04-29,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,700,900,800
+2015-04-08,Sweet Pumpkin,173,Karnataka,29,Bangalore Rural,583,835,835,835

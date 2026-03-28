@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-06,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,1000,2000,1500
+2025-09-04,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,1500,2000,1750
+2025-09-03,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,2500,2500,2500
+2025-09-02,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,1500,2500,2000
+2025-08-31,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,2000,3000,2500
+2025-08-30,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,4000,4000,4000
+2025-08-29,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,2000,4000,3000
+2025-08-28,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,4000,4000,4000
+2025-08-14,Pear (Marasebu),330,Rajasthan,8,Udaipur,130,1000,3000,2000

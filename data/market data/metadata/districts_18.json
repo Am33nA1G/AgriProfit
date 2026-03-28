@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "census_district_id": 300,
+      "census_district_name": "Kokrajhar"
+    },
+    {
+      "census_district_id": 301,
+      "census_district_name": "Dhubri"
+    },
+    {
+      "census_district_id": 302,
+      "census_district_name": "Goalpara"
+    },
+    {
+      "census_district_id": 303,
+      "census_district_name": "Barpeta"
+    },
+    {
+      "census_district_id": 304,
+      "census_district_name": "Morigaon"
+    },
+    {
+      "census_district_id": 305,
+      "census_district_name": "Nagaon"
+    },
+    {
+      "census_district_id": 306,
+      "census_district_name": "Sonitpur"
+    },
+    {
+      "census_district_id": 307,
+      "census_district_name": "Lakhimpur"
+    },
+    {
+      "census_district_id": 308,
+      "census_district_name": "Dhemaji"
+    },
+    {
+      "census_district_id": 309,
+      "census_district_name": "Tinsukia"
+    },
+    {
+      "census_district_id": 310,
+      "census_district_name": "Dibrugarh"
+    },
+    {
+      "census_district_id": 311,
+      "census_district_name": "Sivasagar"
+    },
+    {
+      "census_district_id": 312,
+      "census_district_name": "Jorhat"
+    },
+    {
+      "census_district_id": 313,
+      "census_district_name": "Golaghat"
+    },
+    {
+      "census_district_id": 314,
+      "census_district_name": "Karbi Anglong"
+    },
+    {
+      "census_district_id": 315,
+      "census_district_name": "Dima Hasao"
+    },
+    {
+      "census_district_id": 316,
+      "census_district_name": "Cachar"
+    },
+    {
+      "census_district_id": 317,
+      "census_district_name": "Karimganj"
+    },
+    {
+      "census_district_id": 318,
+      "census_district_name": "Hailakandi"
+    },
+    {
+      "census_district_id": 319,
+      "census_district_name": "Bongaigaon"
+    },
+    {
+      "census_district_id": 320,
+      "census_district_name": "Chirang"
+    },
+    {
+      "census_district_id": 321,
+      "census_district_name": "Kamrup"
+    },
+    {
+      "census_district_id": 322,
+      "census_district_name": "Kamrup Metropolitan"
+    },
+    {
+      "census_district_id": 323,
+      "census_district_name": "Nalbari"
+    },
+    {
+      "census_district_id": 324,
+      "census_district_name": "Baksa"
+    },
+    {
+      "census_district_id": 325,
+      "census_district_name": "Darrang"
+    },
+    {
+      "census_district_id": 326,
+      "census_district_name": "Udalguri"
+    }
+  ]
+}

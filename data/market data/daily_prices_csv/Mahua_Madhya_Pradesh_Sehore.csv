@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-22,Mahua,335,Madhya Pradesh,23,Sehore,445,4105,4206,4206
+2024-08-23,Mahua,335,Madhya Pradesh,23,Sehore,445,3254,3315,3315
+2024-08-06,Mahua,335,Madhya Pradesh,23,Sehore,445,3378,3428,3428
+2024-07-26,Mahua,335,Madhya Pradesh,23,Sehore,445,3200,3250,3250

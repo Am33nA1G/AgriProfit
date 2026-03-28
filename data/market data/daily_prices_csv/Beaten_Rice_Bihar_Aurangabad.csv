@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-01,Beaten Rice,262,Bihar,10,Aurangabad,235,101000,101650,101500
+2023-04-16,Beaten Rice,262,Bihar,10,Aurangabad,235,100000,100600,100500
+2023-03-22,Beaten Rice,262,Bihar,10,Aurangabad,235,6500,11000,8000
+2023-03-11,Beaten Rice,262,Bihar,10,Aurangabad,235,10000,10800,10500

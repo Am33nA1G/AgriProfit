@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-28,Black pepper,38,Meghalaya,17,Ribhoi,297,1000,1500,1300
+2015-04-20,Black pepper,38,Meghalaya,17,Ribhoi,297,1000,1500,1300
+2015-04-04,Black pepper,38,Meghalaya,17,Ribhoi,297,1000,1500,1250

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-27,Chili Red,26,Telangana,36,Hyderabad,536,3600,6875,5000
+2017-04-13,Chili Red,26,Telangana,36,Hyderabad,536,2000,4000,3000
+2017-04-12,Chili Red,26,Telangana,36,Hyderabad,536,1000,2500,2000
+2017-04-11,Chili Red,26,Telangana,36,Hyderabad,536,2250,4050,3000
+2017-04-10,Chili Red,26,Telangana,36,Hyderabad,536,2250,4500,3000
+2015-06-10,Chili Red,26,Telangana,36,Hyderabad,536,8500,9500,9000

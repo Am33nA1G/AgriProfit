@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-17,Papaya,72,Odisha,21,Koraput,398,2800,3000,2900
+2015-07-22,Papaya,72,Odisha,21,Koraput,398,1500,1600,1550
+2015-05-16,Papaya,72,Odisha,21,Koraput,398,1200,1300,1250

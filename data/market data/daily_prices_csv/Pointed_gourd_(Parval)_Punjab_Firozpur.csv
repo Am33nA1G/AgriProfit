@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-07,Pointed gourd (Parval),303,Punjab,3,Firozpur,43,1600,2000,1800
+2021-08-17,Pointed gourd (Parval),303,Punjab,3,Firozpur,43,1600,2000,1800
+2017-06-05,Pointed gourd (Parval),303,Punjab,3,Firozpur,43,600,700,650

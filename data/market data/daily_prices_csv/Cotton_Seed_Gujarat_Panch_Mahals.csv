@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-22,Cotton Seed,99,Gujarat,24,Panch Mahals,484,6855,6960,6905
+2015-02-23,Cotton Seed,99,Gujarat,24,Panch Mahals,484,3650,3750,3700
+2015-02-19,Cotton Seed,99,Gujarat,24,Panch Mahals,484,700,770,735

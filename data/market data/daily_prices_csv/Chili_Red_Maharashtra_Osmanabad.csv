@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-07,Chili Red,26,Maharashtra,27,Osmanabad,525,1500,4000,2750
+2023-04-09,Chili Red,26,Maharashtra,27,Osmanabad,525,1500,4000,2750
+2023-03-23,Chili Red,26,Maharashtra,27,Osmanabad,525,3500,5000,4250
+2020-02-12,Chili Red,26,Maharashtra,27,Osmanabad,525,2000,2000,2000
+2018-09-07,Chili Red,26,Maharashtra,27,Osmanabad,525,1000,2000,1500
+2018-09-04,Chili Red,26,Maharashtra,27,Osmanabad,525,1200,1300,1250
+2018-08-24,Chili Red,26,Maharashtra,27,Osmanabad,525,1000,1000,1000
+2018-08-19,Chili Red,26,Maharashtra,27,Osmanabad,525,1200,1500,1400
+2018-08-14,Chili Red,26,Maharashtra,27,Osmanabad,525,900,1000,900
+2018-08-12,Chili Red,26,Maharashtra,27,Osmanabad,525,1000,1600,1300
+2018-08-05,Chili Red,26,Maharashtra,27,Osmanabad,525,2000,2000,2000
+2017-10-17,Chili Red,26,Maharashtra,27,Osmanabad,525,1500,1800,1700
+2017-10-08,Chili Red,26,Maharashtra,27,Osmanabad,525,2000,2800,2400
+2017-10-01,Chili Red,26,Maharashtra,27,Osmanabad,525,2000,2500,2300

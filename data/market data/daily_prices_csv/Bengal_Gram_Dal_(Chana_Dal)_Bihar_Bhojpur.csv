@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-16,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6000,6200,6100
+2022-02-05,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6000,6200,6100
+2022-01-21,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6400,6500,6400
+2022-01-08,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6400,6500,6400
+2022-01-07,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6400,6600,6500
+2021-12-29,Bengal Gram Dal (Chana Dal),263,Bihar,10,Bhojpur,231,6800,7000,6900

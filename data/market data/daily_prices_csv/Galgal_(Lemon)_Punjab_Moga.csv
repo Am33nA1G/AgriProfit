@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-03,Galgal (Lemon),350,Punjab,3,Moga,42,1500,1500,1500
+2022-03-26,Galgal (Lemon),350,Punjab,3,Moga,42,7000,7000,7000
+2021-06-17,Galgal (Lemon),350,Punjab,3,Moga,42,1000,1000,1000

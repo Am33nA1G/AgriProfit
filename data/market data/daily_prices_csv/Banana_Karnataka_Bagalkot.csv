@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-07,Banana,19,Karnataka,29,Bagalkot,556,500,1500,1000
+2017-03-24,Banana,19,Karnataka,29,Bagalkot,556,700,2000,1000
+2017-03-17,Banana,19,Karnataka,29,Bagalkot,556,500,1500,1000
+2017-03-10,Banana,19,Karnataka,29,Bagalkot,556,700,2000,1500
+2017-03-03,Banana,19,Karnataka,29,Bagalkot,556,700,2000,1000
+2017-02-24,Banana,19,Karnataka,29,Bagalkot,556,700,2000,1000
+2017-02-10,Banana,19,Karnataka,29,Bagalkot,556,700,1500,1000
+2017-02-03,Banana,19,Karnataka,29,Bagalkot,556,500,1500,1000
+2017-01-27,Banana,19,Karnataka,29,Bagalkot,556,700,2000,1200

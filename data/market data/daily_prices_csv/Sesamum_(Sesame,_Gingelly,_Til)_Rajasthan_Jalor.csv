@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-01-27,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,5000,5500,5100
+2016-11-29,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,5500,6000,5800
+2016-09-24,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,4800,5100,5000
+2016-09-23,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,4800,5100,5000
+2016-01-11,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,5000,5600,5200
+2016-01-07,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,5000,5600,5200
+2015-12-03,"Sesamum (Sesame, Gingelly, Til)",11,Rajasthan,8,Jalor,116,6000,6500,6200

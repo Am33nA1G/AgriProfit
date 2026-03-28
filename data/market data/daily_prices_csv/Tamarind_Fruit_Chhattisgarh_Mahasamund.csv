@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-05,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,1200,1200,1200
+2016-09-30,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,2000,2000,2000
+2016-08-31,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,2000,2000,2000
+2016-05-31,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,1800,1800,1800
+2016-04-30,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,1660,1800,1730
+2016-03-31,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,2000,2000,2000
+2015-04-30,Tamarind Fruit,261,Chhattisgarh,22,Mahasamund,411,1500,1500,1500

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-28,Mango,20,Maharashtra,27,Jalna,514,500,3000,1600
+2025-07-14,Mango,20,Maharashtra,27,Jalna,514,1000,7000,2500
+2025-07-07,Mango,20,Maharashtra,27,Jalna,514,1000,8000,3000
+2025-07-01,Mango,20,Maharashtra,27,Jalna,514,1100,9000,4000
+2025-06-12,Mango,20,Maharashtra,27,Jalna,514,1400,9000,5000
+2025-05-24,Mango,20,Maharashtra,27,Jalna,514,2000,10000,5000
+2025-05-13,Mango,20,Maharashtra,27,Jalna,514,1200,11000,4000
+2025-04-28,Mango,20,Maharashtra,27,Jalna,514,2500,11000,7000
+2025-04-23,Mango,20,Maharashtra,27,Jalna,514,4000,11000,8000
+2025-04-11,Mango,20,Maharashtra,27,Jalna,514,4000,11000,8000

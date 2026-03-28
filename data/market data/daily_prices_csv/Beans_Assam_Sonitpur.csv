@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-13,Beans,94,Assam,18,Sonitpur,306,2600,3000,3000
+2024-12-12,Beans,94,Assam,18,Sonitpur,306,2800,3000,3000
+2024-12-10,Beans,94,Assam,18,Sonitpur,306,3000,3200,3200
+2024-12-09,Beans,94,Assam,18,Sonitpur,306,3500,3600,3600
+2024-12-05,Beans,94,Assam,18,Sonitpur,306,2800,3000,3000
+2024-12-02,Beans,94,Assam,18,Sonitpur,306,3400,3800,3800
+2024-11-21,Beans,94,Assam,18,Sonitpur,306,4200,4500,4500
+2024-11-20,Beans,94,Assam,18,Sonitpur,306,4000,4400,4400
+2024-11-19,Beans,94,Assam,18,Sonitpur,306,4000,4200,4200

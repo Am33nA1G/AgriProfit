@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-23,Methi (Leaves),46,Odisha,21,Koraput,398,1800,1900,1850
+2015-05-02,Methi (Leaves),46,Odisha,21,Koraput,398,2000,3000,2500
+2015-03-22,Methi (Leaves),46,Odisha,21,Koraput,398,2100,2300,2200

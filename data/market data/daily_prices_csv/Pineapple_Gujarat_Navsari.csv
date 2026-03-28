@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-24,Pineapple,21,Gujarat,24,Navsari,490,3500,5500,4500
+2023-07-22,Pineapple,21,Gujarat,24,Navsari,490,700,1100,900
+2023-07-18,Pineapple,21,Gujarat,24,Navsari,490,700,1000,850
+2023-07-15,Pineapple,21,Gujarat,24,Navsari,490,700,1100,900
+2023-07-14,Pineapple,21,Gujarat,24,Navsari,490,800,1200,1000

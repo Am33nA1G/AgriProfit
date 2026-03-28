@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-27,Banana - Green,90,Madhya Pradesh,23,Hoshangabad,449,1490,1620,1530
+2021-04-19,Banana - Green,90,Madhya Pradesh,23,Hoshangabad,449,3040,3170,3100
+2020-11-21,Banana - Green,90,Madhya Pradesh,23,Hoshangabad,449,1680,3500,2457

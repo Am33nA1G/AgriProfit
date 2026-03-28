@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-05,Drumstick,168,Haryana,6,Karnal,74,1250,1500,1350
+2016-06-01,Drumstick,168,Haryana,6,Karnal,74,1500,1500,1500
+2016-03-31,Drumstick,168,Haryana,6,Karnal,74,1600,1600,1600
+2016-03-29,Drumstick,168,Haryana,6,Karnal,74,1400,1400,1400
+2016-02-27,Drumstick,168,Haryana,6,Karnal,74,2000,2000,2000
+2016-02-07,Drumstick,168,Haryana,6,Karnal,74,1000,1000,1000
+2016-02-05,Drumstick,168,Haryana,6,Karnal,74,1000,1000,1000

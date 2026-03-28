@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-12,Orange,18,Odisha,21,Kalahandi,395,2000,2000,2000
+2017-03-19,Orange,18,Odisha,21,Kalahandi,395,2000,2000,2000
+2015-12-27,Orange,18,Odisha,21,Kalahandi,395,3000,4000,3500

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-17,Papaya (Raw),313,Bihar,10,Madhubani,207,3600,5000,4200
+2022-04-29,Papaya (Raw),313,Bihar,10,Madhubani,207,3000,4000,3400
+2022-04-11,Papaya (Raw),313,Bihar,10,Madhubani,207,3000,4000,3400

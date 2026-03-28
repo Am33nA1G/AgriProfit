@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-10,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6620,6700,6665
+2023-03-03,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6800,7100,6900
+2023-01-27,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6680,6930,6850
+2023-01-20,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6700,6900,6800
+2023-01-06,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6715,6920,6810
+2021-04-02,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5400,5600,5500
+2021-03-26,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5400,5650,5500
+2021-03-19,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5400,5650,5500
+2021-03-12,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5400,5600,5500
+2021-03-05,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5400,5600,5500
+2020-02-28,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5200,5500,5300
+2020-02-21,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5200,5500,5350
+2020-02-14,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5500,5800,5600
+2020-02-07,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6100,6800,6500
+2020-01-31,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5600,6000,5700
+2020-01-24,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5600,6000,5750
+2020-01-17,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5700,6000,5800
+2020-01-10,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5700,6000,5850
+2020-01-03,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5700,6000,5850
+2019-12-27,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6000,6200,6100
+2019-12-20,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6300,6400,6350
+2019-12-13,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6350,6500,6400
+2019-12-06,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,6380,6500,6450
+2019-11-29,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5650,6000,5800
+2019-11-22,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5600,6000,5800
+2019-11-15,Groundnut,10,Uttar Pradesh,9,Sultanpur,179,5250,5500,5350

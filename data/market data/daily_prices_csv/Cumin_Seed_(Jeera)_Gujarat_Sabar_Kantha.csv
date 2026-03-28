@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-19,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,14000,20000,17000
+2023-04-20,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,30000,35000,33500
+2022-05-11,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,16000,18500,17250
+2019-11-27,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,12500,14250,13500
+2019-01-04,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,5200,5450,5300
+2018-04-18,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,10000,12550,11275
+2017-03-18,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,4000,14610,9305
+2016-05-12,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,10000,13410,11705
+2015-08-06,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,9800,11500,10250
+2015-04-25,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,11500,15605,13553
+2015-03-16,Cumin Seed (Jeera),42,Gujarat,24,Sabar Kantha,472,10000,12055,11028

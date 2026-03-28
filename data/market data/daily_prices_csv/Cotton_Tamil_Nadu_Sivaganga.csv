@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-12,Cotton,15,Tamil Nadu,33,Sivaganga,622,5150,5250,5200
+2018-11-27,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5275,5250
+2018-11-15,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5300,5250
+2018-11-14,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5300,5250
+2018-11-13,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5300,5250
+2018-11-12,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5300,5250
+2018-11-09,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5300,5250
+2018-10-23,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5400,5300
+2018-10-22,Cotton,15,Tamil Nadu,33,Sivaganga,622,5200,5400,5300
+2018-09-27,Cotton,15,Tamil Nadu,33,Sivaganga,622,5150,5300,5200

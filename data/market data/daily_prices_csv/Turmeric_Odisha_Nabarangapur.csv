@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-09,Turmeric,39,Odisha,21,Nabarangapur,397,6250,6250,6250
+2015-10-05,Turmeric,39,Odisha,21,Nabarangapur,397,6250,6250,6250
+2015-09-07,Turmeric,39,Odisha,21,Nabarangapur,397,6765,6765,6765
+2015-09-05,Turmeric,39,Odisha,21,Nabarangapur,397,6176,6176,6176
+2015-08-24,Turmeric,39,Odisha,21,Nabarangapur,397,5696,5696,5696
+2015-07-24,Turmeric,39,Odisha,21,Nabarangapur,397,5686,5686,5686
+2015-07-08,Turmeric,39,Odisha,21,Nabarangapur,397,5422,5422,5422
+2015-06-17,Turmeric,39,Odisha,21,Nabarangapur,397,5490,5490,5490

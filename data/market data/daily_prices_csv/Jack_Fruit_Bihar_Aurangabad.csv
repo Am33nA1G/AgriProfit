@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-21,Jack Fruit,182,Bihar,10,Aurangabad,235,4000,4100,4050
+2023-05-16,Jack Fruit,182,Bihar,10,Aurangabad,235,3000,3100,3050
+2023-05-11,Jack Fruit,182,Bihar,10,Aurangabad,235,3200,3280,3250
+2023-05-06,Jack Fruit,182,Bihar,10,Aurangabad,235,3850,3950,3900
+2023-05-03,Jack Fruit,182,Bihar,10,Aurangabad,235,3850,3950,3900
+2023-04-29,Jack Fruit,182,Bihar,10,Aurangabad,235,3500,3600,3550
+2023-04-24,Jack Fruit,182,Bihar,10,Aurangabad,235,5000,5500,5050
+2023-04-17,Jack Fruit,182,Bihar,10,Aurangabad,235,3050,3150,3100
+2023-04-13,Jack Fruit,182,Bihar,10,Aurangabad,235,3550,3650,3600
+2023-04-09,Jack Fruit,182,Bihar,10,Aurangabad,235,3500,3600,3550
+2023-04-05,Jack Fruit,182,Bihar,10,Aurangabad,235,5000,5100,5050
+2023-04-01,Jack Fruit,182,Bihar,10,Aurangabad,235,3250,3350,3300
+2023-03-29,Jack Fruit,182,Bihar,10,Aurangabad,235,5000,5200,5050
+2023-03-25,Jack Fruit,182,Bihar,10,Aurangabad,235,5650,5850,5700
+2023-03-24,Jack Fruit,182,Bihar,10,Aurangabad,235,5000,5100,5050
+2023-03-17,Jack Fruit,182,Bihar,10,Aurangabad,235,5000,5100,5050
+2023-03-09,Jack Fruit,182,Bihar,10,Aurangabad,235,6000,6100,6050

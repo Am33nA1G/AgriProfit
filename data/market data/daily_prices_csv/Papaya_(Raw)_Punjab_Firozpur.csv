@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-13,Papaya (Raw),313,Punjab,3,Firozpur,43,2900,3250,3000
+2019-07-21,Papaya (Raw),313,Punjab,3,Firozpur,43,3000,3154,3100
+2019-05-22,Papaya (Raw),313,Punjab,3,Firozpur,43,2800,3200,3000
+2019-05-16,Papaya (Raw),313,Punjab,3,Firozpur,43,200,2400,2200
+2018-08-07,Papaya (Raw),313,Punjab,3,Firozpur,43,3000,3100,3050
+2016-08-26,Papaya (Raw),313,Punjab,3,Firozpur,43,2200,2400,2300
+2015-04-08,Papaya (Raw),313,Punjab,3,Firozpur,43,1400,1600,1500
+2015-04-07,Papaya (Raw),313,Punjab,3,Firozpur,43,1300,1500,1400
+2015-04-06,Papaya (Raw),313,Punjab,3,Firozpur,43,1300,1500,1400
+2015-04-03,Papaya (Raw),313,Punjab,3,Firozpur,43,1000,1200,1100
+2015-03-31,Papaya (Raw),313,Punjab,3,Firozpur,43,1400,1600,1500

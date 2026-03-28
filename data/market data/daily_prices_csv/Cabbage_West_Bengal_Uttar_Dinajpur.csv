@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3500,3800,3600
+2025-10-29,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,5000,5500,5200
+2025-10-28,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3400,3600,3500
+2025-10-26,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3000,3500,3200
+2025-10-24,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,4000,4400,4200
+2025-10-22,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3800,4200,4000
+2025-10-20,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3500,3800,3600
+2025-10-15,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3000,3300,3200
+2025-08-11,Cabbage,154,West Bengal,19,Uttar Dinajpur,330,3800,4200,4000

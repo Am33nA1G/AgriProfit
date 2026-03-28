@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-24,Colacasia,318,Tamil Nadu,33,Namakkal,609,7000,8000,8000
+2024-10-22,Colacasia,318,Tamil Nadu,33,Namakkal,609,10000,12000,12000

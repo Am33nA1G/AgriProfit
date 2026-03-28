@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-28,Ber (Zizyphus/Borehannu),357,Punjab,3,Faridkot,45,1800,2200,2000
+2016-03-11,Ber (Zizyphus/Borehannu),357,Punjab,3,Faridkot,45,2000,2500,2200
+2016-03-10,Ber (Zizyphus/Borehannu),357,Punjab,3,Faridkot,45,1600,2200,1800
+2015-04-20,Ber (Zizyphus/Borehannu),357,Punjab,3,Faridkot,45,1000,1400,1200
+2015-04-17,Ber (Zizyphus/Borehannu),357,Punjab,3,Faridkot,45,1000,1200,1100

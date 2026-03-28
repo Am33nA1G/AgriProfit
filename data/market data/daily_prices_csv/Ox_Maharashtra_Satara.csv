@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-25,Ox,213,Maharashtra,27,Satara,527,15000,70000,45000
+2025-03-24,Ox,213,Maharashtra,27,Satara,527,25000,70000,45000
+2024-04-07,Ox,213,Maharashtra,27,Satara,527,12000,60000,30000
+2024-04-06,Ox,213,Maharashtra,27,Satara,527,12000,60000,30000
+2024-04-05,Ox,213,Maharashtra,27,Satara,527,15000,60000,40000
+2024-04-04,Ox,213,Maharashtra,27,Satara,527,15000,70000,40000
+2024-04-03,Ox,213,Maharashtra,27,Satara,527,18000,60000,40000
+2024-04-01,Ox,213,Maharashtra,27,Satara,527,15000,50000,35000
+2024-03-31,Ox,213,Maharashtra,27,Satara,527,25000,70000,45000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-23,Mango,20,NCT of Delhi,7,North East,92,1500,2500,2000
+2019-06-22,Mango,20,NCT of Delhi,7,North East,92,1500,2500,2000
+2019-06-09,Mango,20,NCT of Delhi,7,North East,92,4000,6000,5000

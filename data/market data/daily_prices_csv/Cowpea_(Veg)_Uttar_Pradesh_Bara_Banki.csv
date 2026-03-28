@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-24,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,3300,3400,3350
+2020-08-21,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,3350,3450,3400
+2020-08-20,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,3200,3300,3250
+2020-08-19,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,3150,3250,3200
+2019-09-17,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,3100,3300,3200
+2019-09-10,Cowpea (Veg),89,Uttar Pradesh,9,Bara Banki,176,2800,3000,2900

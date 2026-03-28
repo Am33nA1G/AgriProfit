@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-21,Green Peas,50,Punjab,3,Muktsar,44,5000,6000,5500
+2015-11-20,Green Peas,50,Punjab,3,Muktsar,44,6000,6500,6000
+2015-11-19,Green Peas,50,Punjab,3,Muktsar,44,7000,7000,7000
+2015-04-08,Green Peas,50,Punjab,3,Muktsar,44,2500,2500,2500
+2015-04-07,Green Peas,50,Punjab,3,Muktsar,44,2000,2000,2000
+2015-04-03,Green Peas,50,Punjab,3,Muktsar,44,2400,2500,2400
+2015-04-02,Green Peas,50,Punjab,3,Muktsar,44,2000,2000,2000
+2015-04-01,Green Peas,50,Punjab,3,Muktsar,44,1800,2800,2400
+2015-03-31,Green Peas,50,Punjab,3,Muktsar,44,2000,2400,2400
+2015-03-28,Green Peas,50,Punjab,3,Muktsar,44,2400,2400,2400
+2015-03-27,Green Peas,50,Punjab,3,Muktsar,44,2000,2400,2400
+2015-03-26,Green Peas,50,Punjab,3,Muktsar,44,2000,2400,2400
+2015-03-25,Green Peas,50,Punjab,3,Muktsar,44,2000,2500,2400
+2015-03-24,Green Peas,50,Punjab,3,Muktsar,44,1500,2500,2000

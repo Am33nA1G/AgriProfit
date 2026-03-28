@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-21,Mustard,12,Chhattisgarh,22,Narayanpur,415,5200,5500,5400
+2022-11-30,Mustard,12,Chhattisgarh,22,Narayanpur,415,5100,5300,5200
+2019-01-16,Mustard,12,Chhattisgarh,22,Narayanpur,415,3500,4000,3800
+2018-02-01,Mustard,12,Chhattisgarh,22,Narayanpur,415,3300,3500,3400
+2018-01-18,Mustard,12,Chhattisgarh,22,Narayanpur,415,3000,3200,3100
+2016-08-13,Mustard,12,Chhattisgarh,22,Narayanpur,415,2500,3000,2800

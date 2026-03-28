@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-27,Spinach,342,Bihar,10,Begusarai,222,1600,1800,1700
+2023-03-26,Spinach,342,Bihar,10,Begusarai,222,1600,1800,1700
+2023-03-24,Spinach,342,Bihar,10,Begusarai,222,600,650,625
+2023-03-21,Spinach,342,Bihar,10,Begusarai,222,1500,1700,1600

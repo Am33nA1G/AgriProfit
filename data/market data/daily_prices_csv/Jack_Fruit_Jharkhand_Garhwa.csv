@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-11,Jack Fruit,182,Jharkhand,20,Garhwa,346,1600,2000,1800
+2021-07-13,Jack Fruit,182,Jharkhand,20,Garhwa,346,680,750,700
+2021-07-06,Jack Fruit,182,Jharkhand,20,Garhwa,346,550,625,600
+2021-06-10,Jack Fruit,182,Jharkhand,20,Garhwa,346,550,625,600
+2021-06-09,Jack Fruit,182,Jharkhand,20,Garhwa,346,700,800,750
+2021-06-03,Jack Fruit,182,Jharkhand,20,Garhwa,346,350,500,400
+2021-05-26,Jack Fruit,182,Jharkhand,20,Garhwa,346,450,525,500
+2021-05-09,Jack Fruit,182,Jharkhand,20,Garhwa,346,650,750,700
+2021-04-24,Jack Fruit,182,Jharkhand,20,Garhwa,346,650,775,700
+2021-04-14,Jack Fruit,182,Jharkhand,20,Garhwa,346,800,900,850
+2021-03-26,Jack Fruit,182,Jharkhand,20,Garhwa,346,2700,2850,2800
+2021-02-15,Jack Fruit,182,Jharkhand,20,Garhwa,346,3500,3650,3600

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-31,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,3000,3000,3000
+2017-06-30,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2500,4000,3000
+2016-07-30,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,3000,3000,3000
+2016-07-15,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,3000,3000,3000
+2016-06-21,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2800,2800,2800
+2016-05-23,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2600,2600,2600
+2015-07-27,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2500,2500,2500
+2015-07-13,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2500,2500,2500
+2015-06-29,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2800,2800,2800
+2015-06-19,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2500,3000,3000
+2015-05-25,Jowar (Sorghum),5,Haryana,6,Yamunanagar,71,2500,2500,2500

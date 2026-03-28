@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-28,Garlic,25,Bihar,10,Pashchim Champaran,203,1200,1400,1300
+2023-02-25,Garlic,25,Bihar,10,Pashchim Champaran,203,1200,1500,1300
+2023-02-22,Garlic,25,Bihar,10,Pashchim Champaran,203,1200,1600,1300
+2023-02-11,Garlic,25,Bihar,10,Pashchim Champaran,203,1300,1600,1400
+2022-05-18,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2800,2500
+2022-05-09,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2700,2500
+2022-05-06,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2800,2500
+2022-05-05,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2700,2400
+2022-04-21,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2700,2400
+2022-04-15,Garlic,25,Bihar,10,Pashchim Champaran,203,2200,2700,2500
+2022-04-14,Garlic,25,Bihar,10,Pashchim Champaran,203,2000,2700,2400
+2022-04-08,Garlic,25,Bihar,10,Pashchim Champaran,203,2400,3000,2800
+2022-04-04,Garlic,25,Bihar,10,Pashchim Champaran,203,2500,3200,3000
+2022-04-03,Garlic,25,Bihar,10,Pashchim Champaran,203,2500,3000,2700
+2022-04-01,Garlic,25,Bihar,10,Pashchim Champaran,203,3000,3400,3200
+2022-03-31,Garlic,25,Bihar,10,Pashchim Champaran,203,2500,3200,3000

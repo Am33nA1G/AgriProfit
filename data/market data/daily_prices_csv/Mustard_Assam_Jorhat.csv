@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-21,Mustard,12,Assam,18,Jorhat,312,3000,3500,3200
+2016-06-15,Mustard,12,Assam,18,Jorhat,312,3000,3200,3100
+2015-03-19,Mustard,12,Assam,18,Jorhat,312,2500,2700,2600
+2015-03-13,Mustard,12,Assam,18,Jorhat,312,2500,3200,2600
+2015-02-05,Mustard,12,Assam,18,Jorhat,312,2600,3200,3000

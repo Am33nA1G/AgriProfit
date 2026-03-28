@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-10,Litchi,351,Meghalaya,17,West Khasi Hills,296,6000,6500,6250
+2025-07-02,Litchi,351,Meghalaya,17,West Khasi Hills,296,6000,6500,6250
+2025-06-24,Litchi,351,Meghalaya,17,West Khasi Hills,296,5000,5500,5250
+2016-06-15,Litchi,351,Meghalaya,17,West Khasi Hills,296,4000,6000,5000
+2016-05-31,Litchi,351,Meghalaya,17,West Khasi Hills,296,4000,6000,5000
+2016-05-24,Litchi,351,Meghalaya,17,West Khasi Hills,296,4000,6000,5000
+2015-06-23,Litchi,351,Meghalaya,17,West Khasi Hills,296,3000,4000,3500
+2015-06-15,Litchi,351,Meghalaya,17,West Khasi Hills,296,4000,5000,4500
+2015-05-28,Litchi,351,Meghalaya,17,West Khasi Hills,296,4000,6000,5000

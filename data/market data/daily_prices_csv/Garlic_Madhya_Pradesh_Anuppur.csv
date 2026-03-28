@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-20,Garlic,25,Madhya Pradesh,23,Anuppur,461,3000,3000,3000
+2021-03-18,Garlic,25,Madhya Pradesh,23,Anuppur,461,6500,6500,6500
+2021-02-10,Garlic,25,Madhya Pradesh,23,Anuppur,461,6100,6100,6100
+2021-01-26,Garlic,25,Madhya Pradesh,23,Anuppur,461,5700,5700,5700
+2021-01-12,Garlic,25,Madhya Pradesh,23,Anuppur,461,6000,6000,6000
+2021-01-10,Garlic,25,Madhya Pradesh,23,Anuppur,461,6600,6600,6600
+2021-01-07,Garlic,25,Madhya Pradesh,23,Anuppur,461,6700,6700,6700
+2020-12-15,Garlic,25,Madhya Pradesh,23,Anuppur,461,6500,6500,6500
+2020-12-09,Garlic,25,Madhya Pradesh,23,Anuppur,461,7000,7000,7000
+2020-03-06,Garlic,25,Madhya Pradesh,23,Anuppur,461,4000,4000,4000
+2020-02-18,Garlic,25,Madhya Pradesh,23,Anuppur,461,10000,10000,10000
+2019-08-10,Garlic,25,Madhya Pradesh,23,Anuppur,461,3000,3000,3000

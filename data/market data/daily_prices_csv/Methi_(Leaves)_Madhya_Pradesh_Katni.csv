@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-19,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,1000
+2023-12-15,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1200,1200,1200
+2023-12-14,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1500,1000
+2023-12-13,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-11-12,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1500,1500
+2023-11-11,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-11-10,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1000,1000
+2023-11-09,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1500,1000
+2023-11-08,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,1000
+2023-11-07,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,1000
+2023-11-06,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,1200
+2023-11-05,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,1500,1500
+2023-11-04,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,1500
+2023-11-03,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1500,1500,1500
+2023-11-02,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,700,1500,1000
+2023-10-20,Methi (Leaves),46,Madhya Pradesh,23,Katni,450,1000,2000,2000

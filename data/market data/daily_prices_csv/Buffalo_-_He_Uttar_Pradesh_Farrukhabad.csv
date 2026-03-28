@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-05,Buffalo - He,216,Uttar Pradesh,9,Farrukhabad,159,2200,2300,2250
+2023-12-04,Buffalo - He,216,Uttar Pradesh,9,Farrukhabad,159,2200,2300,2250
+2023-12-02,Buffalo - He,216,Uttar Pradesh,9,Farrukhabad,159,2100,2350,2250
+2023-12-01,Buffalo - He,216,Uttar Pradesh,9,Farrukhabad,159,2100,2300,2225

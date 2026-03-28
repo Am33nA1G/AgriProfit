@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-11,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Bharatpur,105,3361,3390,3361
+2015-04-10,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Bharatpur,105,2800,3550,3425
+2015-04-09,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Bharatpur,105,3565,3565,3565
+2015-04-08,Black Gram (Urad Beans)(Whole),8,Rajasthan,8,Bharatpur,105,3501,3501,3501

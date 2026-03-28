@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-22,Rajgir,248,Madhya Pradesh,23,Mandla,454,5500,5500,5500
+2024-11-21,Rajgir,248,Madhya Pradesh,23,Mandla,454,5000,5000,5000
+2024-09-15,Rajgir,248,Madhya Pradesh,23,Mandla,454,4500,4500,4500
+2023-10-17,Rajgir,248,Madhya Pradesh,23,Mandla,454,4500,4500,4500
+2023-05-31,Rajgir,248,Madhya Pradesh,23,Mandla,454,3200,3200,3200
+2023-01-01,Rajgir,248,Madhya Pradesh,23,Mandla,454,7000,7000,7000
+2022-10-29,Rajgir,248,Madhya Pradesh,23,Mandla,454,6000,6000,6000
+2022-10-15,Rajgir,248,Madhya Pradesh,23,Mandla,454,5000,5000,5000
+2022-10-11,Rajgir,248,Madhya Pradesh,23,Mandla,454,5000,5000,5000
+2022-03-23,Rajgir,248,Madhya Pradesh,23,Mandla,454,4500,4500,4500
+2022-03-15,Rajgir,248,Madhya Pradesh,23,Mandla,454,4500,4500,4500
+2022-02-16,Rajgir,248,Madhya Pradesh,23,Mandla,454,4000,4000,4000

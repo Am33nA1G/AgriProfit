@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-22,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,1300,1500,1400
+2021-10-25,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,1200,1300,1250
+2021-08-18,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,1100,1200,1150
+2019-04-11,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,3000,3200,3100
+2019-01-10,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,900,1000,950
+2018-05-19,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,2200,2500,2400
+2017-04-30,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,2800,3000,2900
+2016-08-16,Amla (Nelli Kai),355,Chhattisgarh,22,Narayanpur,415,2800,3000,2900

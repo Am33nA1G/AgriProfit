@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-26,Little gourd (Kundru),302,Punjab,3,Muktsar,44,1500,1800,1600
+2016-09-22,Little gourd (Kundru),302,Punjab,3,Muktsar,44,1000,1200,1000
+2016-09-12,Little gourd (Kundru),302,Punjab,3,Muktsar,44,1000,1200,1000

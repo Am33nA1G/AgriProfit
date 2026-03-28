@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-15,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-14,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-13,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-12,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-11,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-10,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-09,Mushrooms,340,Haryana,6,Gurgaon,86,13000,15000,14000
+2020-04-08,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-07,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-06,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-05,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-04,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-03,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500
+2020-04-02,Mushrooms,340,Haryana,6,Gurgaon,86,8000,9000,8500

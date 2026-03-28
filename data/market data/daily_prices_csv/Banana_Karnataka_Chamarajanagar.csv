@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-22,Banana,19,Karnataka,29,Chamarajanagar,578,1000,1000,1000
+2019-10-21,Banana,19,Karnataka,29,Chamarajanagar,578,1000,1000,1000
+2018-06-07,Banana,19,Karnataka,29,Chamarajanagar,578,1200,1500,1300
+2017-12-01,Banana,19,Karnataka,29,Chamarajanagar,578,2000,2500,2200

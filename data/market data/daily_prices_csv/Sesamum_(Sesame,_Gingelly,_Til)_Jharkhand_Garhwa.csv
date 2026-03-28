@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-22,"Sesamum (Sesame, Gingelly, Til)",11,Jharkhand,20,Garhwa,346,6800,6815,6810
+2019-07-07,"Sesamum (Sesame, Gingelly, Til)",11,Jharkhand,20,Garhwa,346,7000,7500,7200
+2019-01-16,"Sesamum (Sesame, Gingelly, Til)",11,Jharkhand,20,Garhwa,346,9880,9985,9940
+2019-01-09,"Sesamum (Sesame, Gingelly, Til)",11,Jharkhand,20,Garhwa,346,9775,9850,9830

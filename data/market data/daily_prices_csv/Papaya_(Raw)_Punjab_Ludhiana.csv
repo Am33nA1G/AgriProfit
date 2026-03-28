@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-03,Papaya (Raw),313,Punjab,3,Ludhiana,41,1000,2000,1500
+2022-04-28,Papaya (Raw),313,Punjab,3,Ludhiana,41,1500,2500,2000
+2017-05-23,Papaya (Raw),313,Punjab,3,Ludhiana,41,800,1200,900
+2017-05-22,Papaya (Raw),313,Punjab,3,Ludhiana,41,800,1200,1000
+2017-05-20,Papaya (Raw),313,Punjab,3,Ludhiana,41,800,1400,1100
+2017-01-13,Papaya (Raw),313,Punjab,3,Ludhiana,41,950,1350,1100

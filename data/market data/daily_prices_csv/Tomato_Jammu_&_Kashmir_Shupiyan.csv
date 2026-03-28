@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-01-28,Tomato,78,Jammu & Kashmir,1,Shupiyan,13,2400,2600,2500
+2015-01-15,Tomato,78,Jammu & Kashmir,1,Shupiyan,13,2300,2600,2450
+2015-01-08,Tomato,78,Jammu & Kashmir,1,Shupiyan,13,2800,3200,3000

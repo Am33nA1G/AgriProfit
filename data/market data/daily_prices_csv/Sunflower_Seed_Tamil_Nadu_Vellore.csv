@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-29,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,4500,4500,4500
+2016-02-22,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,4400,4400,4400
+2015-06-10,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3800,3800,3800
+2015-06-05,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3800,3800,3800
+2015-05-11,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3800,3800,3800
+2015-05-07,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3775,3812,3800
+2015-04-27,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3875,4437,4437
+2015-04-26,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,3875,4437,4000
+2015-02-16,Sunflower Seed,285,Tamil Nadu,33,Vellore,605,4000,4000,4000

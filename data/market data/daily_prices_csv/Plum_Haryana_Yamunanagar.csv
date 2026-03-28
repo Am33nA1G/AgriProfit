@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-04,Plum,329,Haryana,6,Yamunanagar,71,1100,1100,1100
+2018-03-03,Plum,329,Haryana,6,Yamunanagar,71,1200,1200,1200
+2018-03-01,Plum,329,Haryana,6,Yamunanagar,71,1450,1800,1450
+2018-02-28,Plum,329,Haryana,6,Yamunanagar,71,1400,1500,1400
+2018-02-27,Plum,329,Haryana,6,Yamunanagar,71,1500,1500,1500

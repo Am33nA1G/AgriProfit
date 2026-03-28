@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-21,Coconut,138,Andhra Pradesh,28,Vizianagaram,543,480,510,500
+2017-06-02,Coconut,138,Andhra Pradesh,28,Vizianagaram,543,900,1100,1000

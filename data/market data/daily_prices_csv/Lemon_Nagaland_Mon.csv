@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-23,Lemon,310,Nagaland,13,Mon,261,2800,3200,3000
+2025-10-15,Lemon,310,Nagaland,13,Mon,261,2400,2800,2600
+2025-10-07,Lemon,310,Nagaland,13,Mon,261,1800,2300,2000

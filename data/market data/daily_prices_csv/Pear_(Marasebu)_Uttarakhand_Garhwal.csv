@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-28,Pear (Marasebu),330,Uttarakhand,5,Garhwal,61,1800,2200,2000
+2025-08-25,Pear (Marasebu),330,Uttarakhand,5,Garhwal,61,1800,2500,2200
+2025-08-23,Pear (Marasebu),330,Uttarakhand,5,Garhwal,61,1700,2500,2200
+2025-08-21,Pear (Marasebu),330,Uttarakhand,5,Garhwal,61,1800,2500,2000
+2025-07-26,Pear (Marasebu),330,Uttarakhand,5,Garhwal,61,1600,1900,1800

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-17,Cow,212,Karnataka,29,Mysore,577,20000,40000,30000
+2025-10-03,Cow,212,Karnataka,29,Mysore,577,25000,35000,30000
+2025-09-26,Cow,212,Karnataka,29,Mysore,577,30000,50000,40000
+2025-01-17,Cow,212,Karnataka,29,Mysore,577,20000,40000,30000
+2024-03-30,Cow,212,Karnataka,29,Mysore,577,25000,60000,50000
+2023-10-13,Cow,212,Karnataka,29,Mysore,577,16000,25000,18000
+2023-09-22,Cow,212,Karnataka,29,Mysore,577,25000,40000,35000
+2023-09-15,Cow,212,Karnataka,29,Mysore,577,15000,20000,15000
+2015-08-14,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-08-07,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-07-31,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-07-24,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-07-17,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-07-10,Cow,212,Karnataka,29,Mysore,577,5,5,5
+2015-07-03,Cow,212,Karnataka,29,Mysore,577,5,5,5

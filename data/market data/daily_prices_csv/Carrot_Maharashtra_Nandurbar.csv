@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-17,Carrot,153,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2024-03-04,Carrot,153,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2023-01-21,Carrot,153,Maharashtra,27,Nandurbar,497,2000,2000,2000
+2021-01-30,Carrot,153,Maharashtra,27,Nandurbar,497,1000,1000,1000
+2021-01-29,Carrot,153,Maharashtra,27,Nandurbar,497,1500,1500,1500

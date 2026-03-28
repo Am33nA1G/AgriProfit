@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-14,Kabuli Chana (Chickpeas-White),362,Madhya Pradesh,23,Betul,447,3000,3555,3500
+2019-09-17,Kabuli Chana (Chickpeas-White),362,Madhya Pradesh,23,Betul,447,3780,3820,3800
+2019-09-16,Kabuli Chana (Chickpeas-White),362,Madhya Pradesh,23,Betul,447,3800,3975,3850
+2019-09-14,Kabuli Chana (Chickpeas-White),362,Madhya Pradesh,23,Betul,447,3800,3990,3900
+2019-09-13,Kabuli Chana (Chickpeas-White),362,Madhya Pradesh,23,Betul,447,3800,3975,3850

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-10,Green Peas,50,Gujarat,24,Gandhinagar,473,4000,4000,4000
+2016-10-24,Green Peas,50,Gujarat,24,Gandhinagar,473,4625,4625,4625

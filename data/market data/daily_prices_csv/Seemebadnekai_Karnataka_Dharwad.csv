@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-14,Seemebadnekai,176,Karnataka,29,Dharwad,562,600,1500,1100
+2020-05-13,Seemebadnekai,176,Karnataka,29,Dharwad,562,600,1500,1100
+2020-05-12,Seemebadnekai,176,Karnataka,29,Dharwad,562,600,1400,900
+2020-05-09,Seemebadnekai,176,Karnataka,29,Dharwad,562,600,1400,900
+2020-05-07,Seemebadnekai,176,Karnataka,29,Dharwad,562,600,1400,1000
+2020-05-01,Seemebadnekai,176,Karnataka,29,Dharwad,562,800,1600,1100
+2020-04-30,Seemebadnekai,176,Karnataka,29,Dharwad,562,800,1500,1100
+2020-04-28,Seemebadnekai,176,Karnataka,29,Dharwad,562,800,1600,1100
+2020-04-25,Seemebadnekai,176,Karnataka,29,Dharwad,562,800,1400,1000
+2020-04-23,Seemebadnekai,176,Karnataka,29,Dharwad,562,900,1500,1100
+2020-04-22,Seemebadnekai,176,Karnataka,29,Dharwad,562,1000,1400,1200
+2020-04-04,Seemebadnekai,176,Karnataka,29,Dharwad,562,1000,1600,1400

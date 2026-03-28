@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-15,Potato,24,Telangana,36,Karimnagar,534,2300,2500,2500
+2022-02-15,Potato,24,Telangana,36,Karimnagar,534,2000,2500,2000
+2022-02-05,Potato,24,Telangana,36,Karimnagar,534,2500,2500,2500
+2021-12-29,Potato,24,Telangana,36,Karimnagar,534,2000,2500,2400
+2021-11-28,Potato,24,Telangana,36,Karimnagar,534,2500,2500,2500
+2021-11-26,Potato,24,Telangana,36,Karimnagar,534,3000,3500,3000
+2021-10-21,Potato,24,Telangana,36,Karimnagar,534,1800,2500,2000
+2021-09-29,Potato,24,Telangana,36,Karimnagar,534,1800,2200,2000
+2021-09-27,Potato,24,Telangana,36,Karimnagar,534,1800,2200,2000
+2021-09-22,Potato,24,Telangana,36,Karimnagar,534,1900,2100,2000
+2021-09-21,Potato,24,Telangana,36,Karimnagar,534,1800,2000,1900

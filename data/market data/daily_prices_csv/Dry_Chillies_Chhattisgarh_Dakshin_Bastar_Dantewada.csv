@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-04-30,Dry Chillies,132,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2500,2500,2500
+2017-04-21,Dry Chillies,132,Chhattisgarh,22,Dakshin Bastar Dantewada,416,3000,3000,3000
+2016-02-28,Dry Chillies,132,Chhattisgarh,22,Dakshin Bastar Dantewada,416,7500,8000,7800

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-24,Mustard,12,Chhattisgarh,22,Kabeerdham,407,5450,5450,5450
+2021-02-26,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3500,3500,3500
+2021-01-15,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3500,3500,3500
+2020-06-22,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3000,3000,3000
+2020-06-13,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3000,3000,3000
+2020-03-07,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3200,3200,3200
+2020-02-13,Mustard,12,Chhattisgarh,22,Kabeerdham,407,3600,3650,3625

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-13,Pineapple,21,Maharashtra,27,Satara,527,2300,2500,2500
+2019-01-12,Pineapple,21,Maharashtra,27,Satara,527,2300,2500,2500

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-01,Banana - Green,90,Meghalaya,17,West Khasi Hills,296,5000,5500,5250
+2015-09-04,Banana - Green,90,Meghalaya,17,West Khasi Hills,296,4000,6000,5000

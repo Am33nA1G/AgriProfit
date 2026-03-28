@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-07,Tender Coconut,200,Maharashtra,27,Thane,517,500,5500,5250
+2017-05-02,Tender Coconut,200,Maharashtra,27,Thane,517,4000,4500,4250

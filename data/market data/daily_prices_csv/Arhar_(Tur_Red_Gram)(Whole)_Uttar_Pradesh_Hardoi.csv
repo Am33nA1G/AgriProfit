@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-15,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1500,1600,1550
+2021-09-07,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1550,1600,1580
+2019-11-11,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1700,1750,1730
+2019-09-14,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1700,1750,1730
+2019-05-11,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1300,1450,1400
+2019-01-24,Arhar (Tur/Red Gram)(Whole),49,Uttar Pradesh,9,Hardoi,155,1750,1820,1785

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-23,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,8000,9000,8500
+2019-11-13,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,10900,10900,10900
+2019-06-14,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,4000,4500,4200
+2019-05-30,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,4000,5000,4500
+2019-05-29,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,4500,5000,4800
+2019-05-26,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,6500,7500,7000
+2019-05-22,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,6500,7500,7000
+2019-05-20,Dry Grapes,278,Chhattisgarh,22,Narayanpur,415,7000,8000,7500

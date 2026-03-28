@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-30,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2020-04-03,Ginger (Green),103,Karnataka,29,Chitradurga,566,3500,4500,4000
+2018-11-15,Ginger (Green),103,Karnataka,29,Chitradurga,566,2100,2100,2100
+2018-06-06,Ginger (Green),103,Karnataka,29,Chitradurga,566,1200,1200,1200
+2017-12-28,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2017-12-26,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2017-12-22,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2017-11-27,Ginger (Green),103,Karnataka,29,Chitradurga,566,1200,1200,1200
+2015-12-16,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2015-12-14,Ginger (Green),103,Karnataka,29,Chitradurga,566,2000,2000,2000
+2015-12-03,Ginger (Green),103,Karnataka,29,Chitradurga,566,1200,1200,1200
+2015-12-02,Ginger (Green),103,Karnataka,29,Chitradurga,566,1300,1300,1300
+2015-11-02,Ginger (Green),103,Karnataka,29,Chitradurga,566,1100,1100,1100
+2015-06-11,Ginger (Green),103,Karnataka,29,Chitradurga,566,1200,1200,1200
+2015-05-19,Ginger (Green),103,Karnataka,29,Chitradurga,566,1300,1300,1300
+2015-05-07,Ginger (Green),103,Karnataka,29,Chitradurga,566,1400,1400,1400
+2015-05-06,Ginger (Green),103,Karnataka,29,Chitradurga,566,1000,1000,1000
+2015-03-05,Ginger (Green),103,Karnataka,29,Chitradurga,566,1500,1500,1500
+2015-02-18,Ginger (Green),103,Karnataka,29,Chitradurga,566,1500,1500,1500
+2015-01-27,Ginger (Green),103,Karnataka,29,Chitradurga,566,1200,1200,1200

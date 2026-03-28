@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-24,Cotton Seed,99,Karnataka,29,Gadag,561,5439,5439,5439
+2022-03-15,Cotton Seed,99,Karnataka,29,Gadag,561,7769,8112,7838
+2021-09-01,Cotton Seed,99,Karnataka,29,Gadag,561,3612,3612,3612
+2020-05-23,Cotton Seed,99,Karnataka,29,Gadag,561,2350,2400,2375
+2020-02-29,Cotton Seed,99,Karnataka,29,Gadag,561,3339,3339,3339
+2018-03-07,Cotton Seed,99,Karnataka,29,Gadag,561,3329,3329,3329
+2017-12-30,Cotton Seed,99,Karnataka,29,Gadag,561,3078,3078,3078
+2017-12-04,Cotton Seed,99,Karnataka,29,Gadag,561,4722,4722,4722
+2017-04-22,Cotton Seed,99,Karnataka,29,Gadag,561,3468,3468,3468
+2017-03-21,Cotton Seed,99,Karnataka,29,Gadag,561,2808,2808,2808
+2016-01-05,Cotton Seed,99,Karnataka,29,Gadag,561,1500,1500,1500
+2015-10-15,Cotton Seed,99,Karnataka,29,Gadag,561,1050,1050,1050
+2015-06-25,Cotton Seed,99,Karnataka,29,Gadag,561,2600,2600,2600

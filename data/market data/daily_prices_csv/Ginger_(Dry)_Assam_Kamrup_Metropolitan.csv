@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-30,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,3000,4200,4000
+2018-08-29,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,6000,7000,6500
+2018-08-26,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,6000,7000,6500
+2018-08-21,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,5000,6000,5500
+2018-08-20,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,5000,6000,5500
+2018-08-19,Ginger (Dry),27,Assam,18,Kamrup Metropolitan,322,3500,6000,5600

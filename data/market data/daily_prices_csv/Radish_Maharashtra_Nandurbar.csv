@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-12,Radish,161,Maharashtra,27,Nandurbar,497,700,800,750
+2023-08-11,Radish,161,Maharashtra,27,Nandurbar,497,700,1000,850
+2020-12-04,Radish,161,Maharashtra,27,Nandurbar,497,500,500,500
+2020-12-02,Radish,161,Maharashtra,27,Nandurbar,497,500,500,500

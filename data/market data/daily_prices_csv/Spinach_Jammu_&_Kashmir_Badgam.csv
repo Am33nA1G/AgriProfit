@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-17,Spinach,342,Jammu & Kashmir,1,Badgam,2,1800,2000,1900
+2019-06-12,Spinach,342,Jammu & Kashmir,1,Badgam,2,2000,2400,2200
+2019-06-08,Spinach,342,Jammu & Kashmir,1,Badgam,2,1600,1800,1700
+2019-05-15,Spinach,342,Jammu & Kashmir,1,Badgam,2,1600,1800,1700
+2019-02-21,Spinach,342,Jammu & Kashmir,1,Badgam,2,1500,2500,2000

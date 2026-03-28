@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-30,Onion,23,Assam,18,Cachar,316,1600,1700,1650
+2022-04-08,Onion,23,Assam,18,Cachar,316,1500,1600,1550

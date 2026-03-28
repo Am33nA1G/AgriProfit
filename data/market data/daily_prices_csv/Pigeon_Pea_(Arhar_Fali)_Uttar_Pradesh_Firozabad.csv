@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-16,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Firozabad,147,1400,1440,1420
+2019-03-15,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Firozabad,147,1380,1420,1400
+2019-03-14,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Firozabad,147,1300,1340,1320
+2017-12-24,Pigeon Pea (Arhar Fali),301,Uttar Pradesh,9,Firozabad,147,1700,1740,1720

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-21,Green Peas,50,Maharashtra,27,Osmanabad,525,1700,1700,1700
+2015-12-28,Green Peas,50,Maharashtra,27,Osmanabad,525,2000,2000,2000
+2015-12-14,Green Peas,50,Maharashtra,27,Osmanabad,525,2600,2600,2600

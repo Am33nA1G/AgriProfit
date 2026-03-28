@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-13,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2500,3000,2800
+2025-09-27,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,3000,3500,3200
+2025-09-26,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2800,3500,3000
+2025-08-05,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2800,3000,2900
+2025-04-04,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2800,3000,2900
+2024-12-03,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2700,3000,2890
+2024-09-20,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,3000,3000,3000
+2024-04-20,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2360,2150
+2024-01-04,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2200,2500,2350
+2023-06-22,Pineapple,21,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2200,2100

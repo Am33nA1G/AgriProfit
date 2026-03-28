@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-18,Cotton Seed,99,Karnataka,29,Raichur,559,2700,2700,2700
+2017-09-06,Cotton Seed,99,Karnataka,29,Raichur,559,1700,1700,1700
+2016-01-01,Cotton Seed,99,Karnataka,29,Raichur,559,2000,2000,2000
+2015-04-09,Cotton Seed,99,Karnataka,29,Raichur,559,1500,1525,1500

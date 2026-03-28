@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-09,Radish,161,Madhya Pradesh,23,Ratlam,434,700,1000,800
+2020-01-27,Radish,161,Madhya Pradesh,23,Ratlam,434,400,900,600
+2020-01-23,Radish,161,Madhya Pradesh,23,Ratlam,434,500,1000,800
+2020-01-22,Radish,161,Madhya Pradesh,23,Ratlam,434,400,700,600
+2020-01-21,Radish,161,Madhya Pradesh,23,Ratlam,434,500,900,700
+2020-01-20,Radish,161,Madhya Pradesh,23,Ratlam,434,500,800,600
+2020-01-19,Radish,161,Madhya Pradesh,23,Ratlam,434,400,1000,700
+2020-01-18,Radish,161,Madhya Pradesh,23,Ratlam,434,500,1000,800
+2020-01-13,Radish,161,Madhya Pradesh,23,Ratlam,434,600,1000,800
+2020-01-08,Radish,161,Madhya Pradesh,23,Ratlam,434,500,900,800
+2019-12-31,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,400
+2019-12-30,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,500
+2019-12-29,Radish,161,Madhya Pradesh,23,Ratlam,434,300,700,500
+2019-12-28,Radish,161,Madhya Pradesh,23,Ratlam,434,400,600,500
+2019-12-27,Radish,161,Madhya Pradesh,23,Ratlam,434,400,600,500
+2019-12-25,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,500
+2019-12-24,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,400
+2019-12-22,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,500
+2019-12-18,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,400
+2019-12-17,Radish,161,Madhya Pradesh,23,Ratlam,434,300,600,400

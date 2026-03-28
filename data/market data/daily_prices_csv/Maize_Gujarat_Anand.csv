@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-13,Maize,4,Gujarat,24,Anand,482,3100,3165,3120
+2022-06-14,Maize,4,Gujarat,24,Anand,482,1800,2000,1900
+2022-05-30,Maize,4,Gujarat,24,Anand,482,1800,2000,1900
+2020-06-15,Maize,4,Gujarat,24,Anand,482,1400,1475,1450
+2019-04-10,Maize,4,Gujarat,24,Anand,482,2210,2270,2240

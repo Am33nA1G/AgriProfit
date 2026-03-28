@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-29,Chili Red,26,Madhya Pradesh,23,Dindori,453,1300,1300,1300
+2019-05-22,Chili Red,26,Madhya Pradesh,23,Dindori,453,9000,9000,9000
+2019-05-17,Chili Red,26,Madhya Pradesh,23,Dindori,453,5500,5500,5500

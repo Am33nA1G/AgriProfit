@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-14,Cauliflower,34,Nagaland,13,Peren,271,2000,3000,2500
+2022-12-09,Cauliflower,34,Nagaland,13,Peren,271,6000,6300,6200
+2022-11-11,Cauliflower,34,Nagaland,13,Peren,271,4500,4700,4600

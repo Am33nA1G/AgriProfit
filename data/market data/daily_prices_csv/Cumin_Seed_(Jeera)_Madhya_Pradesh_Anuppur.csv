@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-19,Cumin Seed (Jeera),42,Madhya Pradesh,23,Anuppur,461,20000,20000,20000
+2017-07-17,Cumin Seed (Jeera),42,Madhya Pradesh,23,Anuppur,461,11000,11000,11000
+2016-07-19,Cumin Seed (Jeera),42,Madhya Pradesh,23,Anuppur,461,20000,20000,20000

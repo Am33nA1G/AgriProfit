@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-18,Thogrikai,170,Karnataka,29,Chikmagalur,570,2000,2500,2250
+2023-12-17,Thogrikai,170,Karnataka,29,Chikmagalur,570,2000,2500,2250
+2016-04-06,Thogrikai,170,Karnataka,29,Chikmagalur,570,800,1200,1000

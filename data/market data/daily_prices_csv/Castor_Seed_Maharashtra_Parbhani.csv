@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-30,Castor Seed,123,Maharashtra,27,Parbhani,513,2800,2800,2800
+2016-05-05,Castor Seed,123,Maharashtra,27,Parbhani,513,2825,2825,2825
+2015-07-20,Castor Seed,123,Maharashtra,27,Parbhani,513,3221,3221,3221
+2015-06-23,Castor Seed,123,Maharashtra,27,Parbhani,513,3090,3090,3090

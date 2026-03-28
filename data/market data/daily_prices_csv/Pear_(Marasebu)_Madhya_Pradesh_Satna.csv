@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-13,Pear (Marasebu),330,Madhya Pradesh,23,Satna,429,1341,1341,1341
+2020-07-20,Pear (Marasebu),330,Madhya Pradesh,23,Satna,429,1480,1480,1480
+2020-07-13,Pear (Marasebu),330,Madhya Pradesh,23,Satna,429,1341,1341,1341

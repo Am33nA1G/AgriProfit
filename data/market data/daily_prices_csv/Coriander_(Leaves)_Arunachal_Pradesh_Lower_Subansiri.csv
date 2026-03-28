@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Coriander (Leaves),43,Arunachal Pradesh,12,Lower Subansiri,255,10000,10000,10000
+2025-10-29,Coriander (Leaves),43,Arunachal Pradesh,12,Lower Subansiri,255,5000,5000,5000
+2025-10-27,Coriander (Leaves),43,Arunachal Pradesh,12,Lower Subansiri,255,2000,2000,2000

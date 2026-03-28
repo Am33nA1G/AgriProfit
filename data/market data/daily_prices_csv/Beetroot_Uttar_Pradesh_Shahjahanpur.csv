@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-08,Beetroot,157,Uttar Pradesh,9,Shahjahanpur,152,1000,1200,1120
+2024-04-07,Beetroot,157,Uttar Pradesh,9,Shahjahanpur,152,1000,1200,1050
+2024-04-03,Beetroot,157,Uttar Pradesh,9,Shahjahanpur,152,1000,1200,1050
+2024-03-31,Beetroot,157,Uttar Pradesh,9,Shahjahanpur,152,900,1000,930

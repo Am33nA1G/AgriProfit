@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-11,French Beans (Frasbean),298,Uttar Pradesh,9,Faizabad,177,2250,2500,2300
+2020-04-10,French Beans (Frasbean),298,Uttar Pradesh,9,Faizabad,177,2125,2300,2200

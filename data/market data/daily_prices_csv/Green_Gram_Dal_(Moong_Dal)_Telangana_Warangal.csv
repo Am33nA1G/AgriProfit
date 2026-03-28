@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-10,Green Gram Dal (Moong Dal),265,Telangana,36,Warangal,540,3110,3167,3167
+2017-09-07,Green Gram Dal (Moong Dal),265,Telangana,36,Warangal,540,3000,4436,3951
+2017-09-06,Green Gram Dal (Moong Dal),265,Telangana,36,Warangal,540,3690,4486,3841

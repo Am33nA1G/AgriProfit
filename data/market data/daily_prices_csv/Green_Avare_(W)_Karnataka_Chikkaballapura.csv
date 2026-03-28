@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-02-09,Green Avare (W),165,Karnataka,29,Chikkaballapura,582,2000,3500,3400
+2021-06-26,Green Avare (W),165,Karnataka,29,Chikkaballapura,582,2500,3000,2750
+2016-01-02,Green Avare (W),165,Karnataka,29,Chikkaballapura,582,1800,2000,1900

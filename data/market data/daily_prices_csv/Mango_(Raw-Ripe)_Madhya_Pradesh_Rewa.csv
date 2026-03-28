@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-01,Mango (Raw-Ripe),172,Madhya Pradesh,23,Rewa,430,4055,4310,4200
+2023-06-28,Mango (Raw-Ripe),172,Madhya Pradesh,23,Rewa,430,4110,4230,4200
+2023-06-27,Mango (Raw-Ripe),172,Madhya Pradesh,23,Rewa,430,3990,4220,4050
+2020-06-20,Mango (Raw-Ripe),172,Madhya Pradesh,23,Rewa,430,3450,3550,3505

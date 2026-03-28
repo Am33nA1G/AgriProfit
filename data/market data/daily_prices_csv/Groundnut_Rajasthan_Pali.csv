@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-22,Groundnut,10,Rajasthan,8,Pali,118,5350,5350,5350
+2021-11-16,Groundnut,10,Rajasthan,8,Pali,118,5100,5475,5250
+2021-10-21,Groundnut,10,Rajasthan,8,Pali,118,5112,5301,5250

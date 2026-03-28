@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-18,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,1500,2000,1750
+2023-05-19,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,1100,3500,2300
+2023-04-28,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,1100,2100,1600
+2023-04-13,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,1500,2200,1850
+2022-04-17,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,1500,1500,1500
+2018-04-19,Mango (Raw-Ripe),172,Maharashtra,27,Osmanabad,525,800,1500,1150

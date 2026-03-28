@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-18,Bunch Beans,224,Kerala,32,Idukki,596,6000,7500,7000
+2023-06-18,Bunch Beans,224,Kerala,32,Idukki,596,4000,6000,5000
+2023-06-15,Bunch Beans,224,Kerala,32,Idukki,596,4000,5000,4600
+2023-06-11,Bunch Beans,224,Kerala,32,Idukki,596,6000,7000,6500
+2023-06-08,Bunch Beans,224,Kerala,32,Idukki,596,3000,5000,4500

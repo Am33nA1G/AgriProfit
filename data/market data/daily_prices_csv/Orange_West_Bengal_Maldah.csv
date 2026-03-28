@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-15,Orange,18,West Bengal,19,Maldah,332,5000,5500,5250
+2017-02-22,Orange,18,West Bengal,19,Maldah,332,5000,5500,5250
+2016-01-02,Orange,18,West Bengal,19,Maldah,332,3480,3520,3500
+2015-12-17,Orange,18,West Bengal,19,Maldah,332,17500,18500,18000

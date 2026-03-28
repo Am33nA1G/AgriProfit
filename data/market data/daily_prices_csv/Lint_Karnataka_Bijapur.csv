@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-28,Lint,280,Karnataka,29,Bijapur,557,8464,8464,8464
+2020-07-20,Lint,280,Karnataka,29,Bijapur,557,9560,9560,9560
+2020-07-18,Lint,280,Karnataka,29,Bijapur,557,9420,9420,9420
+2020-03-09,Lint,280,Karnataka,29,Bijapur,557,9000,10700,10000
+2019-05-20,Lint,280,Karnataka,29,Bijapur,557,11000,13200,12000
+2019-05-18,Lint,280,Karnataka,29,Bijapur,557,12800,13200,13000
+2019-02-25,Lint,280,Karnataka,29,Bijapur,557,10000,12000,10500
+2019-02-18,Lint,280,Karnataka,29,Bijapur,557,5000,5500,5350
+2019-01-29,Lint,280,Karnataka,29,Bijapur,557,10000,12500,11000

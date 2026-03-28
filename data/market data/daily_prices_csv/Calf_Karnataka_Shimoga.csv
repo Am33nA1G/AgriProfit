@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-18,Calf,215,Karnataka,29,Shimoga,568,5555,5555,5555
+2023-03-20,Calf,215,Karnataka,29,Shimoga,568,2500,2500,2500
+2023-01-30,Calf,215,Karnataka,29,Shimoga,568,12000,12000,12000
+2022-10-03,Calf,215,Karnataka,29,Shimoga,568,10000,10800,10200
+2022-09-19,Calf,215,Karnataka,29,Shimoga,568,2500,10000,6500
+2022-09-12,Calf,215,Karnataka,29,Shimoga,568,8900,10000,9500
+2020-03-02,Calf,215,Karnataka,29,Shimoga,568,6000,6000,6000

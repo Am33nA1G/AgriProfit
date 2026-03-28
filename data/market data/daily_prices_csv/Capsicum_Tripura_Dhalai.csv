@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-15,Capsicum,164,Tripura,16,Dhalai,291,15000,17000,16000
+2020-03-08,Capsicum,164,Tripura,16,Dhalai,291,15000,17000,16000
+2020-03-05,Capsicum,164,Tripura,16,Dhalai,291,15000,17000,16000
+2020-03-01,Capsicum,164,Tripura,16,Dhalai,291,15000,17000,16000
+2020-02-20,Capsicum,164,Tripura,16,Dhalai,291,9000,9800,9500
+2020-02-16,Capsicum,164,Tripura,16,Dhalai,291,9000,9800,9500
+2020-02-13,Capsicum,164,Tripura,16,Dhalai,291,9000,9800,9500
+2020-02-09,Capsicum,164,Tripura,16,Dhalai,291,9000,9500,9200
+2020-02-07,Capsicum,164,Tripura,16,Dhalai,291,9000,9500,9200

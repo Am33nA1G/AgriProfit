@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-11-16,Groundnut,10,Madhya Pradesh,23,Guna,458,3450,3450,3450
+2016-11-05,Groundnut,10,Madhya Pradesh,23,Guna,458,3760,3790,3790
+2016-10-17,Groundnut,10,Madhya Pradesh,23,Guna,458,3720,3720,3720

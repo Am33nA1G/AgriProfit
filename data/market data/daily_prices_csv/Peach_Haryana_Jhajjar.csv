@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-07,Peach,331,Haryana,6,Jhajjar,83,2000,3000,2500
+2023-06-06,Peach,331,Haryana,6,Jhajjar,83,2500,0,3000
+2023-06-05,Peach,331,Haryana,6,Jhajjar,83,2000,3000,2500
+2019-05-27,Peach,331,Haryana,6,Jhajjar,83,4000,4000,4000
+2019-05-25,Peach,331,Haryana,6,Jhajjar,83,4000,4000,4000
+2019-05-24,Peach,331,Haryana,6,Jhajjar,83,4000,4000,4000
+2019-05-23,Peach,331,Haryana,6,Jhajjar,83,4800,4800,4800
+2019-05-22,Peach,331,Haryana,6,Jhajjar,83,4000,4000,4000
+2019-05-21,Peach,331,Haryana,6,Jhajjar,83,4000,4000,4000
+2019-05-20,Peach,331,Haryana,6,Jhajjar,83,4500,4500,4500
+2019-05-19,Peach,331,Haryana,6,Jhajjar,83,4500,4500,4500
+2015-06-25,Peach,331,Haryana,6,Jhajjar,83,3000,4000,4000

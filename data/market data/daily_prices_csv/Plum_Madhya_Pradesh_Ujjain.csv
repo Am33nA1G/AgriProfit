@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-23,Plum,329,Madhya Pradesh,23,Ujjain,435,4500,4500,4500
+2021-08-13,Plum,329,Madhya Pradesh,23,Ujjain,435,4000,5000,4688
+2021-08-11,Plum,329,Madhya Pradesh,23,Ujjain,435,10000,10000,10000
+2021-08-09,Plum,329,Madhya Pradesh,23,Ujjain,435,6000,6000,6000
+2021-08-04,Plum,329,Madhya Pradesh,23,Ujjain,435,6000,6000,6000
+2019-10-14,Plum,329,Madhya Pradesh,23,Ujjain,435,3500,3500,3500
+2019-09-25,Plum,329,Madhya Pradesh,23,Ujjain,435,2000,2000,2000
+2019-09-23,Plum,329,Madhya Pradesh,23,Ujjain,435,1000,2000,1720
+2019-09-11,Plum,329,Madhya Pradesh,23,Ujjain,435,2000,2000,2000
+2019-09-03,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,3500,3432
+2019-09-02,Plum,329,Madhya Pradesh,23,Ujjain,435,4000,5000,4375
+2019-08-29,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-08-28,Plum,329,Madhya Pradesh,23,Ujjain,435,4000,4000,4000
+2019-08-24,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-08-17,Plum,329,Madhya Pradesh,23,Ujjain,435,4000,4000,4000
+2019-08-08,Plum,329,Madhya Pradesh,23,Ujjain,435,4000,5000,4267
+2019-08-02,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2019-07-23,Plum,329,Madhya Pradesh,23,Ujjain,435,5000,5000,5000
+2019-07-22,Plum,329,Madhya Pradesh,23,Ujjain,435,3000,4000,3750
+2019-07-16,Plum,329,Madhya Pradesh,23,Ujjain,435,10000,10000,10000
+2019-07-15,Plum,329,Madhya Pradesh,23,Ujjain,435,3000,3000,3000
+2017-07-28,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,3000,2700
+2017-07-27,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,3000,2700
+2017-07-17,Plum,329,Madhya Pradesh,23,Ujjain,435,1000,2000,1197
+2017-07-14,Plum,329,Madhya Pradesh,23,Ujjain,435,2500,2500,2500
+2017-07-13,Plum,329,Madhya Pradesh,23,Ujjain,435,2000,3000,2607

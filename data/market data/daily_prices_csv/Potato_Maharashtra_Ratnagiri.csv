@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-20,Potato,24,Maharashtra,27,Ratnagiri,528,2400,2800,2600
+2020-05-19,Potato,24,Maharashtra,27,Ratnagiri,528,2400,2600,2500
+2020-05-06,Potato,24,Maharashtra,27,Ratnagiri,528,2400,2800,2600
+2016-02-02,Potato,24,Maharashtra,27,Ratnagiri,528,1500,1700,1600

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-25,Little gourd (Kundru),302,Gujarat,24,Banas Kantha,469,1000,1200,1100
+2020-11-03,Little gourd (Kundru),302,Gujarat,24,Banas Kantha,469,1500,2100,1800
+2015-07-02,Little gourd (Kundru),302,Gujarat,24,Banas Kantha,469,3000,4000,3500

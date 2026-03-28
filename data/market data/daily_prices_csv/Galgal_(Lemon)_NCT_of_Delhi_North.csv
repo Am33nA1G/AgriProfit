@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-21,Galgal (Lemon),350,NCT of Delhi,7,North,91,1500,3000,2100
+2023-12-14,Galgal (Lemon),350,NCT of Delhi,7,North,91,1500,3000,2350
+2023-12-05,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,2850
+2023-12-02,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-12-01,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-29,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-18,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3350
+2023-11-17,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-16,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-15,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-14,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,4000,3150
+2023-11-13,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,5000,3850
+2023-11-09,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,5000,3800
+2023-11-07,Galgal (Lemon),350,NCT of Delhi,7,North,91,2000,5000,3800

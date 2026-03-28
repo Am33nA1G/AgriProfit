@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-11,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,2000,2500,2250
+2025-08-07,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,4000,4000,4000
+2025-06-20,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,4150,4150,4150
+2025-05-03,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,3000,3000,3000
+2025-01-16,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,5275,5275,5275
+2024-10-15,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,6250,7400,6825
+2023-09-02,Suva (Dill Seed),255,Gujarat,24,Porbandar,478,12100,12100,12100

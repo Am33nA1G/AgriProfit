@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-12,Sheep,218,Maharashtra,27,Pune,521,10000,10000,10000
+2024-12-29,Sheep,218,Maharashtra,27,Pune,521,4500,4500,4500
+2024-10-20,Sheep,218,Maharashtra,27,Pune,521,2000,2000,2000
+2021-12-04,Sheep,218,Maharashtra,27,Pune,521,5000,15000,10000
+2018-12-01,Sheep,218,Maharashtra,27,Pune,521,10000,65000,35000
+2018-09-08,Sheep,218,Maharashtra,27,Pune,521,15000,65000,35000
+2017-06-03,Sheep,218,Maharashtra,27,Pune,521,2000,6500,3800
+2016-10-22,Sheep,218,Maharashtra,27,Pune,521,2000,6000,4000
+2016-09-24,Sheep,218,Maharashtra,27,Pune,521,2000,6000,3500
+2016-07-16,Sheep,218,Maharashtra,27,Pune,521,2000,5000,3000
+2016-07-04,Sheep,218,Maharashtra,27,Pune,521,1000,7000,6500

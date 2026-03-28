@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-03,Peach,331,Punjab,3,Bathinda,46,3600,4000,3800
+2024-05-15,Peach,331,Punjab,3,Bathinda,46,2600,3000,2800
+2024-05-14,Peach,331,Punjab,3,Bathinda,46,4000,4500,4300
+2023-05-24,Peach,331,Punjab,3,Bathinda,46,500,800,600
+2021-06-03,Peach,331,Punjab,3,Bathinda,46,4500,5000,4800
+2021-05-31,Peach,331,Punjab,3,Bathinda,46,5000,5200,5100
+2021-05-27,Peach,331,Punjab,3,Bathinda,46,5100,5500,5300
+2021-05-17,Peach,331,Punjab,3,Bathinda,46,4500,5000,4800
+2019-07-04,Peach,331,Punjab,3,Bathinda,46,3000,4000,3500
+2019-07-01,Peach,331,Punjab,3,Bathinda,46,3000,4000,3500

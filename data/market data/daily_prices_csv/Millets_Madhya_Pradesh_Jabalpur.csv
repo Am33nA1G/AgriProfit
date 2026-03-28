@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-21,Millets,237,Madhya Pradesh,23,Jabalpur,451,2599,2599,2599
+2023-04-07,Millets,237,Madhya Pradesh,23,Jabalpur,451,2100,2100,2100
+2022-11-08,Millets,237,Madhya Pradesh,23,Jabalpur,451,2000,2015,2005

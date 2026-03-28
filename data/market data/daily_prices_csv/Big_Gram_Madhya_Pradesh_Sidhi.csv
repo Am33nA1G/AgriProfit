@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-18,Big Gram,113,Madhya Pradesh,23,Sidhi,462,3600,3600,3600
+2016-02-17,Big Gram,113,Madhya Pradesh,23,Sidhi,462,3600,4000,3600
+2016-01-29,Big Gram,113,Madhya Pradesh,23,Sidhi,462,3400,3400,3400

@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-31,Yam (Ratalu),297,Punjab,3,Sangrur,53,5000,6000,5500
+2025-01-13,Yam (Ratalu),297,Punjab,3,Sangrur,53,5000,5000,5000
+2025-01-11,Yam (Ratalu),297,Punjab,3,Sangrur,53,6000,7000,6500
+2024-12-12,Yam (Ratalu),297,Punjab,3,Sangrur,53,3600,3800,3700
+2024-12-11,Yam (Ratalu),297,Punjab,3,Sangrur,53,4000,4500,4250
+2024-11-26,Yam (Ratalu),297,Punjab,3,Sangrur,53,4000,4000,4000
+2024-11-25,Yam (Ratalu),297,Punjab,3,Sangrur,53,3000,4000,3500
+2024-01-13,Yam (Ratalu),297,Punjab,3,Sangrur,53,4500,4700,4600
+2023-12-27,Yam (Ratalu),297,Punjab,3,Sangrur,53,4000,4500,4250
+2023-11-29,Yam (Ratalu),297,Punjab,3,Sangrur,53,4000,4500,4250
+2022-11-02,Yam (Ratalu),297,Punjab,3,Sangrur,53,3000,3500,3250
+2022-02-08,Yam (Ratalu),297,Punjab,3,Sangrur,53,3200,3400,3300
+2022-01-06,Yam (Ratalu),297,Punjab,3,Sangrur,53,2200,2200,2200
+2022-01-04,Yam (Ratalu),297,Punjab,3,Sangrur,53,2200,2400,2300
+2022-01-03,Yam (Ratalu),297,Punjab,3,Sangrur,53,2400,2400,2400
+2021-05-05,Yam (Ratalu),297,Punjab,3,Sangrur,53,2000,2500,2200
+2021-05-04,Yam (Ratalu),297,Punjab,3,Sangrur,53,2100,2500,2300
+2017-01-16,Yam (Ratalu),297,Punjab,3,Sangrur,53,1400,1400,1400
+2017-01-13,Yam (Ratalu),297,Punjab,3,Sangrur,53,1000,1000,1000
+2017-01-04,Yam (Ratalu),297,Punjab,3,Sangrur,53,1000,1000,1000
+2017-01-03,Yam (Ratalu),297,Punjab,3,Sangrur,53,1000,1000,1000
+2017-01-01,Yam (Ratalu),297,Punjab,3,Sangrur,53,1000,1000,1000
+2016-04-10,Yam (Ratalu),297,Punjab,3,Sangrur,53,4000,4000,4000
+2016-04-08,Yam (Ratalu),297,Punjab,3,Sangrur,53,3200,3200,3200
+2015-01-04,Yam (Ratalu),297,Punjab,3,Sangrur,53,2000,2500,2250

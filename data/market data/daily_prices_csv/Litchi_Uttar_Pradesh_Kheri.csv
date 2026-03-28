@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-07,Litchi,351,Uttar Pradesh,9,Kheri,153,3610,4050,3800
+2019-06-02,Litchi,351,Uttar Pradesh,9,Kheri,153,3830,4200,4010
+2019-05-30,Litchi,351,Uttar Pradesh,9,Kheri,153,3850,4210,4000
+2018-06-09,Litchi,351,Uttar Pradesh,9,Kheri,153,4250,4310,4270
+2018-06-08,Litchi,351,Uttar Pradesh,9,Kheri,153,4260,4330,4300
+2018-06-07,Litchi,351,Uttar Pradesh,9,Kheri,153,4230,4350,4300
+2018-06-06,Litchi,351,Uttar Pradesh,9,Kheri,153,4330,4460,4400
+2018-06-02,Litchi,351,Uttar Pradesh,9,Kheri,153,4420,4580,4500
+2018-06-01,Litchi,351,Uttar Pradesh,9,Kheri,153,4730,4790,4760
+2018-05-31,Litchi,351,Uttar Pradesh,9,Kheri,153,4650,4730,4700
+2018-05-30,Litchi,351,Uttar Pradesh,9,Kheri,153,4720,4860,4800
+2018-05-28,Litchi,351,Uttar Pradesh,9,Kheri,153,5220,5360,5300

@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-19,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1500,1800,1600
+2015-10-02,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1700,1900,1800
+2015-09-28,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1500,1700,1600
+2015-09-21,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1700,1800,1750
+2015-09-16,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1500,1700,1600
+2015-08-25,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1100,1300,1200
+2015-08-19,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,1000,800
+2015-08-14,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,900,800
+2015-07-15,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,900,800
+2015-07-10,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,800,750
+2015-07-06,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,900,800
+2015-07-01,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,800,750
+2015-06-29,Chilli Capsicum,88,Haryana,6,Bhiwani,81,700,800,750
+2015-06-26,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1000,1200,1100
+2015-06-18,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1500,1700,1600
+2015-06-17,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1500,1800,1600
+2015-06-15,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1400,1600,1500
+2015-06-14,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1400,1600,1500
+2015-06-13,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1400,1600,1500
+2015-06-09,Chilli Capsicum,88,Haryana,6,Bhiwani,81,1800,1950,1900

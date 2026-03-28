@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-29,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5000,5200,5100
+2023-05-17,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5500,5625,5550
+2019-08-07,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5387,5725,5500
+2019-06-07,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4782,5500,5350
+2019-05-31,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4400,5500,5037
+2019-04-26,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4900,5200,4950
+2019-03-31,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4351,4620,4620
+2019-03-19,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4629,4875,4750
+2019-03-08,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4528,6300,5500
+2019-02-28,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4782,6003,5000
+2019-01-23,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,4884,4950,4900
+2016-11-20,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,11000,12500,11550
+2016-10-26,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,6800,7000,7000
+2016-09-29,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,6400,7400,7000
+2016-09-26,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5800,9000,6200
+2016-09-08,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5500,6200,6000
+2016-08-22,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5800,7500,7000
+2016-08-05,Bengal Gram (Gram)(Whole),6,Uttarakhand,5,Udham Singh Nagar,67,5000,6000,6000

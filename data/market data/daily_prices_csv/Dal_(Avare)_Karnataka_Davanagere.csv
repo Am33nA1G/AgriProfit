@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-17,Dal (Avare),91,Karnataka,29,Davanagere,567,2300,2400,2350
+2015-04-10,Dal (Avare),91,Karnataka,29,Davanagere,567,1900,2000,1950
+2015-03-05,Dal (Avare),91,Karnataka,29,Davanagere,567,2400,2500,2450
+2015-02-05,Dal (Avare),91,Karnataka,29,Davanagere,567,3769,3769,3769
+2015-01-19,Dal (Avare),91,Karnataka,29,Davanagere,567,2410,2410,2410

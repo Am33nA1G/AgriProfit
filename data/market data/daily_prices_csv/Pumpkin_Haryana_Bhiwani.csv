@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-08,Pumpkin,84,Haryana,6,Bhiwani,81,700,900,800
+2017-08-07,Pumpkin,84,Haryana,6,Bhiwani,81,500,800,700

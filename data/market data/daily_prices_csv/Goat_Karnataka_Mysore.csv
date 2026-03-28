@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-13,Goat,219,Karnataka,29,Mysore,577,4000,8000,6000
+2023-09-22,Goat,219,Karnataka,29,Mysore,577,5000,8000,6000
+2023-09-15,Goat,219,Karnataka,29,Mysore,577,3000,6000,4000

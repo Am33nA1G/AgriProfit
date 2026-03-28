@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-28,Bitter gourd,81,Bihar,10,Bhojpur,231,2000,2500,2200
+2022-04-29,Bitter gourd,81,Bihar,10,Bhojpur,231,1800,2000,1900
+2022-04-23,Bitter gourd,81,Bihar,10,Bhojpur,231,2500,3000,2800
+2022-04-05,Bitter gourd,81,Bihar,10,Bhojpur,231,1200,1600,1400
+2022-04-02,Bitter gourd,81,Bihar,10,Bhojpur,231,1300,1500,1400
+2022-01-30,Bitter gourd,81,Bihar,10,Bhojpur,231,5000,6000,5100
+2022-01-24,Bitter gourd,81,Bihar,10,Bhojpur,231,6000,6200,6100
+2022-01-21,Bitter gourd,81,Bihar,10,Bhojpur,231,6500,7000,6800
+2022-01-08,Bitter gourd,81,Bihar,10,Bhojpur,231,3000,3500,3200

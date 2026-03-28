@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-01-25,Mustard Oil,324,Haryana,6,Kurukshetra,72,3281,3415,3281
+2016-04-01,Mustard Oil,324,Haryana,6,Kurukshetra,72,2700,4210,3451
+2016-03-30,Mustard Oil,324,Haryana,6,Kurukshetra,72,3300,3426,3300
+2016-03-29,Mustard Oil,324,Haryana,6,Kurukshetra,72,3424,3436,3424
+2016-03-28,Mustard Oil,324,Haryana,6,Kurukshetra,72,3345,3431,3390
+2016-03-25,Mustard Oil,324,Haryana,6,Kurukshetra,72,3300,3351,3341
+2016-03-23,Mustard Oil,324,Haryana,6,Kurukshetra,72,3200,3370,3290
+2016-03-22,Mustard Oil,324,Haryana,6,Kurukshetra,72,3250,4000,3395
+2016-03-21,Mustard Oil,324,Haryana,6,Kurukshetra,72,3000,3308,3260
+2016-03-18,Mustard Oil,324,Haryana,6,Kurukshetra,72,2850,4133,3330
+2016-03-16,Mustard Oil,324,Haryana,6,Kurukshetra,72,3180,4250,3400
+2016-03-15,Mustard Oil,324,Haryana,6,Kurukshetra,72,2910,4270,3535
+2016-03-14,Mustard Oil,324,Haryana,6,Kurukshetra,72,3126,3501,3300
+2016-03-10,Mustard Oil,324,Haryana,6,Kurukshetra,72,3300,4200,3470
+2016-03-09,Mustard Oil,324,Haryana,6,Kurukshetra,72,3400,3460,3400
+2016-03-08,Mustard Oil,324,Haryana,6,Kurukshetra,72,3300,4301,3470
+2016-03-07,Mustard Oil,324,Haryana,6,Kurukshetra,72,3240,4163,3425
+2016-03-04,Mustard Oil,324,Haryana,6,Kurukshetra,72,3310,3400,3375
+2016-03-03,Mustard Oil,324,Haryana,6,Kurukshetra,72,2600,4400,4260
+2016-03-02,Mustard Oil,324,Haryana,6,Kurukshetra,72,730,745,735
+2016-03-01,Mustard Oil,324,Haryana,6,Kurukshetra,72,3520,4270,3602
+2016-02-27,Mustard Oil,324,Haryana,6,Kurukshetra,72,3333,3640,3540
+2016-02-26,Mustard Oil,324,Haryana,6,Kurukshetra,72,2780,3607,3426
+2016-02-25,Mustard Oil,324,Haryana,6,Kurukshetra,72,3721,4361,4151
+2016-02-24,Mustard Oil,324,Haryana,6,Kurukshetra,72,3555,4210,4185

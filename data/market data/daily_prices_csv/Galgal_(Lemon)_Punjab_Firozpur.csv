@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-15,Galgal (Lemon),350,Punjab,3,Firozpur,43,4000,4500,4250
+2025-10-11,Galgal (Lemon),350,Punjab,3,Firozpur,43,3000,3600,3250
+2023-08-15,Galgal (Lemon),350,Punjab,3,Firozpur,43,11000,12000,11500
+2022-01-01,Galgal (Lemon),350,Punjab,3,Firozpur,43,1300,2000,1650
+2021-12-15,Galgal (Lemon),350,Punjab,3,Firozpur,43,1000,2500,1750
+2021-12-08,Galgal (Lemon),350,Punjab,3,Firozpur,43,1400,1500,1450
+2021-11-29,Galgal (Lemon),350,Punjab,3,Firozpur,43,1000,1500,1250
+2021-11-27,Galgal (Lemon),350,Punjab,3,Firozpur,43,600,1400,1000
+2021-11-26,Galgal (Lemon),350,Punjab,3,Firozpur,43,500,1200,850
+2021-10-28,Galgal (Lemon),350,Punjab,3,Firozpur,43,1300,1400,1350
+2021-10-27,Galgal (Lemon),350,Punjab,3,Firozpur,43,1200,1800,1500
+2021-10-19,Galgal (Lemon),350,Punjab,3,Firozpur,43,1500,2500,2000
+2021-01-25,Galgal (Lemon),350,Punjab,3,Firozpur,43,5000,6000,5500
+2020-09-10,Galgal (Lemon),350,Punjab,3,Firozpur,43,1000,1500,1250
+2020-07-14,Galgal (Lemon),350,Punjab,3,Firozpur,43,4500,5000,4800
+2019-12-12,Galgal (Lemon),350,Punjab,3,Firozpur,43,2500,3000,2750
+2019-11-30,Galgal (Lemon),350,Punjab,3,Firozpur,43,2500,2700,2600
+2019-11-07,Galgal (Lemon),350,Punjab,3,Firozpur,43,2500,3000,2750
+2019-10-16,Galgal (Lemon),350,Punjab,3,Firozpur,43,2500,2500,2500
+2019-03-15,Galgal (Lemon),350,Punjab,3,Firozpur,43,3600,3800,3700
+2018-12-10,Galgal (Lemon),350,Punjab,3,Firozpur,43,1800,2200,2000

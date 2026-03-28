@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-23,Kabuli Chana (Chickpeas-White),362,Punjab,3,Rupnagar,51,2000,2100,2050
+2016-03-02,Kabuli Chana (Chickpeas-White),362,Punjab,3,Rupnagar,51,2500,2520,2510
+2015-11-17,Kabuli Chana (Chickpeas-White),362,Punjab,3,Rupnagar,51,80,100,90

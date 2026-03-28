@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-23,Cucumber (Kheera),159,Bihar,10,Saran,219,1000,1200,1100
+2023-05-21,Cucumber (Kheera),159,Bihar,10,Saran,219,1100,1300,1200
+2023-05-20,Cucumber (Kheera),159,Bihar,10,Saran,219,1100,1300,1200
+2023-05-19,Cucumber (Kheera),159,Bihar,10,Saran,219,1100,1300,1200
+2023-05-17,Cucumber (Kheera),159,Bihar,10,Saran,219,1200,1300,1250
+2023-05-15,Cucumber (Kheera),159,Bihar,10,Saran,219,1500,1700,1600
+2023-05-11,Cucumber (Kheera),159,Bihar,10,Saran,219,1200,1400,1300

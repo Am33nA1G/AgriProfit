@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-30,Grapes,22,Tamil Nadu,33,Virudhunagar,625,3500,4000,4000
+2025-09-22,Grapes,22,Tamil Nadu,33,Virudhunagar,625,4500,5000,5000
+2025-09-14,Grapes,22,Tamil Nadu,33,Virudhunagar,625,3500,4000,4000

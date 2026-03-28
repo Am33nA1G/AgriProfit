@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-02,Indian Beans (Seam),299,Kerala,32,Idukki,596,4000,4000,4000
+2017-01-30,Indian Beans (Seam),299,Kerala,32,Idukki,596,6000,6000,6000
+2017-01-19,Indian Beans (Seam),299,Kerala,32,Idukki,596,5000,5000,5000
+2017-01-12,Indian Beans (Seam),299,Kerala,32,Idukki,596,4000,4000,4000
+2017-01-05,Indian Beans (Seam),299,Kerala,32,Idukki,596,4000,4000,4000
+2016-12-29,Indian Beans (Seam),299,Kerala,32,Idukki,596,4000,4000,4000

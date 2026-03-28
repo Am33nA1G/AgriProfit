@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-27,Long Melon (Kakri),304,Meghalaya,17,West Garo Hills,293,3000,3200,3000
+2015-06-20,Long Melon (Kakri),304,Meghalaya,17,West Garo Hills,293,2500,3000,2800
+2015-05-18,Long Melon (Kakri),304,Meghalaya,17,West Garo Hills,293,1700,2000,1850
+2015-05-13,Long Melon (Kakri),304,Meghalaya,17,West Garo Hills,293,1500,1600,1550

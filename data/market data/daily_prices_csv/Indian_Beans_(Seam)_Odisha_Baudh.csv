@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-26,Indian Beans (Seam),299,Odisha,21,Baudh,391,1400,1500,1500
+2015-08-20,Indian Beans (Seam),299,Odisha,21,Baudh,391,3000,4000,4000
+2015-08-19,Indian Beans (Seam),299,Odisha,21,Baudh,391,4000,4000,4000

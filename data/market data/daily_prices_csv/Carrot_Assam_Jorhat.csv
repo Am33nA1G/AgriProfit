@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-29,Carrot,153,Assam,18,Jorhat,312,2000,2200,2100
+2022-04-28,Carrot,153,Assam,18,Jorhat,312,4000,4500,4200
+2022-04-19,Carrot,153,Assam,18,Jorhat,312,3500,4000,3750
+2022-04-08,Carrot,153,Assam,18,Jorhat,312,2500,3000,2750
+2022-04-06,Carrot,153,Assam,18,Jorhat,312,2200,2500,2350
+2022-04-04,Carrot,153,Assam,18,Jorhat,312,2000,4000,3000
+2022-03-31,Carrot,153,Assam,18,Jorhat,312,1800,2000,1900
+2022-03-28,Carrot,153,Assam,18,Jorhat,312,1600,1800,1700
+2022-03-16,Carrot,153,Assam,18,Jorhat,312,1800,2000,1900
+2022-03-15,Carrot,153,Assam,18,Jorhat,312,1500,1700,1600
+2022-01-10,Carrot,153,Assam,18,Jorhat,312,2500,3000,2750

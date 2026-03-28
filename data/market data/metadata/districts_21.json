@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "census_district_id": 370,
+      "census_district_name": "Bargarh"
+    },
+    {
+      "census_district_id": 371,
+      "census_district_name": "Jharsuguda"
+    },
+    {
+      "census_district_id": 372,
+      "census_district_name": "Sambalpur"
+    },
+    {
+      "census_district_id": 373,
+      "census_district_name": "Debagarh"
+    },
+    {
+      "census_district_id": 374,
+      "census_district_name": "Sundargarh"
+    },
+    {
+      "census_district_id": 375,
+      "census_district_name": "Kendujhar"
+    },
+    {
+      "census_district_id": 376,
+      "census_district_name": "Mayurbhanj"
+    },
+    {
+      "census_district_id": 377,
+      "census_district_name": "Baleshwar"
+    },
+    {
+      "census_district_id": 378,
+      "census_district_name": "Bhadrak"
+    },
+    {
+      "census_district_id": 379,
+      "census_district_name": "Kendrapara"
+    },
+    {
+      "census_district_id": 380,
+      "census_district_name": "Jagatsinghapur"
+    },
+    {
+      "census_district_id": 381,
+      "census_district_name": "Cuttack"
+    },
+    {
+      "census_district_id": 382,
+      "census_district_name": "Jajapur"
+    },
+    {
+      "census_district_id": 383,
+      "census_district_name": "Dhenkanal"
+    },
+    {
+      "census_district_id": 384,
+      "census_district_name": "Anugul"
+    },
+    {
+      "census_district_id": 385,
+      "census_district_name": "Nayagarh"
+    },
+    {
+      "census_district_id": 386,
+      "census_district_name": "Khordha"
+    },
+    {
+      "census_district_id": 387,
+      "census_district_name": "Puri"
+    },
+    {
+      "census_district_id": 388,
+      "census_district_name": "Ganjam"
+    },
+    {
+      "census_district_id": 389,
+      "census_district_name": "Gajapati"
+    },
+    {
+      "census_district_id": 390,
+      "census_district_name": "Kandhamal"
+    },
+    {
+      "census_district_id": 391,
+      "census_district_name": "Baudh"
+    },
+    {
+      "census_district_id": 392,
+      "census_district_name": "Subarnapur"
+    },
+    {
+      "census_district_id": 393,
+      "census_district_name": "Balangir"
+    },
+    {
+      "census_district_id": 394,
+      "census_district_name": "Nuapada"
+    },
+    {
+      "census_district_id": 395,
+      "census_district_name": "Kalahandi"
+    },
+    {
+      "census_district_id": 396,
+      "census_district_name": "Rayagada"
+    },
+    {
+      "census_district_id": 397,
+      "census_district_name": "Nabarangapur"
+    },
+    {
+      "census_district_id": 398,
+      "census_district_name": "Koraput"
+    },
+    {
+      "census_district_id": 399,
+      "census_district_name": "Malkangiri"
+    }
+  ]
+}

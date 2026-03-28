@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-04,Sweet Pumpkin,173,Meghalaya,17,West Garo Hills,293,1500,1800,1650
+2015-07-28,Sweet Pumpkin,173,Meghalaya,17,West Garo Hills,293,1600,1800,1700
+2015-07-21,Sweet Pumpkin,173,Meghalaya,17,West Garo Hills,293,2000,2500,2250
+2015-07-07,Sweet Pumpkin,173,Meghalaya,17,West Garo Hills,293,1800,2000,1900
+2015-06-23,Sweet Pumpkin,173,Meghalaya,17,West Garo Hills,293,1900,2000,1950

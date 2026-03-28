@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-25,Sunflower,14,Chhattisgarh,22,Raipur,410,3850,3850,3850
+2019-06-29,Sunflower,14,Chhattisgarh,22,Raipur,410,2501,2501,2501
+2015-05-18,Sunflower,14,Chhattisgarh,22,Raipur,410,1880,1880,1880

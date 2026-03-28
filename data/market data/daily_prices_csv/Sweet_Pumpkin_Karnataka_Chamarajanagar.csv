@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-04,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,400,500,450
+2024-09-30,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,500,1000,750
+2023-05-25,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,500,1200,900
+2020-06-19,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,400,500,400
+2020-06-05,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,400,500,400
+2017-12-07,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,800,1000,900
+2015-08-27,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,200,200,200
+2015-08-11,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,600,600,600
+2015-06-30,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,1000,1000,1000
+2015-06-22,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,300,300,300
+2015-03-27,Sweet Pumpkin,173,Karnataka,29,Chamarajanagar,578,800,800,800

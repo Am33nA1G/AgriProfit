@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-18,Capsicum,164,Meghalaya,17,Ribhoi,297,3000,4000,3500
+2019-06-10,Capsicum,164,Meghalaya,17,Ribhoi,297,3000,4000,3500
+2019-06-01,Capsicum,164,Meghalaya,17,Ribhoi,297,3500,4500,4000
+2019-05-25,Capsicum,164,Meghalaya,17,Ribhoi,297,3500,4500,4000
+2019-05-17,Capsicum,164,Meghalaya,17,Ribhoi,297,3500,4000,3800
+2019-05-09,Capsicum,164,Meghalaya,17,Ribhoi,297,3000,3700,3500
+2018-05-22,Capsicum,164,Meghalaya,17,Ribhoi,297,3000,3500,3300
+2015-05-30,Capsicum,164,Meghalaya,17,Ribhoi,297,2000,3000,2500
+2015-05-22,Capsicum,164,Meghalaya,17,Ribhoi,297,2500,3000,2800
+2015-05-14,Capsicum,164,Meghalaya,17,Ribhoi,297,2000,3000,2500
+2015-05-06,Capsicum,164,Meghalaya,17,Ribhoi,297,2500,3500,3000
+2015-04-28,Capsicum,164,Meghalaya,17,Ribhoi,297,2500,3500,3000
+2015-04-20,Capsicum,164,Meghalaya,17,Ribhoi,297,2500,3500,3000
+2015-04-04,Capsicum,164,Meghalaya,17,Ribhoi,297,3500,4500,4000

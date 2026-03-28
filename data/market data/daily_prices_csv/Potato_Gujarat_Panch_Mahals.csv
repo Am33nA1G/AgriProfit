@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-05,Potato,24,Gujarat,24,Panch Mahals,484,2000,2400,2200
+2020-06-28,Potato,24,Gujarat,24,Panch Mahals,484,1400,1800,1500
+2020-06-27,Potato,24,Gujarat,24,Panch Mahals,484,1600,2100,1775
+2020-06-20,Potato,24,Gujarat,24,Panch Mahals,484,1700,1800,1750
+2020-06-19,Potato,24,Gujarat,24,Panch Mahals,484,1500,1900,1800
+2020-06-03,Potato,24,Gujarat,24,Panch Mahals,484,1500,1700,1550
+2015-03-14,Potato,24,Gujarat,24,Panch Mahals,484,400,500,450
+2015-03-13,Potato,24,Gujarat,24,Panch Mahals,484,400,500,450
+2015-03-12,Potato,24,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-28,Potato,24,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-19,Potato,24,Gujarat,24,Panch Mahals,484,400,600,500
+2015-02-16,Potato,24,Gujarat,24,Panch Mahals,484,400,600,500
+2015-02-11,Potato,24,Gujarat,24,Panch Mahals,484,1000,1800,1400

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-19,Neem Seed,126,Karnataka,29,Bagalkot,556,430,430,430
+2015-08-06,Neem Seed,126,Karnataka,29,Bagalkot,556,400,400,400
+2015-07-17,Neem Seed,126,Karnataka,29,Bagalkot,556,425,425,425

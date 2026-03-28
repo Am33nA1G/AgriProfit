@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-02-11,Papaya (Raw),313,Punjab,3,Shahid Bhagat Singh Nagar,39,3000,3000,3000
+2019-12-26,Papaya (Raw),313,Punjab,3,Shahid Bhagat Singh Nagar,39,1400,1400,1400
+2019-12-20,Papaya (Raw),313,Punjab,3,Shahid Bhagat Singh Nagar,39,1900,2100,2000
+2015-09-28,Papaya (Raw),313,Punjab,3,Shahid Bhagat Singh Nagar,39,2300,2500,2400

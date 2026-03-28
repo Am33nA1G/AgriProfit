@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-03-12,Methi (Leaves),46,Rajasthan,8,Jhunjhunun,103,2800,2800,2800
+2015-10-13,Methi (Leaves),46,Rajasthan,8,Jhunjhunun,103,4700,4800,4750
+2015-09-15,Methi (Leaves),46,Rajasthan,8,Jhunjhunun,103,3700,3700,3700

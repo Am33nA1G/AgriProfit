@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-07,Suvarna Gadde,178,Karnataka,29,Kolar,581,400,800,600
+2022-09-19,Suvarna Gadde,178,Karnataka,29,Kolar,581,3000,3500,3200
+2022-09-09,Suvarna Gadde,178,Karnataka,29,Kolar,581,1500,3000,2250
+2022-08-23,Suvarna Gadde,178,Karnataka,29,Kolar,581,2000,3000,2500
+2022-08-11,Suvarna Gadde,178,Karnataka,29,Kolar,581,3000,3500,3250
+2015-07-02,Suvarna Gadde,178,Karnataka,29,Kolar,581,1000,1400,1200

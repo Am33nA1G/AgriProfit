@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-21,Orange,18,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-11-20,Orange,18,Karnataka,29,Shimoga,568,1000,1000,1000
+2015-05-05,Orange,18,Karnataka,29,Shimoga,568,900,1100,1000
+2015-04-04,Orange,18,Karnataka,29,Shimoga,568,900,1100,1000
+2015-02-21,Orange,18,Karnataka,29,Shimoga,568,900,1100,1000
+2015-01-12,Orange,18,Karnataka,29,Shimoga,568,900,1100,1000
+2015-01-05,Orange,18,Karnataka,29,Shimoga,568,900,1100,1000

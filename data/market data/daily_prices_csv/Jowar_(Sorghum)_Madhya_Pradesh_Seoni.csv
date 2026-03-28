@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-07,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,2211,2211,2211
+2023-12-30,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1951,1951,1951
+2023-12-17,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,2001,2001,2001
+2022-01-27,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1400,1401,1401
+2016-04-18,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1200,1200,1200
+2016-02-13,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1150,1175,1165
+2016-01-23,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1011,1027,1016
+2016-01-14,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1160,1160,1160
+2016-01-13,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1115,1200,1167
+2016-01-09,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1200,1200,1200
+2015-12-09,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1131,1131,1131
+2015-02-28,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1000,1200,1100
+2015-01-15,Jowar (Sorghum),5,Madhya Pradesh,23,Seoni,456,1100,1400,1200

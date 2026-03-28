@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-27,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,3300,3500,3400
+2016-05-06,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,3500,3700,3600
+2015-12-11,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,3300,3500,3400
+2015-06-16,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4100,4300,4200
+2015-06-07,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4100,4250,4150
+2015-05-05,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4400,4600,4500
+2015-03-29,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4200,4400,4300
+2015-03-17,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4400,4600,4500
+2015-03-13,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4300,4500,4400
+2015-03-08,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4100,4300,4200
+2015-02-04,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4000,4250,4150
+2015-01-22,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4000,4200,4100
+2015-01-19,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4000,4200,4100
+2015-01-16,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,3850,4100,4000
+2015-01-09,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4000,4200,4100
+2015-01-02,Ginger (Dry),27,Uttar Pradesh,9,Lucknow,157,4000,4300,4200

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-30,Toria,66,Haryana,6,Mewat,87,1400,1500,1500
+2015-09-09,Toria,66,Haryana,6,Mewat,87,2000,,2100
+2015-08-01,Toria,66,Haryana,6,Mewat,87,2000,2600,2100
+2015-07-31,Toria,66,Haryana,6,Mewat,87,2000,2200,2100

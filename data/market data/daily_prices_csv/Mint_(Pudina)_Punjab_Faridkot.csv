@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-12,Mint (Pudina),360,Punjab,3,Faridkot,45,3000,4000,4000
+2018-09-01,Mint (Pudina),360,Punjab,3,Faridkot,45,2700,3000,3000
+2018-01-25,Mint (Pudina),360,Punjab,3,Faridkot,45,800,1000,1000
+2017-05-09,Mint (Pudina),360,Punjab,3,Faridkot,45,1350,1350,1350
+2017-05-01,Mint (Pudina),360,Punjab,3,Faridkot,45,1800,1800,1800
+2017-04-28,Mint (Pudina),360,Punjab,3,Faridkot,45,850,850,850
+2017-04-27,Mint (Pudina),360,Punjab,3,Faridkot,45,650,700,700
+2017-04-25,Mint (Pudina),360,Punjab,3,Faridkot,45,600,600,600
+2017-04-24,Mint (Pudina),360,Punjab,3,Faridkot,45,1500,1500,1500
+2017-04-17,Mint (Pudina),360,Punjab,3,Faridkot,45,1575,1575,1575
+2017-04-15,Mint (Pudina),360,Punjab,3,Faridkot,45,2325,2325,2325
+2017-04-13,Mint (Pudina),360,Punjab,3,Faridkot,45,1200,2209,1832
+2017-04-12,Mint (Pudina),360,Punjab,3,Faridkot,45,904,1291,1015
+2017-04-11,Mint (Pudina),360,Punjab,3,Faridkot,45,500,1350,675
+2017-03-29,Mint (Pudina),360,Punjab,3,Faridkot,45,400,500,500
+2017-03-24,Mint (Pudina),360,Punjab,3,Faridkot,45,1350,1350,1350
+2017-03-22,Mint (Pudina),360,Punjab,3,Faridkot,45,1389,1389,1389

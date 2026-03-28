@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-30,Litchi,351,Uttar Pradesh,9,Bahraich,180,7600,8000,7800
+2025-06-29,Litchi,351,Uttar Pradesh,9,Bahraich,180,7700,8000,7850
+2025-06-28,Litchi,351,Uttar Pradesh,9,Bahraich,180,7600,8000,7850
+2025-06-27,Litchi,351,Uttar Pradesh,9,Bahraich,180,7750,7950,7865
+2025-06-26,Litchi,351,Uttar Pradesh,9,Bahraich,180,7700,8000,7850
+2025-06-25,Litchi,351,Uttar Pradesh,9,Bahraich,180,7800,8000,7900
+2025-06-24,Litchi,351,Uttar Pradesh,9,Bahraich,180,7800,8200,8000
+2025-06-23,Litchi,351,Uttar Pradesh,9,Bahraich,180,8000,8400,8175
+2025-06-21,Litchi,351,Uttar Pradesh,9,Bahraich,180,7900,8200,8050
+2025-06-20,Litchi,351,Uttar Pradesh,9,Bahraich,180,8000,8250,8100
+2025-06-19,Litchi,351,Uttar Pradesh,9,Bahraich,180,8000,8400,8175
+2025-05-17,Litchi,351,Uttar Pradesh,9,Bahraich,180,8000,9000,8500
+2022-06-14,Litchi,351,Uttar Pradesh,9,Bahraich,180,5200,5450,5350
+2022-06-10,Litchi,351,Uttar Pradesh,9,Bahraich,180,5250,5450,5350
+2022-06-03,Litchi,351,Uttar Pradesh,9,Bahraich,180,5300,5600,5450
+2020-07-03,Litchi,351,Uttar Pradesh,9,Bahraich,180,3820,4050,3900
+2020-07-02,Litchi,351,Uttar Pradesh,9,Bahraich,180,3770,3950,3850
+2020-07-01,Litchi,351,Uttar Pradesh,9,Bahraich,180,3720,3910,3800
+2020-06-30,Litchi,351,Uttar Pradesh,9,Bahraich,180,3600,3720,3680
+2020-06-29,Litchi,351,Uttar Pradesh,9,Bahraich,180,3620,3750,3700
+2020-06-27,Litchi,351,Uttar Pradesh,9,Bahraich,180,3600,3760,3700
+2020-06-26,Litchi,351,Uttar Pradesh,9,Bahraich,180,3650,3760,3720
+2020-06-25,Litchi,351,Uttar Pradesh,9,Bahraich,180,3580,3700,3650
+2020-06-24,Litchi,351,Uttar Pradesh,9,Bahraich,180,3500,3650,3600
+2019-06-06,Litchi,351,Uttar Pradesh,9,Bahraich,180,5150,6150,5850

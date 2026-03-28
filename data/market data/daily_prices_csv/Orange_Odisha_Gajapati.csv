@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-07,Orange,18,Odisha,21,Gajapati,389,6000,8000,8000
+2021-10-14,Orange,18,Odisha,21,Gajapati,389,10000,12000,12000
+2020-02-21,Orange,18,Odisha,21,Gajapati,389,6000,7000,7000
+2019-01-13,Orange,18,Odisha,21,Gajapati,389,4000,6000,6000
+2018-11-21,Orange,18,Odisha,21,Gajapati,389,6000,8000,8000
+2018-11-07,Orange,18,Odisha,21,Gajapati,389,2500,3000,3000
+2018-10-24,Orange,18,Odisha,21,Gajapati,389,7000,8000,8000
+2017-11-30,Orange,18,Odisha,21,Gajapati,389,5000,7000,7000
+2016-09-05,Orange,18,Odisha,21,Gajapati,389,7000,8000,8000
+2015-12-01,Orange,18,Odisha,21,Gajapati,389,4000,5000,5000
+2015-10-28,Orange,18,Odisha,21,Gajapati,389,2500,3000,3000
+2015-05-15,Orange,18,Odisha,21,Gajapati,389,6000,8000,8000
+2015-01-15,Orange,18,Odisha,21,Gajapati,389,4000,5000,5000
+2015-01-01,Orange,18,Odisha,21,Gajapati,389,6000,8000,8000

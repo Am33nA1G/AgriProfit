@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-16,Peas cod,308,Haryana,6,Fatehabad,78,1000,1000,1000
+2015-04-14,Peas cod,308,Haryana,6,Fatehabad,78,1200,1300,1250
+2015-03-01,Peas cod,308,Haryana,6,Fatehabad,78,2200,2300,2250

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-27,Green Peas,50,Maharashtra,27,Satara,527,1500,1700,1600
+2021-06-28,Green Peas,50,Maharashtra,27,Satara,527,1,1,1
+2019-01-11,Green Peas,50,Maharashtra,27,Satara,527,2500,3000,2750
+2018-03-13,Green Peas,50,Maharashtra,27,Satara,527,4500,5250,4850
+2017-02-08,Green Peas,50,Maharashtra,27,Satara,527,2000,2500,2250
+2016-12-16,Green Peas,50,Maharashtra,27,Satara,527,3000,3500,3250
+2016-09-23,Green Peas,50,Maharashtra,27,Satara,527,4500,5500,5000
+2016-07-22,Green Peas,50,Maharashtra,27,Satara,527,6000,7000,6500
+2016-02-05,Green Peas,50,Maharashtra,27,Satara,527,2500,3000,2750
+2015-01-30,Green Peas,50,Maharashtra,27,Satara,527,3000,3500,3250

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-01-02,Sunflower Seed,285,Telangana,36,Mahbubnagar,538,2627,2627,2627
+2017-04-21,Sunflower Seed,285,Telangana,36,Mahbubnagar,538,2962,2962,2962
+2017-04-12,Sunflower Seed,285,Telangana,36,Mahbubnagar,538,3064,3064,3064
+2017-02-09,Sunflower Seed,285,Telangana,36,Mahbubnagar,538,3076,3076,3076

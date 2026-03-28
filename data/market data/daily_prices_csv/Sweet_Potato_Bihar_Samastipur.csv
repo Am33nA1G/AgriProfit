@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-01,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-21,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-12,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1100,1050
+2022-04-11,Sweet Potato,152,Bihar,10,Samastipur,221,900,1100,1000
+2022-04-10,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-09,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-08,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-07,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-05,Sweet Potato,152,Bihar,10,Samastipur,221,1000,1200,1100
+2022-04-01,Sweet Potato,152,Bihar,10,Samastipur,221,800,1000,900
+2022-02-25,Sweet Potato,152,Bihar,10,Samastipur,221,1800,2000,1900
+2022-02-24,Sweet Potato,152,Bihar,10,Samastipur,221,1800,2100,2000
+2022-02-23,Sweet Potato,152,Bihar,10,Samastipur,221,1800,2200,2000

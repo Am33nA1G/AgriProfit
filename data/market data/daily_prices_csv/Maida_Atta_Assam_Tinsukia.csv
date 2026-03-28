@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-18,Maida Atta,288,Assam,18,Tinsukia,309,1800,2200,2000
+2015-05-09,Maida Atta,288,Assam,18,Tinsukia,309,2200,2800,2600

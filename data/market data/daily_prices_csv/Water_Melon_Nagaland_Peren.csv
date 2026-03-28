@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-23,Water Melon,73,Nagaland,13,Peren,271,3000,3500,3300
+2023-06-20,Water Melon,73,Nagaland,13,Peren,271,9000,9300,9200
+2023-06-17,Water Melon,73,Nagaland,13,Peren,271,9100,9300,9200
+2023-06-16,Water Melon,73,Nagaland,13,Peren,271,8000,8300,8200
+2023-06-15,Water Melon,73,Nagaland,13,Peren,271,10000,10300,10200
+2023-05-27,Water Melon,73,Nagaland,13,Peren,271,9200,9400,9300
+2023-05-26,Water Melon,73,Nagaland,13,Peren,271,9000,9300,9200
+2023-05-25,Water Melon,73,Nagaland,13,Peren,271,9000,9300,9200
+2023-05-24,Water Melon,73,Nagaland,13,Peren,271,9200,9400,9300
+2023-05-20,Water Melon,73,Nagaland,13,Peren,271,9000,9300,9200
+2023-05-17,Water Melon,73,Nagaland,13,Peren,271,10000,10300,10200

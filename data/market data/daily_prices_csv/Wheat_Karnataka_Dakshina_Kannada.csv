@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-03-12,Wheat,1,Karnataka,29,Dakshina Kannada,575,3500,4000,3800
+2024-02-01,Wheat,1,Karnataka,29,Dakshina Kannada,575,3719,3866,3746
+2022-06-16,Wheat,1,Karnataka,29,Dakshina Kannada,575,1900,2300,2200
+2022-03-31,Wheat,1,Karnataka,29,Dakshina Kannada,575,1800,2100,2000
+2022-03-21,Wheat,1,Karnataka,29,Dakshina Kannada,575,1800,2400,2200
+2022-03-07,Wheat,1,Karnataka,29,Dakshina Kannada,575,1000,2000,1900
+2022-02-05,Wheat,1,Karnataka,29,Dakshina Kannada,575,1800,2000,1900
+2022-01-11,Wheat,1,Karnataka,29,Dakshina Kannada,575,1800,2000,1900
+2021-12-21,Wheat,1,Karnataka,29,Dakshina Kannada,575,1500,2000,1800
+2021-12-13,Wheat,1,Karnataka,29,Dakshina Kannada,575,1500,2000,1800
+2021-12-06,Wheat,1,Karnataka,29,Dakshina Kannada,575,1600,2000,1800
+2021-12-02,Wheat,1,Karnataka,29,Dakshina Kannada,575,1700,1900,1800
+2021-11-23,Wheat,1,Karnataka,29,Dakshina Kannada,575,900,2900,2800

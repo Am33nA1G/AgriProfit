@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-23,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,6000,6500,6200
+2018-11-13,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4800,5200,5000
+2018-11-12,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4750,5250,5100
+2018-11-11,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4900,5160,5050
+2018-08-16,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4500,5000,4700
+2018-01-24,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,5500,6700,6000
+2018-01-23,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4000,5000,4500
+2018-01-03,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4000,4400,4200
+2017-12-15,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,4000,5000,4500
+2017-11-15,Lentil (Masur)(Whole),63,Haryana,6,Faridabad,88,5000,5500,5200

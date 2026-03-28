@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-19,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2300,2500,2400
+2018-12-17,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2200,2320,2250
+2018-12-16,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2100,2400,2260
+2018-12-15,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2810,3000,2900
+2018-12-14,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2850,3200,3000
+2018-12-13,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3180,3320,3230
+2018-12-12,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3500,3700,3620
+2018-12-11,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3460,3660,3500
+2018-12-10,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3500,3700,3600
+2018-12-09,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3400,3600,3500
+2018-12-08,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,3580,3710,3650
+2018-12-07,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2900,3100,3050
+2018-12-06,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2900,3180,3000
+2018-12-05,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2750,3000,2850
+2018-12-04,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2900,3150,3000
+2018-12-03,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2950,3250,3100
+2018-12-02,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2900,3300,3050
+2018-12-01,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2350,2560,2410
+2018-11-30,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2550,2710,2630
+2018-11-29,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2630,2820,2720
+2018-11-28,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2500,2750,2630
+2018-11-27,Peas cod,308,Uttar Pradesh,9,Sultanpur,179,2420,2620,2560

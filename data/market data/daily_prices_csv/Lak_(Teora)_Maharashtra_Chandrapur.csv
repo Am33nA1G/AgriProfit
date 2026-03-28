@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-07,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3100,3200,3150
+2020-06-29,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3000,3100,3050
+2020-05-27,Lak (Teora),96,Maharashtra,27,Chandrapur,509,2900,3000,2950
+2020-05-26,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3000,3100,3050
+2020-05-19,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3200,3300,3250
+2020-05-10,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3300,3325,3313
+2020-05-05,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3300,3350,3325
+2020-04-21,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3300,3400,3350
+2020-04-18,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3400,3500,3450
+2020-04-17,Lak (Teora),96,Maharashtra,27,Chandrapur,509,3400,3500,3450

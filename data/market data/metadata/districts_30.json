@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "census_district_id": 585,
+      "census_district_name": "North Goa"
+    },
+    {
+      "census_district_id": 586,
+      "census_district_name": "South Goa"
+    }
+  ]
+}

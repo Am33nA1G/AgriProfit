@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-17,Yam,244,Andhra Pradesh,28,Srikakulam,542,400,600,500
+2015-11-11,Yam,244,Andhra Pradesh,28,Srikakulam,542,400,600,500

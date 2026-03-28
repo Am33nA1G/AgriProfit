@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-12-30,Yam,244,Kerala,32,Ernakulam,595,1300,1500,1400
+2020-12-29,Yam,244,Kerala,32,Ernakulam,595,1300,1500,1400
+2020-12-28,Yam,244,Kerala,32,Ernakulam,595,1300,1500,1400
+2020-12-24,Yam,244,Kerala,32,Ernakulam,595,1100,1400,1200
+2020-12-22,Yam,244,Kerala,32,Ernakulam,595,1200,1400,1300
+2020-12-21,Yam,244,Kerala,32,Ernakulam,595,1200,1400,1300
+2020-12-17,Yam,244,Kerala,32,Ernakulam,595,1100,1300,1200
+2020-12-16,Yam,244,Kerala,32,Ernakulam,595,1200,1400,1300
+2020-12-11,Yam,244,Kerala,32,Ernakulam,595,1500,1700,1600
+2020-12-10,Yam,244,Kerala,32,Ernakulam,595,1500,1700,1600
+2020-12-09,Yam,244,Kerala,32,Ernakulam,595,1500,1700,1600
+2020-12-08,Yam,244,Kerala,32,Ernakulam,595,1500,1700,1600

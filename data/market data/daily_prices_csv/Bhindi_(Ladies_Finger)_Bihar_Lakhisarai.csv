@@ -1,0 +1,22 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1780,1825,1795
+2023-09-05,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1785,1835,1820
+2023-09-04,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1745,1780,1760
+2023-09-03,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1875,1935,1920
+2023-09-02,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,2310,2330,2325
+2023-08-31,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1870,1905,1895
+2023-08-30,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,1710,1785,1760
+2023-08-28,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,2650,2755,2720
+2023-08-26,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,2450,2510,2480
+2023-08-25,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,3220,3260,3235
+2023-08-23,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,22150,22550,22400
+2023-08-22,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,19350,19900,19600
+2023-08-21,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,30000,31000,30500
+2023-08-19,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,13750,13950,13800
+2023-08-18,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,35100,35800,35350
+2023-08-17,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,31250,31650,31500
+2023-08-16,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,32600,33150,32950
+2023-08-15,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,34800,35200,34900
+2023-08-09,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,15200,15650,15400
+2023-08-08,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,10300,10800,10550
+2023-08-07,Bhindi (Ladies Finger),85,Bihar,10,Lakhisarai,227,11000,11250,11100

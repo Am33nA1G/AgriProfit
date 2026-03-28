@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-30,Methi Seeds,47,Uttarakhand,5,Dehradun,60,2143,7238,7238
+2015-12-31,Methi Seeds,47,Uttarakhand,5,Dehradun,60,3000,3000,3000
+2015-10-27,Methi Seeds,47,Uttarakhand,5,Dehradun,60,3200,3200,3200

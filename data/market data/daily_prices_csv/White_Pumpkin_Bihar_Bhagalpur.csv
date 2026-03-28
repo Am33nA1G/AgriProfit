@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-15,White Pumpkin,158,Bihar,10,Bhagalpur,224,1700,2000,1900
+2022-10-29,White Pumpkin,158,Bihar,10,Bhagalpur,224,1600,1900,1700
+2022-10-22,White Pumpkin,158,Bihar,10,Bhagalpur,224,1500,1800,1600
+2022-10-08,White Pumpkin,158,Bihar,10,Bhagalpur,224,1500,1700,1600

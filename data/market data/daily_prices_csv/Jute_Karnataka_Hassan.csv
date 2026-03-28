@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-02,Jute,16,Karnataka,29,Hassan,574,4000,4000,4000
+2017-03-02,Jute,16,Karnataka,29,Hassan,574,3000,3000,3000
+2017-01-01,Jute,16,Karnataka,29,Hassan,574,3000,3000,3000
+2016-12-08,Jute,16,Karnataka,29,Hassan,574,3000,3000,3000

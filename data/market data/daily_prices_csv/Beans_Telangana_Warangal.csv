@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-20,Beans,94,Telangana,36,Warangal,540,7500,8000,7750
+2024-09-19,Beans,94,Telangana,36,Warangal,540,7500,8000,7750
+2024-06-27,Beans,94,Telangana,36,Warangal,540,4050,4050,4050
+2018-05-08,Beans,94,Telangana,36,Warangal,540,1803,1803,1803
+2017-09-26,Beans,94,Telangana,36,Warangal,540,1612,1612,1612
+2017-09-15,Beans,94,Telangana,36,Warangal,540,2485,2485,2485

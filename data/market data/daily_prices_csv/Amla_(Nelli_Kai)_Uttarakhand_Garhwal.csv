@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-29,Amla (Nelli Kai),355,Uttarakhand,5,Garhwal,61,3000,4000,3500
+2023-07-15,Amla (Nelli Kai),355,Uttarakhand,5,Garhwal,61,1500,1800,1600
+2023-07-04,Amla (Nelli Kai),355,Uttarakhand,5,Garhwal,61,2200,2600,2400

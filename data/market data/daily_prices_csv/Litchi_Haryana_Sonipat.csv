@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-07-11,Litchi,351,Haryana,6,Sonipat,76,5000,5600,5200
+2019-07-06,Litchi,351,Haryana,6,Sonipat,76,5000,5500,5200
+2019-07-04,Litchi,351,Haryana,6,Sonipat,76,4000,4500,4200
+2019-07-02,Litchi,351,Haryana,6,Sonipat,76,6000,7200,6500
+2019-07-01,Litchi,351,Haryana,6,Sonipat,76,5000,5500,5200
+2019-06-27,Litchi,351,Haryana,6,Sonipat,76,6000,7200,6800
+2019-06-26,Litchi,351,Haryana,6,Sonipat,76,6000,7000,6500
+2019-05-30,Litchi,351,Haryana,6,Sonipat,76,6000,7500,7000
+2019-05-29,Litchi,351,Haryana,6,Sonipat,76,5000,5500,5200
+2019-05-26,Litchi,351,Haryana,6,Sonipat,76,6000,7200,6500
+2017-06-22,Litchi,351,Haryana,6,Sonipat,76,6000,8000,7000
+2017-06-21,Litchi,351,Haryana,6,Sonipat,76,6000,7500,7000
+2017-06-19,Litchi,351,Haryana,6,Sonipat,76,7000,8000,7500
+2017-06-07,Litchi,351,Haryana,6,Sonipat,76,6000,7500,7000

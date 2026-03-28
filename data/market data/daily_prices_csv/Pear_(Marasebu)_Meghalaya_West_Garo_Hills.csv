@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-04,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,200,300,250
+2015-08-07,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,120,150,140
+2015-07-31,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,100,200,190
+2015-07-18,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,1500,2000,1900
+2015-07-11,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,2000,2500,2400
+2015-07-10,Pear (Marasebu),330,Meghalaya,17,West Garo Hills,293,1500,1800,1700

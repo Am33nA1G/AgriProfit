@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-25,Amla (Nelli Kai),355,Kerala,32,Kollam,600,7500,8500,8000
+2019-05-27,Amla (Nelli Kai),355,Kerala,32,Kollam,600,8000,10000,9000
+2016-05-11,Amla (Nelli Kai),355,Kerala,32,Kollam,600,1000,1300,1200

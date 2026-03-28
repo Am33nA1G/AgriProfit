@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-09-13,Groundnut,10,Mizoram,15,Aizawl,283,12000,15000,13500
+2019-09-06,Groundnut,10,Mizoram,15,Aizawl,283,12000,15000,13500
+2019-09-04,Groundnut,10,Mizoram,15,Aizawl,283,12000,15000,13500
+2018-09-11,Groundnut,10,Mizoram,15,Aizawl,283,24000,35000,26000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-14,Custard Apple (Sharifa),352,Madhya Pradesh,23,Ujjain,435,2800,2800,2800
+2017-10-05,Custard Apple (Sharifa),352,Madhya Pradesh,23,Ujjain,435,2000,2000,2000
+2015-01-09,Custard Apple (Sharifa),352,Madhya Pradesh,23,Ujjain,435,0.8,2.5,1.5

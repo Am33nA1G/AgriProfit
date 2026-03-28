@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-24,White Peas,412,Uttar Pradesh,9,Etah,201,4000,4500,4220
+2025-10-10,White Peas,412,Uttar Pradesh,9,Etah,201,4000,4500,4280
+2025-10-03,White Peas,412,Uttar Pradesh,9,Etah,201,4000,4500,4250

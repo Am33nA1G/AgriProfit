@@ -1,0 +1,201 @@
+{
+  "AMRITSAR": {
+    "AJNALA - 210": [],
+    "ATTARI - 6621": [],
+    "CHOGAWAN - 212": [],
+    "HARSHE CHHINA - 215": [],
+    "JANDIALA GURU - 216": [],
+    "MAJITHA - 218": [],
+    "RAYYA - 221": [],
+    "TARSIKKA - 223": [],
+    "VERKA - 225": []
+  },
+  "BARNALA": {
+    "BARNALA - 341": [],
+    "MEHAL KALAN - 346": [],
+    "SEHNA - 348": []
+  },
+  "BATHINDA": {
+    "BATHINDA - 226": [],
+    "BHAGTA BHAIKA - 227": [],
+    "GONIANA - 7333": [],
+    "MAUR - 228": [],
+    "NATHANA - 229": [],
+    "PHUL - 230": [],
+    "RAMPURA - 231": [],
+    "SANGAT - 232": [],
+    "TALWANDI SABO - 233": []
+  },
+  "FARIDKOT": {
+    "FARIDKOT - 234": [],
+    "Jaitu - 7091": [],
+    "KOT KAPURA - 235": []
+  },
+  "FATEHGARH SAHIB": {
+    "AMLOH - 236": [],
+    "BASSI PATHANA - 237": [],
+    "KHAMANO - 238": [],
+    "KHERA - 239": [],
+    "SIRHIND - 240": []
+  },
+  "FAZILKA": {
+    "ABOHAR - 241": [],
+    "Arniwala Shiekh Subhan - 6735": [],
+    "FAZILKA - 242": [],
+    "JALALABAD - 246": [],
+    "KHUIAN SARWAR - 247": []
+  },
+  "FEROZEPUR": {
+    "FIROZPUR - 243": [],
+    "GHALL KHURD - 244": [],
+    "GURU HAR SAHAI  - 245": [],
+    "MAKHU - 248": [],
+    "MAMDOT - 249": [],
+    "ZIRA - 250": []
+  },
+  "GURDASPUR": {
+    "BATALA - 252": [],
+    "DERA BABA NANAK - 253": [],
+    "DHARIWAL - 254": [],
+    "DINANAGAR - 256": [],
+    "DORANGLA - 257": [],
+    "FATEHGARH CHURIAN - 258": [],
+    "GURDASPUR - 259": [],
+    "KAHNUWAN - 260": [],
+    "KALANAUR - 261": [],
+    "QADIAN - 264": [],
+    "SRI HARGOBINDPUR - 265": []
+  },
+  "HOSHIARPUR": {
+    "BHUNGA - 267": [],
+    "DASUYA - 268": [],
+    "GARHSHANKAR - 269": [],
+    "HAJIPUR - 270": [],
+    "HOSHIARPUR-I - 271": [],
+    "HOSHIARPUR-II - 272": [],
+    "MAHILPUR - 273": [],
+    "MUKERIAN - 274": [],
+    "TALWARA - 275": [],
+    "TANDA - 276": []
+  },
+  "JALANDHAR": {
+    "ADAMPUR - 277": [],
+    "BHOGPUR - 278": [],
+    "JALANDHAR - WEST - 279": [],
+    "JALANDHAR-EAST - 280": [],
+    "LOHIAN - 281": [],
+    "MEHATPUR - 6906": [],
+    "NAKODAR - 282": [],
+    "NURMAHAL - 283": [],
+    "PHILLAUR - 284": [],
+    "RURKA KALAN - 285": [],
+    "SHAHKOT - 286": []
+  },
+  "KAPURTHALA": {
+    "DHILWAN - 287": [],
+    "KAPURTHALA - 288": [],
+    "NADALA - 289": [],
+    "PHAGWARA - 290": [],
+    "SULTANPUR LODHI - 291": []
+  },
+  "LUDHIANA": {
+    "DEHLON - 292": [],
+    "DORAHA - 293": [],
+    "JAGRAON - 294": [],
+    "KHANNA - 295": [],
+    "LUDHIANA-1 - 296": [],
+    "LUDHIANA-2 - 297": [],
+    "MACHHIWARA - 298": [],
+    "Maloud - 7085": [],
+    "PAKHOWAL - 299": [],
+    "RAIKOT - 300": [],
+    "SAMRALA - 301": [],
+    "SIDHWAN BET - 302": [],
+    "SUDHAR - 303": []
+  },
+  "MALERKOTLA": {
+    "Ahmedgarh - 7487": [],
+    "Amargarh - 345": [],
+    "Malerkotla H - 339": []
+  },
+  "MANSA": {
+    "BHIKHI - 304": [],
+    "BUDHLADA - 305": [],
+    "JHUNIR - 306": [],
+    "MANSA - 307": [],
+    "SARDULGARH - 308": []
+  },
+  "MOGA": {
+    "BAGHAPURANA - 309": [],
+    "KOT-ISE-KHAN - 310": [],
+    "MOGA-I - 311": [],
+    "MOGA-II - 312": [],
+    "NIHAL SINGH WALA - 313": []
+  },
+  "PATHANKOT": {
+    "BAMIAL - 251": [],
+    "DHARKALAN - 255": [],
+    "GHAROTA - 6779": [],
+    "NAROT JAIMAL SINGH - 262": [],
+    "PATHANKOT - 263": [],
+    "SUJANPUR - 266": []
+  },
+  "PATIALA": {
+    "BHUNER HERI - 323": [],
+    "GHANAUR - 325": [],
+    "NABHA - 326": [],
+    "PATIALA - 327": [],
+    "PATIALA RURAL - 7479": [],
+    "PATRAN - 328": [],
+    "RAJPURA - 329": [],
+    "SAMANA - 330": [],
+    "SANOUR - 331": [],
+    "Shambu Kalan - 7337": []
+  },
+  "RUPNAGAR": {
+    "ANANDPUR SAHIB - 332": [],
+    "CHAMKAUR SAHIB - 333": [],
+    "MORINDA - 336": [],
+    "NURPUR BEDI - 337": [],
+    "RUPNAGAR - 338": []
+  },
+  "S.A.S Nagar": {
+    "DERA BASSI - 324": [],
+    "KHARAR - 334": [],
+    "MAJRI - 335": [],
+    "MOHALI - 7486": []
+  },
+  "SANGRUR": {
+    "ANDANA - 340": [],
+    "BHAWANI GARH - 342": [],
+    "DHURI - 343": [],
+    "DIRBA - 6736": [],
+    "LEHRAGAGA - 344": [],
+    "SANGRUR - 347": [],
+    "SHERPUR - 349": [],
+    "SUNAM - 350": []
+  },
+  "SRI MUKTSAR SAHIB": {
+    "GIDDERBAHA - 314": [],
+    "LAMBI - 315": [],
+    "MALOUT - 316": [],
+    "MUKTSAR - 317": []
+  },
+  "Shahid Bhagat Singh Nagar": {
+    "AUR - 318": [],
+    "BALACHAUR - 319": [],
+    "BANGA - 320": [],
+    "NAWANSHAHR - 321": [],
+    "SAROYA - 322": []
+  },
+  "Tarn Taran": {
+    "BHIKHI WIND-13 - 211": [],
+    "CHOHLA SAHIB-8 - 213": [],
+    "GANDIWIND-9 - 214": [],
+    "KHADUR-SAHIB-10 - 217": [],
+    "NAUSHEHRA PANNUAN-11 - 219": [],
+    "PATTI-14 - 220": [],
+    "TARN TARAN-12 - 222": [],
+    "VALTOHA-15 - 224": []
+  }
+}

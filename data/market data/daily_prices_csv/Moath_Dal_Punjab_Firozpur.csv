@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-18,Moath Dal,95,Punjab,3,Firozpur,43,1800,2200,2000
+2020-09-04,Moath Dal,95,Punjab,3,Firozpur,43,100,300,200
+2015-12-26,Moath Dal,95,Punjab,3,Firozpur,43,8000,9000,8700
+2015-12-24,Moath Dal,95,Punjab,3,Firozpur,43,8600,8800,8700
+2015-12-17,Moath Dal,95,Punjab,3,Firozpur,43,8500,8900,8700
+2015-12-08,Moath Dal,95,Punjab,3,Firozpur,43,8500,8900,8700
+2015-12-07,Moath Dal,95,Punjab,3,Firozpur,43,8500,8900,8700
+2015-12-06,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-12-05,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-12-04,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-12-03,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-12-02,Moath Dal,95,Punjab,3,Firozpur,43,8000,8000,8000
+2015-12-01,Moath Dal,95,Punjab,3,Firozpur,43,8000,8000,8000
+2015-11-30,Moath Dal,95,Punjab,3,Firozpur,43,8000,8000,8000
+2015-11-28,Moath Dal,95,Punjab,3,Firozpur,43,8000,8000,8000
+2015-11-27,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-11-26,Moath Dal,95,Punjab,3,Firozpur,43,6800,6800,6800
+2015-11-16,Moath Dal,95,Punjab,3,Firozpur,43,8600,8600,8600

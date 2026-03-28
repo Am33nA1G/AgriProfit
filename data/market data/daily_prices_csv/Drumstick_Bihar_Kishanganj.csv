@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-25,Drumstick,168,Bihar,10,Kishanganj,210,2400,2800,2600
+2022-05-30,Drumstick,168,Bihar,10,Kishanganj,210,2000,2200,2100
+2022-05-29,Drumstick,168,Bihar,10,Kishanganj,210,1700,1900,1800
+2022-05-24,Drumstick,168,Bihar,10,Kishanganj,210,2000,2200,2100
+2022-05-20,Drumstick,168,Bihar,10,Kishanganj,210,1800,2000,1900
+2022-05-14,Drumstick,168,Bihar,10,Kishanganj,210,2500,2700,2600

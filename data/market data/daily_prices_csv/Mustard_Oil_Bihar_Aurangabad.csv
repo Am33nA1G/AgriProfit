@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-22,Mustard Oil,324,Bihar,10,Aurangabad,235,3800,4000,3900
+2015-07-17,Mustard Oil,324,Bihar,10,Aurangabad,235,3650,3750,3700
+2015-07-16,Mustard Oil,324,Bihar,10,Aurangabad,235,3600,3800,3700
+2015-07-15,Mustard Oil,324,Bihar,10,Aurangabad,235,3700,3800,3750
+2015-02-05,Mustard Oil,324,Bihar,10,Aurangabad,235,9500,9700,9600

@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-31,Tomato,78,Tamil Nadu,33,Tiruppur,633,2500,2840,2840
+2024-07-30,Tomato,78,Tamil Nadu,33,Tiruppur,633,2540,2940,2940
+2024-07-29,Tomato,78,Tamil Nadu,33,Tiruppur,633,2700,3120,3120
+2024-07-28,Tomato,78,Tamil Nadu,33,Tiruppur,633,2640,3040,3040
+2024-07-27,Tomato,78,Tamil Nadu,33,Tiruppur,633,2600,3140,3140
+2024-07-26,Tomato,78,Tamil Nadu,33,Tiruppur,633,3400,3940,3940
+2024-07-25,Tomato,78,Tamil Nadu,33,Tiruppur,633,4760,5200,5200
+2024-07-24,Tomato,78,Tamil Nadu,33,Tiruppur,633,4720,5400,5400
+2024-07-23,Tomato,78,Tamil Nadu,33,Tiruppur,633,4900,5660,5660
+2024-07-22,Tomato,78,Tamil Nadu,33,Tiruppur,633,5100,6060,6060
+2024-07-21,Tomato,78,Tamil Nadu,33,Tiruppur,633,5600,6200,6200
+2024-07-20,Tomato,78,Tamil Nadu,33,Tiruppur,633,5540,6000,6000
+2024-07-19,Tomato,78,Tamil Nadu,33,Tiruppur,633,5100,6100,6100
+2024-07-18,Tomato,78,Tamil Nadu,33,Tiruppur,633,5960,6760,6760
+2024-07-17,Tomato,78,Tamil Nadu,33,Tiruppur,633,6060,6660,6660
+2024-07-16,Tomato,78,Tamil Nadu,33,Tiruppur,633,5700,6260,6260

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-09,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,3000,4000,3500
+2025-01-30,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2200,3000,2500
+2025-01-29,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2500,3200,2800
+2024-12-01,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2950,3050,3000
+2024-11-27,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2900,3100,3000
+2024-11-22,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2900,3100,3000
+2024-03-06,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2000,2000,2000
+2024-02-25,Kinnow,336,Uttarakhand,5,Udham Singh Nagar,67,2500,2500,2500

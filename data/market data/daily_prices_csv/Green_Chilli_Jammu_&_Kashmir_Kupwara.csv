@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-07,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,5000,6000,5500
+2022-08-26,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,3000,5000,4000
+2022-08-24,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,5000,6000,5500
+2022-06-10,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,5000,5200,5100
+2022-05-28,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,5500,6000,5700
+2022-05-17,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,6000,7000,6500
+2022-04-23,Green Chilli,87,Jammu & Kashmir,1,Kupwara,1,5500,6000,5700

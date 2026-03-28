@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-20,Black Gram (Urad Beans)(Whole),8,Tripura,16,South Tripura,290,6850,7000,6950
+2019-10-30,Black Gram (Urad Beans)(Whole),8,Tripura,16,South Tripura,290,5850,6000,5925
+2017-01-29,Black Gram (Urad Beans)(Whole),8,Tripura,16,South Tripura,290,9000,100000,9500

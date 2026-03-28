@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-12,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,5900,6500,6000
+2017-09-01,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,6000,6500,6200
+2017-08-07,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,5000,6000,5500
+2017-03-26,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8000,8500,8200
+2017-01-14,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,9500,10000,9800
+2016-11-22,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8500,9500,9000
+2016-11-03,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,9000,11000,10000
+2016-07-15,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,11500,13000,12000
+2015-11-25,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8500,10000,9000
+2015-11-07,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8000,9000,8500
+2015-10-27,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8000,9000,8500
+2015-07-01,Dry Chillies,132,Andhra Pradesh,28,Vizianagaram,543,8500,9000,8700

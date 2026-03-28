@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-10,Mustard,12,Maharashtra,27,Yavatmal,510,6750,6800,6755
+2019-11-14,Mustard,12,Maharashtra,27,Yavatmal,510,3425,3425,3425

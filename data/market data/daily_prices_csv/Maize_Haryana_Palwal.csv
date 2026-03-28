@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-22,Maize,4,Haryana,6,Palwal,89,800,1000,900
+2023-07-03,Maize,4,Haryana,6,Palwal,89,800,1000,900
+2023-06-21,Maize,4,Haryana,6,Palwal,89,800,1000,900
+2023-05-29,Maize,4,Haryana,6,Palwal,89,1000,1200,1100

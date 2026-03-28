@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Leafy Vegetable,171,Bihar,10,Khagaria,223,400,600,500
+2023-09-04,Leafy Vegetable,171,Bihar,10,Khagaria,223,3300,3500,3400
+2023-09-03,Leafy Vegetable,171,Bihar,10,Khagaria,223,400,600,500
+2023-09-02,Leafy Vegetable,171,Bihar,10,Khagaria,223,500,700,600
+2023-09-01,Leafy Vegetable,171,Bihar,10,Khagaria,223,400,600,500

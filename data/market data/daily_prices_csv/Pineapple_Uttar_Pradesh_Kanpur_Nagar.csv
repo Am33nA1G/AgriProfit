@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-06,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2000,3000,2500
+2024-03-11,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2000,2200,2100
+2024-02-28,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2200,2600,2400
+2024-02-27,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2200,2600,2400
+2024-02-26,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2200,2800,2500
+2023-11-30,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2000,2500,2200
+2023-11-28,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2000,2200,2100
+2023-08-05,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,2000,3000,2500
+2023-07-11,Pineapple,21,Uttar Pradesh,9,Kanpur Nagar,164,5000,6000,5500

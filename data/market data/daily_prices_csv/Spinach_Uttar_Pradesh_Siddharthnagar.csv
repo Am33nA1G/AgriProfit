@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-31,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,1350,1500,1425
+2023-03-24,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,1300,1445,1370
+2023-03-17,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,1220,1365,1290
+2023-03-10,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,1200,1350,1275
+2023-03-03,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,1170,1325,1250
+2023-02-24,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,860,1010,935
+2023-02-17,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,870,1025,950
+2023-02-10,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,870,1015,940
+2023-01-27,Spinach,342,Uttar Pradesh,9,Siddharthnagar,184,970,1125,1050

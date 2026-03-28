@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-20,Avare Dal,269,Madhya Pradesh,23,Mandla,454,3300,3300,3300
+2018-08-05,Avare Dal,269,Madhya Pradesh,23,Mandla,454,2050,2050,2050
+2018-04-07,Avare Dal,269,Madhya Pradesh,23,Mandla,454,3500,3575,3550
+2017-08-30,Avare Dal,269,Madhya Pradesh,23,Mandla,454,1725,1760,1750
+2017-07-09,Avare Dal,269,Madhya Pradesh,23,Mandla,454,4575,4575,4575
+2017-04-06,Avare Dal,269,Madhya Pradesh,23,Mandla,454,4000,4000,4000
+2017-04-04,Avare Dal,269,Madhya Pradesh,23,Mandla,454,4000,4000,4000
+2017-03-25,Avare Dal,269,Madhya Pradesh,23,Mandla,454,2215,2215,2215
+2016-02-25,Avare Dal,269,Madhya Pradesh,23,Mandla,454,2510,2510,2510

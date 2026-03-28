@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-12,Bottle gourd,82,Bihar,10,Supaul,208,900,1050,1000
+2022-04-03,Bottle gourd,82,Bihar,10,Supaul,208,1400,2000,1500
+2022-03-30,Bottle gourd,82,Bihar,10,Supaul,208,1100,1300,1200
+2022-03-26,Bottle gourd,82,Bihar,10,Supaul,208,900,1500,1100
+2022-03-25,Bottle gourd,82,Bihar,10,Supaul,208,1000,1150,1100
+2022-03-24,Bottle gourd,82,Bihar,10,Supaul,208,800,1000,900
+2022-03-23,Bottle gourd,82,Bihar,10,Supaul,208,800,1000,900
+2022-03-20,Bottle gourd,82,Bihar,10,Supaul,208,1000,1400,1200
+2022-02-28,Bottle gourd,82,Bihar,10,Supaul,208,1100,1300,1150
+2022-02-24,Bottle gourd,82,Bihar,10,Supaul,208,1000,1100,1050

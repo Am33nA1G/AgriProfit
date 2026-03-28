@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-26,Paddy (Dhan)(Basmati),414,Telangana,36,Rangareddy,537,1600,1600,1600
+2019-04-01,Paddy (Dhan)(Basmati),414,Telangana,36,Rangareddy,537,1800,1800,1800
+2019-03-28,Paddy (Dhan)(Basmati),414,Telangana,36,Rangareddy,537,1700,1700,1700
+2019-03-26,Paddy (Dhan)(Basmati),414,Telangana,36,Rangareddy,537,1800,1800,1800

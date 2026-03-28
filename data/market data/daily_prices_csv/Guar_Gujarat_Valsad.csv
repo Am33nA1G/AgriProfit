@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-04,Guar,75,Gujarat,24,Valsad,491,800,1000,900
+2015-05-01,Guar,75,Gujarat,24,Valsad,491,800,1000,900
+2015-04-30,Guar,75,Gujarat,24,Valsad,491,750,1000,875

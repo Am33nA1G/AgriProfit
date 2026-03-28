@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-24,Papaya (Raw),313,Gujarat,24,Junagadh,479,1500,3000,2000
+2016-05-05,Papaya (Raw),313,Gujarat,24,Junagadh,479,1000,1030,1020
+2015-05-16,Papaya (Raw),313,Gujarat,24,Junagadh,479,500,520,510
+2015-05-14,Papaya (Raw),313,Gujarat,24,Junagadh,479,500,520,510
+2015-05-03,Papaya (Raw),313,Gujarat,24,Junagadh,479,500,520,510
+2015-04-30,Papaya (Raw),313,Gujarat,24,Junagadh,479,500,520,510
+2015-04-17,Papaya (Raw),313,Gujarat,24,Junagadh,479,800,820,810
+2015-01-08,Papaya (Raw),313,Gujarat,24,Junagadh,479,700,720,710

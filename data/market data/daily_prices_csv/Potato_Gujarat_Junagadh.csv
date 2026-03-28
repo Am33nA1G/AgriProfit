@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-02-13,Potato,24,Gujarat,24,Junagadh,479,450,1300,750
+2015-02-06,Potato,24,Gujarat,24,Junagadh,479,400,1400,950
+2015-01-31,Potato,24,Gujarat,24,Junagadh,479,450,1200,800
+2015-01-30,Potato,24,Gujarat,24,Junagadh,479,500,1250,850
+2015-01-29,Potato,24,Gujarat,24,Junagadh,479,450,1200,850

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-08,Cabbage,154,Nagaland,13,Mon,261,2800,3500,3150
+2022-11-23,Cabbage,154,Nagaland,13,Mon,261,3600,4500,4050
+2022-11-09,Cabbage,154,Nagaland,13,Mon,261,4800,5880,5400
+2022-10-12,Cabbage,154,Nagaland,13,Mon,261,2100,2700,2400
+2022-09-28,Cabbage,154,Nagaland,13,Mon,261,2700,3600,3150
+2022-09-07,Cabbage,154,Nagaland,13,Mon,261,1200,1500,1350
+2022-08-31,Cabbage,154,Nagaland,13,Mon,261,2460,3060,2700
+2022-08-17,Cabbage,154,Nagaland,13,Mon,261,2800,3500,3150
+2022-08-10,Cabbage,154,Nagaland,13,Mon,261,3200,4000,3600

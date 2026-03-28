@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-23,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2200,2400,2300
+2025-07-16,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2200,2400,2300
+2025-06-30,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2200,2400,2300
+2025-06-26,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2200,2400,2300
+2025-06-20,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2200,2400,2300
+2025-04-02,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1200,1800,1500
+2024-09-27,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2500,3200,2800
+2024-08-29,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,2100,1900
+2023-09-27,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1900,1800
+2023-09-05,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1950,1800
+2023-09-01,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1950,1800
+2023-08-22,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1900,1800
+2023-08-18,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1650,1950,1800
+2023-08-01,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1950,1800
+2023-07-19,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1700,1950,1850
+2023-07-17,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1800,2150,1950
+2023-05-23,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,2100,2250,2150
+2022-08-29,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1900,2100,2000
+2018-03-19,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1530,1560,1545
+2018-03-12,Paddy(Dhan)(Common),2,Tamil Nadu,33,Namakkal,609,1334,1475,1400

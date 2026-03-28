@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-16,Potato,24,Karnataka,29,Raichur,559,450,550,520
+2015-03-09,Potato,24,Karnataka,29,Raichur,559,800,810,800

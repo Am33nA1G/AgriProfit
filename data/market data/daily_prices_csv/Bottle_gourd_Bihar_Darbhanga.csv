@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-11,Bottle gourd,82,Bihar,10,Darbhanga,215,1400,1500,1450
+2022-08-04,Bottle gourd,82,Bihar,10,Darbhanga,215,1400,1600,1500
+2022-05-11,Bottle gourd,82,Bihar,10,Darbhanga,215,700,900,800
+2022-05-04,Bottle gourd,82,Bihar,10,Darbhanga,215,750,1000,900
+2022-04-28,Bottle gourd,82,Bihar,10,Darbhanga,215,800,1000,900

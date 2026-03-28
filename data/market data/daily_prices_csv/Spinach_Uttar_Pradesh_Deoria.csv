@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-22,Spinach,342,Uttar Pradesh,9,Deoria,190,1040,1075,1050
+2023-12-21,Spinach,342,Uttar Pradesh,9,Deoria,190,1050,1070,1060
+2023-12-19,Spinach,342,Uttar Pradesh,9,Deoria,190,1040,1060,1055
+2023-12-18,Spinach,342,Uttar Pradesh,9,Deoria,190,1200,1300,1250
+2023-12-15,Spinach,342,Uttar Pradesh,9,Deoria,190,1140,1175,1160
+2023-12-14,Spinach,342,Uttar Pradesh,9,Deoria,190,1150,1170,1160

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-10-01,Papaya (Raw),313,Uttar Pradesh,9,Gonda,183,1000,2000,1050
+2019-09-21,Papaya (Raw),313,Uttar Pradesh,9,Gonda,183,900,1400,1000

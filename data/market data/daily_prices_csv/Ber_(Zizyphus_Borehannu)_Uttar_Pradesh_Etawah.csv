@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-09,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Etawah,161,750,850,800
+2019-04-06,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Etawah,161,800,900,850
+2019-04-05,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Etawah,161,850,950,900

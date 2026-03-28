@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Apple,17,Bihar,10,Purnia,211,8000,10000,9000
+2023-09-05,Apple,17,Bihar,10,Purnia,211,8000,12000,10000
+2023-09-04,Apple,17,Bihar,10,Purnia,211,8000,12000,10000
+2023-09-03,Apple,17,Bihar,10,Purnia,211,8000,12000,10000
+2023-09-02,Apple,17,Bihar,10,Purnia,211,8000,12000,10000
+2023-09-01,Apple,17,Bihar,10,Purnia,211,8000,12000,10000
+2023-08-31,Apple,17,Bihar,10,Purnia,211,8000,10000,9000
+2023-08-30,Apple,17,Bihar,10,Purnia,211,8000,12000,10000

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-01,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,4000,9000,6500
+2025-01-21,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,1500,4000,2550
+2025-01-04,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,2500,4000,3250
+2024-12-28,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,2500,4500,3500
+2024-12-26,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,3000,6000,4500
+2024-08-20,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,2500,12600,7500
+2024-08-17,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,3500,12600,8000
+2024-08-16,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,3000,12000,7500
+2024-08-13,Chrysanthemum (Loose),231,Maharashtra,27,Ahmadnagar,522,4000,13000,8500

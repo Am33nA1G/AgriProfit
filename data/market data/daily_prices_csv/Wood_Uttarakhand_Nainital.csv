@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-18,Wood,203,Uttarakhand,5,Nainital,66,500,500,500
+2016-02-29,Wood,203,Uttarakhand,5,Nainital,66,1000,2000,1500
+2015-03-16,Wood,203,Uttarakhand,5,Nainital,66,550,800,675

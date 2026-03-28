@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-11,Ginger (Green),103,Bihar,10,Madhubani,207,6000,8000,7000
+2023-02-16,Ginger (Green),103,Bihar,10,Madhubani,207,4000,6000,5000
+2023-02-05,Ginger (Green),103,Bihar,10,Madhubani,207,4000,6000,5000

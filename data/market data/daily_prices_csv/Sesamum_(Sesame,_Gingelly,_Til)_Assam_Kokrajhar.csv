@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-05,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,4000,4500,4200
+2015-02-11,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,5000,5250,5250
+2015-02-10,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,5000,5250,5250
+2015-02-06,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,5300,5700,5500
+2015-02-05,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,5250,5700,5500
+2015-01-12,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,5500,6000,6000
+2015-01-05,"Sesamum (Sesame, Gingelly, Til)",11,Assam,18,Kokrajhar,300,6000,6850,6800

@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-07,Avare Dal,269,Tamil Nadu,33,Erode,610,7805,8279,8029
+2023-02-28,Avare Dal,269,Tamil Nadu,33,Erode,610,7719,8669,8369
+2023-02-21,Avare Dal,269,Tamil Nadu,33,Erode,610,5829,9469,9229
+2022-03-29,Avare Dal,269,Tamil Nadu,33,Erode,610,6315,6890,6469
+2022-03-22,Avare Dal,269,Tamil Nadu,33,Erode,610,6029,6810,6029
+2022-03-15,Avare Dal,269,Tamil Nadu,33,Erode,610,6139,7216,6639
+2022-03-08,Avare Dal,269,Tamil Nadu,33,Erode,610,6219,6627,6269
+2022-02-15,Avare Dal,269,Tamil Nadu,33,Erode,610,5219,6019,5629
+2022-02-08,Avare Dal,269,Tamil Nadu,33,Erode,610,5675,5775,5769
+2018-03-12,Avare Dal,269,Tamil Nadu,33,Erode,610,3419,3816,3469
+2018-03-06,Avare Dal,269,Tamil Nadu,33,Erode,610,3119,3849,3464
+2018-02-26,Avare Dal,269,Tamil Nadu,33,Erode,610,3569,4201,3949
+2018-02-19,Avare Dal,269,Tamil Nadu,33,Erode,610,4019,4549,4315

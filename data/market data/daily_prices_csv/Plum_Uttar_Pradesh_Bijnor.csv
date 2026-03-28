@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-19,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-02-12,Plum,329,Uttar Pradesh,9,Bijnor,134,700,900,800
+2019-02-11,Plum,329,Uttar Pradesh,9,Bijnor,134,700,900,800
+2019-02-10,Plum,329,Uttar Pradesh,9,Bijnor,134,700,900,800
+2019-02-05,Plum,329,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2019-02-04,Plum,329,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2019-02-03,Plum,329,Uttar Pradesh,9,Bijnor,134,800,1000,900
+2019-02-02,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-01-30,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-01-29,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-01-27,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-01-26,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750
+2019-01-24,Plum,329,Uttar Pradesh,9,Bijnor,134,700,800,750

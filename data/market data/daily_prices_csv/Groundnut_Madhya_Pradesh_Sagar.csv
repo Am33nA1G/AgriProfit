@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-02,Groundnut,10,Madhya Pradesh,23,Sagar,427,3790,3890,3890
+2025-02-24,Groundnut,10,Madhya Pradesh,23,Sagar,427,3500,3550,3500
+2025-02-19,Groundnut,10,Madhya Pradesh,23,Sagar,427,3750,3780,3780
+2025-02-13,Groundnut,10,Madhya Pradesh,23,Sagar,427,3700,3800,3800
+2025-01-10,Groundnut,10,Madhya Pradesh,23,Sagar,427,3500,3600,3600
+2024-08-06,Groundnut,10,Madhya Pradesh,23,Sagar,427,4200,4200,4200
+2024-02-28,Groundnut,10,Madhya Pradesh,23,Sagar,427,4450,4550,4450
+2024-02-25,Groundnut,10,Madhya Pradesh,23,Sagar,427,4475,4580,4475
+2024-02-24,Groundnut,10,Madhya Pradesh,23,Sagar,427,4500,4558,4500

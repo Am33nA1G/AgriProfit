@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-03,Banana,19,Andhra Pradesh,28,Kurnool,552,250,350,300
+2015-08-18,Banana,19,Andhra Pradesh,28,Kurnool,552,400,500,450
+2015-08-01,Banana,19,Andhra Pradesh,28,Kurnool,552,450,600,500
+2015-05-21,Banana,19,Andhra Pradesh,28,Kurnool,552,400,600,500
+2015-05-15,Banana,19,Andhra Pradesh,28,Kurnool,552,500,750,650
+2015-05-13,Banana,19,Andhra Pradesh,28,Kurnool,552,450,540,500
+2015-04-18,Banana,19,Andhra Pradesh,28,Kurnool,552,400,600,500
+2015-04-07,Banana,19,Andhra Pradesh,28,Kurnool,552,400,600,500
+2015-04-04,Banana,19,Andhra Pradesh,28,Kurnool,552,300,500,400
+2015-03-01,Banana,19,Andhra Pradesh,28,Kurnool,552,400,500,450

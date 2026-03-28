@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-03,Papaya (Raw),313,Haryana,6,Kurukshetra,72,2500,3500,3000
+2023-11-18,Papaya (Raw),313,Haryana,6,Kurukshetra,72,6000,7000,6500
+2023-09-12,Papaya (Raw),313,Haryana,6,Kurukshetra,72,4000,5000,4500
+2023-09-01,Papaya (Raw),313,Haryana,6,Kurukshetra,72,4000,5000,4500
+2023-06-24,Papaya (Raw),313,Haryana,6,Kurukshetra,72,4000,5000,4500
+2023-04-25,Papaya (Raw),313,Haryana,6,Kurukshetra,72,2000,3000,2500
+2021-05-12,Papaya (Raw),313,Haryana,6,Kurukshetra,72,4000,4000,4000
+2020-05-19,Papaya (Raw),313,Haryana,6,Kurukshetra,72,3000,3000,3000
+2018-09-27,Papaya (Raw),313,Haryana,6,Kurukshetra,72,2500,2500,2500
+2018-08-03,Papaya (Raw),313,Haryana,6,Kurukshetra,72,2000,2860,2500
+2018-07-05,Papaya (Raw),313,Haryana,6,Kurukshetra,72,2100,3000,2500
+2018-07-02,Papaya (Raw),313,Haryana,6,Kurukshetra,72,3000,3000,3000
+2018-06-22,Papaya (Raw),313,Haryana,6,Kurukshetra,72,3000,3000,3000

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-08-24,Fish,366,Uttar Pradesh,9,Sitapur,154,3600,3620,3610
+2017-08-20,Fish,366,Uttar Pradesh,9,Sitapur,154,3000,3020,3010

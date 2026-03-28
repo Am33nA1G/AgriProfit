@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-09,Little gourd (Kundru),302,Maharashtra,27,Solapur,526,4,5,5
+2023-03-30,Little gourd (Kundru),302,Maharashtra,27,Solapur,526,5,6,6
+2022-03-03,Little gourd (Kundru),302,Maharashtra,27,Solapur,526,2,2,2
+2016-06-02,Little gourd (Kundru),302,Maharashtra,27,Solapur,526,1600,2500,2000

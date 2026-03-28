@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-14,Peach,331,Mizoram,15,Aizawl,283,3000,5000,4000
+2018-06-12,Peach,331,Mizoram,15,Aizawl,283,3500,6000,4750
+2018-05-25,Peach,331,Mizoram,15,Aizawl,283,3500,6000,4750
+2016-09-08,Peach,331,Mizoram,15,Aizawl,283,4000,5000,4500
+2016-06-22,Peach,331,Mizoram,15,Aizawl,283,3000,4000,3500
+2016-06-17,Peach,331,Mizoram,15,Aizawl,283,3000,5000,3500

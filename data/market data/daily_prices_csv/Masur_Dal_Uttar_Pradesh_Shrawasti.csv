@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-02,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3850,4150,3900
+2017-09-01,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3850,4150,4000
+2017-08-31,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4200,4000
+2017-08-25,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4200,4000
+2017-08-13,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3900,4200,4000
+2017-08-12,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4200,4000
+2017-08-10,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3900,4100,4000
+2017-08-08,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,4000,4200,4100
+2017-08-03,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4200,4000
+2017-07-28,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4100,3950
+2017-07-27,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4000,4000
+2017-07-26,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3800,4100,3950
+2017-07-22,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,4000,4200,4100
+2017-07-21,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,3900,4200,4000
+2017-07-18,Masur Dal,259,Uttar Pradesh,9,Shrawasti,181,4100,4300,4200

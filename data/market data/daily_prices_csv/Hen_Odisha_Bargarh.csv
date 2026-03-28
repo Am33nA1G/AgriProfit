@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-21,Hen,369,Odisha,21,Bargarh,370,1800,2000,2000
+2015-06-08,Hen,369,Odisha,21,Bargarh,370,20000,25000,25000
+2015-05-04,Hen,369,Odisha,21,Bargarh,370,180,200,200
+2015-04-27,Hen,369,Odisha,21,Bargarh,370,170,200,200
+2015-04-20,Hen,369,Odisha,21,Bargarh,370,180,200,200
+2015-04-13,Hen,369,Odisha,21,Bargarh,370,180,200,200
+2015-04-06,Hen,369,Odisha,21,Bargarh,370,180,200,200

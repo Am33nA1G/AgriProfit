@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-23,Coffee,45,Tamil Nadu,33,Namakkal,609,17000,18000,17500
+2021-04-16,Coffee,45,Tamil Nadu,33,Namakkal,609,15000,16000,15500
+2021-02-18,Coffee,45,Tamil Nadu,33,Namakkal,609,18400,19200,18750
+2021-02-16,Coffee,45,Tamil Nadu,33,Namakkal,609,18200,19500,18750
+2021-02-05,Coffee,45,Tamil Nadu,33,Namakkal,609,18300,19200,18750
+2021-02-03,Coffee,45,Tamil Nadu,33,Namakkal,609,18500,21000,19000
+2021-02-02,Coffee,45,Tamil Nadu,33,Namakkal,609,18500,19500,19000
+2021-01-27,Coffee,45,Tamil Nadu,33,Namakkal,609,18500,19250,18750

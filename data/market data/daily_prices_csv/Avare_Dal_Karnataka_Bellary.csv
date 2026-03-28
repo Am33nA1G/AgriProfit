@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-15,Avare Dal,269,Karnataka,29,Bellary,565,1729,1729,1729
+2021-02-08,Avare Dal,269,Karnataka,29,Bellary,565,2200,2200,2200
+2019-04-03,Avare Dal,269,Karnataka,29,Bellary,565,4350,4350,4350

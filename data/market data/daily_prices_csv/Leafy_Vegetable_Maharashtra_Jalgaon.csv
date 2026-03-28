@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-17,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,1200,1500,1500
+2023-09-16,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1200,1000
+2023-09-15,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1500,1000
+2023-09-13,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1500,1000
+2023-09-12,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,500,1200,1000
+2023-09-08,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1500,1000
+2023-09-06,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1000,1000
+2023-09-03,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,1000,1500,1200
+2023-09-02,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,1000,1200,1100
+2023-09-01,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,600,1000,800
+2023-08-31,Leafy Vegetable,171,Maharashtra,27,Jalgaon,499,800,1200,1000

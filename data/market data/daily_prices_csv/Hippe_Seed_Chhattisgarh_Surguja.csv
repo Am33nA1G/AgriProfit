@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-21,Hippe Seed,125,Chhattisgarh,22,Surguja,401,6100,6100,6100
+2018-11-29,Hippe Seed,125,Chhattisgarh,22,Surguja,401,6050,6050,6050
+2018-11-22,Hippe Seed,125,Chhattisgarh,22,Surguja,401,6050,6050,6050

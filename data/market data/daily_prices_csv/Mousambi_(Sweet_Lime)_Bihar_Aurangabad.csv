@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-05-07,Mousambi (Sweet Lime),77,Bihar,10,Aurangabad,235,5500,5800,5550
+2023-04-29,Mousambi (Sweet Lime),77,Bihar,10,Aurangabad,235,6000,6100,6050
+2023-04-24,Mousambi (Sweet Lime),77,Bihar,10,Aurangabad,235,1750,1850,1800
+2023-04-18,Mousambi (Sweet Lime),77,Bihar,10,Aurangabad,235,2000,2100,2050
+2023-03-24,Mousambi (Sweet Lime),77,Bihar,10,Aurangabad,235,2450,2550,2500

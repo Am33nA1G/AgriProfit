@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-29,Alsandikai,166,Punjab,3,Firozpur,43,3000,3500,3250
+2023-12-13,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2023-09-21,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2023-07-19,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2023-04-22,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2023-04-15,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2022-10-27,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2022-04-24,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2022-04-11,Alsandikai,166,Punjab,3,Firozpur,43,100,100,100
+2019-04-25,Alsandikai,166,Punjab,3,Firozpur,43,400,500,450
+2018-10-24,Alsandikai,166,Punjab,3,Firozpur,43,700,900,800
+2018-07-06,Alsandikai,166,Punjab,3,Firozpur,43,1500,1600,1550
+2017-02-16,Alsandikai,166,Punjab,3,Firozpur,43,800,1000,900

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-11-10,Sugarcane,150,Maharashtra,27,Chandrapur,509,10,15,12
+2021-11-09,Sugarcane,150,Maharashtra,27,Chandrapur,509,12,30,15
+2020-11-28,Sugarcane,150,Maharashtra,27,Chandrapur,509,2000,2500,2200
+2020-11-26,Sugarcane,150,Maharashtra,27,Chandrapur,509,100,300,200
+2019-10-13,Sugarcane,150,Maharashtra,27,Chandrapur,509,18,30,25
+2018-11-05,Sugarcane,150,Maharashtra,27,Chandrapur,509,10,20,15
+2018-10-31,Sugarcane,150,Maharashtra,27,Chandrapur,509,10,20,15

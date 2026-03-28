@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-22,Sweet Pumpkin,173,Karnataka,29,Udupi,569,500,700,600
+2015-07-15,Sweet Pumpkin,173,Karnataka,29,Udupi,569,500,700,600
+2015-07-01,Sweet Pumpkin,173,Karnataka,29,Udupi,569,500,700,600
+2015-06-24,Sweet Pumpkin,173,Karnataka,29,Udupi,569,800,1000,900
+2015-06-17,Sweet Pumpkin,173,Karnataka,29,Udupi,569,800,1000,900
+2015-06-03,Sweet Pumpkin,173,Karnataka,29,Udupi,569,900,1100,1000
+2015-05-27,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-05-20,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-05-13,Sweet Pumpkin,173,Karnataka,29,Udupi,569,800,1000,900
+2015-05-06,Sweet Pumpkin,173,Karnataka,29,Udupi,569,1000,1200,1100
+2015-04-29,Sweet Pumpkin,173,Karnataka,29,Udupi,569,1000,1200,1100
+2015-04-22,Sweet Pumpkin,173,Karnataka,29,Udupi,569,1000,1200,1100
+2015-04-15,Sweet Pumpkin,173,Karnataka,29,Udupi,569,800,1000,900
+2015-04-01,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-03-25,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-03-18,Sweet Pumpkin,173,Karnataka,29,Udupi,569,700,900,800
+2015-03-11,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-03-04,Sweet Pumpkin,173,Karnataka,29,Udupi,569,400,600,500
+2015-02-25,Sweet Pumpkin,173,Karnataka,29,Udupi,569,700,900,800
+2015-02-18,Sweet Pumpkin,173,Karnataka,29,Udupi,569,400,600,500
+2015-02-11,Sweet Pumpkin,173,Karnataka,29,Udupi,569,500,700,600
+2015-02-04,Sweet Pumpkin,173,Karnataka,29,Udupi,569,400,600,500
+2015-01-28,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-01-21,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-01-14,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700
+2015-01-07,Sweet Pumpkin,173,Karnataka,29,Udupi,569,600,800,700

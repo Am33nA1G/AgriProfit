@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-16,Kulthi (Horse Gram),114,Rajasthan,8,Sirohi,117,4025,4050,4050
+2015-07-14,Kulthi (Horse Gram),114,Rajasthan,8,Sirohi,117,4000,4050,4050
+2015-05-08,Kulthi (Horse Gram),114,Rajasthan,8,Sirohi,117,3400,3450,3425
+2015-04-23,Kulthi (Horse Gram),114,Rajasthan,8,Sirohi,117,3225,3275,3250
+2015-04-21,Kulthi (Horse Gram),114,Rajasthan,8,Sirohi,117,3200,3275,3250

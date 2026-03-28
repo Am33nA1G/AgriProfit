@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-19,Lime,180,Uttar Pradesh,9,Kheri,153,3600,3600,3600
+2020-11-10,Lime,180,Uttar Pradesh,9,Kheri,153,2890,3020,2950
+2019-03-01,Lime,180,Uttar Pradesh,9,Kheri,153,300,400,350
+2018-10-26,Lime,180,Uttar Pradesh,9,Kheri,153,2830,2870,2850
+2018-06-07,Lime,180,Uttar Pradesh,9,Kheri,153,2000,2200,2120
+2018-02-06,Lime,180,Uttar Pradesh,9,Kheri,153,1950,2050,2000
+2018-01-06,Lime,180,Uttar Pradesh,9,Kheri,153,950,1020,1000
+2017-06-29,Lime,180,Uttar Pradesh,9,Kheri,153,1900,1950,1930
+2017-06-27,Lime,180,Uttar Pradesh,9,Kheri,153,1880,1920,1900
+2017-06-25,Lime,180,Uttar Pradesh,9,Kheri,153,1750,1810,1800
+2017-06-22,Lime,180,Uttar Pradesh,9,Kheri,153,2000,2080,2050
+2017-06-20,Lime,180,Uttar Pradesh,9,Kheri,153,1780,1830,1800
+2017-06-19,Lime,180,Uttar Pradesh,9,Kheri,153,1910,2000,1950
+2017-06-18,Lime,180,Uttar Pradesh,9,Kheri,153,1980,2020,2000
+2017-06-16,Lime,180,Uttar Pradesh,9,Kheri,153,1580,1610,1600
+2017-06-15,Lime,180,Uttar Pradesh,9,Kheri,153,1600,1650,1620
+2017-06-12,Lime,180,Uttar Pradesh,9,Kheri,153,1010,1100,1060
+2017-06-11,Lime,180,Uttar Pradesh,9,Kheri,153,1000,1100,1080
+2017-06-10,Lime,180,Uttar Pradesh,9,Kheri,153,980,1030,1000
+2017-06-09,Lime,180,Uttar Pradesh,9,Kheri,153,1750,1820,1800
+2017-06-05,Lime,180,Uttar Pradesh,9,Kheri,153,2950,3020,3000
+2017-06-04,Lime,180,Uttar Pradesh,9,Kheri,153,3000,3060,3050
+2017-06-01,Lime,180,Uttar Pradesh,9,Kheri,153,1150,1250,1200
+2017-05-21,Lime,180,Uttar Pradesh,9,Kheri,153,1560,1590,1580
+2017-05-20,Lime,180,Uttar Pradesh,9,Kheri,153,1570,1620,1600

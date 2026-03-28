@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "census_district_id": 400,
+      "census_district_name": "Koriya"
+    },
+    {
+      "census_district_id": 401,
+      "census_district_name": "Surguja"
+    },
+    {
+      "census_district_id": 402,
+      "census_district_name": "Jashpur"
+    },
+    {
+      "census_district_id": 403,
+      "census_district_name": "Raigarh"
+    },
+    {
+      "census_district_id": 404,
+      "census_district_name": "Korba"
+    },
+    {
+      "census_district_id": 405,
+      "census_district_name": "Janjgir - Champa"
+    },
+    {
+      "census_district_id": 406,
+      "census_district_name": "Bilaspur"
+    },
+    {
+      "census_district_id": 407,
+      "census_district_name": "Kabeerdham"
+    },
+    {
+      "census_district_id": 408,
+      "census_district_name": "Rajnandgaon"
+    },
+    {
+      "census_district_id": 409,
+      "census_district_name": "Durg"
+    },
+    {
+      "census_district_id": 410,
+      "census_district_name": "Raipur"
+    },
+    {
+      "census_district_id": 411,
+      "census_district_name": "Mahasamund"
+    },
+    {
+      "census_district_id": 412,
+      "census_district_name": "Dhamtari"
+    },
+    {
+      "census_district_id": 413,
+      "census_district_name": "Uttar Bastar Kanker"
+    },
+    {
+      "census_district_id": 414,
+      "census_district_name": "Bastar"
+    },
+    {
+      "census_district_id": 415,
+      "census_district_name": "Narayanpur"
+    },
+    {
+      "census_district_id": 416,
+      "census_district_name": "Dakshin Bastar Dantewada"
+    },
+    {
+      "census_district_id": 417,
+      "census_district_name": "Bijapur"
+    }
+  ]
+}

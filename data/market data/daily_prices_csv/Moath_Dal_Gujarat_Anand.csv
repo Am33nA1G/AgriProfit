@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-27,Moath Dal,95,Gujarat,24,Anand,482,7460,8390,7629
+2022-06-29,Moath Dal,95,Gujarat,24,Anand,482,6660,7840,7730
+2022-06-20,Moath Dal,95,Gujarat,24,Anand,482,5750,6660,5750
+2022-06-14,Moath Dal,95,Gujarat,24,Anand,482,5885,7680,6997
+2019-07-03,Moath Dal,95,Gujarat,24,Anand,482,6500,6595,6500
+2019-07-02,Moath Dal,95,Gujarat,24,Anand,482,5255,6595,5255
+2019-06-10,Moath Dal,95,Gujarat,24,Anand,482,6595,6595,6595
+2017-03-20,Moath Dal,95,Gujarat,24,Anand,482,3500,3555,3500
+2017-03-17,Moath Dal,95,Gujarat,24,Anand,482,3300,3630,3547
+2017-03-14,Moath Dal,95,Gujarat,24,Anand,482,3555,3845,3845
+2017-03-08,Moath Dal,95,Gujarat,24,Anand,482,3300,3555,3300
+2017-02-22,Moath Dal,95,Gujarat,24,Anand,482,3000,3555,3000
+2017-02-20,Moath Dal,95,Gujarat,24,Anand,482,3555,3655,3655
+2017-01-25,Moath Dal,95,Gujarat,24,Anand,482,3555,3555,3555

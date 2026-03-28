@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-03,Garlic,25,Odisha,21,Nabarangapur,397,6000,7000,6500
+2015-07-06,Garlic,25,Odisha,21,Nabarangapur,397,4000,6000,5000
+2015-05-04,Garlic,25,Odisha,21,Nabarangapur,397,3500,5000,4000
+2015-02-02,Garlic,25,Odisha,21,Nabarangapur,397,5000,5500,5000

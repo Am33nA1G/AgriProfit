@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-01,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1350,1450,1400
+2020-12-30,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1350,1450,1400
+2020-12-29,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1350,1440,1395
+2020-12-28,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1350,1450,1400
+2020-12-27,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1600,1700,1650
+2020-12-26,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1570,1660,1620
+2020-12-25,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1630,1720,1670
+2020-12-23,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1650,1750,1700
+2020-12-22,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1600,1700,1650
+2020-12-21,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1630,1730,1680
+2020-12-20,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1610,1700,1660
+2020-12-19,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1600,1700,1650
+2020-12-18,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1630,1710,1680
+2020-12-16,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2000,2080,2040
+2020-12-15,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,1960,2050,2010
+2020-12-14,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2230,2310,2280
+2020-12-11,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2450,2600,2550
+2020-12-09,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2550,2650,2600
+2020-12-08,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2750,2840,2800
+2020-12-07,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2700,2800,2750
+2020-12-06,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2780,2870,2830
+2020-12-05,Peas Wet,174,Uttar Pradesh,9,Aligarh,143,2800,2900,2850

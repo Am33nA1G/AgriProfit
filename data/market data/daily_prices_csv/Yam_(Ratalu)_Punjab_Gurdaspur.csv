@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-03,Yam (Ratalu),297,Punjab,3,Gurdaspur,35,2800,3000,2900
+2023-10-13,Yam (Ratalu),297,Punjab,3,Gurdaspur,35,2000,2200,2100
+2023-10-11,Yam (Ratalu),297,Punjab,3,Gurdaspur,35,2800,3000,2900

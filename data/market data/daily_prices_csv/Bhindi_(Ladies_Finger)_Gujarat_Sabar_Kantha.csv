@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-16,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,900,1000,950
+2015-10-15,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1400,1200
+2015-10-14,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1250,1125
+2015-10-13,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1400,1200
+2015-10-10,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1500,1250
+2015-10-09,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1400,1200
+2015-10-08,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1000,1400,1200
+2015-06-19,Bhindi (Ladies Finger),85,Gujarat,24,Sabar Kantha,472,1500,2250,1875

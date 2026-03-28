@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-17,Avare Dal,269,Chhattisgarh,22,Koriya,400,800,800,800
+2017-02-10,Avare Dal,269,Chhattisgarh,22,Koriya,400,3000,3000,3000
+2016-02-29,Avare Dal,269,Chhattisgarh,22,Koriya,400,2800,2800,2800

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-18,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,8000,10000,9000
+2024-08-07,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,6000,8000,7000
+2024-07-31,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,6000,7000,6500
+2024-07-28,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,4000,5000,4500
+2024-07-26,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,5000,7000,6000
+2024-07-24,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,6000,8000,7000
+2024-07-21,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,7000,8000,7500
+2024-07-19,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,7000,8000,7500
+2024-07-17,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,6000,8000,7000
+2024-06-19,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,3500,5000,4000
+2024-05-21,Mango (Raw-Ripe),172,Odisha,21,Khordha,386,5000,7000,6000

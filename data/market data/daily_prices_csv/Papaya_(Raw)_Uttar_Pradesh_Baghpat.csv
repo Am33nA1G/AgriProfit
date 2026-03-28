@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-19,Papaya (Raw),313,Uttar Pradesh,9,Baghpat,139,1700,2000,1800
+2018-06-02,Papaya (Raw),313,Uttar Pradesh,9,Baghpat,139,1000,1200,1100
+2018-06-01,Papaya (Raw),313,Uttar Pradesh,9,Baghpat,139,1100,1250,1200

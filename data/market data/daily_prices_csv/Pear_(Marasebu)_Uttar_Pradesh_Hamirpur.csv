@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-28,Pear (Marasebu),330,Uttar Pradesh,9,Hamirpur,168,2500,2600,2550
+2018-08-25,Pear (Marasebu),330,Uttar Pradesh,9,Hamirpur,168,2480,2530,2500
+2018-08-24,Pear (Marasebu),330,Uttar Pradesh,9,Hamirpur,168,2450,2550,2500

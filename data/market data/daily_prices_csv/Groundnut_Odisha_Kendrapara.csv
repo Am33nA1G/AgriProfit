@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-18,Groundnut,10,Odisha,21,Kendrapara,379,4000,4200,4000
+2015-05-24,Groundnut,10,Odisha,21,Kendrapara,379,4000,4200,4000
+2015-04-29,Groundnut,10,Odisha,21,Kendrapara,379,4000,4200,4000
+2015-04-22,Groundnut,10,Odisha,21,Kendrapara,379,4000,4500,4000
+2015-01-12,Groundnut,10,Odisha,21,Kendrapara,379,4000,4200,4000

@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-29,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,9000,10500,10000
+2019-03-23,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,11000,13000,12000
+2019-03-18,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,9000,11000,10000
+2018-08-30,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,6000,8000,7000
+2018-08-27,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,6000,8000,7000
+2018-08-22,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,6000,8000,7000
+2017-10-31,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,6000,5500
+2017-09-07,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,6000,5500
+2017-09-06,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,6000,5500
+2017-09-05,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,6000,5500
+2017-08-31,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,7000,6000
+2017-08-29,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,7000,6000
+2017-08-28,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,5000,7000,6000
+2017-08-18,Lime,180,Andaman & Nicobar Islands,35,South Andaman,640,7500,9000,8300

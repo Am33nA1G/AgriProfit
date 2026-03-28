@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-03,Peas (Dry),347,Tripura,16,West Tripura,289,3000,3200,3100
+2021-02-25,Peas (Dry),347,Tripura,16,West Tripura,289,2000,2600,2400
+2021-02-21,Peas (Dry),347,Tripura,16,West Tripura,289,2200,2500,2300
+2021-02-18,Peas (Dry),347,Tripura,16,West Tripura,289,3000,3500,3300

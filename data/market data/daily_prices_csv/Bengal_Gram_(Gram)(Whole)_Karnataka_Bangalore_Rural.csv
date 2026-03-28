@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-07-04,Bengal Gram (Gram)(Whole),6,Karnataka,29,Bangalore Rural,583,8550,9516,9000
+2016-04-02,Bengal Gram (Gram)(Whole),6,Karnataka,29,Bangalore Rural,583,5000,6000,5500
+2016-03-08,Bengal Gram (Gram)(Whole),6,Karnataka,29,Bangalore Rural,583,8550,8736,8630
+2016-03-03,Bengal Gram (Gram)(Whole),6,Karnataka,29,Bangalore Rural,583,8625,8735,8700
+2015-08-05,Bengal Gram (Gram)(Whole),6,Karnataka,29,Bangalore Rural,583,6400,6600,6500

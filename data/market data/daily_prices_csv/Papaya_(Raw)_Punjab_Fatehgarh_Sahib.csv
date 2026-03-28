@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-04,Papaya (Raw),313,Punjab,3,Fatehgarh Sahib,40,1800,2000,1900
+2017-01-14,Papaya (Raw),313,Punjab,3,Fatehgarh Sahib,40,800,800,800

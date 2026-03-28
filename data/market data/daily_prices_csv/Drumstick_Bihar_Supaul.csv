@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-04,Drumstick,168,Bihar,10,Supaul,208,4000,5000,4500
+2022-04-03,Drumstick,168,Bihar,10,Supaul,208,4000,5000,4500
+2022-04-02,Drumstick,168,Bihar,10,Supaul,208,4500,5200,5000
+2022-04-01,Drumstick,168,Bihar,10,Supaul,208,5000,6500,6000
+2022-03-30,Drumstick,168,Bihar,10,Supaul,208,5000,5800,5500
+2022-03-26,Drumstick,168,Bihar,10,Supaul,208,4500,5500,5000
+2022-03-25,Drumstick,168,Bihar,10,Supaul,208,5000,6500,5500
+2022-03-24,Drumstick,168,Bihar,10,Supaul,208,5000,5500,5200
+2022-03-23,Drumstick,168,Bihar,10,Supaul,208,5000,5500,5200
+2022-03-20,Drumstick,168,Bihar,10,Supaul,208,9000,9500,9200

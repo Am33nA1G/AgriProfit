@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-23,Green Avare (W),165,Punjab,3,Amritsar,49,1000,1500,1300
+2021-09-24,Green Avare (W),165,Punjab,3,Amritsar,49,1000,1800,1500
+2021-09-15,Green Avare (W),165,Punjab,3,Amritsar,49,1300,1500,1400

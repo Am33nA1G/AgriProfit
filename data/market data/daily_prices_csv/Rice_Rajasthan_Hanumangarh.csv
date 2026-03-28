@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-19,Rice,3,Rajasthan,8,Hanumangarh,100,3150,4411,4411
+2024-01-09,Rice,3,Rajasthan,8,Hanumangarh,100,4275,4500,4500
+2024-01-02,Rice,3,Rajasthan,8,Hanumangarh,100,4050,4570,4450
+2024-01-01,Rice,3,Rajasthan,8,Hanumangarh,100,4451,4451,4451
+2023-12-27,Rice,3,Rajasthan,8,Hanumangarh,100,4523,4523,4523
+2023-12-09,Rice,3,Rajasthan,8,Hanumangarh,100,4110,4801,4725
+2023-12-08,Rice,3,Rajasthan,8,Hanumangarh,100,4521,4863,4825
+2023-12-06,Rice,3,Rajasthan,8,Hanumangarh,100,3100,4861,4821
+2023-12-05,Rice,3,Rajasthan,8,Hanumangarh,100,3900,4920,4865
+2023-10-17,Rice,3,Rajasthan,8,Hanumangarh,100,180,206.1,198
+2023-10-16,Rice,3,Rajasthan,8,Hanumangarh,100,152.5,208.6,200
+2019-01-09,Rice,3,Rajasthan,8,Hanumangarh,100,3102,3215,3175

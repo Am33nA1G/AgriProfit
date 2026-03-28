@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-10-20,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,200,32500,300
+2017-10-17,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,200,32500,30000
+2017-09-06,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000
+2017-09-05,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000
+2017-09-04,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000
+2017-08-29,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000
+2017-08-28,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000
+2017-08-18,Mushrooms,340,Andaman & Nicobar Islands,35,South Andaman,640,27500,32500,30000

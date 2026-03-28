@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-29,Green Chilli,87,Assam,18,Karimganj,317,3500,3700,3600
+2022-04-18,Green Chilli,87,Assam,18,Karimganj,317,6700,7200,7100
+2022-03-29,Green Chilli,87,Assam,18,Karimganj,317,6200,6600,6400

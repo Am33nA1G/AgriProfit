@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-21,Soyabean,13,Nagaland,13,Kiphire,269,3700,3900,3800
+2023-04-14,Soyabean,13,Nagaland,13,Kiphire,269,3600,3800,3700
+2023-04-07,Soyabean,13,Nagaland,13,Kiphire,269,3500,3700,3600

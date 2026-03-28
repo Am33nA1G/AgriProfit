@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "census_district_id": 203,
+      "census_district_name": "Pashchim Champaran"
+    },
+    {
+      "census_district_id": 204,
+      "census_district_name": "Purba Champaran"
+    },
+    {
+      "census_district_id": 205,
+      "census_district_name": "Sheohar"
+    },
+    {
+      "census_district_id": 206,
+      "census_district_name": "Sitamarhi"
+    },
+    {
+      "census_district_id": 207,
+      "census_district_name": "Madhubani"
+    },
+    {
+      "census_district_id": 208,
+      "census_district_name": "Supaul"
+    },
+    {
+      "census_district_id": 209,
+      "census_district_name": "Araria"
+    },
+    {
+      "census_district_id": 210,
+      "census_district_name": "Kishanganj"
+    },
+    {
+      "census_district_id": 211,
+      "census_district_name": "Purnia"
+    },
+    {
+      "census_district_id": 212,
+      "census_district_name": "Katihar"
+    },
+    {
+      "census_district_id": 213,
+      "census_district_name": "Madhepura"
+    },
+    {
+      "census_district_id": 214,
+      "census_district_name": "Saharsa"
+    },
+    {
+      "census_district_id": 215,
+      "census_district_name": "Darbhanga"
+    },
+    {
+      "census_district_id": 216,
+      "census_district_name": "Muzaffarpur"
+    },
+    {
+      "census_district_id": 217,
+      "census_district_name": "Gopalganj"
+    },
+    {
+      "census_district_id": 218,
+      "census_district_name": "Siwan"
+    },
+    {
+      "census_district_id": 219,
+      "census_district_name": "Saran"
+    },
+    {
+      "census_district_id": 220,
+      "census_district_name": "Vaishali"
+    },
+    {
+      "census_district_id": 221,
+      "census_district_name": "Samastipur"
+    },
+    {
+      "census_district_id": 222,
+      "census_district_name": "Begusarai"
+    },
+    {
+      "census_district_id": 223,
+      "census_district_name": "Khagaria"
+    },
+    {
+      "census_district_id": 224,
+      "census_district_name": "Bhagalpur"
+    },
+    {
+      "census_district_id": 225,
+      "census_district_name": "Banka"
+    },
+    {
+      "census_district_id": 226,
+      "census_district_name": "Munger"
+    },
+    {
+      "census_district_id": 227,
+      "census_district_name": "Lakhisarai"
+    },
+    {
+      "census_district_id": 228,
+      "census_district_name": "Sheikhpura"
+    },
+    {
+      "census_district_id": 229,
+      "census_district_name": "Nalanda"
+    },
+    {
+      "census_district_id": 230,
+      "census_district_name": "Patna"
+    },
+    {
+      "census_district_id": 231,
+      "census_district_name": "Bhojpur"
+    },
+    {
+      "census_district_id": 232,
+      "census_district_name": "Buxar"
+    },
+    {
+      "census_district_id": 233,
+      "census_district_name": "Kaimur (Bhabua)"
+    },
+    {
+      "census_district_id": 234,
+      "census_district_name": "Rohtas"
+    },
+    {
+      "census_district_id": 235,
+      "census_district_name": "Aurangabad"
+    },
+    {
+      "census_district_id": 236,
+      "census_district_name": "Gaya"
+    },
+    {
+      "census_district_id": 237,
+      "census_district_name": "Nawada"
+    },
+    {
+      "census_district_id": 238,
+      "census_district_name": "Jamui"
+    },
+    {
+      "census_district_id": 239,
+      "census_district_name": "Jehanabad"
+    },
+    {
+      "census_district_id": 240,
+      "census_district_name": "Arwal"
+    }
+  ]
+}

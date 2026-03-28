@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-08,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,3500,3700,3600
+2022-02-08,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1940,1940,1940
+2019-06-25,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1700,2000,1800
+2017-06-08,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1200,1200,1200
+2017-05-07,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1200,1500,1300
+2017-04-23,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1200,1200,1200
+2016-12-14,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1470,1510,1470
+2016-08-02,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1200,1500,1300
+2016-07-02,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1500,1800,1600
+2016-04-29,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1500,1500,1500
+2016-04-11,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,1500,1500,1500
+2016-03-31,Antawala,209,Chhattisgarh,22,Dakshin Bastar Dantewada,416,2000,2000,2000

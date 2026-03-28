@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-09,Carrot,153,Assam,18,Tinsukia,309,2800,3500,3000
+2015-04-16,Carrot,153,Assam,18,Tinsukia,309,200,300,250
+2015-01-03,Carrot,153,Assam,18,Tinsukia,309,2000,2400,2200

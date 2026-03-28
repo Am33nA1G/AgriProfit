@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-08,Papaya,72,Bihar,10,Supaul,208,2400,4000,3500
+2022-04-05,Papaya,72,Bihar,10,Supaul,208,2500,3800,3000

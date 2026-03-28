@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-09,Garlic,25,Karnataka,29,Mandya,573,5000,5000,5000
+2022-03-04,Garlic,25,Karnataka,29,Mandya,573,1800,1800,1800
+2022-02-24,Garlic,25,Karnataka,29,Mandya,573,2400,2800,2500
+2022-02-22,Garlic,25,Karnataka,29,Mandya,573,1200,1200,1200
+2022-02-17,Garlic,25,Karnataka,29,Mandya,573,500,500,500
+2022-02-10,Garlic,25,Karnataka,29,Mandya,573,2300,2800,2500
+2022-02-04,Garlic,25,Karnataka,29,Mandya,573,2700,2800,2700
+2022-01-05,Garlic,25,Karnataka,29,Mandya,573,5000,5500,5000

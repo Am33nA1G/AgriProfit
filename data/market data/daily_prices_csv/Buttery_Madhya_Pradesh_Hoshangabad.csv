@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-16,Buttery,416,Madhya Pradesh,23,Hoshangabad,449,2501,2501,2501
+2025-01-31,Buttery,416,Madhya Pradesh,23,Hoshangabad,449,2850,2850,2850
+2025-01-30,Buttery,416,Madhya Pradesh,23,Hoshangabad,449,3000,3000,3000
+2024-10-03,Buttery,416,Madhya Pradesh,23,Hoshangabad,449,3111,3111,3111
+2024-08-28,Buttery,416,Madhya Pradesh,23,Hoshangabad,449,2800,3111,3111

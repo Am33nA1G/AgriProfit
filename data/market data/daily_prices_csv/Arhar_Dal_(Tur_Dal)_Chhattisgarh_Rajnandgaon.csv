@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-31,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Rajnandgaon,408,6243,6243,6243
+2024-12-12,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Rajnandgaon,408,6400,6400,6400
+2024-11-30,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Rajnandgaon,408,6857,6857,6857
+2024-11-13,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Rajnandgaon,408,7100,7800,7450
+2024-10-24,Arhar Dal (Tur Dal),260,Chhattisgarh,22,Rajnandgaon,408,8500,8500,8500

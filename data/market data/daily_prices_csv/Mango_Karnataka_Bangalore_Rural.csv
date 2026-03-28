@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-16,Mango,20,Karnataka,29,Bangalore Rural,583,835,835,835
+2015-07-24,Mango,20,Karnataka,29,Bangalore Rural,583,3000,3000,3000
+2015-07-06,Mango,20,Karnataka,29,Bangalore Rural,583,1000,1000,1000
+2015-06-30,Mango,20,Karnataka,29,Bangalore Rural,583,2500,2500,2500
+2015-06-20,Mango,20,Karnataka,29,Bangalore Rural,583,2966.6666666666665,3366.6666666666665,3233.3333333333335
+2015-06-09,Mango,20,Karnataka,29,Bangalore Rural,583,3600,3933.3333333333335,3766.6666666666665
+2015-06-06,Mango,20,Karnataka,29,Bangalore Rural,583,2966.6666666666665,3833.3333333333335,3600
+2015-05-30,Mango,20,Karnataka,29,Bangalore Rural,583,3600,3750,3650
+2015-05-29,Mango,20,Karnataka,29,Bangalore Rural,583,4700,5050,4900
+2015-05-26,Mango,20,Karnataka,29,Bangalore Rural,583,2833.3333333333335,3500,3233.3333333333335
+2015-05-22,Mango,20,Karnataka,29,Bangalore Rural,583,4633.333333333333,4800,4716.666666666667
+2015-04-22,Mango,20,Karnataka,29,Bangalore Rural,583,2500,3000,2800
+2015-04-15,Mango,20,Karnataka,29,Bangalore Rural,583,5700,6270,6200
+2015-04-08,Mango,20,Karnataka,29,Bangalore Rural,583,5750,6200,6025

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-07,Castor Seed,123,Rajasthan,8,Kota,127,6172,7151,6400
+2024-01-18,Castor Seed,123,Rajasthan,8,Kota,127,5356,6685,6000
+2023-08-22,Castor Seed,123,Rajasthan,8,Kota,127,5051,5051,5051
+2023-08-18,Castor Seed,123,Rajasthan,8,Kota,127,4971,4971,4971
+2023-07-07,Castor Seed,123,Rajasthan,8,Kota,127,4326,4326,4326

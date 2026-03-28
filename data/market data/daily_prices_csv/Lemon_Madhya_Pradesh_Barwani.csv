@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-06,Lemon,310,Madhya Pradesh,23,Barwani,441,1500,1500,1500
+2022-07-09,Lemon,310,Madhya Pradesh,23,Barwani,441,2000,2000,2000
+2022-07-05,Lemon,310,Madhya Pradesh,23,Barwani,441,2000,2000,2000
+2022-06-26,Lemon,310,Madhya Pradesh,23,Barwani,441,2000,2500,2000
+2022-06-24,Lemon,310,Madhya Pradesh,23,Barwani,441,3500,3500,3500
+2022-06-23,Lemon,310,Madhya Pradesh,23,Barwani,441,3500,3500,3500
+2022-06-21,Lemon,310,Madhya Pradesh,23,Barwani,441,3500,3500,3500
+2022-06-02,Lemon,310,Madhya Pradesh,23,Barwani,441,3500,3500,3500
+2022-01-09,Lemon,310,Madhya Pradesh,23,Barwani,441,1100,1100,1100
+2022-01-02,Lemon,310,Madhya Pradesh,23,Barwani,441,1100,1100,1100
+2021-12-26,Lemon,310,Madhya Pradesh,23,Barwani,441,1000,1000,1000
+2021-12-25,Lemon,310,Madhya Pradesh,23,Barwani,441,1200,1200,1200
+2021-12-23,Lemon,310,Madhya Pradesh,23,Barwani,441,1250,1250,1250
+2021-12-22,Lemon,310,Madhya Pradesh,23,Barwani,441,1350,1350,1350
+2021-11-20,Lemon,310,Madhya Pradesh,23,Barwani,441,1000,1000,1000

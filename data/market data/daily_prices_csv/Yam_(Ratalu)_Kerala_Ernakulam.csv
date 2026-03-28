@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-25,Yam (Ratalu),297,Kerala,32,Ernakulam,595,5000,5200,5200
+2024-02-27,Yam (Ratalu),297,Kerala,32,Ernakulam,595,4000,4100,4100
+2024-02-24,Yam (Ratalu),297,Kerala,32,Ernakulam,595,4000,4100,4100
+2024-02-21,Yam (Ratalu),297,Kerala,32,Ernakulam,595,4000,4100,4100

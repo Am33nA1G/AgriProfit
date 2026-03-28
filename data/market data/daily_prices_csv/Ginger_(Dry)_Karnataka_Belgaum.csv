@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-12,Ginger (Dry),27,Karnataka,29,Belgaum,555,5000,7000,6000
+2020-08-11,Ginger (Dry),27,Karnataka,29,Belgaum,555,2800,4150,3500
+2020-08-08,Ginger (Dry),27,Karnataka,29,Belgaum,555,5000,7000,6000
+2020-05-30,Ginger (Dry),27,Karnataka,29,Belgaum,555,14305,14305,14305
+2020-05-11,Ginger (Dry),27,Karnataka,29,Belgaum,555,4728,4728,4728
+2019-11-25,Ginger (Dry),27,Karnataka,29,Belgaum,555,2000,2000,2000
+2019-11-02,Ginger (Dry),27,Karnataka,29,Belgaum,555,2000,2000,2000
+2019-10-01,Ginger (Dry),27,Karnataka,29,Belgaum,555,1900,2100,2000
+2019-06-24,Ginger (Dry),27,Karnataka,29,Belgaum,555,20000,20000,20000
+2018-06-25,Ginger (Dry),27,Karnataka,29,Belgaum,555,13600,13600,13600

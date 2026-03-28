@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-06,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Namakkal,609,4200,5600,4800
+2023-11-18,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Namakkal,609,4500,5200,4800
+2023-11-10,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Namakkal,609,4500,5300,4800
+2023-10-06,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Namakkal,609,3700,4500,4100

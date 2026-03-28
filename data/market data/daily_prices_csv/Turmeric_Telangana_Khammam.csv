@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-09,Turmeric,39,Telangana,36,Khammam,541,3660,3670,3660
+2016-03-29,Turmeric,39,Telangana,36,Khammam,541,5000,5250,5000
+2015-05-19,Turmeric,39,Telangana,36,Khammam,541,5800,6500,6200

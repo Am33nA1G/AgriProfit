@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-23,Rice,3,Karnataka,29,Dharwad,562,2900,2900,2900
+2025-06-18,Rice,3,Karnataka,29,Dharwad,562,2800,2800,2800
+2023-05-20,Rice,3,Karnataka,29,Dharwad,562,2630,4230,3850
+2021-06-18,Rice,3,Karnataka,29,Dharwad,562,1681,1681,1681
+2019-04-01,Rice,3,Karnataka,29,Dharwad,562,1991,2003,1991
+2018-12-28,Rice,3,Karnataka,29,Dharwad,562,1020,1020,1020
+2018-12-24,Rice,3,Karnataka,29,Dharwad,562,1370,1370,1370
+2018-04-11,Rice,3,Karnataka,29,Dharwad,562,1030,1120,1100
+2016-07-26,Rice,3,Karnataka,29,Dharwad,562,1800,2300,2000

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-08-19,Cabbage,154,Chandigarh,4,Chandigarh,55,1200,1800,1600
+2025-08-17,Cabbage,154,Chandigarh,4,Chandigarh,55,1200,1800,1600
+2025-08-16,Cabbage,154,Chandigarh,4,Chandigarh,55,800,1800,1400
+2025-08-15,Cabbage,154,Chandigarh,4,Chandigarh,55,1000,2200,1800
+2025-08-14,Cabbage,154,Chandigarh,4,Chandigarh,55,800,1800,1400
+2025-08-13,Cabbage,154,Chandigarh,4,Chandigarh,55,800,2000,1600

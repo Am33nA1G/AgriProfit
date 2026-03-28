@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-22,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,100,120,110
+2024-11-04,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,50,60,55
+2023-07-08,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,900,1200,1050
+2021-02-10,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,15000,20000,17000
+2021-02-06,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,3000,5000,4000
+2016-10-01,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,12000,20000,20000
+2016-01-27,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,10000,12000,12000
+2016-01-25,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,7000,8000,7800
+2016-01-21,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,5000,6000,5800
+2016-01-20,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,3000,4000,3800
+2016-01-19,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,4000,5000,4800
+2016-01-15,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,6000,8000,8000
+2016-01-07,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,6000,8000,7000
+2016-01-05,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,10000,12000,12000
+2016-01-04,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,10000,12000,12000
+2015-12-31,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,10000,12000,10000
+2015-12-30,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,6000,8000,7000
+2015-12-11,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,3000,4000,3700
+2015-12-10,Chrysanthemum (Loose),231,Maharashtra,27,Thane,517,5000,6000,5700

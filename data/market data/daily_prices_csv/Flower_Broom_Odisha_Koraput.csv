@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-27,Flower Broom,365,Odisha,21,Koraput,398,3000,5000,4000
+2016-03-21,Flower Broom,365,Odisha,21,Koraput,398,1800,2200,2000
+2016-03-19,Flower Broom,365,Odisha,21,Koraput,398,1500,1700,1600
+2016-03-01,Flower Broom,365,Odisha,21,Koraput,398,1700,1900,1800
+2016-02-11,Flower Broom,365,Odisha,21,Koraput,398,1600,1800,1700

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-03,Chili Red,26,Karnataka,29,Mysore,577,4000,7000,5500
+2018-04-30,Chili Red,26,Karnataka,29,Mysore,577,4038,4038,4038
+2018-02-17,Chili Red,26,Karnataka,29,Mysore,577,4000,6000,5000
+2017-11-18,Chili Red,26,Karnataka,29,Mysore,577,10,14,11
+2017-09-28,Chili Red,26,Karnataka,29,Mysore,577,3500,6000,4750
+2017-09-15,Chili Red,26,Karnataka,29,Mysore,577,3500,7000,5250
+2017-03-30,Chili Red,26,Karnataka,29,Mysore,577,5230,5230,5230
+2017-01-16,Chili Red,26,Karnataka,29,Mysore,577,10000,10000,10000
+2016-07-23,Chili Red,26,Karnataka,29,Mysore,577,4850,4850,4850
+2015-10-07,Chili Red,26,Karnataka,29,Mysore,577,7500,8500,8000

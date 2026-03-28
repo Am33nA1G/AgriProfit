@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-02-21,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3511,3511,3511
+2018-02-19,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3876,3876,3876
+2018-02-17,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3851,3911,3900
+2018-02-12,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3750,3750,3750
+2018-02-09,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3900,4100,4000
+2018-01-23,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3600,3600,3600
+2018-01-09,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,4000,4000,4000
+2018-01-05,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3700,3700,3700
+2018-01-03,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3600,3600,3600
+2017-12-28,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,3586,3586,3586
+2017-12-05,Green Gram Dal (Moong Dal),265,Telangana,36,Medak,535,2811,2811,2811

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-26,Chili Red,26,Tamil Nadu,33,Salem,608,10000,10000,10000
+2025-02-25,Chili Red,26,Tamil Nadu,33,Salem,608,8000,10000,10000
+2025-02-05,Chili Red,26,Tamil Nadu,33,Salem,608,6000,6000,6000
+2025-01-12,Chili Red,26,Tamil Nadu,33,Salem,608,4500,5000,5000
+2024-11-16,Chili Red,26,Tamil Nadu,33,Salem,608,8500,8500,8500
+2024-10-09,Chili Red,26,Tamil Nadu,33,Salem,608,2500,3000,3000
+2024-09-29,Chili Red,26,Tamil Nadu,33,Salem,608,4000,5000,5000
+2024-09-27,Chili Red,26,Tamil Nadu,33,Salem,608,3500,4000,4000
+2024-09-10,Chili Red,26,Tamil Nadu,33,Salem,608,2500,3000,3000
+2024-08-06,Chili Red,26,Tamil Nadu,33,Salem,608,2000,2500,2500

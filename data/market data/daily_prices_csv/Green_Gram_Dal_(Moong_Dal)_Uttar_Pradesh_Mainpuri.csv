@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-14,Green Gram Dal (Moong Dal),265,Uttar Pradesh,9,Mainpuri,148,8540,8720,8650
+2022-08-12,Green Gram Dal (Moong Dal),265,Uttar Pradesh,9,Mainpuri,148,6440,6630,6550
+2022-05-13,Green Gram Dal (Moong Dal),265,Uttar Pradesh,9,Mainpuri,148,9000,9300,9130
+2021-07-20,Green Gram Dal (Moong Dal),265,Uttar Pradesh,9,Mainpuri,148,9610,9780,9710
+2021-07-19,Green Gram Dal (Moong Dal),265,Uttar Pradesh,9,Mainpuri,148,9600,9760,9700

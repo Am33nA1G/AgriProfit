@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-03,Mushrooms,340,Nagaland,13,Phek,266,5000,7000,6000
+2023-11-02,Mushrooms,340,Nagaland,13,Phek,266,6000,7000,6500
+2023-10-31,Mushrooms,340,Nagaland,13,Phek,266,6000,7000,6500
+2023-10-21,Mushrooms,340,Nagaland,13,Phek,266,6000,7000,6500
+2023-10-13,Mushrooms,340,Nagaland,13,Phek,266,6000,8000,7000
+2023-10-03,Mushrooms,340,Nagaland,13,Phek,266,6000,8000,7000
+2023-09-30,Mushrooms,340,Nagaland,13,Phek,266,7000,9000,8000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-30,Methi Seeds,47,Rajasthan,8,Ganganagar,99,3650,3650,3650
+2016-05-03,Methi Seeds,47,Rajasthan,8,Ganganagar,99,3800,3800,3800
+2016-04-13,Methi Seeds,47,Rajasthan,8,Ganganagar,99,3950,3950,3950
+2016-04-12,Methi Seeds,47,Rajasthan,8,Ganganagar,99,4201,4201,4201

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-29,Turmeric,39,Chhattisgarh,22,Janjgir - Champa,405,9000,9000,9000
+2023-03-28,Turmeric,39,Chhattisgarh,22,Janjgir - Champa,405,9000,9000,9000
+2022-11-30,Turmeric,39,Chhattisgarh,22,Janjgir - Champa,405,7500,7500,7500
+2022-11-24,Turmeric,39,Chhattisgarh,22,Janjgir - Champa,405,7500,7500,7500
+2022-08-31,Turmeric,39,Chhattisgarh,22,Janjgir - Champa,405,6000,6000,6000

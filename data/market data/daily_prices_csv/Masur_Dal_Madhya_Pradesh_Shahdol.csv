@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-04,Masur Dal,259,Madhya Pradesh,23,Shahdol,460,4500,4500,4500
+2022-05-28,Masur Dal,259,Madhya Pradesh,23,Shahdol,460,5000,5200,5100
+2022-02-09,Masur Dal,259,Madhya Pradesh,23,Shahdol,460,4100,4100,4100
+2019-10-30,Masur Dal,259,Madhya Pradesh,23,Shahdol,460,3900,3920,3915
+2018-09-24,Masur Dal,259,Madhya Pradesh,23,Shahdol,460,3170,3175,3170

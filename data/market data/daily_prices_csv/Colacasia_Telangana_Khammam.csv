@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-05,Colacasia,318,Telangana,36,Khammam,541,2600,3200,2800
+2021-10-02,Colacasia,318,Telangana,36,Khammam,541,2000,2800,2400

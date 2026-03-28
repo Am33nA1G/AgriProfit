@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-05,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,3500,5000,4500
+2019-08-06,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,3000,4000,3500
+2019-08-05,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,3000,4000,3500
+2019-07-23,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,2500,3500,2800
+2015-08-20,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,1800,2200,2000
+2015-07-29,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,1800,2400,2100
+2015-07-24,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,2000,3200,2500
+2015-07-14,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,2500,3500,3000
+2015-07-07,Pear (Marasebu),330,Himachal Pradesh,2,Bilaspur,30,1800,2500,2500

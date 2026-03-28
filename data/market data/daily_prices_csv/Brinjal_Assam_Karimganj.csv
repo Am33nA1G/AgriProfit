@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-29,Brinjal,35,Assam,18,Karimganj,317,3700,3800,3750
+2022-04-18,Brinjal,35,Assam,18,Karimganj,317,1800,2200,2000
+2022-03-29,Brinjal,35,Assam,18,Karimganj,317,1300,1500,1400

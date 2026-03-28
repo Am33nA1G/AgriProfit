@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-07,Grapes,22,Karnataka,29,Gadag,561,1000,2000,1500
+2020-05-05,Grapes,22,Karnataka,29,Gadag,561,1500,3000,2000
+2020-05-03,Grapes,22,Karnataka,29,Gadag,561,1000,2000,1800
+2020-05-01,Grapes,22,Karnataka,29,Gadag,561,200,2500,2100
+2020-04-29,Grapes,22,Karnataka,29,Gadag,561,1500,3000,2000
+2020-04-27,Grapes,22,Karnataka,29,Gadag,561,2000,2500,2100
+2020-04-25,Grapes,22,Karnataka,29,Gadag,561,2000,2500,2100
+2020-04-23,Grapes,22,Karnataka,29,Gadag,561,800,2100,1900
+2020-04-21,Grapes,22,Karnataka,29,Gadag,561,1200,2500,2000
+2020-04-19,Grapes,22,Karnataka,29,Gadag,561,1500,3000,2800
+2020-04-17,Grapes,22,Karnataka,29,Gadag,561,2600,3000,2800
+2020-04-15,Grapes,22,Karnataka,29,Gadag,561,2600,3000,2800
+2020-04-12,Grapes,22,Karnataka,29,Gadag,561,2600,3000,2800
+2020-04-05,Grapes,22,Karnataka,29,Gadag,561,2100,2400,2200

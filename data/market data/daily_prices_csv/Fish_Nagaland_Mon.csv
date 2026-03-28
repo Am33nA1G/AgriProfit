@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-26,Fish,366,Nagaland,13,Mon,261,6300,6900,6600
+2024-10-19,Fish,366,Nagaland,13,Mon,261,4300,4700,4500
+2024-09-09,Fish,366,Nagaland,13,Mon,261,6500,7100,6800
+2024-09-05,Fish,366,Nagaland,13,Mon,261,6500,7100,6800
+2024-08-27,Fish,366,Nagaland,13,Mon,261,4200,4600,4400
+2024-08-26,Fish,366,Nagaland,13,Mon,261,6400,7000,6700
+2024-08-22,Fish,366,Nagaland,13,Mon,261,8800,9600,9200
+2024-08-19,Fish,366,Nagaland,13,Mon,261,6300,6900,6600
+2024-08-16,Fish,366,Nagaland,13,Mon,261,10000,11000,10500
+2024-08-13,Fish,366,Nagaland,13,Mon,261,8800,9600,9200
+2024-08-08,Fish,366,Nagaland,13,Mon,261,6300,6900,6600
+2024-08-05,Fish,366,Nagaland,13,Mon,261,8400,9200,8800

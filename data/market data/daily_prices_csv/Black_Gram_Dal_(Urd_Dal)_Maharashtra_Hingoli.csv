@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-12,Black Gram Dal (Urd Dal),264,Maharashtra,27,Hingoli,512,3800,4000,3900
+2020-10-07,Black Gram Dal (Urd Dal),264,Maharashtra,27,Hingoli,512,6600,7200,6900
+2020-09-26,Black Gram Dal (Urd Dal),264,Maharashtra,27,Hingoli,512,4090,7200,5645
+2020-09-14,Black Gram Dal (Urd Dal),264,Maharashtra,27,Hingoli,512,5000,6000,5500
+2019-09-25,Black Gram Dal (Urd Dal),264,Maharashtra,27,Hingoli,512,4500,5500,5000

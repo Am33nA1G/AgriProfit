@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-31,Maize,4,Jharkhand,20,Palamu,358,1550,1800,1710
+2018-10-30,Maize,4,Jharkhand,20,Palamu,358,1550,1800,1700
+2018-10-29,Maize,4,Jharkhand,20,Palamu,358,1550,1750,1700
+2018-10-22,Maize,4,Jharkhand,20,Palamu,358,1550,1750,1700
+2018-09-24,Maize,4,Jharkhand,20,Palamu,358,1500,1530,1510

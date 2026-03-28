@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-30,Guava,185,Haryana,6,Panchkula,69,1000,1000,1000
+2017-09-14,Guava,185,Haryana,6,Panchkula,69,800,800,800
+2017-09-13,Guava,185,Haryana,6,Panchkula,69,600,600,600
+2016-08-27,Guava,185,Haryana,6,Panchkula,69,300,600,450
+2016-08-26,Guava,185,Haryana,6,Panchkula,69,300,600,450
+2016-08-25,Guava,185,Haryana,6,Panchkula,69,300,700,500
+2016-08-24,Guava,185,Haryana,6,Panchkula,69,300,500,400

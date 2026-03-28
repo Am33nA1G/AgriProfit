@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-06,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,110000,130000,120000
+2019-04-01,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,100000,120000,110000
+2019-03-29,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,100000,120000,110000
+2019-03-23,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,110000,130000,120000
+2019-03-18,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,110000,130000,120000
+2019-03-09,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,80000,110000,100000
+2019-03-04,Black pepper,38,Andaman & Nicobar Islands,35,South Andaman,640,110000,130000,120000

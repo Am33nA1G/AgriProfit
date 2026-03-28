@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-21,Cotton Seed,99,Rajasthan,8,Jaipur,110,6000,6000,6000
+2017-02-10,Cotton Seed,99,Rajasthan,8,Jaipur,110,5000,5000,5000
+2017-02-09,Cotton Seed,99,Rajasthan,8,Jaipur,110,5500,5500,5500
+2017-02-08,Cotton Seed,99,Rajasthan,8,Jaipur,110,5600,5600,5600

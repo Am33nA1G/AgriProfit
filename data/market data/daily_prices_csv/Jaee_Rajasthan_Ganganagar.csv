@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-09,Jaee,513,Rajasthan,8,Ganganagar,99,3500,3500,3500
+2025-10-07,Jaee,513,Rajasthan,8,Ganganagar,99,3980,3980,3980
+2025-10-03,Jaee,513,Rajasthan,8,Ganganagar,99,3825,3950,3950

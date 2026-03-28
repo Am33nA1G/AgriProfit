@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-29,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,3500,3500,3500
+2020-06-01,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6664,6664,6664
+2020-02-14,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6733,6733,6733
+2020-01-25,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6981,6981,6981
+2019-11-16,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6966,6966,6966
+2019-03-16,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6100,6100,6100
+2019-02-16,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,6250,6250,6250
+2018-10-30,Coriander seed,108,Madhya Pradesh,23,Chhindwara,455,5619,5714,5667

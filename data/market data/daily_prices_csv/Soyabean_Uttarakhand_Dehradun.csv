@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-08-10,Soyabean,13,Uttarakhand,5,Dehradun,60,3600,3600,3600
+2016-03-09,Soyabean,13,Uttarakhand,5,Dehradun,60,2000,2500,2500

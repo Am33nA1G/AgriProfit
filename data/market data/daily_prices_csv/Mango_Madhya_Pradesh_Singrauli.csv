@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-09,Mango,20,Madhya Pradesh,23,Singrauli,463,2700,2700,2700
+2025-07-03,Mango,20,Madhya Pradesh,23,Singrauli,463,1500,1500,1500
+2025-07-02,Mango,20,Madhya Pradesh,23,Singrauli,463,2500,2500,2500
+2025-06-18,Mango,20,Madhya Pradesh,23,Singrauli,463,2700,2700,2700
+2025-06-16,Mango,20,Madhya Pradesh,23,Singrauli,463,2800,2800,2800
+2025-06-11,Mango,20,Madhya Pradesh,23,Singrauli,463,2500,2500,2500
+2025-06-05,Mango,20,Madhya Pradesh,23,Singrauli,463,2700,2700,2700
+2025-05-28,Mango,20,Madhya Pradesh,23,Singrauli,463,2500,2500,2500

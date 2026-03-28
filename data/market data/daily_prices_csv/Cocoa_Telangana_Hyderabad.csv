@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-11-14,Cocoa,104,Telangana,36,Hyderabad,536,1000,1500,1200
+2016-11-13,Cocoa,104,Telangana,36,Hyderabad,536,800,1000,900

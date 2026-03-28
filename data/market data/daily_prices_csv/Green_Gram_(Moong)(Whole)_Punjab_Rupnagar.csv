@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-19,Green Gram (Moong)(Whole),9,Punjab,3,Rupnagar,51,90,100,95
+2015-11-17,Green Gram (Moong)(Whole),9,Punjab,3,Rupnagar,51,100,120,110

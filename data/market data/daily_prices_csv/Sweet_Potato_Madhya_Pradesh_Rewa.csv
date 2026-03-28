@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-01,Sweet Potato,152,Madhya Pradesh,23,Rewa,430,1600,1600,1600
+2025-01-25,Sweet Potato,152,Madhya Pradesh,23,Rewa,430,1700,1700,1700
+2025-01-23,Sweet Potato,152,Madhya Pradesh,23,Rewa,430,1500,1500,1500

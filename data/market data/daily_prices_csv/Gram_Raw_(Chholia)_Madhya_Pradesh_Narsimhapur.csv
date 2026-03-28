@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-17,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3761,4455,4275
+2020-08-10,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3850,4500,4200
+2020-08-07,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3301,4200,3952
+2020-08-06,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3701,4081,3800
+2019-11-16,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3000,3000,3000
+2019-11-15,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,800,1000,900
+2019-11-13,Gram Raw (Chholia),359,Madhya Pradesh,23,Narsimhapur,452,3500,3500,3500

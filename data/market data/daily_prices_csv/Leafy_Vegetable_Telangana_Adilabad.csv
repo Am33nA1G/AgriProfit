@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-30,Leafy Vegetable,171,Telangana,36,Adilabad,532,1000,1200,1000
+2023-09-26,Leafy Vegetable,171,Telangana,36,Adilabad,532,1000,1200,1000
+2023-04-13,Leafy Vegetable,171,Telangana,36,Adilabad,532,1000,1000,1000
+2022-12-16,Leafy Vegetable,171,Telangana,36,Adilabad,532,5000,5000,5000
+2022-12-03,Leafy Vegetable,171,Telangana,36,Adilabad,532,2000,2000,2000
+2022-10-21,Leafy Vegetable,171,Telangana,36,Adilabad,532,6000,0,6000
+2022-10-19,Leafy Vegetable,171,Telangana,36,Adilabad,532,8000,0,8000
+2022-10-15,Leafy Vegetable,171,Telangana,36,Adilabad,532,3000,0,3000
+2016-02-06,Leafy Vegetable,171,Telangana,36,Adilabad,532,300,300,300
+2016-02-05,Leafy Vegetable,171,Telangana,36,Adilabad,532,300,300,300
+2016-02-04,Leafy Vegetable,171,Telangana,36,Adilabad,532,300,300,300
+2016-02-03,Leafy Vegetable,171,Telangana,36,Adilabad,532,100,100,100
+2015-06-11,Leafy Vegetable,171,Telangana,36,Adilabad,532,900,900,900

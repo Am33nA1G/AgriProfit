@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-10,Ginger (Dry),27,Haryana,6,Sirsa,79,1600,1800,1700
+2023-12-15,Ginger (Dry),27,Haryana,6,Sirsa,79,3850,4000,3900
+2023-12-14,Ginger (Dry),27,Haryana,6,Sirsa,79,3800,4000,3900

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-17,Turmeric,39,Chhattisgarh,22,Bilaspur,406,10140,10140,10140
+2025-07-28,Turmeric,39,Chhattisgarh,22,Bilaspur,406,9000,9000,9000
+2025-06-23,Turmeric,39,Chhattisgarh,22,Bilaspur,406,10000,10000,10000

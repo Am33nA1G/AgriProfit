@@ -1,0 +1,23 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-04-06,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2019-03-29,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2019-03-23,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,10000,12000,11000
+2019-03-18,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,9000,11000,10000
+2019-03-09,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,9000,11000,10000
+2018-08-30,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,5000,8000,6000
+2018-08-27,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,5000,8000,6000
+2018-08-22,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,5000,8000,6000
+2017-10-31,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-10-17,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-09-07,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-09-06,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-09-05,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-08-31,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500
+2017-08-29,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500
+2017-08-28,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,5000,4500
+2017-08-18,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2017-08-14,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,4000,6000,5000
+2016-07-29,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,5000,6000,5500
+2016-06-15,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,8000,10000,9000
+2015-07-22,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,3000,4000,3500
+2015-07-19,Pineapple,21,Andaman & Nicobar Islands,35,South Andaman,640,3000,4000,3500

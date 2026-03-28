@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-11,Wheat Atta,287,West Bengal,19,Maldah,332,2080,2120,2100
+2015-07-29,Wheat Atta,287,West Bengal,19,Maldah,332,2190,2230,2200
+2015-07-28,Wheat Atta,287,West Bengal,19,Maldah,332,2380,2420,2400
+2015-07-21,Wheat Atta,287,West Bengal,19,Maldah,332,2380,2420,2400
+2015-07-20,Wheat Atta,287,West Bengal,19,Maldah,332,1990,2020,2000

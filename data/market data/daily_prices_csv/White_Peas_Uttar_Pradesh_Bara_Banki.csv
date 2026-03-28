@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-22,White Peas,412,Uttar Pradesh,9,Bara Banki,176,2250,2350,2300
+2022-09-26,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6100,6200,6150
+2021-07-19,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6325,6400,6360
+2021-07-17,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6390,6475,6430
+2021-07-16,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6400,6490,6447.5
+2021-07-15,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6405,6465,6440
+2021-07-14,White Peas,412,Uttar Pradesh,9,Bara Banki,176,6400,6470,6435

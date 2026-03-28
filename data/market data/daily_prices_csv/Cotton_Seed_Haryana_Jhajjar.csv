@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-08,Cotton Seed,99,Haryana,6,Jhajjar,83,2800,2900,2850
+2015-03-12,Cotton Seed,99,Haryana,6,Jhajjar,83,1900,2100,2000
+2015-03-11,Cotton Seed,99,Haryana,6,Jhajjar,83,2000,2200,2100
+2015-02-19,Cotton Seed,99,Haryana,6,Jhajjar,83,1800,2200,2000
+2015-01-24,Cotton Seed,99,Haryana,6,Jhajjar,83,1900,2000,1950

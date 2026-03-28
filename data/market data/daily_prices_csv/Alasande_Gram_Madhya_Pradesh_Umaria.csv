@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-11,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,3800,3810,3805
+2019-05-27,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,3800,3840,3810
+2019-03-15,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,2950,3000,2975
+2019-03-07,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,3600,3605,3602
+2019-02-14,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,2000,3000,2050
+2019-01-29,Alasande Gram,281,Madhya Pradesh,23,Umaria,431,3590,3600,3595

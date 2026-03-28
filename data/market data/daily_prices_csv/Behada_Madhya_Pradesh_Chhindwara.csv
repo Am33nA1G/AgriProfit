@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-01,Behada,508,Madhya Pradesh,23,Chhindwara,455,775,820,820
+2025-08-17,Behada,508,Madhya Pradesh,23,Chhindwara,455,1200,1200,1200
+2025-06-21,Behada,508,Madhya Pradesh,23,Chhindwara,455,2000,2000,2000
+2024-08-28,Behada,508,Madhya Pradesh,23,Chhindwara,455,500,600,600

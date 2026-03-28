@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-14,Guar,75,Odisha,21,Balangir,393,5000,6000,6000
+2023-07-11,Guar,75,Odisha,21,Balangir,393,4000,5000,5000
+2023-07-10,Guar,75,Odisha,21,Balangir,393,5000,6000,6000
+2023-07-06,Guar,75,Odisha,21,Balangir,393,4000,5000,5000
+2023-07-03,Guar,75,Odisha,21,Balangir,393,4000,5000,5000
+2023-06-12,Guar,75,Odisha,21,Balangir,393,2000,3000,3000
+2023-06-08,Guar,75,Odisha,21,Balangir,393,2000,3000,3000
+2023-06-07,Guar,75,Odisha,21,Balangir,393,3000,4000,4000
+2023-06-03,Guar,75,Odisha,21,Balangir,393,3000,4000,4000
+2023-05-30,Guar,75,Odisha,21,Balangir,393,3000,4000,4000
+2023-05-25,Guar,75,Odisha,21,Balangir,393,3000,4000,4000

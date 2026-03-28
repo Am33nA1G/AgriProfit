@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-25,Arhar Dal (Tur Dal),260,Bihar,10,Purnia,211,13200,14500,13500
+2023-08-24,Arhar Dal (Tur Dal),260,Bihar,10,Purnia,211,135000,142000,140000
+2023-08-23,Arhar Dal (Tur Dal),260,Bihar,10,Purnia,211,135000,142000,140000

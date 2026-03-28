@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-06,Drumstick,168,Bihar,10,Khagaria,223,1200,2000,1700
+2023-04-05,Drumstick,168,Bihar,10,Khagaria,223,1200,2000,1700
+2023-04-04,Drumstick,168,Bihar,10,Khagaria,223,1200,2000,1600
+2023-04-03,Drumstick,168,Bihar,10,Khagaria,223,1200,2000,1600
+2023-03-29,Drumstick,168,Bihar,10,Khagaria,223,2500,3000,2750
+2023-03-28,Drumstick,168,Bihar,10,Khagaria,223,2500,3000,2750
+2023-03-27,Drumstick,168,Bihar,10,Khagaria,223,2500,3000,2750
+2022-04-14,Drumstick,168,Bihar,10,Khagaria,223,2600,3000,2800
+2022-04-11,Drumstick,168,Bihar,10,Khagaria,223,2750,4000,3350
+2022-04-10,Drumstick,168,Bihar,10,Khagaria,223,2400,2600,2500
+2022-04-09,Drumstick,168,Bihar,10,Khagaria,223,2500,3000,2700
+2022-04-07,Drumstick,168,Bihar,10,Khagaria,223,4500,6000,5500

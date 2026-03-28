@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-24,Turmeric,39,Madhya Pradesh,23,Shahdol,460,7000,7000,7000
+2019-07-09,Turmeric,39,Madhya Pradesh,23,Shahdol,460,4477,4477,4477
+2019-06-21,Turmeric,39,Madhya Pradesh,23,Shahdol,460,3048,3048,3048
+2019-05-24,Turmeric,39,Madhya Pradesh,23,Shahdol,460,4476,4476,4476

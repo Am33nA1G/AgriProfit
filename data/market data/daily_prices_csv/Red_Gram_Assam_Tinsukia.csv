@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-30,Red Gram,7,Assam,18,Tinsukia,309,10015,10020,10018
+2015-11-04,Red Gram,7,Assam,18,Tinsukia,309,10015,10025,10020
+2015-11-01,Red Gram,7,Assam,18,Tinsukia,309,10015,10025,10020
+2015-10-28,Red Gram,7,Assam,18,Tinsukia,309,10010,10020,10015
+2015-10-22,Red Gram,7,Assam,18,Tinsukia,309,10000,10010,10005
+2015-09-29,Red Gram,7,Assam,18,Tinsukia,309,10015,10020,10018
+2015-09-09,Red Gram,7,Assam,18,Tinsukia,309,7000,8000,7500
+2015-09-08,Red Gram,7,Assam,18,Tinsukia,309,7500,8500,8000
+2015-09-02,Red Gram,7,Assam,18,Tinsukia,309,9500,10020,10000
+2015-06-24,Red Gram,7,Assam,18,Tinsukia,309,9000,9800,9500
+2015-06-21,Red Gram,7,Assam,18,Tinsukia,309,8500,9000,8800
+2015-06-17,Red Gram,7,Assam,18,Tinsukia,309,9500,10010,10000
+2015-06-13,Red Gram,7,Assam,18,Tinsukia,309,9000,10000,9500
+2015-06-02,Red Gram,7,Assam,18,Tinsukia,309,8500,10010,9000
+2015-05-26,Red Gram,7,Assam,18,Tinsukia,309,7000,8500,7500
+2015-01-03,Red Gram,7,Assam,18,Tinsukia,309,8000,9200,8500

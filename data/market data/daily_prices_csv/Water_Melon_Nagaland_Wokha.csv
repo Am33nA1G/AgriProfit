@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-11,Water Melon,73,Nagaland,13,Wokha,264,2200,3400,2800
+2025-05-27,Water Melon,73,Nagaland,13,Wokha,264,1900,3000,2500
+2025-05-22,Water Melon,73,Nagaland,13,Wokha,264,2000,3000,2500
+2025-05-17,Water Melon,73,Nagaland,13,Wokha,264,2500,3500,3000
+2025-05-07,Water Melon,73,Nagaland,13,Wokha,264,1600,2500,2000
+2025-05-01,Water Melon,73,Nagaland,13,Wokha,264,1600,3000,2200

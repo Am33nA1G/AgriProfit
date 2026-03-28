@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-12-07,Lentil (Masur)(Whole),63,Chhattisgarh,22,Bastar,414,5100,7000,6050
+2017-09-18,Lentil (Masur)(Whole),63,Chhattisgarh,22,Bastar,414,2210,2300,2250
+2016-11-30,Lentil (Masur)(Whole),63,Chhattisgarh,22,Bastar,414,6750,6750,6750

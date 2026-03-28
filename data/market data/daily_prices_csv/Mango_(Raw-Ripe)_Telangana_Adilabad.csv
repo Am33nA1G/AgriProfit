@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-12,Mango (Raw-Ripe),172,Telangana,36,Adilabad,532,550,625,587
+2022-06-08,Mango (Raw-Ripe),172,Telangana,36,Adilabad,532,900,1000,950
+2022-04-22,Mango (Raw-Ripe),172,Telangana,36,Adilabad,532,550,625,587
+2022-04-05,Mango (Raw-Ripe),172,Telangana,36,Adilabad,532,900,1000,950
+2022-04-01,Mango (Raw-Ripe),172,Telangana,36,Adilabad,532,900,938,918

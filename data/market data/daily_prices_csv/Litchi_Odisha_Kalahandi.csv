@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-03,Litchi,351,Odisha,21,Kalahandi,395,20000,20000,20000
+2016-06-02,Litchi,351,Odisha,21,Kalahandi,395,14000,16000,15000
+2016-05-22,Litchi,351,Odisha,21,Kalahandi,395,17000,18000,18000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-01,Green Chilli,87,Jammu & Kashmir,1,Pulwama,12,5000,5200,5100
+2019-07-31,Green Chilli,87,Jammu & Kashmir,1,Pulwama,12,5500,5700,5600
+2019-07-23,Green Chilli,87,Jammu & Kashmir,1,Pulwama,12,8000,8200,8100

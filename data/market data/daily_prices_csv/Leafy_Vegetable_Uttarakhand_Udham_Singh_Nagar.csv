@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-10,Leafy Vegetable,171,Uttarakhand,5,Udham Singh Nagar,67,1500,1500,1500
+2018-06-28,Leafy Vegetable,171,Uttarakhand,5,Udham Singh Nagar,67,1000,1200,1160
+2018-04-15,Leafy Vegetable,171,Uttarakhand,5,Udham Singh Nagar,67,1500,1500,1500

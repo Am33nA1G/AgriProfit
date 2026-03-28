@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-10-16,Cauliflower,34,Gujarat,24,Sabar Kantha,472,1000,1500,1250
+2015-10-15,Cauliflower,34,Gujarat,24,Sabar Kantha,472,600,1200,900
+2015-10-14,Cauliflower,34,Gujarat,24,Sabar Kantha,472,500,1250,875
+2015-10-13,Cauliflower,34,Gujarat,24,Sabar Kantha,472,500,1250,875
+2015-10-10,Cauliflower,34,Gujarat,24,Sabar Kantha,472,800,1500,1150
+2015-10-09,Cauliflower,34,Gujarat,24,Sabar Kantha,472,1000,1600,1300
+2015-10-08,Cauliflower,34,Gujarat,24,Sabar Kantha,472,800,1500,1150

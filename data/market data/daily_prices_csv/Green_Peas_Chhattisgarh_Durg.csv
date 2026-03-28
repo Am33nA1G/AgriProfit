@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-04-20,Green Peas,50,Chhattisgarh,22,Durg,409,5800,5800,5800
+2021-10-31,Green Peas,50,Chhattisgarh,22,Durg,409,4385,4500,4400
+2021-05-31,Green Peas,50,Chhattisgarh,22,Durg,409,4000,4400,4200

@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-16,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,6000,6000
+2022-06-14,Litchi,351,Jammu & Kashmir,1,Kathua,7,5500,6000,5500
+2019-06-12,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2019-06-07,Litchi,351,Jammu & Kashmir,1,Kathua,7,7000,8000,7500
+2016-06-22,Litchi,351,Jammu & Kashmir,1,Kathua,7,6500,7000,6500
+2016-06-21,Litchi,351,Jammu & Kashmir,1,Kathua,7,5500,7000,6000
+2016-06-18,Litchi,351,Jammu & Kashmir,1,Kathua,7,5500,6500,6000
+2016-06-17,Litchi,351,Jammu & Kashmir,1,Kathua,7,5500,6000,5800
+2016-06-13,Litchi,351,Jammu & Kashmir,1,Kathua,7,5400,6000,5500
+2015-07-09,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2015-07-08,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,5500,5400
+2015-07-06,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,6000,5500
+2015-07-04,Litchi,351,Jammu & Kashmir,1,Kathua,7,4800,5000,4900
+2015-07-03,Litchi,351,Jammu & Kashmir,1,Kathua,7,4800,5500,5000
+2015-07-02,Litchi,351,Jammu & Kashmir,1,Kathua,7,5000,5800,5500

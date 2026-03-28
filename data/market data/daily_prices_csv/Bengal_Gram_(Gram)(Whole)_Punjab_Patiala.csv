@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-04,Bengal Gram (Gram)(Whole),6,Punjab,3,Patiala,48,8000,10000,9000
+2015-11-11,Bengal Gram (Gram)(Whole),6,Punjab,3,Patiala,48,9000,10000,9500
+2015-11-06,Bengal Gram (Gram)(Whole),6,Punjab,3,Patiala,48,5666.666666666667,6333.333333333333,5966.666666666667

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-27,Chili Red,26,Nagaland,13,Phek,266,2900,3100,3000
+2023-09-14,Chili Red,26,Nagaland,13,Phek,266,2700,2900,2800
+2023-09-12,Chili Red,26,Nagaland,13,Phek,266,2800,3000,2900
+2023-08-10,Chili Red,26,Nagaland,13,Phek,266,2000,2200,2100

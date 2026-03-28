@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Pumpkin,84,Bihar,10,Begusarai,222,1200,1400,1300
+2023-09-04,Pumpkin,84,Bihar,10,Begusarai,222,1600,1800,1700
+2023-09-01,Pumpkin,84,Bihar,10,Begusarai,222,1400,1600,1500
+2023-08-30,Pumpkin,84,Bihar,10,Begusarai,222,1800,2000,1900
+2023-08-10,Pumpkin,84,Bihar,10,Begusarai,222,8000,10000,9000
+2023-08-05,Pumpkin,84,Bihar,10,Begusarai,222,5000,8000,7000
+2022-10-27,Pumpkin,84,Bihar,10,Begusarai,222,2600,3000,2800

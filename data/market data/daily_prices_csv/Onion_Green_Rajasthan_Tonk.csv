@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-06,Onion Green,358,Rajasthan,8,Tonk,120,500,750,600
+2022-11-13,Onion Green,358,Rajasthan,8,Tonk,120,1000,1250,1100
+2020-03-30,Onion Green,358,Rajasthan,8,Tonk,120,1000,1400,1100

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-19,Seetafal,201,Madhya Pradesh,23,Katni,450,2000,2000,2000
+2023-12-16,Seetafal,201,Madhya Pradesh,23,Katni,450,2000,2000,2000
+2023-12-14,Seetafal,201,Madhya Pradesh,23,Katni,450,2500,2500,2500
+2023-11-10,Seetafal,201,Madhya Pradesh,23,Katni,450,1500,1500,1500
+2023-11-09,Seetafal,201,Madhya Pradesh,23,Katni,450,2000,2000,2000
+2023-10-22,Seetafal,201,Madhya Pradesh,23,Katni,450,6000,6000,6000

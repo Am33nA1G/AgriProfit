@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-13,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,40,50,43
+2025-10-04,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,33,45,37
+2025-10-03,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,33,45,37
+2025-09-27,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,20,57,39
+2025-09-11,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,35,50,37
+2025-07-26,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,30,30,30
+2024-06-20,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,0,0,3600
+2024-06-06,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,3000,3800,3600
+2024-05-11,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,3000,4000,3200
+2024-05-10,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,3000,5000,4000
+2019-10-17,Papaya (Raw),313,Kerala,32,Pathanamthitta,599,2000,2500,2200

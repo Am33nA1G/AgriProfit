@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-29,Karbuja (Musk Melon),187,Maharashtra,27,Thane,517,3000,4000,3500
+2025-01-22,Karbuja (Musk Melon),187,Maharashtra,27,Thane,517,3000,4000,3500
+2022-12-01,Karbuja (Musk Melon),187,Maharashtra,27,Thane,517,4000,5000,4500

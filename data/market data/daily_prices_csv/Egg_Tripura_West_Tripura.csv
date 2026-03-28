@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-29,Egg,367,Tripura,16,West Tripura,289,235.2,403.2,268.8
+2020-04-08,Egg,367,Tripura,16,West Tripura,289,33600,43680,40320
+2020-03-28,Egg,367,Tripura,16,West Tripura,289,235.2,369.6,336
+2020-02-01,Egg,367,Tripura,16,West Tripura,289,235.2,504,436.8
+2020-01-03,Egg,367,Tripura,16,West Tripura,289,268.8,420,336
+2019-12-04,Egg,367,Tripura,16,West Tripura,289,201.6,436.8,336

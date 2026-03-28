@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-04,Water Melon,73,Jharkhand,20,Garhwa,346,900,1000,950
+2022-03-31,Water Melon,73,Jharkhand,20,Garhwa,346,900,1000,950
+2021-05-13,Water Melon,73,Jharkhand,20,Garhwa,346,100,200,150
+2021-04-28,Water Melon,73,Jharkhand,20,Garhwa,346,925,1000,950
+2021-04-03,Water Melon,73,Jharkhand,20,Garhwa,346,350,400,360

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-10,Wood,203,Uttar Pradesh,9,Ghazipur,195,1540,1650,1600
+2025-09-29,Wood,203,Uttar Pradesh,9,Ghazipur,195,500,600,550
+2025-09-05,Wood,203,Uttar Pradesh,9,Ghazipur,195,500,700,600
+2025-07-07,Wood,203,Uttar Pradesh,9,Ghazipur,195,400,600,500
+2020-03-03,Wood,203,Uttar Pradesh,9,Ghazipur,195,3420,3460,3440
+2020-03-02,Wood,203,Uttar Pradesh,9,Ghazipur,195,3350,3450,3400
+2020-03-01,Wood,203,Uttar Pradesh,9,Ghazipur,195,3430,3460,3450
+2019-02-04,Wood,203,Uttar Pradesh,9,Ghazipur,195,3000,3200,3100
+2018-12-26,Wood,203,Uttar Pradesh,9,Ghazipur,195,2750,2850,2800
+2018-12-22,Wood,203,Uttar Pradesh,9,Ghazipur,195,2800,2900,2850
+2018-12-19,Wood,203,Uttar Pradesh,9,Ghazipur,195,2900,3100,3000

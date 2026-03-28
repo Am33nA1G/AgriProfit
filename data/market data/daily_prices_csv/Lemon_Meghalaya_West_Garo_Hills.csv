@@ -1,0 +1,24 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-12,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3000,2500
+2017-09-05,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3000,2500
+2017-06-30,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,2500,2400
+2017-06-10,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3500,3000
+2016-08-12,Lemon,310,Meghalaya,17,West Garo Hills,293,2400,3000,2600
+2016-08-05,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,2800,2500
+2016-07-22,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,2800,2500
+2016-07-15,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3000,2900
+2016-06-24,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3000,2500
+2016-06-11,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3000,2500
+2016-06-04,Lemon,310,Meghalaya,17,West Garo Hills,293,3000,3500,3000
+2016-06-03,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3500,3000
+2016-05-27,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3500,3000
+2016-05-21,Lemon,310,Meghalaya,17,West Garo Hills,293,3000,3500,3000
+2016-05-20,Lemon,310,Meghalaya,17,West Garo Hills,293,2800,3500,3000
+2016-05-06,Lemon,310,Meghalaya,17,West Garo Hills,293,2800,3500,3000
+2016-04-22,Lemon,310,Meghalaya,17,West Garo Hills,293,2000,3000,2500
+2015-11-06,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3500,3000
+2015-08-07,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3000,2900
+2015-07-31,Lemon,310,Meghalaya,17,West Garo Hills,293,2500,3000,2900
+2015-07-03,Lemon,310,Meghalaya,17,West Garo Hills,293,1800,2500,2000
+2015-06-26,Lemon,310,Meghalaya,17,West Garo Hills,293,3500,3800,3600
+2015-06-19,Lemon,310,Meghalaya,17,West Garo Hills,293,1500,2000,1800

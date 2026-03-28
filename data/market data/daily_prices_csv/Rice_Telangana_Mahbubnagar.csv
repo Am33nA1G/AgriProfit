@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-23,Rice,3,Telangana,36,Mahbubnagar,538,3500,3500,3500
+2015-08-19,Rice,3,Telangana,36,Mahbubnagar,538,3100,3200,3150
+2015-07-07,Rice,3,Telangana,36,Mahbubnagar,538,3000,3000,3000
+2015-06-30,Rice,3,Telangana,36,Mahbubnagar,538,3000,3200,3100
+2015-06-20,Rice,3,Telangana,36,Mahbubnagar,538,3000,3000,3000
+2015-06-09,Rice,3,Telangana,36,Mahbubnagar,538,3150,3250,3200

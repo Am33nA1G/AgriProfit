@@ -1,0 +1,65 @@
+# =============================================================================
+# Root-level .dockerignore — used when backend build context is repo root
+# =============================================================================
+
+# Entire frontend and mobile — separate builds
+frontend/
+mobile/
+
+# Python virtual environment
+backend/.venv/
+**/.venv/
+
+# Python bytecode
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Dev/staging env files (prod .env is injected at runtime via secrets)
+backend/.env.development
+backend/.env.staging
+backend/.env
+frontend/.env.local
+
+# Test suite (not shipped to production)
+backend/tests/
+
+# Management scripts (not needed at runtime)
+backend/scripts/
+
+# Logs
+logs/
+**/*.log
+
+# Node modules (frontend only, excluded above)
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# Claude Code
+.claude/
+.playwright-mcp/
+
+# Documentation / reports
+*.md
+*.pdf
+*.tex
+*.py.bak
+docs/
+specs/
+report/
+report_screenshots/
+generate_report_pdf.py
+setup_check.py
+RESUME.md
+SETUP_FRIEND_PC.md
+
+# Test results
+frontend/test-results/
+
+# Editor
+.vscode/
+.idea/
+*.swp

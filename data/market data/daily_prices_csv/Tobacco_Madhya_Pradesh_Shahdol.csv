@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-01,Tobacco,141,Madhya Pradesh,23,Shahdol,460,6419,7633,7633
+2025-05-22,Tobacco,141,Madhya Pradesh,23,Shahdol,460,1000,5443,5443
+2025-03-07,Tobacco,141,Madhya Pradesh,23,Shahdol,460,1000,1000,1000
+2024-10-14,Tobacco,141,Madhya Pradesh,23,Shahdol,460,5476,5476,5476
+2016-04-26,Tobacco,141,Madhya Pradesh,23,Shahdol,460,2650,3200,3000
+2016-03-01,Tobacco,141,Madhya Pradesh,23,Shahdol,460,2300,2300,2300
+2015-04-15,Tobacco,141,Madhya Pradesh,23,Shahdol,460,2950,2950,2950
+2015-01-24,Tobacco,141,Madhya Pradesh,23,Shahdol,460,2735,2735,2735

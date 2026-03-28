@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-04-30,Methi (Leaves),46,Chhattisgarh,22,Raipur,410,7000,7300,7130
+2025-03-31,Methi (Leaves),46,Chhattisgarh,22,Raipur,410,5000,5400,5297
+2025-02-28,Methi (Leaves),46,Chhattisgarh,22,Raipur,410,4150,4550,4369
+2025-01-31,Methi (Leaves),46,Chhattisgarh,22,Raipur,410,5400,5730,5531
+2024-12-31,Methi (Leaves),46,Chhattisgarh,22,Raipur,410,4500,4500,4500

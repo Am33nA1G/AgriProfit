@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-29,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,3100,3500,3200
+2022-01-25,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,2100,2500,2200
+2022-01-24,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,3000,3400,3100
+2022-01-22,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,3000,3400,3100
+2021-12-30,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,1500,2000,1600
+2021-12-27,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,3000,3300,3100
+2021-12-26,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,1100,1400,1200
+2021-12-25,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,2500,3000,2600
+2021-12-22,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,2900,3400,3000
+2021-12-19,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,1400,2000,1500
+2021-12-18,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,1300,1800,1400
+2021-12-17,Bajra (Pearl Millet/Cumbu),28,Bihar,10,Purba Champaran,204,2800,3500,3000

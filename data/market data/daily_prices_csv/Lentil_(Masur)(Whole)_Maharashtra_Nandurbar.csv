@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-10,Lentil (Masur)(Whole),63,Maharashtra,27,Nandurbar,497,4000,4000,4000
+2019-03-30,Lentil (Masur)(Whole),63,Maharashtra,27,Nandurbar,497,5000,5000,5000
+2019-03-12,Lentil (Masur)(Whole),63,Maharashtra,27,Nandurbar,497,4600,4600,4600

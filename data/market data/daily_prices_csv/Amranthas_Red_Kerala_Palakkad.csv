@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-24,Amranthas Red,419,Kerala,32,Palakkad,593,3300,3500,3400
+2025-07-23,Amranthas Red,419,Kerala,32,Palakkad,593,1300,1500,1400
+2024-12-09,Amranthas Red,419,Kerala,32,Palakkad,593,3700,3900,3800

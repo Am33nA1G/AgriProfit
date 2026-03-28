@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-03,Yam (Ratalu),297,Gujarat,24,Junagadh,479,1750,2950,2300
+2015-01-30,Yam (Ratalu),297,Gujarat,24,Junagadh,479,1075,2300,1750
+2015-01-29,Yam (Ratalu),297,Gujarat,24,Junagadh,479,1050,2200,1650

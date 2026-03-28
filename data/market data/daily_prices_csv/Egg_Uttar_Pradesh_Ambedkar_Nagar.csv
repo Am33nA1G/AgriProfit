@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-24,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,560,580,570
+2021-08-27,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,560,580,575
+2021-07-27,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,570,578,575
+2021-07-26,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,570,580,570
+2021-07-24,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,570,580,575
+2021-07-23,Egg,367,Uttar Pradesh,9,Ambedkar Nagar,178,520,580,571

@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-25,Lukad,337,Punjab,3,Gurdaspur,35,2000,2500,2250
+2016-04-22,Lukad,337,Punjab,3,Gurdaspur,35,2000,3000,2500
+2016-04-21,Lukad,337,Punjab,3,Gurdaspur,35,2000,3000,2500
+2016-04-20,Lukad,337,Punjab,3,Gurdaspur,35,2500,3000,2750
+2016-04-19,Lukad,337,Punjab,3,Gurdaspur,35,2000,2500,2250
+2016-04-18,Lukad,337,Punjab,3,Gurdaspur,35,2000,3000,2500

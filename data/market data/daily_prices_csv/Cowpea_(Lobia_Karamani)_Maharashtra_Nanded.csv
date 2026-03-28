@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-10,Cowpea (Lobia/Karamani),92,Maharashtra,27,Nanded,511,4805,4805,4805
+2023-05-03,Cowpea (Lobia/Karamani),92,Maharashtra,27,Nanded,511,4200,4200,4200

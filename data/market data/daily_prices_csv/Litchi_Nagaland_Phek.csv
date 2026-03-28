@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-05,Litchi,351,Nagaland,13,Phek,266,8000,10000,9000
+2024-05-24,Litchi,351,Nagaland,13,Phek,266,7000,9000,8000
+2024-05-21,Litchi,351,Nagaland,13,Phek,266,9000,10000,9500
+2023-07-01,Litchi,351,Nagaland,13,Phek,266,2000,2200,2100

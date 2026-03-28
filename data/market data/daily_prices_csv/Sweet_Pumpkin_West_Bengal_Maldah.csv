@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-02,Sweet Pumpkin,173,West Bengal,19,Maldah,332,790,810,800
+2015-11-27,Sweet Pumpkin,173,West Bengal,19,Maldah,332,790,810,800
+2015-11-26,Sweet Pumpkin,173,West Bengal,19,Maldah,332,790,810,800
+2015-11-21,Sweet Pumpkin,173,West Bengal,19,Maldah,332,890,910,900
+2015-11-18,Sweet Pumpkin,173,West Bengal,19,Maldah,332,890,910,900
+2015-11-11,Sweet Pumpkin,173,West Bengal,19,Maldah,332,790,810,800
+2015-09-24,Sweet Pumpkin,173,West Bengal,19,Maldah,332,990,1020,1000
+2015-09-17,Sweet Pumpkin,173,West Bengal,19,Maldah,332,1490,1520,1500
+2015-08-11,Sweet Pumpkin,173,West Bengal,19,Maldah,332,800,1000,900
+2015-08-06,Sweet Pumpkin,173,West Bengal,19,Maldah,332,990,1020,1000
+2015-07-29,Sweet Pumpkin,173,West Bengal,19,Maldah,332,1390,1420,1400
+2015-07-28,Sweet Pumpkin,173,West Bengal,19,Maldah,332,1280,1320,1300
+2015-07-20,Sweet Pumpkin,173,West Bengal,19,Maldah,332,990,1020,1000

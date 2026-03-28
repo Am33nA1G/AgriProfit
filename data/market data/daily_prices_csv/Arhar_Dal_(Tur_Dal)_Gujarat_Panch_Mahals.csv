@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-02-20,Arhar Dal (Tur Dal),260,Gujarat,24,Panch Mahals,484,3800,4625,4625
+2017-02-18,Arhar Dal (Tur Dal),260,Gujarat,24,Panch Mahals,484,3800,4625,4625
+2016-08-03,Arhar Dal (Tur Dal),260,Gujarat,24,Panch Mahals,484,8450,9050,8750

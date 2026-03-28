@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-03-12,Knool Khol,177,Tripura,16,South Tripura,290,800,1000,900
+2021-03-08,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-03-01,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-02-19,Knool Khol,177,Tripura,16,South Tripura,290,800,1000,900
+2021-02-15,Knool Khol,177,Tripura,16,South Tripura,290,1000,1200,1100
+2021-02-08,Knool Khol,177,Tripura,16,South Tripura,290,1000,1200,1100
+2021-01-22,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-01-19,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-01-18,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-01-15,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-01-11,Knool Khol,177,Tripura,16,South Tripura,290,1300,1500,1400
+2021-01-08,Knool Khol,177,Tripura,16,South Tripura,290,2300,2500,2400
+2021-01-04,Knool Khol,177,Tripura,16,South Tripura,290,2300,2500,2400
+2021-01-01,Knool Khol,177,Tripura,16,South Tripura,290,2300,2500,2400
+2020-12-28,Knool Khol,177,Tripura,16,South Tripura,290,2800,3000,2900
+2020-12-21,Knool Khol,177,Tripura,16,South Tripura,290,3000,3500,3300
+2020-12-18,Knool Khol,177,Tripura,16,South Tripura,290,3000,3500,3300
+2020-12-14,Knool Khol,177,Tripura,16,South Tripura,290,3300,3500,3400

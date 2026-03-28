@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-04-16,Cluster beans,80,Gujarat,24,Kachchh,468,3000,3500,3300
+2015-04-10,Cluster beans,80,Gujarat,24,Kachchh,468,4000,5000,4800
+2015-04-02,Cluster beans,80,Gujarat,24,Kachchh,468,4000,6000,5000
+2015-04-01,Cluster beans,80,Gujarat,24,Kachchh,468,6000,8000,7000
+2015-03-31,Cluster beans,80,Gujarat,24,Kachchh,468,6000,7000,6500
+2015-03-30,Cluster beans,80,Gujarat,24,Kachchh,468,6000,8000,7000
+2015-03-26,Cluster beans,80,Gujarat,24,Kachchh,468,7000,8000,7500
+2015-03-25,Cluster beans,80,Gujarat,24,Kachchh,468,6500,7000,6800
+2015-03-24,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6300
+2015-03-23,Cluster beans,80,Gujarat,24,Kachchh,468,5500,6000,5800
+2015-03-18,Cluster beans,80,Gujarat,24,Kachchh,468,5500,6000,5800
+2015-03-17,Cluster beans,80,Gujarat,24,Kachchh,468,5000,6000,5800
+2015-03-16,Cluster beans,80,Gujarat,24,Kachchh,468,5000,6000,5500
+2015-03-14,Cluster beans,80,Gujarat,24,Kachchh,468,6500,7000,6700
+2015-03-13,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6300
+2015-03-12,Cluster beans,80,Gujarat,24,Kachchh,468,7000,7500,7300
+2015-03-11,Cluster beans,80,Gujarat,24,Kachchh,468,6000,7000,6500
+2015-03-10,Cluster beans,80,Gujarat,24,Kachchh,468,5500,6000,5800
+2015-03-09,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6200
+2015-03-04,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6200
+2015-03-03,Cluster beans,80,Gujarat,24,Kachchh,468,6500,7000,6800
+2015-03-02,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6200
+2015-02-28,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6300
+2015-02-26,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6500,6200
+2015-02-25,Cluster beans,80,Gujarat,24,Kachchh,468,6000,6200,6100

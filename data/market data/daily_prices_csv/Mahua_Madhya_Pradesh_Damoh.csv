@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-08-08,Mahua,335,Madhya Pradesh,23,Damoh,428,3325,3325,3325
+2023-10-10,Mahua,335,Madhya Pradesh,23,Damoh,428,2615,2635,2625
+2020-05-28,Mahua,335,Madhya Pradesh,23,Damoh,428,3500,3500,3500
+2020-05-27,Mahua,335,Madhya Pradesh,23,Damoh,428,3500,3500,3500
+2020-05-26,Mahua,335,Madhya Pradesh,23,Damoh,428,3500,3500,3500
+2020-05-11,Mahua,335,Madhya Pradesh,23,Damoh,428,3500,3500,3500
+2020-05-08,Mahua,335,Madhya Pradesh,23,Damoh,428,3335,3560,3410
+2019-08-30,Mahua,335,Madhya Pradesh,23,Damoh,428,2250,2350,2295
+2018-08-29,Mahua,335,Madhya Pradesh,23,Damoh,428,2300,2405,2390
+2018-08-21,Mahua,335,Madhya Pradesh,23,Damoh,428,2300,2500,2400
+2017-07-29,Mahua,335,Madhya Pradesh,23,Damoh,428,2000,2100,2050
+2017-07-28,Mahua,335,Madhya Pradesh,23,Damoh,428,1900,2050,2000
+2017-05-04,Mahua,335,Madhya Pradesh,23,Damoh,428,3000,3000,3000
+2016-12-15,Mahua,335,Madhya Pradesh,23,Damoh,428,3100,3300,3200
+2016-06-01,Mahua,335,Madhya Pradesh,23,Damoh,428,2500,2800,2700
+2016-05-03,Mahua,335,Madhya Pradesh,23,Damoh,428,2400,2600,2500
+2016-04-29,Mahua,335,Madhya Pradesh,23,Damoh,428,2400,2600,2500
+2016-04-14,Mahua,335,Madhya Pradesh,23,Damoh,428,2200,2600,2400
+2015-10-11,Mahua,335,Madhya Pradesh,23,Damoh,428,1700,1800,1780
+2015-10-07,Mahua,335,Madhya Pradesh,23,Damoh,428,1900,2100,2000
+2015-08-06,Mahua,335,Madhya Pradesh,23,Damoh,428,1650,1700,1680
+2015-05-06,Mahua,335,Madhya Pradesh,23,Damoh,428,1600,1800,1700
+2015-04-29,Mahua,335,Madhya Pradesh,23,Damoh,428,1400,1600,1500
+2015-04-28,Mahua,335,Madhya Pradesh,23,Damoh,428,1400,1600,1500
+2015-04-26,Mahua,335,Madhya Pradesh,23,Damoh,428,1200,1500,1350

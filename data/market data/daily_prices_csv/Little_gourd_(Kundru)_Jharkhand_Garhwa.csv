@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-02,Little gourd (Kundru),302,Jharkhand,20,Garhwa,346,950,1000,975
+2021-07-29,Little gourd (Kundru),302,Jharkhand,20,Garhwa,346,900,1000,950
+2021-07-22,Little gourd (Kundru),302,Jharkhand,20,Garhwa,346,950,1000,975

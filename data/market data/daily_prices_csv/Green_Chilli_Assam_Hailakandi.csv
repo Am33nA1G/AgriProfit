@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-30,Green Chilli,87,Assam,18,Hailakandi,318,6000,6500,6250
+2022-04-12,Green Chilli,87,Assam,18,Hailakandi,318,5000,5800,5400
+2022-04-08,Green Chilli,87,Assam,18,Hailakandi,318,6000,7000,6700
+2022-04-07,Green Chilli,87,Assam,18,Hailakandi,318,5500,6000,5750
+2022-03-17,Green Chilli,87,Assam,18,Hailakandi,318,6000,8000,7500
+2022-03-16,Green Chilli,87,Assam,18,Hailakandi,318,7000,8000,7500
+2017-02-17,Green Chilli,87,Assam,18,Hailakandi,318,1500,2500,2000

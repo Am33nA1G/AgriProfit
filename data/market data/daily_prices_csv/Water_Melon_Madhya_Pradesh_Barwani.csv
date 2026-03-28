@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-29,Water Melon,73,Madhya Pradesh,23,Barwani,441,700,700,700
+2022-05-26,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,700,600
+2022-05-25,Water Melon,73,Madhya Pradesh,23,Barwani,441,500,800,600
+2022-05-17,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,600,600
+2022-05-13,Water Melon,73,Madhya Pradesh,23,Barwani,441,500,600,550
+2022-05-12,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,700
+2022-05-11,Water Melon,73,Madhya Pradesh,23,Barwani,441,500,700,600
+2022-05-10,Water Melon,73,Madhya Pradesh,23,Barwani,441,500,700,600
+2022-05-05,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,700
+2022-05-03,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,700,600
+2022-04-29,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,600
+2022-04-28,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,600
+2022-04-27,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,700
+2022-04-24,Water Melon,73,Madhya Pradesh,23,Barwani,441,600,800,700
+2022-04-23,Water Melon,73,Madhya Pradesh,23,Barwani,441,800,1000,800
+2022-04-22,Water Melon,73,Madhya Pradesh,23,Barwani,441,800,1000,800
+2022-04-21,Water Melon,73,Madhya Pradesh,23,Barwani,441,700,800,700
+2022-04-20,Water Melon,73,Madhya Pradesh,23,Barwani,441,800,1000,800

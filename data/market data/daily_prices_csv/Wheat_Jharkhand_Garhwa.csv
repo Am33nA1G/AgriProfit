@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-04,Wheat,1,Jharkhand,20,Garhwa,346,1900,2000,1980
+2019-08-16,Wheat,1,Jharkhand,20,Garhwa,346,1840,1890,1855
+2019-08-15,Wheat,1,Jharkhand,20,Garhwa,346,1840,1890,1855
+2019-07-03,Wheat,1,Jharkhand,20,Garhwa,346,1840,1843,1842
+2019-07-02,Wheat,1,Jharkhand,20,Garhwa,346,1840,1843,1842
+2019-07-01,Wheat,1,Jharkhand,20,Garhwa,346,1840,1841.5,1841
+2019-06-22,Wheat,1,Jharkhand,20,Garhwa,346,1840,1843,1842
+2019-06-07,Wheat,1,Jharkhand,20,Garhwa,346,1840,1846,1843
+2019-06-03,Wheat,1,Jharkhand,20,Garhwa,346,1840,1845,1843
+2019-06-01,Wheat,1,Jharkhand,20,Garhwa,346,1840,1850,1846
+2019-05-30,Wheat,1,Jharkhand,20,Garhwa,346,1840,1855,1850
+2019-05-27,Wheat,1,Jharkhand,20,Garhwa,346,1800,1840,1820
+2019-01-08,Wheat,1,Jharkhand,20,Garhwa,346,1675,1735,1715
+2018-12-07,Wheat,1,Jharkhand,20,Garhwa,346,1780,1865,1835
+2018-10-01,Wheat,1,Jharkhand,20,Garhwa,346,1680,1745,1725

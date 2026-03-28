@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-28,Taramira,76,Madhya Pradesh,23,Morena,419,3606,3606,3606
+2019-04-11,Taramira,76,Madhya Pradesh,23,Morena,419,3600,3600,3600
+2019-04-08,Taramira,76,Madhya Pradesh,23,Morena,419,3625,3632,3632
+2019-03-26,Taramira,76,Madhya Pradesh,23,Morena,419,3150,3250,3250

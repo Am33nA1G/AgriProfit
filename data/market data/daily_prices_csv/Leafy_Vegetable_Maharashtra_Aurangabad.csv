@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-14,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,400,700,550
+2023-09-13,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,900,750
+2023-09-11,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,1200,900
+2023-09-05,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,500,1000,750
+2023-09-03,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,500,1200,850
+2023-09-02,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,700,900,800
+2023-08-30,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,1200,900
+2023-08-29,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,1000,800
+2023-08-28,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,700,900,800
+2023-08-24,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,800,700
+2023-08-22,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,3500,7000,5250
+2023-08-21,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,500,1000,750
+2023-08-20,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,500,700,600
+2023-08-19,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,900,750
+2023-08-17,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,470,1000,700
+2023-08-16,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,700,900,800
+2023-08-15,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,1000,700
+2023-08-14,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,800,700
+2023-08-13,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,800,700
+2023-08-12,Leafy Vegetable,171,Maharashtra,27,Aurangabad,515,600,900,750

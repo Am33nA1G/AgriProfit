@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-29,Guar,75,Uttar Pradesh,9,Agra,146,4000,4040,4020
+2020-12-06,Guar,75,Uttar Pradesh,9,Agra,146,3200,3400,3300
+2020-11-30,Guar,75,Uttar Pradesh,9,Agra,146,3300,3400,3350

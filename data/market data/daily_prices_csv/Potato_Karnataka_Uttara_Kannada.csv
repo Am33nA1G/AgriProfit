@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-12-31,Potato,24,Karnataka,29,Uttara Kannada,563,2100,2200,2150
+2016-11-30,Potato,24,Karnataka,29,Uttara Kannada,563,2000,2200,2150
+2016-10-28,Potato,24,Karnataka,29,Uttara Kannada,563,2200,2200,2200
+2016-09-29,Potato,24,Karnataka,29,Uttara Kannada,563,2150,2500,2325
+2016-08-31,Potato,24,Karnataka,29,Uttara Kannada,563,1600,2500,2050
+2016-07-30,Potato,24,Karnataka,29,Uttara Kannada,563,2100,2400,2200
+2016-06-30,Potato,24,Karnataka,29,Uttara Kannada,563,2000,2050,2025
+2016-05-31,Potato,24,Karnataka,29,Uttara Kannada,563,2100,2100,2100
+2016-04-30,Potato,24,Karnataka,29,Uttara Kannada,563,2400,2400,2400

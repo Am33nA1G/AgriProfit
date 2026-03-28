@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-30,Pumpkin,84,West Bengal,19,Maldah,332,790,810,800
+2015-09-17,Pumpkin,84,West Bengal,19,Maldah,332,600,675,650
+2015-08-13,Pumpkin,84,West Bengal,19,Maldah,332,990,1010,1000
+2015-08-11,Pumpkin,84,West Bengal,19,Maldah,332,700,900,800
+2015-07-29,Pumpkin,84,West Bengal,19,Maldah,332,1400,1600,1500
+2015-07-28,Pumpkin,84,West Bengal,19,Maldah,332,1100,1300,1200
+2015-07-21,Pumpkin,84,West Bengal,19,Maldah,332,990,1020,1000
+2015-07-20,Pumpkin,84,West Bengal,19,Maldah,332,1180,1210,1200

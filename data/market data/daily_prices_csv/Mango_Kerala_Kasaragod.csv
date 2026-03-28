@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-19,Mango,20,Kerala,32,Kasaragod,588,2000,3000,2500
+2016-03-28,Mango,20,Kerala,32,Kasaragod,588,2000,3000,2500
+2016-03-21,Mango,20,Kerala,32,Kasaragod,588,3000,4000,3500
+2016-03-14,Mango,20,Kerala,32,Kasaragod,588,3500,5000,4250
+2015-05-08,Mango,20,Kerala,32,Kasaragod,588,4500,6000,5250
+2015-05-05,Mango,20,Kerala,32,Kasaragod,588,2000,3000,2500

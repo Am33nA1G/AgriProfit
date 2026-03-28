@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-05,Galgal (Lemon),350,Uttar Pradesh,9,Mainpuri,148,2500,2700,2600
+2018-07-04,Galgal (Lemon),350,Uttar Pradesh,9,Mainpuri,148,2400,2600,2500
+2018-07-03,Galgal (Lemon),350,Uttar Pradesh,9,Mainpuri,148,2350,2550,2450
+2018-07-02,Galgal (Lemon),350,Uttar Pradesh,9,Mainpuri,148,2300,2500,2400
+2018-07-01,Galgal (Lemon),350,Uttar Pradesh,9,Mainpuri,148,2400,2600,2500

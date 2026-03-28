@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-22,Beans,94,Punjab,3,Gurdaspur,35,300,500,400
+2015-12-19,Beans,94,Punjab,3,Gurdaspur,35,300,500,400
+2015-11-09,Beans,94,Punjab,3,Gurdaspur,35,,,7000

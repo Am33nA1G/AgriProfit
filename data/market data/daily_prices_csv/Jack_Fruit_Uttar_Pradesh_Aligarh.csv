@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-05-31,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1780,1800,1790
+2019-05-29,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1780,1800,1790
+2019-05-28,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1780,1800,1790
+2019-05-20,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1730,1750,1740
+2019-05-19,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1780,1800,1790
+2019-05-18,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1730,1750,1740
+2018-05-23,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1280,1300,1290
+2018-05-21,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1230,1250,1240
+2018-05-20,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1350,1400,1380
+2018-05-18,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1330,1350,1340
+2018-05-16,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1330,1350,1340
+2018-05-14,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1350,1400,1380
+2018-05-12,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1350,1380,1370
+2018-05-11,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1380,1400,1390
+2018-05-09,Jack Fruit,182,Uttar Pradesh,9,Aligarh,143,1450,1500,1480

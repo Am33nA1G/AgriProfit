@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-02,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,6000,6200,6100
+2018-06-23,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,2000,4450,2100
+2018-01-27,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,3500,3950,3950
+2017-10-25,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,3000,4000,3500
+2017-09-23,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,3600,3850,3750
+2016-03-28,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,6175,6175,6175
+2015-12-22,Green Gram Dal (Moong Dal),265,Telangana,36,Khammam,541,7091,7091,7091

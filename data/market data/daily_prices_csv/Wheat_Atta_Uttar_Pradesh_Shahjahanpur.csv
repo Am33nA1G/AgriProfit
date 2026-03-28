@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-12-30,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2800,3000,2900
+2022-12-09,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2775,2975,2875
+2022-09-02,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2485,2685,2585
+2022-08-26,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2450,2650,2550
+2022-07-22,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2420,2620,2520
+2022-07-15,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2450,2650,2550
+2022-07-01,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2355,2555,2455
+2022-06-24,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2350,2550,2450
+2022-06-17,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2350,2550,2450
+2022-06-10,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2370,2570,2470
+2022-06-03,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2375,2575,2475
+2022-05-06,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2365,2565,2465
+2022-04-08,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2325,2525,2425
+2021-09-26,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2125,2325,2225
+2021-09-24,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2130,2330,2230
+2021-09-22,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2130,2330,2230
+2021-09-21,Wheat Atta,287,Uttar Pradesh,9,Shahjahanpur,152,2125,2325,2225

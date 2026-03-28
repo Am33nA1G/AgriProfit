@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-01,Banana - Green,90,Jammu & Kashmir,1,Srinagar,10,2900,3500,3200
+2019-07-31,Banana - Green,90,Jammu & Kashmir,1,Srinagar,10,3000,3300,3150
+2019-02-02,Banana - Green,90,Jammu & Kashmir,1,Srinagar,10,3300,3700,3500
+2018-03-03,Banana - Green,90,Jammu & Kashmir,1,Srinagar,10,2600,2900,2750
+2017-07-15,Banana - Green,90,Jammu & Kashmir,1,Srinagar,10,2900,3200,3150

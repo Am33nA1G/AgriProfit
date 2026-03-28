@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-03,Ginger (Dry),27,Nagaland,13,Mokokchung,262,15200,15400,15300
+2021-03-29,Ginger (Dry),27,Nagaland,13,Mokokchung,262,4000,5000,4500
+2021-03-01,Ginger (Dry),27,Nagaland,13,Mokokchung,262,4000,5000,4500
+2021-02-22,Ginger (Dry),27,Nagaland,13,Mokokchung,262,4000,5000,4500
+2021-02-15,Ginger (Dry),27,Nagaland,13,Mokokchung,262,4000,5000,4500
+2021-02-08,Ginger (Dry),27,Nagaland,13,Mokokchung,262,4000,5000,4500
+2021-02-01,Ginger (Dry),27,Nagaland,13,Mokokchung,262,2000,2400,2200
+2021-01-25,Ginger (Dry),27,Nagaland,13,Mokokchung,262,2000,2300,2100
+2018-11-19,Ginger (Dry),27,Nagaland,13,Mokokchung,262,2000,2300,2200
+2015-10-19,Ginger (Dry),27,Nagaland,13,Mokokchung,262,7500,7700,7600
+2015-10-12,Ginger (Dry),27,Nagaland,13,Mokokchung,262,7500,7700,7600
+2015-09-28,Ginger (Dry),27,Nagaland,13,Mokokchung,262,9000,9500,9200
+2015-09-21,Ginger (Dry),27,Nagaland,13,Mokokchung,262,10000,10400,10200
+2015-09-14,Ginger (Dry),27,Nagaland,13,Mokokchung,262,10000,10400,10200
+2015-09-07,Ginger (Dry),27,Nagaland,13,Mokokchung,262,10000,10400,10200
+2015-08-24,Ginger (Dry),27,Nagaland,13,Mokokchung,262,8000,8400,8200
+2015-08-17,Ginger (Dry),27,Nagaland,13,Mokokchung,262,8000,8400,8200
+2015-08-10,Ginger (Dry),27,Nagaland,13,Mokokchung,262,8000,8300,8100
+2015-08-03,Ginger (Dry),27,Nagaland,13,Mokokchung,262,6000,6400,6200
+2015-06-08,Ginger (Dry),27,Nagaland,13,Mokokchung,262,9500,10000,9750
+2015-06-01,Ginger (Dry),27,Nagaland,13,Mokokchung,262,7500,8000,7750
+2015-05-25,Ginger (Dry),27,Nagaland,13,Mokokchung,262,6500,7000,6750
+2015-05-18,Ginger (Dry),27,Nagaland,13,Mokokchung,262,6500,7000,6750
+2015-05-11,Ginger (Dry),27,Nagaland,13,Mokokchung,262,7000,7500,7250

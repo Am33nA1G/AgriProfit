@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-12,Maize,4,Haryana,6,Panipat,75,1376,1390,1380
+2015-04-23,Maize,4,Haryana,6,Panipat,75,1544,1544,1544

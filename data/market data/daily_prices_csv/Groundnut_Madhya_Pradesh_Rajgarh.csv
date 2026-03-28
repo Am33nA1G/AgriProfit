@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-11-22,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3600,3600,3600
+2017-12-13,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3120,3120,3120
+2017-12-12,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3000,3000,3000
+2017-12-06,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3101,3101,3101
+2017-11-29,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3005,3005,3005
+2017-11-08,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3500,3500,3500
+2017-11-03,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3500,3500,3500
+2017-11-02,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,4000,4000,4000
+2017-10-28,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,3500,3500,3500
+2017-10-22,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,2740,3250,3090
+2017-10-10,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,2700,2800,2800
+2017-10-06,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,2800,3200,3150
+2017-09-27,Groundnut,10,Madhya Pradesh,23,Rajgarh,442,2100,2100,2100

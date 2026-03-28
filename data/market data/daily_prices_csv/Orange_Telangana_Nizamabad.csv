@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-16,Orange,18,Telangana,36,Nizamabad,533,1666,1666,1666
+2015-12-15,Orange,18,Telangana,36,Nizamabad,533,750,750,750

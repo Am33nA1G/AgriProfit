@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-04,Safflower,59,Maharashtra,27,Nashik,516,5101,5101,5101
+2024-10-03,Safflower,59,Maharashtra,27,Nashik,516,5000,5000,5000
+2024-05-28,Safflower,59,Maharashtra,27,Nashik,516,5500,5500,5500
+2019-08-26,Safflower,59,Maharashtra,27,Nashik,516,4080,4080,4080
+2017-05-18,Safflower,59,Maharashtra,27,Nashik,516,3200,3200,3200
+2017-04-27,Safflower,59,Maharashtra,27,Nashik,516,3500,3500,3500
+2017-04-24,Safflower,59,Maharashtra,27,Nashik,516,3305,3305,3305
+2017-03-20,Safflower,59,Maharashtra,27,Nashik,516,3081,3100,3090
+2016-02-24,Safflower,59,Maharashtra,27,Nashik,516,3200,3200,3200

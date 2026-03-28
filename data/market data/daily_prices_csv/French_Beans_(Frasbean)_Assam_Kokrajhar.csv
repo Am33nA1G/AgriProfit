@@ -1,0 +1,19 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-18,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1000,1200,1200
+2025-03-13,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1000,1500,1200
+2025-03-12,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1500,1800,1600
+2025-03-04,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1800,2000,1800
+2025-03-03,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1500,1600,1500
+2025-02-28,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1500,1800,1600
+2025-02-26,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,4000,4500,4200
+2025-02-25,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1200,1500,1400
+2025-02-20,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1800,2000,1800
+2025-02-14,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1800,2000,1800
+2025-02-11,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1600,1800,1800
+2025-02-06,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,1500,1800,1700
+2025-01-21,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,3000,3500,3300
+2025-01-18,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,3000,3200,3000
+2025-01-16,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,2800,3000,3000
+2024-12-27,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,3000,4000,3600
+2024-12-26,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,2500,3000,2700
+2024-10-25,French Beans (Frasbean),298,Assam,18,Kokrajhar,300,8000,10000,9000

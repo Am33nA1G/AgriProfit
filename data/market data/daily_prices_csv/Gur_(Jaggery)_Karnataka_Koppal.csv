@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-07,Gur (Jaggery),74,Karnataka,29,Koppal,560,3500,3500,3500
+2023-03-24,Gur (Jaggery),74,Karnataka,29,Koppal,560,3650,3650,3650
+2022-10-01,Gur (Jaggery),74,Karnataka,29,Koppal,560,3200,3200,3200
+2022-09-03,Gur (Jaggery),74,Karnataka,29,Koppal,560,3600,3600,3600

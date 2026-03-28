@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Banana - Green,90,Bihar,10,Madhepura,213,800,1200,1000
+2023-09-05,Banana - Green,90,Bihar,10,Madhepura,213,600,1200,1000

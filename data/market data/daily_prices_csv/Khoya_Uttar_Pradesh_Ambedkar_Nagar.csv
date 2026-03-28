@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-06-15,Khoya,372,Uttar Pradesh,9,Ambedkar Nagar,178,24000,24500,24250
+2021-07-23,Khoya,372,Uttar Pradesh,9,Ambedkar Nagar,178,24500,25600,25000

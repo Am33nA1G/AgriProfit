@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-06-28,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4650,4850,4750
+2016-06-25,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4650,4650,4650
+2016-06-24,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4650,4650,4650
+2015-06-16,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4600,4600,4600
+2015-06-15,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4600,4600,4600
+2015-06-14,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4600,4600,4600
+2015-06-11,Green Gram (Moong)(Whole),9,Bihar,10,Madhepura,213,4200,6500,5500

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-11-13,Mushrooms,340,Odisha,21,Koraput,398,15000,17000,16000
+2017-09-05,Mushrooms,340,Odisha,21,Koraput,398,11000,13000,12000
+2017-08-21,Mushrooms,340,Odisha,21,Koraput,398,14000,15000,14500
+2016-09-11,Mushrooms,340,Odisha,21,Koraput,398,16000,20000,18000
+2016-05-17,Mushrooms,340,Odisha,21,Koraput,398,15000,17000,16000
+2016-05-12,Mushrooms,340,Odisha,21,Koraput,398,15000,17000,16000
+2015-04-07,Mushrooms,340,Odisha,21,Koraput,398,15000,17000,16000

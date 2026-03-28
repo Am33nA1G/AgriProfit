@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-20,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,1300,1310,1300
+2017-06-04,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,1300,1350,1300
+2016-05-25,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,1340,1407,1397
+2016-04-04,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,3624,3787,3720
+2016-02-23,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,2500,3000,3000
+2015-08-20,Green Peas,50,Chhattisgarh,22,Rajnandgaon,408,2691,3482,2940

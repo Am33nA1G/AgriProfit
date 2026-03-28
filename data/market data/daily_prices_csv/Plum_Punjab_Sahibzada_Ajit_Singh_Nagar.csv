@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-03-04,Plum,329,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2000,2000
+2020-02-21,Plum,329,Punjab,3,Sahibzada Ajit Singh Nagar,52,2000,2500,2500
+2020-02-20,Plum,329,Punjab,3,Sahibzada Ajit Singh Nagar,52,3000,3000,3000
+2015-04-04,Plum,329,Punjab,3,Sahibzada Ajit Singh Nagar,52,800,1200,1000

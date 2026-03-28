@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-12,Almond (Badam),325,Bihar,10,Madhepura,213,90000,110000,100000
+2016-03-01,Almond (Badam),325,Bihar,10,Madhepura,213,90000,110000,100000
+2016-02-09,Almond (Badam),325,Bihar,10,Madhepura,213,120000,180000,150000
+2016-02-07,Almond (Badam),325,Bihar,10,Madhepura,213,120000,180000,150000
+2016-02-06,Almond (Badam),325,Bihar,10,Madhepura,213,120000,180000,150000
+2016-02-05,Almond (Badam),325,Bihar,10,Madhepura,213,120000,180000,150000
+2016-02-04,Almond (Badam),325,Bihar,10,Madhepura,213,120000,180000,150000
+2015-06-19,Almond (Badam),325,Bihar,10,Madhepura,213,45000,49000,47000
+2015-06-16,Almond (Badam),325,Bihar,10,Madhepura,213,45000,49000,47000
+2015-06-15,Almond (Badam),325,Bihar,10,Madhepura,213,45000,49000,47000
+2015-06-12,Almond (Badam),325,Bihar,10,Madhepura,213,32000,38000,34000

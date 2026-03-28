@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-03-25,Amaranthus,86,Meghalaya,17,West Garo Hills,293,2000,4000,3000
+2017-06-24,Amaranthus,86,Meghalaya,17,West Garo Hills,293,1700,2000,1800

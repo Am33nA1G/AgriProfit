@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-07,Apple,17,Kerala,32,Ernakulam,595,10000,12000,11000
+2017-01-18,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2017-01-04,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-12-21,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-12-14,Apple,17,Kerala,32,Ernakulam,595,8000,9000,8500
+2016-12-07,Apple,17,Kerala,32,Ernakulam,595,8000,9000,8500
+2016-11-30,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-11-23,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-10-25,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-10-19,Apple,17,Kerala,32,Ernakulam,595,10000,13000,12000
+2016-08-17,Apple,17,Kerala,32,Ernakulam,595,7000,8000,7500
+2016-07-18,Apple,17,Kerala,32,Ernakulam,595,10000,15000,12000

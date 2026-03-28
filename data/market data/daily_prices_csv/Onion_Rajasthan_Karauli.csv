@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-28,Onion,23,Rajasthan,8,Karauli,107,300,350,325
+2019-03-27,Onion,23,Rajasthan,8,Karauli,107,710,750,730
+2019-03-26,Onion,23,Rajasthan,8,Karauli,107,705,745,725
+2019-03-25,Onion,23,Rajasthan,8,Karauli,107,1100,1140,1120
+2019-03-23,Onion,23,Rajasthan,8,Karauli,107,1190,1230,1210
+2019-03-20,Onion,23,Rajasthan,8,Karauli,107,1460,1500,1480

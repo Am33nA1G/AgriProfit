@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-01,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4500,4600,4550
+2023-06-23,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4600,4700,4650
+2023-05-08,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4950,5000,4975
+2022-10-19,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5800,6000,5900
+2022-08-24,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5500,5500,5500
+2022-07-22,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5400,5500,5450
+2022-06-24,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5800,5800,5800
+2022-05-28,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5275,5300,5287
+2022-04-18,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5450,5500,5475
+2021-12-23,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,6000,6250,6125
+2021-12-21,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,5400,5600,5500
+2020-06-03,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4200,4300,4250
+2020-05-19,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4400,4500,4450
+2020-05-15,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4400,4500,4450
+2020-05-14,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4000,4300,4150
+2020-05-05,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4300,4550,4425
+2020-05-04,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4300,4350,4325
+2020-05-03,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4275,4300,4287
+2020-04-28,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4200,4350,4275
+2020-04-27,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4300,4300,4300
+2020-04-24,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,4400,4770,4585
+2020-04-20,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,3900,4000,3950
+2019-09-18,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,3500,3510,3505
+2019-09-11,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,3450,3498,3470
+2019-09-04,Masur Dal,259,Madhya Pradesh,23,Chhindwara,455,3550,3600,3575

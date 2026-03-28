@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-03,Guava,185,Uttar Pradesh,9,Kheri,153,1700,1750,1730
+2023-08-02,Guava,185,Uttar Pradesh,9,Kheri,153,1750,1850,1800
+2023-08-01,Guava,185,Uttar Pradesh,9,Kheri,153,1800,2000,1900
+2017-08-18,Guava,185,Uttar Pradesh,9,Kheri,153,1100,1200,1150

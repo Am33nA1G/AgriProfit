@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-03-05,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-22,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-20,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1065,1035
+2021-02-19,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-17,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-16,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1050,1025
+2021-02-10,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-09,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-02-05,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1050,1035
+2021-02-04,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1100,1150,1125
+2021-01-30,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1050,1035
+2021-01-29,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1065,1030
+2021-01-28,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1000,1100,1050
+2021-01-27,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1800,1900,1850
+2021-01-26,Kinnow,336,Uttar Pradesh,9,Kushinagar,189,1050,1100,1070

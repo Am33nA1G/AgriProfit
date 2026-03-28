@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-18,Banana - Green,90,Maharashtra,27,Thane,517,1200,1400,1300
+2017-06-10,Banana - Green,90,Maharashtra,27,Thane,517,8000,11000,9500
+2015-12-03,Banana - Green,90,Maharashtra,27,Thane,517,2300,2500,2350

@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-06-04,Masur Dal,259,Jharkhand,20,Bokaro,355,5200,5600,5400
+2018-03-31,Masur Dal,259,Jharkhand,20,Bokaro,355,5100,5500,5300
+2018-02-14,Masur Dal,259,Jharkhand,20,Bokaro,355,5200,5400,5300
+2018-02-02,Masur Dal,259,Jharkhand,20,Bokaro,355,5300,5500,5400
+2018-01-10,Masur Dal,259,Jharkhand,20,Bokaro,355,5500,5700,5600
+2018-01-09,Masur Dal,259,Jharkhand,20,Bokaro,355,5300,5500,5400
+2017-12-11,Masur Dal,259,Jharkhand,20,Bokaro,355,5400,6000,5800

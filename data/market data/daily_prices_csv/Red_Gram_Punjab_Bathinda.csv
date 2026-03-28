@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-07,Red Gram,7,Punjab,3,Bathinda,46,16000,16000,16000
+2015-11-05,Red Gram,7,Punjab,3,Bathinda,46,6500,6500,6500
+2015-11-04,Red Gram,7,Punjab,3,Bathinda,46,6500,6500,6500

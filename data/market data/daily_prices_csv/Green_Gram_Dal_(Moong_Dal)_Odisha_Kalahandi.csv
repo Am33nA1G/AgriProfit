@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-11-01,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,12000,14000,13000
+2020-10-23,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,8000,9000,8500
+2019-11-05,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,7500,8500,8000
+2019-07-06,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,8000,9000,8500
+2018-06-25,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,6500,7000,6800
+2018-06-10,Green Gram Dal (Moong Dal),265,Odisha,21,Kalahandi,395,7000,8000,7500

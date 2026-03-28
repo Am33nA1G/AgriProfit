@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-10-10,Little gourd (Kundru),302,Bihar,10,Darbhanga,215,500,600,550
+2022-10-08,Little gourd (Kundru),302,Bihar,10,Darbhanga,215,450,600,500
+2022-09-26,Little gourd (Kundru),302,Bihar,10,Darbhanga,215,500,600,550

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-28,Peas Wet,174,Bihar,10,Patna,230,2000,2500,2200
+2022-02-26,Peas Wet,174,Bihar,10,Patna,230,2000,3000,2500
+2022-02-09,Peas Wet,174,Bihar,10,Patna,230,2200,2800,2400

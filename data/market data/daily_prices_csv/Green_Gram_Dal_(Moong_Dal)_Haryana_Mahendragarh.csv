@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-11-05,Green Gram Dal (Moong Dal),265,Haryana,6,Mahendragarh,84,5400,6500,5500
+2016-10-28,Green Gram Dal (Moong Dal),265,Haryana,6,Mahendragarh,84,6780,8790,8790
+2016-10-24,Green Gram Dal (Moong Dal),265,Haryana,6,Mahendragarh,84,5000,5000,5000

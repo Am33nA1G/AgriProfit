@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-03-27,Cashew Kernnel,238,Andhra Pradesh,28,Vizianagaram,543,74000,78000,75000
+2016-05-07,Cashew Kernnel,238,Andhra Pradesh,28,Vizianagaram,543,20000,23000,21000
+2016-05-06,Cashew Kernnel,238,Andhra Pradesh,28,Vizianagaram,543,19000,21000,20000
+2015-11-28,Cashew Kernnel,238,Andhra Pradesh,28,Vizianagaram,543,38000,42000,40000
+2015-11-22,Cashew Kernnel,238,Andhra Pradesh,28,Vizianagaram,543,38000,45000,40000

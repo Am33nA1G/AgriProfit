@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-05,Beans,94,Madhya Pradesh,23,Chhatarpur,425,4850,5000,5000
+2022-07-10,Beans,94,Madhya Pradesh,23,Chhatarpur,425,4804,5370,5330
+2022-07-02,Beans,94,Madhya Pradesh,23,Chhatarpur,425,5400,5420,5405
+2022-06-29,Beans,94,Madhya Pradesh,23,Chhatarpur,425,5370,5395,5395
+2022-06-24,Beans,94,Madhya Pradesh,23,Chhatarpur,425,5335,5355,5350
+2022-06-18,Beans,94,Madhya Pradesh,23,Chhatarpur,425,5450,5510,5490
+2022-06-17,Beans,94,Madhya Pradesh,23,Chhatarpur,425,4800,5500,5100
+2015-06-05,Beans,94,Madhya Pradesh,23,Chhatarpur,425,2000,2500,2200

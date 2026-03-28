@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-27,Guava,185,Maharashtra,27,Satara,527,1500,2000,2000
+2018-09-26,Guava,185,Maharashtra,27,Satara,527,1500,2000,2000
+2018-09-25,Guava,185,Maharashtra,27,Satara,527,1500,2000,2000
+2018-09-24,Guava,185,Maharashtra,27,Satara,527,2000,2500,2500
+2018-09-23,Guava,185,Maharashtra,27,Satara,527,3000,4000,4000
+2018-09-22,Guava,185,Maharashtra,27,Satara,527,1500,2000,2000
+2018-09-20,Guava,185,Maharashtra,27,Satara,527,1500,2000,2000
+2018-07-12,Guava,185,Maharashtra,27,Satara,527,1500,2500,2500
+2018-07-04,Guava,185,Maharashtra,27,Satara,527,2000,3000,3000
+2018-06-30,Guava,185,Maharashtra,27,Satara,527,2000,3000,3000
+2018-06-28,Guava,185,Maharashtra,27,Satara,527,2000,2500,2500
+2018-06-21,Guava,185,Maharashtra,27,Satara,527,2500,4000,4000
+2018-05-17,Guava,185,Maharashtra,27,Satara,527,1300,1500,1500
+2018-02-10,Guava,185,Maharashtra,27,Satara,527,2000,2500,2500
+2017-09-21,Guava,185,Maharashtra,27,Satara,527,2000,3000,3000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-12,Raya,65,Gujarat,24,Junagadh,479,4625,5100,5000
+2023-02-11,Raya,65,Gujarat,24,Junagadh,479,4700,5450,5250
+2015-07-28,Raya,65,Gujarat,24,Junagadh,479,3250,3625,3500
+2015-02-11,Raya,65,Gujarat,24,Junagadh,479,3000,3930,3500

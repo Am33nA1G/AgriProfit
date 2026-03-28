@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-09-20,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2022-09-14,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2022-08-27,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2022-08-24,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,7500,7200
+2022-06-10,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,8500,9000,8600
+2022-06-07,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,6500,7500,7000
+2022-01-29,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,7500,7200
+2021-11-17,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2021-11-11,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2021-11-10,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,7000,8000,7500
+2021-09-24,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,9000,10000,9500
+2021-09-22,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,9000,10000,9500
+2021-09-18,Pineapple,21,Jammu & Kashmir,1,Kupwara,1,8000,9000,8500

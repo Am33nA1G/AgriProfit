@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-07-04,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1200,1600,1500
+2020-06-29,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1100,1300,1200
+2020-06-25,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1100,1300,1200
+2020-05-31,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1000,1300,1200
+2020-05-30,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1000,1000,1000
+2020-05-26,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,1000,1200,1100
+2020-05-20,Mousambi (Sweet Lime),77,Madhya Pradesh,23,Harda,448,2300,2500,2400

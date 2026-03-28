@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-28,Bengal Gram Dal (Chana Dal),263,Uttar Pradesh,9,Lalitpur,167,5200,6000,6000
+2023-09-14,Bengal Gram Dal (Chana Dal),263,Uttar Pradesh,9,Lalitpur,167,5000,5500,5500
+2023-07-01,Bengal Gram Dal (Chana Dal),263,Uttar Pradesh,9,Lalitpur,167,5335,5400,5400
+2017-08-24,Bengal Gram Dal (Chana Dal),263,Uttar Pradesh,9,Lalitpur,167,5150,5250,5200

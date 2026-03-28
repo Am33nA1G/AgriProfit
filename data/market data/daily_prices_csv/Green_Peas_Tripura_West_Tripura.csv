@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-13,Green Peas,50,Tripura,16,West Tripura,289,10000,12000,11000
+2023-12-11,Green Peas,50,Tripura,16,West Tripura,289,7000,8000,7500
+2023-03-17,Green Peas,50,Tripura,16,West Tripura,289,4000,5000,4500
+2023-03-10,Green Peas,50,Tripura,16,West Tripura,289,4000,5000,4500
+2023-02-27,Green Peas,50,Tripura,16,West Tripura,289,3500,4000,3800
+2023-02-24,Green Peas,50,Tripura,16,West Tripura,289,3200,4000,3600
+2023-01-27,Green Peas,50,Tripura,16,West Tripura,289,5000,6000,5500
+2023-01-16,Green Peas,50,Tripura,16,West Tripura,289,5000,6000,5500
+2023-01-09,Green Peas,50,Tripura,16,West Tripura,289,5300,6000,5600
+2022-12-26,Green Peas,50,Tripura,16,West Tripura,289,7000,8000,7500
+2022-12-19,Green Peas,50,Tripura,16,West Tripura,289,7000,8000,7500
+2022-12-16,Green Peas,50,Tripura,16,West Tripura,289,6000,7000,6500
+2022-03-07,Green Peas,50,Tripura,16,West Tripura,289,5500,6000,5700

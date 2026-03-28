@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-06-17,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,2000,2000
+2020-06-14,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,2500,2250
+2020-06-13,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2020-06-12,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1500,1250
+2020-06-11,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2020-06-10,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1500,1250
+2020-05-31,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2020-05-29,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2020-05-19,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2020-05-17,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1000,1000,1000
+2020-05-12,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,1500,1500,1500
+2019-05-11,Mango (Raw-Ripe),172,Madhya Pradesh,23,Narsimhapur,452,500,500,500

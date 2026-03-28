@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-21,Wheat Atta,287,Madhya Pradesh,23,Sagar,427,1810,2045,1960
+2019-11-08,Wheat Atta,287,Madhya Pradesh,23,Sagar,427,1970,1970,1970
+2018-10-14,Wheat Atta,287,Madhya Pradesh,23,Sagar,427,1700,1900,1800
+2018-10-09,Wheat Atta,287,Madhya Pradesh,23,Sagar,427,1600,2000,1800

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-02-21,Kinnow,336,Jammu & Kashmir,1,Badgam,2,3000,4000,3500
+2019-01-31,Kinnow,336,Jammu & Kashmir,1,Badgam,2,3500,4500,4000
+2019-01-22,Kinnow,336,Jammu & Kashmir,1,Badgam,2,4000,5000,4500
+2019-01-21,Kinnow,336,Jammu & Kashmir,1,Badgam,2,4000,5000,4500

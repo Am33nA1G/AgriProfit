@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-21,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,800,1000,900
+2023-06-01,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,600,800,700
+2016-06-05,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,1000,1060,1050
+2016-06-04,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,1000,1060,1050
+2015-08-19,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,1500,1580,1560
+2015-08-18,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,1500,1560,1550
+2015-08-17,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,2000,2200,2100
+2015-08-14,Rat Tail Radish (Mogari),307,Punjab,3,Moga,42,1000,1050,1020

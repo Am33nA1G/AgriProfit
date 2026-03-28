@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-19,Alsandikai,166,Haryana,6,Jhajjar,83,1800,2000,1900
+2015-09-19,Alsandikai,166,Haryana,6,Jhajjar,83,700,1000,850
+2015-08-20,Alsandikai,166,Haryana,6,Jhajjar,83,1000,1200,1100
+2015-07-14,Alsandikai,166,Haryana,6,Jhajjar,83,2000,2000,2000
+2015-07-04,Alsandikai,166,Haryana,6,Jhajjar,83,700,700,700
+2015-06-05,Alsandikai,166,Haryana,6,Jhajjar,83,600,650,625
+2015-05-20,Alsandikai,166,Haryana,6,Jhajjar,83,700,700,700

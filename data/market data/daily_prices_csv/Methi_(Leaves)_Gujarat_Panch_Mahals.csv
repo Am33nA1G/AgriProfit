@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,1300,1600,1450
+2021-01-05,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,1300,1700,1500
+2021-01-02,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,1200,1700,1450
+2020-12-29,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,900,1300,1105
+2015-03-14,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,1300,1400,1350
+2015-02-28,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,200,300,250
+2015-02-19,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,600,700,650
+2015-02-16,Methi (Leaves),46,Gujarat,24,Panch Mahals,484,100,200,150

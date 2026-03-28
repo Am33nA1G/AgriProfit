@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-15,Peas Wet,174,Bihar,10,Kishanganj,210,3200,3400,3300
+2023-01-14,Peas Wet,174,Bihar,10,Kishanganj,210,2600,2800,2700
+2023-01-07,Peas Wet,174,Bihar,10,Kishanganj,210,2700,3000,2800
+2023-01-06,Peas Wet,174,Bihar,10,Kishanganj,210,2400,2700,2500
+2023-01-05,Peas Wet,174,Bihar,10,Kishanganj,210,3500,3700,3600
+2023-01-04,Peas Wet,174,Bihar,10,Kishanganj,210,3000,3200,3100
+2022-12-29,Peas Wet,174,Bihar,10,Kishanganj,210,3000,3500,3200
+2022-12-27,Peas Wet,174,Bihar,10,Kishanganj,210,3000,3200,3100
+2022-03-19,Peas Wet,174,Bihar,10,Kishanganj,210,1800,2200,2000
+2022-03-13,Peas Wet,174,Bihar,10,Kishanganj,210,1800,2200,2000
+2022-03-10,Peas Wet,174,Bihar,10,Kishanganj,210,1500,1800,1700
+2022-03-04,Peas Wet,174,Bihar,10,Kishanganj,210,2000,2500,2200
+2022-03-03,Peas Wet,174,Bihar,10,Kishanganj,210,2000,2500,2200

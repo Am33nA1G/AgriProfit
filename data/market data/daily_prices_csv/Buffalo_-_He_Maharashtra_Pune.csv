@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-01,Buffalo - He,216,Maharashtra,27,Pune,521,4000,50000,25000
+2021-12-11,Buffalo - He,216,Maharashtra,27,Pune,521,10000,40000,25000
+2018-11-17,Buffalo - He,216,Maharashtra,27,Pune,521,10000,20000,15000
+2017-08-26,Buffalo - He,216,Maharashtra,27,Pune,521,8000,10000,9000
+2017-01-21,Buffalo - He,216,Maharashtra,27,Pune,521,3500,15000,10000
+2016-12-03,Buffalo - He,216,Maharashtra,27,Pune,521,2000,15000,10000
+2016-10-29,Buffalo - He,216,Maharashtra,27,Pune,521,3000,12000,10000
+2016-09-24,Buffalo - He,216,Maharashtra,27,Pune,521,2000,30000,10000
+2015-11-21,Buffalo - He,216,Maharashtra,27,Pune,521,2000,15000,10000

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-10-19,Galgal (Lemon),350,Uttar Pradesh,9,Bulandshahr,142,4200,5000,4500
+2018-09-12,Galgal (Lemon),350,Uttar Pradesh,9,Bulandshahr,142,2000,3000,2500
+2018-09-11,Galgal (Lemon),350,Uttar Pradesh,9,Bulandshahr,142,1600,2500,1800
+2018-08-04,Galgal (Lemon),350,Uttar Pradesh,9,Bulandshahr,142,1200,1600,1500
+2018-08-03,Galgal (Lemon),350,Uttar Pradesh,9,Bulandshahr,142,1200,1600,1300

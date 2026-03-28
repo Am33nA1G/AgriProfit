@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-15,Banana,19,Odisha,21,Koraput,398,2800,3000,2900
+2025-09-15,Banana,19,Odisha,21,Koraput,398,3200,3400,3300
+2024-11-18,Banana,19,Odisha,21,Koraput,398,4000,5000,4500
+2019-11-08,Banana,19,Odisha,21,Koraput,398,1200,1400,1300
+2015-06-11,Banana,19,Odisha,21,Koraput,398,1000,2000,1500

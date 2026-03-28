@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-28,Lemon,310,Uttar Pradesh,9,Hamirpur,168,980,1030,1000
+2017-06-17,Lemon,310,Uttar Pradesh,9,Hamirpur,168,3800,4500,4300

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-28,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Bareilly,150,7400,7450,7420
+2020-05-22,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Bareilly,150,7440,7475,7455
+2020-05-20,Green Gram (Moong)(Whole),9,Uttar Pradesh,9,Bareilly,150,7440,7480,7460

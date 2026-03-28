@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-29,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,12600,12800,12700
+2016-02-09,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,6300,6500,6400
+2016-02-08,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,6005,6200,6100
+2016-01-10,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,7000,7200,7100
+2015-07-15,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,7000,7200,7100
+2015-04-30,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,6400,6500,6450
+2015-02-13,Red Gram,7,Andhra Pradesh,28,Y.S.R.,551,5000,5100,5050

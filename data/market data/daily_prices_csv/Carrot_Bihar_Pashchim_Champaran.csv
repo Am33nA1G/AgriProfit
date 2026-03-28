@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-26,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,1800,1700
+2023-02-25,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,1800,1700
+2023-02-23,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,2000,1700
+2023-02-22,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,1800,1700
+2023-02-16,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,1800,1700
+2022-04-02,Carrot,153,Bihar,10,Pashchim Champaran,203,1300,1600,1400
+2022-03-31,Carrot,153,Bihar,10,Pashchim Champaran,203,1200,1500,1400
+2022-03-30,Carrot,153,Bihar,10,Pashchim Champaran,203,1900,2500,2100
+2022-03-29,Carrot,153,Bihar,10,Pashchim Champaran,203,1400,1800,1600
+2022-03-28,Carrot,153,Bihar,10,Pashchim Champaran,203,1600,1900,1700
+2022-03-26,Carrot,153,Bihar,10,Pashchim Champaran,203,1500,1900,1700
+2022-03-24,Carrot,153,Bihar,10,Pashchim Champaran,203,1300,1800,1500

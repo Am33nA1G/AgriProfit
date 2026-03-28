@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-14,Green Gram Dal (Moong Dal),265,Punjab,3,Moga,42,3690,4100,3950
+2017-07-13,Green Gram Dal (Moong Dal),265,Punjab,3,Moga,42,3200,3850,3485
+2017-07-11,Green Gram Dal (Moong Dal),265,Punjab,3,Moga,42,3700,4105,3960
+2017-07-10,Green Gram Dal (Moong Dal),265,Punjab,3,Moga,42,3735,4010,3940
+2017-07-07,Green Gram Dal (Moong Dal),265,Punjab,3,Moga,42,3600,4000,3800

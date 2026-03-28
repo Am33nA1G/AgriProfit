@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Green Chilli,87,Bihar,10,Banka,225,2650,3000,2800
+2023-09-05,Green Chilli,87,Bihar,10,Banka,225,800,1200,1000
+2023-09-04,Green Chilli,87,Bihar,10,Banka,225,800,1100,900
+2023-09-03,Green Chilli,87,Bihar,10,Banka,225,2900,3300,3050
+2023-09-02,Green Chilli,87,Bihar,10,Banka,225,4266.666666666667,5200,4700
+2023-09-01,Green Chilli,87,Bihar,10,Banka,225,2400,3050,2700
+2023-08-31,Green Chilli,87,Bihar,10,Banka,225,3400,3800,3550
+2023-08-30,Green Chilli,87,Bihar,10,Banka,225,6000,7500,6500
+2023-08-18,Green Chilli,87,Bihar,10,Banka,225,90000,100000,95000
+2023-08-08,Green Chilli,87,Bihar,10,Banka,225,8000,10000,9000

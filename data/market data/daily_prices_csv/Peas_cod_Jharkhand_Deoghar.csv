@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-05-18,Peas cod,308,Jharkhand,20,Deoghar,350,3000,3050,3025
+2015-05-17,Peas cod,308,Jharkhand,20,Deoghar,350,3000,3050,3025
+2015-02-25,Peas cod,308,Jharkhand,20,Deoghar,350,1800,2300,2100
+2015-02-12,Peas cod,308,Jharkhand,20,Deoghar,350,1800,2200,2000
+2015-01-28,Peas cod,308,Jharkhand,20,Deoghar,350,1800,2200,2000
+2015-01-15,Peas cod,308,Jharkhand,20,Deoghar,350,2000,2400,2200
+2015-01-10,Peas cod,308,Jharkhand,20,Deoghar,350,1900,2100,2000

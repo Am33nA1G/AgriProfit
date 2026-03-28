@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-01-14,Knool Khol,177,Uttar Pradesh,9,Sitapur,154,360,500,435
+2018-12-29,Knool Khol,177,Uttar Pradesh,9,Sitapur,154,350,500,450
+2018-12-15,Knool Khol,177,Uttar Pradesh,9,Sitapur,154,400,580,510

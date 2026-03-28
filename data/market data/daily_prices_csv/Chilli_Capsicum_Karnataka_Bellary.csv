@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-09,Chilli Capsicum,88,Karnataka,29,Bellary,565,3000,3000,3000
+2021-06-08,Chilli Capsicum,88,Karnataka,29,Bellary,565,2000,2000,2000
+2020-04-03,Chilli Capsicum,88,Karnataka,29,Bellary,565,3000,3000,3000

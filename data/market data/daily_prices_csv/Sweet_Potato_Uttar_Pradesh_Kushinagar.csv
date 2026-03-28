@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-04,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1465,1500,1480
+2022-01-14,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1870,1915,1900
+2022-01-10,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1490,1535,1515
+2021-12-22,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1600,1650,1625
+2021-12-14,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1560,1600,1580
+2021-12-13,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,2040,2085,2060
+2021-12-08,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,2090,2135,2115
+2021-12-06,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1995,2035,2015
+2021-12-04,Sweet Potato,152,Uttar Pradesh,9,Kushinagar,189,1890,1930,1915

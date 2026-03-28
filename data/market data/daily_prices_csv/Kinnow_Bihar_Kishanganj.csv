@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-01-24,Kinnow,336,Bihar,10,Kishanganj,210,5500,6000,5800
+2023-01-10,Kinnow,336,Bihar,10,Kishanganj,210,6000,6600,6400
+2022-11-17,Kinnow,336,Bihar,10,Kishanganj,210,6500,6800,6700
+2022-10-26,Kinnow,336,Bihar,10,Kishanganj,210,6500,7000,6800
+2022-10-11,Kinnow,336,Bihar,10,Kishanganj,210,7500,8000,7700
+2022-09-15,Kinnow,336,Bihar,10,Kishanganj,210,8000,8500,8200
+2022-09-03,Kinnow,336,Bihar,10,Kishanganj,210,8500,9000,8800
+2022-08-08,Kinnow,336,Bihar,10,Kishanganj,210,8000,8700,8500
+2022-08-03,Kinnow,336,Bihar,10,Kishanganj,210,7500,8200,8000
+2022-07-27,Kinnow,336,Bihar,10,Kishanganj,210,7000,8000,7500
+2022-07-14,Kinnow,336,Bihar,10,Kishanganj,210,7000,7500,7200
+2022-07-12,Kinnow,336,Bihar,10,Kishanganj,210,7000,7500,7200

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-16,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,3000,4000,3500
+2023-07-29,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,1500,1600,1550
+2020-07-28,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,800,1000,900
+2015-08-22,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,800,900,850
+2015-08-14,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,500,600,550
+2015-08-07,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,500,600,550
+2015-08-04,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,500,600,550
+2015-07-27,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,500,600,550
+2015-07-21,Pear (Marasebu),330,Madhya Pradesh,23,Sheopur,418,600,700,650

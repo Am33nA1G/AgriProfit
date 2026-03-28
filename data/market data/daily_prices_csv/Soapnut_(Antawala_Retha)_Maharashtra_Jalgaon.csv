@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-25,Soapnut (Antawala/Retha),207,Maharashtra,27,Jalgaon,499,15000,15000,15000
+2024-01-20,Soapnut (Antawala/Retha),207,Maharashtra,27,Jalgaon,499,15777,15777,15777
+2023-12-11,Soapnut (Antawala/Retha),207,Maharashtra,27,Jalgaon,499,14901,14901,14901
+2023-12-09,Soapnut (Antawala/Retha),207,Maharashtra,27,Jalgaon,499,14101,16000,16000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-11-17,Cluster beans,80,Punjab,3,Hoshiarpur,38,4500,5000,4800
+2023-11-15,Cluster beans,80,Punjab,3,Hoshiarpur,38,5000,6000,5500
+2023-11-09,Cluster beans,80,Punjab,3,Hoshiarpur,38,5000,6000,5600
+2023-11-07,Cluster beans,80,Punjab,3,Hoshiarpur,38,5000,6000,5500

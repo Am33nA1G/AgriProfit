@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-02-21,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,1800,2000,1900
+2023-02-20,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,1300,1500,1400
+2023-02-17,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2300,2500,2400
+2023-02-11,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2000,2500,2200
+2023-02-10,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,1800,2000,1900
+2023-02-08,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2200,2400,2300
+2023-02-06,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2200,2400,2300
+2023-01-30,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,1700,2000,1800
+2023-01-12,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2200,2400,2300
+2023-01-03,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2100,2400,2200
+2023-01-02,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,1800,2000,1900
+2022-12-29,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2000,2400,2200
+2022-12-27,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2000,2200,2100
+2022-02-25,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2500,3000,2800
+2022-02-24,Indian Beans (Seam),299,Bihar,10,Kishanganj,210,2500,3200,2800

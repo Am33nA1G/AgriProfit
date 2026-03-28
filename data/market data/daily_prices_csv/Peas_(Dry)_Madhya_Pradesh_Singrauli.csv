@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-07,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3600,3600,3600
+2023-03-29,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3600,3600,3600
+2019-06-15,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3000,3000,3000
+2019-05-28,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3400,3400,3400
+2019-05-23,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3200,3200,3200
+2019-05-22,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,3000,3000,3000
+2018-06-25,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,6000,6000,6000
+2016-09-12,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2200,2000
+2016-09-10,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2200,2000
+2016-09-08,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2200,2000
+2016-08-31,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,2000
+2016-03-31,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2300,2200
+2015-11-30,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,2000
+2015-11-27,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,2000
+2015-10-26,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2200,2200
+2015-10-23,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2200,2200
+2015-10-19,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2200,2200
+2015-10-06,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,2000
+2015-07-21,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2200,2000
+2015-07-10,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,1800
+2015-06-30,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,1800
+2015-06-26,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1800,2000,1800
+2015-05-28,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,2000,2500,2000
+2015-04-27,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1900,2000,1900
+2015-04-08,Peas (Dry),347,Madhya Pradesh,23,Singrauli,463,1900,1950,1950

@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-17,Apple,17,Uttarakhand,5,Champawat,65,550,550,550
+2023-03-24,Apple,17,Uttarakhand,5,Champawat,65,3000,3100,3050
+2019-10-23,Apple,17,Uttarakhand,5,Champawat,65,1815,1815,1815
+2019-10-22,Apple,17,Uttarakhand,5,Champawat,65,1700,1815,1800
+2019-10-21,Apple,17,Uttarakhand,5,Champawat,65,1700,1815,1800
+2018-12-03,Apple,17,Uttarakhand,5,Champawat,65,1770,1770,1770
+2017-10-12,Apple,17,Uttarakhand,5,Champawat,65,3500,4500,4000
+2016-01-11,Apple,17,Uttarakhand,5,Champawat,65,3000,4000,3500

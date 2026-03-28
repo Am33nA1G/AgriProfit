@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-28,Neem Seed,126,Madhya Pradesh,23,Ashoknagar,459,1000,1000,1000
+2021-07-26,Neem Seed,126,Madhya Pradesh,23,Ashoknagar,459,1000,1100,1000

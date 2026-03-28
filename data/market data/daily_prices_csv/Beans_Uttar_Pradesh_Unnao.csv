@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-01-23,Beans,94,Uttar Pradesh,9,Unnao,156,2125,2225,2175
+2021-09-03,Beans,94,Uttar Pradesh,9,Unnao,156,2000,2100,2050
+2021-09-02,Beans,94,Uttar Pradesh,9,Unnao,156,2000,2100,2050
+2021-09-01,Beans,94,Uttar Pradesh,9,Unnao,156,2050,2150,2100
+2021-08-28,Beans,94,Uttar Pradesh,9,Unnao,156,2150,2250,2200
+2021-08-26,Beans,94,Uttar Pradesh,9,Unnao,156,2325,2425,2375
+2021-08-22,Beans,94,Uttar Pradesh,9,Unnao,156,2300,2400,2350

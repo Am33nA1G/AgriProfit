@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-05-15,Mustard,12,Maharashtra,27,Solapur,526,5700,5700,5700
+2025-04-29,Mustard,12,Maharashtra,27,Solapur,526,5600,5600,5600
+2023-09-07,Mustard,12,Maharashtra,27,Solapur,526,5200,5200,5200
+2023-08-25,Mustard,12,Maharashtra,27,Solapur,526,5000,5000,5000
+2023-06-26,Mustard,12,Maharashtra,27,Solapur,526,5200,5200,5200
+2022-08-25,Mustard,12,Maharashtra,27,Solapur,526,5700,5700,5700
+2021-10-28,Mustard,12,Maharashtra,27,Solapur,526,7900,7900,7900
+2020-02-29,Mustard,12,Maharashtra,27,Solapur,526,3700,3700,3700
+2018-02-14,Mustard,12,Maharashtra,27,Solapur,526,4000,4000,4000
+2015-09-09,Mustard,12,Maharashtra,27,Solapur,526,3550,3550,3550
+2015-05-08,Mustard,12,Maharashtra,27,Solapur,526,3500,3500,3500
+2015-05-07,Mustard,12,Maharashtra,27,Solapur,526,3500,3500,3500
+2015-04-15,Mustard,12,Maharashtra,27,Solapur,526,4000,4000,4000

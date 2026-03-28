@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-09-14,Soyabean,13,Mizoram,15,Lunglei,286,10000,12000,11000
+2018-09-13,Soyabean,13,Mizoram,15,Lunglei,286,10000,12000,11000
+2018-04-27,Soyabean,13,Mizoram,15,Lunglei,286,4000,5000,4500
+2016-05-14,Soyabean,13,Mizoram,15,Lunglei,286,2500,4000,3000
+2015-06-17,Soyabean,13,Mizoram,15,Lunglei,286,3000,5000,4000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-26,Spinach,342,Tripura,16,South Tripura,290,6000,8000,7000
+2019-11-23,Spinach,342,Tripura,16,South Tripura,290,6000,8000,7000
+2019-11-16,Spinach,342,Tripura,16,South Tripura,290,8000,10000,9000
+2019-11-14,Spinach,342,Tripura,16,South Tripura,290,6000,8000,7000

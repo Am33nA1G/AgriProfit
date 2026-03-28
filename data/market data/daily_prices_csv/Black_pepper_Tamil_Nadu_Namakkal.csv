@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-06-10,Black pepper,38,Tamil Nadu,33,Namakkal,609,63500,64500,64000
+2024-05-15,Black pepper,38,Tamil Nadu,33,Namakkal,609,56500,59000,57750
+2023-11-30,Black pepper,38,Tamil Nadu,33,Namakkal,609,69000,70000,69500
+2023-10-30,Black pepper,38,Tamil Nadu,33,Namakkal,609,68100,70000,69050
+2023-09-27,Black pepper,38,Tamil Nadu,33,Namakkal,609,13820,14000,13910
+2023-03-01,Black pepper,38,Tamil Nadu,33,Namakkal,609,53900,54000,53950

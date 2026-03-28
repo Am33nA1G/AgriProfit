@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-26,Grapes,22,Haryana,6,Panchkula,69,7500,9500,8500
+2022-04-20,Grapes,22,Haryana,6,Panchkula,69,6000,8000,7000
+2022-04-07,Grapes,22,Haryana,6,Panchkula,69,7000,9000,8000
+2022-04-06,Grapes,22,Haryana,6,Panchkula,69,7000,9000,8000
+2022-04-05,Grapes,22,Haryana,6,Panchkula,69,7000,9000,8000
+2022-03-31,Grapes,22,Haryana,6,Panchkula,69,6000,8000,7000
+2022-02-12,Grapes,22,Haryana,6,Panchkula,69,6000,8000,7000
+2022-02-09,Grapes,22,Haryana,6,Panchkula,69,5000,7000,6000
+2022-01-31,Grapes,22,Haryana,6,Panchkula,69,6000,8000,7000
+2022-01-29,Grapes,22,Haryana,6,Panchkula,69,5000,7000,6000
+2022-01-27,Grapes,22,Haryana,6,Panchkula,69,5000,7000,6000
+2022-01-25,Grapes,22,Haryana,6,Panchkula,69,5000,7000,6000
+2022-01-24,Grapes,22,Haryana,6,Panchkula,69,6000,8000,7000
+2022-01-23,Grapes,22,Haryana,6,Panchkula,69,5000,7000,6000

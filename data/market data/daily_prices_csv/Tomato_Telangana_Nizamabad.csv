@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-08-26,Tomato,78,Telangana,36,Nizamabad,533,1500,1500,1500
+2022-08-22,Tomato,78,Telangana,36,Nizamabad,533,2000,2000,2000
+2022-08-14,Tomato,78,Telangana,36,Nizamabad,533,1500,1500,1500
+2022-08-03,Tomato,78,Telangana,36,Nizamabad,533,1000,1000,1000
+2022-07-09,Tomato,78,Telangana,36,Nizamabad,533,130,1300,1300
+2022-07-08,Tomato,78,Telangana,36,Nizamabad,533,1300,1300,1300
+2022-07-04,Tomato,78,Telangana,36,Nizamabad,533,1500,1500,1500
+2022-07-03,Tomato,78,Telangana,36,Nizamabad,533,1800,1800,1800

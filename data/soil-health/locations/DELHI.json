@@ -1,0 +1,52 @@
+{
+  "CENTRAL": {
+    "Civil Lines - Block - B-433": []
+  },
+  "EAST": {
+    "Gandhi Nagar - Block - B-439": [],
+    "Mayur Vihar - Block - B-6084": [],
+    "Preet Vihar - Block - B-441": []
+  },
+  "NEW DELHI": {
+    "Delhi Cantonment - Block - B-452": [],
+    "Vasant Vihar - Block - B-453": []
+  },
+  "NORTH": {
+    "Alipur - Block - B-6076": [],
+    "Model Town - Block - B-432": [],
+    "Narela - Block - B-430": []
+  },
+  "NORTH EAST": {
+    "Karawal Nagar - Block - B-6083": [],
+    "Seelam Pur - Block - B-436": [],
+    "Yamuna Vihar - Block - B-6082": []
+  },
+  "NORTH WEST": {
+    "Kanjhawala - Block - B-6078": [],
+    "Rohini - Block - B-6077": [],
+    "Saraswati Vihar - Block - B-431": []
+  },
+  "SHAHDARA": {
+    "Seema Puri - Block - B-438": [],
+    "Shahdara - Block - B-437": []
+  },
+  "SOUTH": {
+    "Hauz Khas - Block - B-454": [],
+    "Mehrauli - Block - B-6080": [],
+    "Saket - Block - B-6079": []
+  },
+  "SOUTH WEST": {
+    "Dwarka - Block - B-6086": [],
+    "Kapeshera - Block - B-6085": [],
+    "Najafgarh - Block - B-451": []
+  },
+  "South East": {
+    "Defence Colony - Block - B-455": [],
+    "Kalkaji - Block - B-456": [],
+    "Sarita Vihar - Block - B-6081": []
+  },
+  "WEST": {
+    "Patel Nagar - Block - B-448": [],
+    "Punjabi Bagh - Block - B-450": []
+  }
+}

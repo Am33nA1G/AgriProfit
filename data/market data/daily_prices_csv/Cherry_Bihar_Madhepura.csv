@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-16,Cherry,328,Bihar,10,Madhepura,213,12000,18000,15000
+2015-06-15,Cherry,328,Bihar,10,Madhepura,213,12000,18000,15000
+2015-06-14,Cherry,328,Bihar,10,Madhepura,213,12000,18000,15000
+2015-06-12,Cherry,328,Bihar,10,Madhepura,213,6000,8000,7000

@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-07-29,Ginger (Green),103,Karnataka,29,Tumkur,571,800,1100,1000
+2019-10-31,Ginger (Green),103,Karnataka,29,Tumkur,571,1800,7000,2000
+2019-10-19,Ginger (Green),103,Karnataka,29,Tumkur,571,10000,10500,10000
+2018-08-20,Ginger (Green),103,Karnataka,29,Tumkur,571,2500,4000,4000
+2018-08-13,Ginger (Green),103,Karnataka,29,Tumkur,571,2000,2500,2500
+2018-07-11,Ginger (Green),103,Karnataka,29,Tumkur,571,1900,2050,2050
+2016-06-28,Ginger (Green),103,Karnataka,29,Tumkur,571,1000,1250,1200
+2016-04-29,Ginger (Green),103,Karnataka,29,Tumkur,571,1200,1400,1300
+2015-12-15,Ginger (Green),103,Karnataka,29,Tumkur,571,1000,1000,1000
+2015-02-24,Ginger (Green),103,Karnataka,29,Tumkur,571,1400,1500,1480

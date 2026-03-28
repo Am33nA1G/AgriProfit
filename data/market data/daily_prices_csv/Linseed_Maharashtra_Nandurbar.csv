@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-04-19,Linseed,67,Maharashtra,27,Nandurbar,497,2000,2500,2500
+2021-04-16,Linseed,67,Maharashtra,27,Nandurbar,497,3650,3650,3650
+2021-04-13,Linseed,67,Maharashtra,27,Nandurbar,497,8600,8600,8600

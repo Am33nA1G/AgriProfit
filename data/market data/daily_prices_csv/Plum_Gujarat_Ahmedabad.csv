@@ -1,0 +1,14 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-04,Plum,329,Gujarat,24,Ahmedabad,474,3500,5000,4500
+2017-08-08,Plum,329,Gujarat,24,Ahmedabad,474,6000,7000,6500
+2017-07-15,Plum,329,Gujarat,24,Ahmedabad,474,5000,7000,6500
+2017-07-08,Plum,329,Gujarat,24,Ahmedabad,474,8000,10000,9500
+2017-07-07,Plum,329,Gujarat,24,Ahmedabad,474,8000,10000,9500
+2017-06-30,Plum,329,Gujarat,24,Ahmedabad,474,6000,8000,7500
+2017-06-28,Plum,329,Gujarat,24,Ahmedabad,474,6000,8000,7500
+2017-06-27,Plum,329,Gujarat,24,Ahmedabad,474,6000,8000,7500
+2017-06-23,Plum,329,Gujarat,24,Ahmedabad,474,9000,10000,9500
+2017-06-13,Plum,329,Gujarat,24,Ahmedabad,474,6000,7000,6500
+2017-06-08,Plum,329,Gujarat,24,Ahmedabad,474,4000,5000,4500
+2016-06-03,Plum,329,Gujarat,24,Ahmedabad,474,4000,6000,5000
+2015-07-07,Plum,329,Gujarat,24,Ahmedabad,474,5000,7000,6500

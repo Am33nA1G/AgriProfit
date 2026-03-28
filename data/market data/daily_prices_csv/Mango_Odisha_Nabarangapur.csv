@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-05-23,Mango,20,Odisha,21,Nabarangapur,397,2500,4000,3000
+2016-05-16,Mango,20,Odisha,21,Nabarangapur,397,3000,4000,3500
+2016-05-09,Mango,20,Odisha,21,Nabarangapur,397,3000,4000,3000
+2015-07-06,Mango,20,Odisha,21,Nabarangapur,397,2000,3000,2500
+2015-07-05,Mango,20,Odisha,21,Nabarangapur,397,2500,3000,2500
+2015-07-01,Mango,20,Odisha,21,Nabarangapur,397,2500,3000,3000
+2015-06-05,Mango,20,Odisha,21,Nabarangapur,397,4000,5000,4500
+2015-06-04,Mango,20,Odisha,21,Nabarangapur,397,4000,5000,4500
+2015-05-24,Mango,20,Odisha,21,Nabarangapur,397,4000,5000,4500

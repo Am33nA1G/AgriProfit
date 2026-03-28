@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-10-01,Arhar Dal (Tur Dal),260,Karnataka,29,Gulbarga,579,9500,9550,9500
+2024-09-26,Arhar Dal (Tur Dal),260,Karnataka,29,Gulbarga,579,8000,8100,8000
+2024-03-16,Arhar Dal (Tur Dal),260,Karnataka,29,Gulbarga,579,10200,10300,10250
+2024-02-23,Arhar Dal (Tur Dal),260,Karnataka,29,Gulbarga,579,9800,10400,10279

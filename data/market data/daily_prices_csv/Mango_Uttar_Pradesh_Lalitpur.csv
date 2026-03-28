@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-07-11,Mango,20,Uttar Pradesh,9,Lalitpur,167,3240,3300,3265
+2015-07-21,Mango,20,Uttar Pradesh,9,Lalitpur,167,2000,2200,2070
+2015-07-20,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2125,2060
+2015-07-16,Mango,20,Uttar Pradesh,9,Lalitpur,167,1600,1800,1670
+2015-07-15,Mango,20,Uttar Pradesh,9,Lalitpur,167,1600,1700,1650
+2015-07-14,Mango,20,Uttar Pradesh,9,Lalitpur,167,1700,1900,1800
+2015-07-13,Mango,20,Uttar Pradesh,9,Lalitpur,167,1600,1800,1750
+2015-07-09,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2100,2050
+2015-07-01,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2125,2085
+2015-06-29,Mango,20,Uttar Pradesh,9,Lalitpur,167,2000,2125,2075
+2015-06-27,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2125,2060
+2015-06-26,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2100,2050
+2015-06-25,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2100,2075
+2015-06-24,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2100,2085
+2015-06-23,Mango,20,Uttar Pradesh,9,Lalitpur,167,2015,2125,2070
+2015-06-12,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2300,2000
+2015-06-11,Mango,20,Uttar Pradesh,9,Lalitpur,167,1700,2050,1995
+2015-06-10,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2100,1980
+2015-06-08,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2020,1975
+2015-06-06,Mango,20,Uttar Pradesh,9,Lalitpur,167,1900,2000,1970
+2015-06-05,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2200,1950
+2015-06-04,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2000,1900
+2015-06-03,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2000,1860
+2015-06-02,Mango,20,Uttar Pradesh,9,Lalitpur,167,1800,2000,1850
+2015-06-01,Mango,20,Uttar Pradesh,9,Lalitpur,167,3600,4000,3850

@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-06-16,Jack Fruit,182,Odisha,21,Bhadrak,378,280,395,330
+2015-06-12,Jack Fruit,182,Odisha,21,Bhadrak,378,175,340,225

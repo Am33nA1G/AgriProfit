@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-02-11,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,3520,3735,3635
+2016-02-10,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,3735,3740,3738
+2016-02-06,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,4475,4475,4475
+2016-02-05,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,3595,3610,3602
+2016-02-04,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,3460,3610,3535
+2015-03-09,Big Gram,113,Madhya Pradesh,23,Mandsaur,433,1200,1257,1256

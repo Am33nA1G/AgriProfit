@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-05,Bottle gourd,82,Bihar,10,Madhubani,207,2500,3000,2600
+2023-09-02,Bottle gourd,82,Bihar,10,Madhubani,207,3000,3500,3200
+2023-09-01,Bottle gourd,82,Bihar,10,Madhubani,207,3000,3300,3200
+2023-08-31,Bottle gourd,82,Bihar,10,Madhubani,207,3200,3500,3300
+2023-07-01,Bottle gourd,82,Bihar,10,Madhubani,207,2500,2700,2600
+2023-02-16,Bottle gourd,82,Bihar,10,Madhubani,207,3000,5000,4000
+2022-09-17,Bottle gourd,82,Bihar,10,Madhubani,207,1800,3000,2400

@@ -1,0 +1,26 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-16,Maize,4,Madhya Pradesh,23,Panna,426,1335,1335,1335
+2015-09-12,Maize,4,Madhya Pradesh,23,Panna,426,1325,1350,1330
+2015-08-19,Maize,4,Madhya Pradesh,23,Panna,426,1330,1355,1350
+2015-08-14,Maize,4,Madhya Pradesh,23,Panna,426,1310,1330,1325
+2015-07-30,Maize,4,Madhya Pradesh,23,Panna,426,1322,1330,1325
+2015-07-28,Maize,4,Madhya Pradesh,23,Panna,426,1330,1330,1330
+2015-07-27,Maize,4,Madhya Pradesh,23,Panna,426,1325,1325,1325
+2015-07-25,Maize,4,Madhya Pradesh,23,Panna,426,1320,1325,1320
+2015-07-15,Maize,4,Madhya Pradesh,23,Panna,426,1320,1320,1320
+2015-07-14,Maize,4,Madhya Pradesh,23,Panna,426,1310,1310,1310
+2015-07-13,Maize,4,Madhya Pradesh,23,Panna,426,1310,1320,1310
+2015-07-11,Maize,4,Madhya Pradesh,23,Panna,426,1310,1325,1320
+2015-07-09,Maize,4,Madhya Pradesh,23,Panna,426,1310,1320,1310
+2015-07-08,Maize,4,Madhya Pradesh,23,Panna,426,1310,1325,1320
+2015-06-30,Maize,4,Madhya Pradesh,23,Panna,426,1320,1320,1320
+2015-06-27,Maize,4,Madhya Pradesh,23,Panna,426,1310,1330,1320
+2015-06-26,Maize,4,Madhya Pradesh,23,Panna,426,1315,1350,1340
+2015-06-22,Maize,4,Madhya Pradesh,23,Panna,426,1310,1320,1310
+2015-06-20,Maize,4,Madhya Pradesh,23,Panna,426,1360,1370,1365
+2015-06-16,Maize,4,Madhya Pradesh,23,Panna,426,1360,1360,1360
+2015-06-13,Maize,4,Madhya Pradesh,23,Panna,426,1310,1315,1310
+2015-06-10,Maize,4,Madhya Pradesh,23,Panna,426,1450,1450,1450
+2015-06-09,Maize,4,Madhya Pradesh,23,Panna,426,1310,1325,1320
+2015-06-08,Maize,4,Madhya Pradesh,23,Panna,426,1310,1320,1310
+2015-06-06,Maize,4,Madhya Pradesh,23,Panna,426,1310,1320,1310

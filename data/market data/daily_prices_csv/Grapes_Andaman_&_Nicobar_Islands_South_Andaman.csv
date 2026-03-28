@@ -1,0 +1,16 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-03-29,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-23,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-18,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2019-03-09,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,14000,16000,15000
+2018-08-27,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,250,300,280
+2018-08-22,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,250,300,280
+2018-07-21,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,250,270,260
+2017-10-31,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,2,30,2
+2017-09-07,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27000,30000,28500
+2017-09-06,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,28800
+2017-09-05,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,29000
+2017-08-31,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,28800
+2017-08-29,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,29000
+2017-08-28,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,28800
+2017-08-18,Grapes,22,Andaman & Nicobar Islands,35,South Andaman,640,27500,30000,28800

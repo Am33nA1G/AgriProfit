@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-03-08,Carrot,153,Jharkhand,20,Garhwa,346,800,875,850
+2022-02-19,Carrot,153,Jharkhand,20,Garhwa,346,950,1100,1000
+2021-01-22,Carrot,153,Jharkhand,20,Garhwa,346,1600,1800,1700

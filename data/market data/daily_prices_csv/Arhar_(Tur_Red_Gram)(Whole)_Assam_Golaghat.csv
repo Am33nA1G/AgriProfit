@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-08-10,Arhar (Tur/Red Gram)(Whole),49,Assam,18,Golaghat,313,10000,10800,10600
+2015-06-30,Arhar (Tur/Red Gram)(Whole),49,Assam,18,Golaghat,313,9200,10000,9500
+2015-05-28,Arhar (Tur/Red Gram)(Whole),49,Assam,18,Golaghat,313,9600,10500,9900

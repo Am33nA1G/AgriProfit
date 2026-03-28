@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-20,Red Gram,7,Assam,18,Jorhat,312,6000,6300,6250
+2015-11-06,Red Gram,7,Assam,18,Jorhat,312,6000,6250,6100
+2015-11-04,Red Gram,7,Assam,18,Jorhat,312,6000,6300,6200
+2015-10-09,Red Gram,7,Assam,18,Jorhat,312,6000,6250,6100
+2015-10-07,Red Gram,7,Assam,18,Jorhat,312,5500,5750,5600
+2015-09-30,Red Gram,7,Assam,18,Jorhat,312,5500,5700,5600
+2015-09-24,Red Gram,7,Assam,18,Jorhat,312,5500,5700,5600
+2015-08-10,Red Gram,7,Assam,18,Jorhat,312,5300,5500,5400
+2015-07-31,Red Gram,7,Assam,18,Jorhat,312,5100,5300,5200
+2015-07-29,Red Gram,7,Assam,18,Jorhat,312,5200,5400,5300
+2015-07-28,Red Gram,7,Assam,18,Jorhat,312,5200,5400,5300
+2015-06-10,Red Gram,7,Assam,18,Jorhat,312,5000,5200,5100
+2015-05-15,Red Gram,7,Assam,18,Jorhat,312,5200,5500,5300
+2015-05-05,Red Gram,7,Assam,18,Jorhat,312,4200,4800,4500
+2015-01-28,Red Gram,7,Assam,18,Jorhat,312,4000,4299,4100
+2015-01-09,Red Gram,7,Assam,18,Jorhat,312,4000,4200,4100

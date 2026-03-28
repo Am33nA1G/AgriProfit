@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-19,Ginger (Dry),27,Karnataka,29,Bidar,558,2500,5000,4000
+2015-03-04,Ginger (Dry),27,Karnataka,29,Bidar,558,2000,3000,2500
+2015-03-01,Ginger (Dry),27,Karnataka,29,Bidar,558,2000,3000,2500
+2015-02-25,Ginger (Dry),27,Karnataka,29,Bidar,558,2000,4000,3500
+2015-02-22,Ginger (Dry),27,Karnataka,29,Bidar,558,2000,3000,2500
+2015-02-15,Ginger (Dry),27,Karnataka,29,Bidar,558,2000,4000,3000

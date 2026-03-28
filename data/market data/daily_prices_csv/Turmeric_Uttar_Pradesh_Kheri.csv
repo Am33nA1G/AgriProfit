@@ -1,0 +1,20 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-22,Turmeric,39,Uttar Pradesh,9,Kheri,153,540,625,600
+2020-03-19,Turmeric,39,Uttar Pradesh,9,Kheri,153,595,625,610
+2020-03-15,Turmeric,39,Uttar Pradesh,9,Kheri,153,560,650,615
+2020-03-13,Turmeric,39,Uttar Pradesh,9,Kheri,153,540,620,600
+2020-03-05,Turmeric,39,Uttar Pradesh,9,Kheri,153,600,600,600
+2020-02-25,Turmeric,39,Uttar Pradesh,9,Kheri,153,650,750,700
+2020-02-13,Turmeric,39,Uttar Pradesh,9,Kheri,153,670,810,750
+2019-05-23,Turmeric,39,Uttar Pradesh,9,Kheri,153,575,625,600
+2019-05-21,Turmeric,39,Uttar Pradesh,9,Kheri,153,550,650,600
+2019-04-09,Turmeric,39,Uttar Pradesh,9,Kheri,153,550,650,600
+2019-03-30,Turmeric,39,Uttar Pradesh,9,Kheri,153,550,650,600
+2019-03-26,Turmeric,39,Uttar Pradesh,9,Kheri,153,575,625,600
+2019-03-09,Turmeric,39,Uttar Pradesh,9,Kheri,153,490,510,500
+2019-03-07,Turmeric,39,Uttar Pradesh,9,Kheri,153,750,850,800
+2019-02-25,Turmeric,39,Uttar Pradesh,9,Kheri,153,450,550,500
+2019-02-24,Turmeric,39,Uttar Pradesh,9,Kheri,153,465,535,500
+2019-01-29,Turmeric,39,Uttar Pradesh,9,Kheri,153,450,550,500
+2019-01-17,Turmeric,39,Uttar Pradesh,9,Kheri,153,480,520,500
+2018-01-27,Turmeric,39,Uttar Pradesh,9,Kheri,153,400,470,400

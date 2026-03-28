@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-26,Lemon,310,Madhya Pradesh,23,Ashoknagar,459,1500,1500,1500
+2021-08-25,Lemon,310,Madhya Pradesh,23,Ashoknagar,459,1500,1500,1500
+2021-08-24,Lemon,310,Madhya Pradesh,23,Ashoknagar,459,1500,1500,1500
+2019-06-04,Lemon,310,Madhya Pradesh,23,Ashoknagar,459,2000,2000,2000
+2019-06-01,Lemon,310,Madhya Pradesh,23,Ashoknagar,459,,,2000

@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-10-16,Cotton,15,Karnataka,29,Yadgir,580,0,0,7100
+2025-10-15,Cotton,15,Karnataka,29,Yadgir,580,0,0,7100
+2025-10-13,Cotton,15,Karnataka,29,Yadgir,580,0,0,7500
+2025-10-12,Cotton,15,Karnataka,29,Yadgir,580,0,0,6700

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-26,Cumin Seed (Jeera),42,Gujarat,24,Kheda,483,4250,4750,4500
+2017-03-23,Cumin Seed (Jeera),42,Gujarat,24,Kheda,483,10500,16250,13500
+2017-03-16,Cumin Seed (Jeera),42,Gujarat,24,Kheda,483,11800,15975,13800
+2017-03-09,Cumin Seed (Jeera),42,Gujarat,24,Kheda,483,12500,16000,14250
+2016-03-12,Cumin Seed (Jeera),42,Gujarat,24,Kheda,483,11225,13150,12180

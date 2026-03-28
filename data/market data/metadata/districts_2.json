@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "census_district_id": 23,
+      "census_district_name": "Chamba"
+    },
+    {
+      "census_district_id": 24,
+      "census_district_name": "Kangra"
+    },
+    {
+      "census_district_id": 25,
+      "census_district_name": "Lahul & Spiti"
+    },
+    {
+      "census_district_id": 26,
+      "census_district_name": "Kullu"
+    },
+    {
+      "census_district_id": 27,
+      "census_district_name": "Mandi"
+    },
+    {
+      "census_district_id": 28,
+      "census_district_name": "Hamirpur"
+    },
+    {
+      "census_district_id": 29,
+      "census_district_name": "Una"
+    },
+    {
+      "census_district_id": 30,
+      "census_district_name": "Bilaspur"
+    },
+    {
+      "census_district_id": 31,
+      "census_district_name": "Solan"
+    },
+    {
+      "census_district_id": 32,
+      "census_district_name": "Sirmaur"
+    },
+    {
+      "census_district_id": 33,
+      "census_district_name": "Shimla"
+    },
+    {
+      "census_district_id": 34,
+      "census_district_name": "Kinnaur"
+    }
+  ]
+}

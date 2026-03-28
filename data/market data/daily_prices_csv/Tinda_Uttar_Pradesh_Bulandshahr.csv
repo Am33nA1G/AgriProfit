@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-04-30,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,2100,2300,2200
+2022-05-24,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,1300,1500,1400
+2022-05-23,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,1200,1300,1220
+2022-05-22,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,1400,1600,1500
+2022-05-21,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,1300,1500,1400
+2021-01-23,Tinda,349,Uttar Pradesh,9,Bulandshahr,142,900,1000,950

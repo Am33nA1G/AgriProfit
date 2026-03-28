@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-01-09,Cabbage,154,Gujarat,24,Panch Mahals,484,500,900,700
+2021-01-05,Cabbage,154,Gujarat,24,Panch Mahals,484,500,800,650
+2021-01-02,Cabbage,154,Gujarat,24,Panch Mahals,484,500,900,650
+2020-12-29,Cabbage,154,Gujarat,24,Panch Mahals,484,700,1000,800
+2020-12-24,Cabbage,154,Gujarat,24,Panch Mahals,484,900,1000,950
+2015-03-14,Cabbage,154,Gujarat,24,Panch Mahals,484,400,500,450
+2015-02-28,Cabbage,154,Gujarat,24,Panch Mahals,484,600,700,650
+2015-02-19,Cabbage,154,Gujarat,24,Panch Mahals,484,500,600,600
+2015-02-16,Cabbage,154,Gujarat,24,Panch Mahals,484,300,500,400

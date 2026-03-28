@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-08-18,Green Peas,50,Karnataka,29,Chikkaballapura,582,2000,3000,2500
+2016-06-09,Green Peas,50,Karnataka,29,Chikkaballapura,582,1650,1700,1680
+2016-05-19,Green Peas,50,Karnataka,29,Chikkaballapura,582,1600,1700,1690

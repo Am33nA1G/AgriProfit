@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-09-17,Cardamom,40,Nagaland,13,Longleng,268,3500,3900,3800
+2019-09-20,Cardamom,40,Nagaland,13,Longleng,268,35500,35900,35800
+2019-09-14,Cardamom,40,Nagaland,13,Longleng,268,35000,39000,38000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-07-25,Dry Chillies,132,Odisha,21,Gajapati,389,8000,10000,10000
+2018-05-09,Dry Chillies,132,Odisha,21,Gajapati,389,6000,8000,8000
+2015-07-16,Dry Chillies,132,Odisha,21,Gajapati,389,8000,10000,10000

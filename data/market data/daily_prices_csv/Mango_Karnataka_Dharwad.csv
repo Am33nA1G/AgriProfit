@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-05,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000
+2020-05-03,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000
+2020-04-23,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000
+2020-04-21,Mango,20,Karnataka,29,Dharwad,562,2500,2500,2500
+2020-04-20,Mango,20,Karnataka,29,Dharwad,562,2500,2500,2500
+2020-04-19,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000
+2020-04-18,Mango,20,Karnataka,29,Dharwad,562,2500,2500,2500
+2020-04-14,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000
+2020-04-13,Mango,20,Karnataka,29,Dharwad,562,2000,2000,2000

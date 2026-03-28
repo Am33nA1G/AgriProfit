@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-06-24,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,1000,1200,1100
+2023-06-19,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,1000,1200,1100
+2022-06-17,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,800,1000,900
+2022-06-15,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,600,800,700
+2022-05-29,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,560,710,650
+2022-05-24,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,400,500,450
+2022-05-15,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,300,500,400
+2022-05-01,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,500,600,550
+2022-04-27,Long Melon (Kakri),304,Uttar Pradesh,9,Saharanpur,132,800,1000,900

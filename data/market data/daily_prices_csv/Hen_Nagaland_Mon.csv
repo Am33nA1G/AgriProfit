@@ -1,0 +1,15 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-09,Hen,369,Nagaland,13,Mon,261,5000,5800,5400
+2024-11-21,Hen,369,Nagaland,13,Mon,261,5000,5700,5300
+2024-11-01,Hen,369,Nagaland,13,Mon,261,8500,9300,8900
+2024-10-28,Hen,369,Nagaland,13,Mon,261,5100,5800,5400
+2024-10-15,Hen,369,Nagaland,13,Mon,261,8500,9300,8900
+2024-09-25,Hen,369,Nagaland,13,Mon,261,5000,5700,5300
+2024-09-13,Hen,369,Nagaland,13,Mon,261,8400,9200,8800
+2024-09-09,Hen,369,Nagaland,13,Mon,261,6700,7300,7000
+2024-09-05,Hen,369,Nagaland,13,Mon,261,8600,9400,9000
+2024-09-02,Hen,369,Nagaland,13,Mon,261,8600,9600,9000
+2024-08-27,Hen,369,Nagaland,13,Mon,261,6600,7200,6900
+2024-08-26,Hen,369,Nagaland,13,Mon,261,8500,9300,8900
+2024-08-16,Hen,369,Nagaland,13,Mon,261,8400,9200,8800
+2024-08-08,Hen,369,Nagaland,13,Mon,261,5500,6500,6000

@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-11-11,Cauliflower,34,Andhra Pradesh,28,Kurnool,552,2600,2600,2600
+2015-11-07,Cauliflower,34,Andhra Pradesh,28,Kurnool,552,2400,2400,2400
+2015-10-27,Cauliflower,34,Andhra Pradesh,28,Kurnool,552,3000,3400,3200

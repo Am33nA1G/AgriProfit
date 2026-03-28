@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-04-30,Cucumber (Kheera),159,Assam,18,Cachar,316,1500,1600,1550
+2022-04-11,Cucumber (Kheera),159,Assam,18,Cachar,316,3000,3600,3500
+2022-04-08,Cucumber (Kheera),159,Assam,18,Cachar,316,3500,3700,3600
+2022-03-17,Cucumber (Kheera),159,Assam,18,Cachar,316,1700,1800,1750

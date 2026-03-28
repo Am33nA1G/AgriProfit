@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-06-19,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,2000,1500
+2025-06-06,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,1400,1200
+2025-05-05,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1500,2000,1700
+2025-05-02,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1500,2000,1700
+2024-06-04,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,2200,1800
+2024-06-03,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,2200,1800
+2024-05-31,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,2000,1500
+2024-05-21,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,1700,1500
+2024-05-20,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,1700,1500
+2024-05-17,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,1700,1500
+2024-05-08,Mango (Raw-Ripe),172,Odisha,21,Kendujhar,375,1000,1700,1500

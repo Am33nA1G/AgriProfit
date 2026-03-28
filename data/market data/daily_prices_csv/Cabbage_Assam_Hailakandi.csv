@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-05-30,Cabbage,154,Assam,18,Hailakandi,318,2500,3000,2750
+2022-05-10,Cabbage,154,Assam,18,Hailakandi,318,2000,2500,2250
+2022-04-12,Cabbage,154,Assam,18,Hailakandi,318,1100,1200,1150
+2022-04-08,Cabbage,154,Assam,18,Hailakandi,318,1200,1400,1300
+2022-04-07,Cabbage,154,Assam,18,Hailakandi,318,2000,2500,2250
+2022-04-02,Cabbage,154,Assam,18,Hailakandi,318,1500,1700,1600
+2022-03-30,Cabbage,154,Assam,18,Hailakandi,318,1200,1600,1500
+2022-03-17,Cabbage,154,Assam,18,Hailakandi,318,1400,1600,1500
+2022-03-16,Cabbage,154,Assam,18,Hailakandi,318,1500,1800,1700
+2015-02-09,Cabbage,154,Assam,18,Hailakandi,318,400,700,500

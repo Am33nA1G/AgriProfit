@@ -1,0 +1,27 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-30,Plum,329,Punjab,3,Tarn Taran,50,4000,4000,4000
+2022-07-27,Plum,329,Punjab,3,Tarn Taran,50,3500,4000,3700
+2022-07-26,Plum,329,Punjab,3,Tarn Taran,50,3500,4000,3700
+2022-07-25,Plum,329,Punjab,3,Tarn Taran,50,3500,4000,3700
+2022-07-23,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2022-07-22,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2022-07-21,Plum,329,Punjab,3,Tarn Taran,50,3000,3000,3000
+2022-07-19,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2022-07-18,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2022-07-16,Plum,329,Punjab,3,Tarn Taran,50,3600,4000,3800
+2022-07-15,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2022-07-14,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2022-07-13,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2022-07-12,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2022-06-25,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2022-06-24,Plum,329,Punjab,3,Tarn Taran,50,4000,5000,4500
+2022-06-22,Plum,329,Punjab,3,Tarn Taran,50,4000,5000,4500
+2021-08-17,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2021-08-16,Plum,329,Punjab,3,Tarn Taran,50,3000,4000,3500
+2021-08-04,Plum,329,Punjab,3,Tarn Taran,50,3000,3500,3200
+2021-08-03,Plum,329,Punjab,3,Tarn Taran,50,2500,3500,3000
+2021-07-31,Plum,329,Punjab,3,Tarn Taran,50,2500,3500,3000
+2021-07-24,Plum,329,Punjab,3,Tarn Taran,50,3500,4500,4000
+2019-07-06,Plum,329,Punjab,3,Tarn Taran,50,5400,6000,5500
+2019-02-01,Plum,329,Punjab,3,Tarn Taran,50,5000,6500,5500
+2017-05-28,Plum,329,Punjab,3,Tarn Taran,50,2000,2800,2500

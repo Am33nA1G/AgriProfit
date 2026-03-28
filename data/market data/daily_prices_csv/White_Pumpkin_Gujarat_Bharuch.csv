@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-09-20,White Pumpkin,158,Gujarat,24,Bharuch,488,925,1150,1075
+2017-03-29,White Pumpkin,158,Gujarat,24,Bharuch,488,700,900,850
+2017-03-21,White Pumpkin,158,Gujarat,24,Bharuch,488,1350,1750,1600
+2017-01-05,White Pumpkin,158,Gujarat,24,Bharuch,488,1150,1750,1500
+2016-12-19,White Pumpkin,158,Gujarat,24,Bharuch,488,1125,1575,1350
+2016-10-19,White Pumpkin,158,Gujarat,24,Bharuch,488,2025,2650,2500
+2016-09-17,White Pumpkin,158,Gujarat,24,Bharuch,488,1600,2500,2250

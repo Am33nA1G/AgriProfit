@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "census_district_id": 346,
+      "census_district_name": "Garhwa"
+    },
+    {
+      "census_district_id": 347,
+      "census_district_name": "Chatra"
+    },
+    {
+      "census_district_id": 348,
+      "census_district_name": "Kodarma"
+    },
+    {
+      "census_district_id": 349,
+      "census_district_name": "Giridih"
+    },
+    {
+      "census_district_id": 350,
+      "census_district_name": "Deoghar"
+    },
+    {
+      "census_district_id": 351,
+      "census_district_name": "Godda"
+    },
+    {
+      "census_district_id": 352,
+      "census_district_name": "Sahibganj"
+    },
+    {
+      "census_district_id": 353,
+      "census_district_name": "Pakur"
+    },
+    {
+      "census_district_id": 354,
+      "census_district_name": "Dhanbad"
+    },
+    {
+      "census_district_id": 355,
+      "census_district_name": "Bokaro"
+    },
+    {
+      "census_district_id": 356,
+      "census_district_name": "Lohardaga"
+    },
+    {
+      "census_district_id": 357,
+      "census_district_name": "Purbi Singhbhum"
+    },
+    {
+      "census_district_id": 358,
+      "census_district_name": "Palamu"
+    },
+    {
+      "census_district_id": 359,
+      "census_district_name": "Latehar"
+    },
+    {
+      "census_district_id": 360,
+      "census_district_name": "Hazaribagh"
+    },
+    {
+      "census_district_id": 361,
+      "census_district_name": "Ramgarh"
+    },
+    {
+      "census_district_id": 362,
+      "census_district_name": "Dumka"
+    },
+    {
+      "census_district_id": 363,
+      "census_district_name": "Jamtara"
+    },
+    {
+      "census_district_id": 364,
+      "census_district_name": "Ranchi"
+    },
+    {
+      "census_district_id": 365,
+      "census_district_name": "Khunti"
+    },
+    {
+      "census_district_id": 366,
+      "census_district_name": "Gumla"
+    },
+    {
+      "census_district_id": 367,
+      "census_district_name": "Simdega"
+    },
+    {
+      "census_district_id": 368,
+      "census_district_name": "Pashchimi Singhbhum"
+    },
+    {
+      "census_district_id": 369,
+      "census_district_name": "Saraikela-Kharsawan"
+    }
+  ]
+}

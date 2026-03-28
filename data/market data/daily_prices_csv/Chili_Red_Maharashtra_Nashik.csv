@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-28,Chili Red,26,Maharashtra,27,Nashik,516,3200,3200,3200
+2019-03-11,Chili Red,26,Maharashtra,27,Nashik,516,2500,2500,2500
+2016-12-26,Chili Red,26,Maharashtra,27,Nashik,516,7500,7500,7500
+2016-12-23,Chili Red,26,Maharashtra,27,Nashik,516,8000,8000,8000
+2016-05-30,Chili Red,26,Maharashtra,27,Nashik,516,5800,7500,7500

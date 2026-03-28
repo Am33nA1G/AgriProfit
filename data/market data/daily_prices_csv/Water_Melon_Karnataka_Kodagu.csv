@@ -1,0 +1,25 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-02-10,Water Melon,73,Karnataka,29,Kodagu,576,750,750,750
+2019-12-23,Water Melon,73,Karnataka,29,Kodagu,576,1500,1500,1500
+2019-02-28,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2018-11-28,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2018-05-21,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2018-05-02,Water Melon,73,Karnataka,29,Kodagu,576,1500,1500,1500
+2018-04-09,Water Melon,73,Karnataka,29,Kodagu,576,833,833,833
+2018-04-05,Water Melon,73,Karnataka,29,Kodagu,576,800,800,800
+2018-03-09,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-06-08,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-04-28,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-04-27,Water Melon,73,Karnataka,29,Kodagu,576,750,750,750
+2017-04-18,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-04-01,Water Melon,73,Karnataka,29,Kodagu,576,750,1000,750
+2017-03-30,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2017-03-23,Water Melon,73,Karnataka,29,Kodagu,576,500,1000,1000
+2016-12-17,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2016-07-15,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2016-07-02,Water Melon,73,Karnataka,29,Kodagu,576,666,1000,1000
+2016-06-24,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2016-06-23,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2016-06-20,Water Melon,73,Karnataka,29,Kodagu,576,1000,1000,1000
+2016-06-16,Water Melon,73,Karnataka,29,Kodagu,576,500,500,500
+2016-05-26,Water Melon,73,Karnataka,29,Kodagu,576,800,800,800

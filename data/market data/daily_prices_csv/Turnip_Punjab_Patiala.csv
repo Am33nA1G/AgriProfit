@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-05,Turnip,341,Punjab,3,Patiala,48,600,600,600
+2023-12-21,Turnip,341,Punjab,3,Patiala,48,700,800,740
+2023-12-19,Turnip,341,Punjab,3,Patiala,48,1000,1000,1000

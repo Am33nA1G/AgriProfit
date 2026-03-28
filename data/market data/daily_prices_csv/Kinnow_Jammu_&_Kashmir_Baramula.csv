@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-03-12,Kinnow,336,Jammu & Kashmir,1,Baramula,8,6800,7000,6900
+2015-02-05,Kinnow,336,Jammu & Kashmir,1,Baramula,8,2200,2400,2300
+2015-02-04,Kinnow,336,Jammu & Kashmir,1,Baramula,8,1700,1900,1800
+2015-01-29,Kinnow,336,Jammu & Kashmir,1,Baramula,8,1800,2200,2000

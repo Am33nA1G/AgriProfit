@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-10-19,Avare Dal,269,Karnataka,29,Bangalore Rural,583,17000,17000,17000
+2018-10-17,Avare Dal,269,Karnataka,29,Bangalore Rural,583,4800,4800,4800
+2017-08-02,Avare Dal,269,Karnataka,29,Bangalore Rural,583,4000,7400,5000
+2017-04-06,Avare Dal,269,Karnataka,29,Bangalore Rural,583,4500,4500,4500

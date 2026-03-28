@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-08-25,Rice,3,Telangana,36,Karimnagar,534,2300,2300,2300
+2021-08-24,Rice,3,Telangana,36,Karimnagar,534,2300,2300,2300
+2021-08-23,Rice,3,Telangana,36,Karimnagar,534,2300,2500,2400
+2021-08-22,Rice,3,Telangana,36,Karimnagar,534,2300,2300,2300
+2021-08-21,Rice,3,Telangana,36,Karimnagar,534,2300,2300,2300
+2021-08-20,Rice,3,Telangana,36,Karimnagar,534,2300,2300,2300
+2021-08-19,Rice,3,Telangana,36,Karimnagar,534,2000,2300,2300
+2021-08-18,Rice,3,Telangana,36,Karimnagar,534,1900,2300,2300
+2021-08-16,Rice,3,Telangana,36,Karimnagar,534,2100,2300,2300
+2015-04-07,Rice,3,Telangana,36,Karimnagar,534,2800,3000,2900

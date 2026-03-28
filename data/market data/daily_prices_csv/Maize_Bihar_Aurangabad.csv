@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-11-10,Maize,4,Bihar,10,Aurangabad,235,5400,6000,5800
+2022-10-12,Maize,4,Bihar,10,Aurangabad,235,800,900,850
+2022-10-04,Maize,4,Bihar,10,Aurangabad,235,800,900,850
+2022-10-03,Maize,4,Bihar,10,Aurangabad,235,900,1000,950
+2022-09-30,Maize,4,Bihar,10,Aurangabad,235,800,900,850
+2022-09-29,Maize,4,Bihar,10,Aurangabad,235,950,1050,1000
+2022-09-28,Maize,4,Bihar,10,Aurangabad,235,750,850,800
+2022-09-27,Maize,4,Bihar,10,Aurangabad,235,850,950,900
+2022-09-26,Maize,4,Bihar,10,Aurangabad,235,800,900,850

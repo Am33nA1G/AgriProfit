@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-17,Capsicum,164,Gujarat,24,Mahesana,471,5500,5500,5500
+2017-04-04,Capsicum,164,Gujarat,24,Mahesana,471,400,950,675
+2015-01-08,Capsicum,164,Gujarat,24,Mahesana,471,2500,2500,2500

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-22,Banana - Green,90,Bihar,10,Nalanda,229,21500,30000,23500
+2023-08-18,Banana - Green,90,Bihar,10,Nalanda,229,18000,30000,22000
+2023-08-16,Banana - Green,90,Bihar,10,Nalanda,229,25000,40000,30000
+2023-08-12,Banana - Green,90,Bihar,10,Nalanda,229,12000,20000,15000
+2023-08-07,Banana - Green,90,Bihar,10,Nalanda,229,13500,20000,16000
+2023-03-28,Banana - Green,90,Bihar,10,Nalanda,229,2850,4000,3240
+2023-03-22,Banana - Green,90,Bihar,10,Nalanda,229,2000,3000,2310
+2023-03-13,Banana - Green,90,Bihar,10,Nalanda,229,2000,3000,2350
+2023-01-23,Banana - Green,90,Bihar,10,Nalanda,229,2200,3000,2400

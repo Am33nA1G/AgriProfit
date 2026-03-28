@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-08-14,Castor Seed,123,Uttar Pradesh,9,Mahamaya Nagar,144,3500,3700,3600
+2018-07-07,Castor Seed,123,Uttar Pradesh,9,Mahamaya Nagar,144,3400,3550,3500
+2018-07-06,Castor Seed,123,Uttar Pradesh,9,Mahamaya Nagar,144,3350,3500,3400
+2018-07-04,Castor Seed,123,Uttar Pradesh,9,Mahamaya Nagar,144,3300,3500,3400

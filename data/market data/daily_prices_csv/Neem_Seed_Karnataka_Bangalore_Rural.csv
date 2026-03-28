@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-09-04,Neem Seed,126,Karnataka,29,Bangalore Rural,583,1500,6075,3787
+2018-08-02,Neem Seed,126,Karnataka,29,Bangalore Rural,583,700,715,708
+2018-07-19,Neem Seed,126,Karnataka,29,Bangalore Rural,583,1050,1050,1050
+2018-07-16,Neem Seed,126,Karnataka,29,Bangalore Rural,583,787,825,800
+2018-07-11,Neem Seed,126,Karnataka,29,Bangalore Rural,583,940,1016,986
+2018-07-10,Neem Seed,126,Karnataka,29,Bangalore Rural,583,1225,1333,1330
+2018-02-07,Neem Seed,126,Karnataka,29,Bangalore Rural,583,1350,1350,1350
+2017-07-19,Neem Seed,126,Karnataka,29,Bangalore Rural,583,990,990,990
+2015-11-21,Neem Seed,126,Karnataka,29,Bangalore Rural,583,700,700,700
+2015-07-14,Neem Seed,126,Karnataka,29,Bangalore Rural,583,800,960,850

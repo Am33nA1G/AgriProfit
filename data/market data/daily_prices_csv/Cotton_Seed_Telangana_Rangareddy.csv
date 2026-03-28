@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-03-02,Cotton Seed,99,Telangana,36,Rangareddy,537,952,952,952
+2015-04-17,Cotton Seed,99,Telangana,36,Rangareddy,537,1310,1310,1310
+2015-04-06,Cotton Seed,99,Telangana,36,Rangareddy,537,1500,1500,1500

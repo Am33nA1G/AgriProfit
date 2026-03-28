@@ -1,0 +1,8 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-01-07,Basil,435,Madhya Pradesh,23,Alirajpur,465,10000,10000,10000
+2025-01-05,Basil,435,Madhya Pradesh,23,Alirajpur,465,10000,10000,10000
+2025-01-04,Basil,435,Madhya Pradesh,23,Alirajpur,465,9500,10000,10000
+2024-12-26,Basil,435,Madhya Pradesh,23,Alirajpur,465,10000,10000,10000
+2024-12-09,Basil,435,Madhya Pradesh,23,Alirajpur,465,15900,16000,16000
+2024-12-05,Basil,435,Madhya Pradesh,23,Alirajpur,465,15900,16000,15900
+2024-10-08,Basil,435,Madhya Pradesh,23,Alirajpur,465,10000,10000,10000

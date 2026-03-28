@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-01-18,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,2800,3100,3000
+2024-01-08,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1900,2100,2000
+2023-12-29,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,2000,2000,2000
+2023-12-27,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,2000,2000,2000
+2023-12-18,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1700,1900,1800
+2023-12-13,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1900,2100,2000
+2023-12-04,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1600,1900,1800
+2023-12-03,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1800,2200,2000
+2023-12-02,Buffalo - He,216,Uttar Pradesh,9,Jalaun,165,1900,2100,2000

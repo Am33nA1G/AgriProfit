@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-09-26,Bitter gourd,81,Uttarakhand,5,Champawat,65,900,920,910
+2025-09-12,Bitter gourd,81,Uttarakhand,5,Champawat,65,800,820,810
+2025-09-03,Bitter gourd,81,Uttarakhand,5,Champawat,65,800,820,810
+2025-08-10,Bitter gourd,81,Uttarakhand,5,Champawat,65,900,950,950
+2025-07-10,Bitter gourd,81,Uttarakhand,5,Champawat,65,1000,1050,1020
+2025-06-26,Bitter gourd,81,Uttarakhand,5,Champawat,65,800,820,810
+2025-06-19,Bitter gourd,81,Uttarakhand,5,Champawat,65,900,920,910
+2025-05-22,Bitter gourd,81,Uttarakhand,5,Champawat,65,900,920,910
+2024-07-10,Bitter gourd,81,Uttarakhand,5,Champawat,65,900,1000,950

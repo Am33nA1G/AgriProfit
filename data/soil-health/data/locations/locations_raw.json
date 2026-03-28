@@ -1,0 +1,359 @@
+{
+  "getStates": [],
+  "getDistricts": [],
+  "getBlocks": [
+    {
+      "_id": "6492fac4680216eb6c93e2c3",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "CAMPBELL BAY - 6498",
+      "createdAt": "2023-06-21T13:27:32.134Z",
+      "updatedAt": "2023-10-10T06:58:36.435Z",
+      "__v": 0,
+      "code": "6498"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c5",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce89519359b7438e7d89",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NORTH AND MIDDLE ANDAMAN",
+        "createdAt": "2023-02-25T09:02:01.637Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "632",
+        "prayas": true,
+        "id": "63f9ce89519359b7438e7d89"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "DIGLIPUR - 6492",
+      "createdAt": "2023-06-21T13:27:32.227Z",
+      "updatedAt": "2023-10-10T06:58:37.008Z",
+      "__v": 0,
+      "code": "6492"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2cb",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce47519359b7438e76fd",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "SOUTH ANDAMANS",
+        "createdAt": "2023-02-25T09:00:55.142Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "602",
+        "prayas": true,
+        "id": "63f9ce47519359b7438e76fd"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "FERRARGUNJ - 6493",
+      "createdAt": "2023-06-21T13:27:32.461Z",
+      "updatedAt": "2023-10-10T06:58:37.431Z",
+      "__v": 0,
+      "code": "6493"
+    },
+    {
+      "_id": "6492fac2680216eb6c93e2bd",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "CAR NICOBAR - 6499",
+      "createdAt": "2023-06-21T13:27:30.046Z",
+      "updatedAt": "2024-07-22T06:08:22.828Z",
+      "__v": 0,
+      "code": "6499",
+      "aspirationalblock": true
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2cd",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce47519359b7438e76fd",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "SOUTH ANDAMANS",
+        "createdAt": "2023-02-25T09:00:55.142Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "602",
+        "prayas": true,
+        "id": "63f9ce47519359b7438e76fd"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "LITTLE ANDAMAN - 6494",
+      "createdAt": "2023-06-21T13:27:32.534Z",
+      "updatedAt": "2023-10-10T06:58:37.566Z",
+      "__v": 0,
+      "code": "6494"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c7",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce89519359b7438e7d89",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NORTH AND MIDDLE ANDAMAN",
+        "createdAt": "2023-02-25T09:02:01.637Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "632",
+        "prayas": true,
+        "id": "63f9ce89519359b7438e7d89"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "MAYABUNDER - 6495",
+      "createdAt": "2023-06-21T13:27:32.298Z",
+      "updatedAt": "2023-10-10T06:58:37.164Z",
+      "__v": 0,
+      "code": "6495"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c1",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "NANCOWRIE - 6500",
+      "createdAt": "2023-06-21T13:27:32.059Z",
+      "updatedAt": "2024-07-22T06:08:22.868Z",
+      "__v": 0,
+      "code": "6500",
+      "aspirationalblock": true
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2cf",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce47519359b7438e76fd",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "SOUTH ANDAMANS",
+        "createdAt": "2023-02-25T09:00:55.142Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "602",
+        "prayas": true,
+        "id": "63f9ce47519359b7438e76fd"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "PROTHRAPUR - 6496",
+      "createdAt": "2023-06-21T13:27:32.608Z",
+      "updatedAt": "2023-10-10T06:58:37.695Z",
+      "__v": 0,
+      "code": "6496"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c9",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce89519359b7438e7d89",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NORTH AND MIDDLE ANDAMAN",
+        "createdAt": "2023-02-25T09:02:01.637Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "632",
+        "prayas": true,
+        "id": "63f9ce89519359b7438e7d89"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "RANGAT - 6497",
+      "createdAt": "2023-06-21T13:27:32.388Z",
+      "updatedAt": "2023-10-10T06:58:37.308Z",
+      "__v": 0,
+      "code": "6497"
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c3",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "CAMPBELL BAY - 6498",
+      "createdAt": "2023-06-21T13:27:32.134Z",
+      "updatedAt": "2023-10-10T06:58:36.435Z",
+      "__v": 0,
+      "code": "6498"
+    },
+    {
+      "_id": "6492fac2680216eb6c93e2bd",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "CAR NICOBAR - 6499",
+      "createdAt": "2023-06-21T13:27:30.046Z",
+      "updatedAt": "2024-07-22T06:08:22.828Z",
+      "__v": 0,
+      "code": "6499",
+      "aspirationalblock": true
+    },
+    {
+      "_id": "6492fac4680216eb6c93e2c1",
+      "state": {
+        "_id": "63f9ce47519359b7438e76fa",
+        "name": "ANDAMAN & NICOBAR",
+        "createdAt": "2023-02-25T09:00:55.043Z",
+        "updatedAt": "2023-10-02T12:58:02.678Z",
+        "__v": 0,
+        "code": "35",
+        "id": "63f9ce47519359b7438e76fa"
+      },
+      "district": {
+        "_id": "63f9ce61519359b7438e7999",
+        "state": "63f9ce47519359b7438e76fa",
+        "name": "NICOBARS",
+        "createdAt": "2023-02-25T09:01:21.318Z",
+        "updatedAt": "2026-01-06T07:15:19.701Z",
+        "__v": 0,
+        "code": "603",
+        "prayas": true,
+        "id": "63f9ce61519359b7438e7999"
+      },
+      "subdistrict": "63f9ce47519359b7438e76fa",
+      "name": "NANCOWRIE - 6500",
+      "createdAt": "2023-06-21T13:27:32.059Z",
+      "updatedAt": "2024-07-22T06:08:22.868Z",
+      "__v": 0,
+      "code": "6500",
+      "aspirationalblock": true
+    }
+  ],
+  "getVillages": []
+}

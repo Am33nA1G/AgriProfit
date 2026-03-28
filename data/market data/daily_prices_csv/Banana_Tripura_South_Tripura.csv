@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-04-11,Banana,19,Tripura,16,South Tripura,290,3000,4000,3500
+2019-11-23,Banana,19,Tripura,16,South Tripura,290,2450,2600,2550
+2019-11-17,Banana,19,Tripura,16,South Tripura,290,1800,2000,1900
+2019-11-15,Banana,19,Tripura,16,South Tripura,290,1600,2000,1800
+2019-11-12,Banana,19,Tripura,16,South Tripura,290,2500,2650,2600

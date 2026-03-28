@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-12-12,Chili Red,26,Karnataka,29,Mandya,573,7875,14500,13000
+2019-11-28,Chili Red,26,Karnataka,29,Mandya,573,14000,14000,14000
+2019-11-21,Chili Red,26,Karnataka,29,Mandya,573,13863,13863,13863

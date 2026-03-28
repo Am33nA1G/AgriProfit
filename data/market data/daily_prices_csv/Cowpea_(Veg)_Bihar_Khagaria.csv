@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-09-06,Cowpea (Veg),89,Bihar,10,Khagaria,223,700,900,800
+2023-09-05,Cowpea (Veg),89,Bihar,10,Khagaria,223,750,900,800
+2023-09-04,Cowpea (Veg),89,Bihar,10,Khagaria,223,3300,3500,3400
+2023-09-03,Cowpea (Veg),89,Bihar,10,Khagaria,223,1400,1600,1500
+2023-09-02,Cowpea (Veg),89,Bihar,10,Khagaria,223,1400,1600,1500

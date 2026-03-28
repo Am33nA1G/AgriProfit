@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-07-15,Linseed,67,Madhya Pradesh,23,Balaghat,457,700,700,700
+2019-04-11,Linseed,67,Madhya Pradesh,23,Balaghat,457,3700,3900,3800
+2019-02-18,Linseed,67,Madhya Pradesh,23,Balaghat,457,3700,4500,4400
+2019-02-05,Linseed,67,Madhya Pradesh,23,Balaghat,457,3000,3500,3200
+2017-12-11,Linseed,67,Madhya Pradesh,23,Balaghat,457,3500,3500,3500
+2015-07-23,Linseed,67,Madhya Pradesh,23,Balaghat,457,2500,4000,3000

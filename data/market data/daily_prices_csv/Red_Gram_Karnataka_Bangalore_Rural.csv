@@ -1,0 +1,18 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-01-19,Red Gram,7,Karnataka,29,Bangalore Rural,583,9855,10074,9900
+2016-01-05,Red Gram,7,Karnataka,29,Bangalore Rural,583,10120,10500,10400
+2015-12-23,Red Gram,7,Karnataka,29,Bangalore Rural,583,10125,10530,10400
+2015-12-18,Red Gram,7,Karnataka,29,Bangalore Rural,583,10125,10530,10400
+2015-12-09,Red Gram,7,Karnataka,29,Bangalore Rural,583,7738,7738,7738
+2015-12-05,Red Gram,7,Karnataka,29,Bangalore Rural,583,10530,10530,10530
+2015-11-23,Red Gram,7,Karnataka,29,Bangalore Rural,583,10530,10530,10530
+2015-11-04,Red Gram,7,Karnataka,29,Bangalore Rural,583,10025,10590,10225
+2015-11-02,Red Gram,7,Karnataka,29,Bangalore Rural,583,9750,9750,9750
+2015-10-21,Red Gram,7,Karnataka,29,Bangalore Rural,583,9490,10530,9850
+2015-10-19,Red Gram,7,Karnataka,29,Bangalore Rural,583,10070,10070,10070
+2015-10-07,Red Gram,7,Karnataka,29,Bangalore Rural,583,9490,10920,10200
+2015-09-15,Red Gram,7,Karnataka,29,Bangalore Rural,583,9062.5,9375,9245
+2015-07-29,Red Gram,7,Karnataka,29,Bangalore Rural,583,8359,9245,8900
+2015-07-21,Red Gram,7,Karnataka,29,Bangalore Rural,583,8100,8360,8250
+2015-07-14,Red Gram,7,Karnataka,29,Bangalore Rural,583,8325,8360,8350
+2015-07-07,Red Gram,7,Karnataka,29,Bangalore Rural,583,7950,8175,8065

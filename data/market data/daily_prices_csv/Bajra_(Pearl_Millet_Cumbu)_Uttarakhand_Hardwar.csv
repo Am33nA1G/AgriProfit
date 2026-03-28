@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-06-04,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Hardwar,68,2100,2500,2300
+2015-06-01,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Hardwar,68,1300,1300,1300
+2015-05-23,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Hardwar,68,1250,1250,1250
+2015-01-28,Bajra (Pearl Millet/Cumbu),28,Uttarakhand,5,Hardwar,68,1300,1500,1400

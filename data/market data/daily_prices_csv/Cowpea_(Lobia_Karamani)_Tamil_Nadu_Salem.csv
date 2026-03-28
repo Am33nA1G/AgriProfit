@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-10-22,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Salem,608,4500,4700,4600
+2017-11-16,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Salem,608,4050,4250,4100
+2017-11-13,Cowpea (Lobia/Karamani),92,Tamil Nadu,33,Salem,608,2600,2750,2650

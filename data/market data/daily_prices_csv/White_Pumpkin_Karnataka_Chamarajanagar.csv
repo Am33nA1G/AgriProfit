@@ -1,0 +1,3 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-08-25,White Pumpkin,158,Karnataka,29,Chamarajanagar,578,2500,2500,2500
+2019-11-28,White Pumpkin,158,Karnataka,29,Chamarajanagar,578,800,1200,1000

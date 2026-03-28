@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-12-26,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6200,6500,6500
+2015-12-25,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6000,7000,6800
+2015-11-26,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6500,7000,7000
+2015-11-19,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6500,7000,7000
+2015-11-17,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6500,7000,7000
+2015-11-13,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6000,6500,6500
+2015-11-10,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6500,7000,7000
+2015-11-09,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,6000,7000,7000
+2015-11-07,Bengal Gram (Gram)(Whole),6,Punjab,3,Hoshiarpur,38,5000,6000,5800

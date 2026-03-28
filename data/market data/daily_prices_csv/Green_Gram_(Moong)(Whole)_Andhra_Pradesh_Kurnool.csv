@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-09-10,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,6200,6400,6300
+2015-09-09,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,6000,6500,6250
+2015-08-12,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,5800,6000,5900
+2015-06-20,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,4500,5000,4750
+2015-04-04,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,6800,7400,7100
+2015-02-18,Green Gram (Moong)(Whole),9,Andhra Pradesh,28,Kurnool,552,6800,7000,6900

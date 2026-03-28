@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2016-04-25,Gur (Jaggery),74,Maharashtra,27,Dhule,498,1300,1845,1675
+2016-04-12,Gur (Jaggery),74,Maharashtra,27,Dhule,498,2500,2500,2500
+2016-03-18,Gur (Jaggery),74,Maharashtra,27,Dhule,498,1350,1586,1586

@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2020-05-05,Peach,331,Uttar Pradesh,9,Jyotiba Phule Nagar,137,3040,3100,3070
+2020-05-04,Peach,331,Uttar Pradesh,9,Jyotiba Phule Nagar,137,3030,3090,3060
+2020-05-03,Peach,331,Uttar Pradesh,9,Jyotiba Phule Nagar,137,3020,3080,3050
+2020-05-02,Peach,331,Uttar Pradesh,9,Jyotiba Phule Nagar,137,3010,3070,3040
+2020-05-01,Peach,331,Uttar Pradesh,9,Jyotiba Phule Nagar,137,3040,3100,3070

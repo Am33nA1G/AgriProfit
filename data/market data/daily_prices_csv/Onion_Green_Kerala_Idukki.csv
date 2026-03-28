@@ -1,0 +1,11 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-07-16,Onion Green,358,Kerala,32,Idukki,596,4000,5000,4500
+2023-07-14,Onion Green,358,Kerala,32,Idukki,596,5000,6000,6000
+2023-07-12,Onion Green,358,Kerala,32,Idukki,596,5000,6500,6000
+2023-07-08,Onion Green,358,Kerala,32,Idukki,596,6000,7500,7000
+2023-06-29,Onion Green,358,Kerala,32,Idukki,596,4500,5000,5000
+2023-06-16,Onion Green,358,Kerala,32,Idukki,596,6000,7500,7000
+2023-06-02,Onion Green,358,Kerala,32,Idukki,596,5000,6000,6000
+2023-03-29,Onion Green,358,Kerala,32,Idukki,596,4500,5000,5000
+2023-03-23,Onion Green,358,Kerala,32,Idukki,596,5000,6500,6000
+2023-03-10,Onion Green,358,Kerala,32,Idukki,596,5000,6500,6000

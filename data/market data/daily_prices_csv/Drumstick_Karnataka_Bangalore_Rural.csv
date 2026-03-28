@@ -1,0 +1,21 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-09,Drumstick,168,Karnataka,29,Bangalore Rural,583,15000,20000,17500
+2024-07-08,Drumstick,168,Karnataka,29,Bangalore Rural,583,10000,12000,11000
+2016-07-06,Drumstick,168,Karnataka,29,Bangalore Rural,583,4300,4300,4300
+2016-03-19,Drumstick,168,Karnataka,29,Bangalore Rural,583,6800,7000,6900
+2016-03-01,Drumstick,168,Karnataka,29,Bangalore Rural,583,7000,7400,7200
+2016-02-18,Drumstick,168,Karnataka,29,Bangalore Rural,583,6800,7000,6900
+2016-02-10,Drumstick,168,Karnataka,29,Bangalore Rural,583,7000,7300,7100
+2015-10-28,Drumstick,168,Karnataka,29,Bangalore Rural,583,3600,3600,3600
+2015-09-23,Drumstick,168,Karnataka,29,Bangalore Rural,583,3000,3000,3000
+2015-09-14,Drumstick,168,Karnataka,29,Bangalore Rural,583,3300,3300,3300
+2015-08-31,Drumstick,168,Karnataka,29,Bangalore Rural,583,3000,3000,3000
+2015-08-10,Drumstick,168,Karnataka,29,Bangalore Rural,583,3600,3800,3700
+2015-06-06,Drumstick,168,Karnataka,29,Bangalore Rural,583,6300,6300,6300
+2015-05-29,Drumstick,168,Karnataka,29,Bangalore Rural,583,600,600,600
+2015-05-22,Drumstick,168,Karnataka,29,Bangalore Rural,583,500,500,500
+2015-05-21,Drumstick,168,Karnataka,29,Bangalore Rural,583,4000,4150,4100
+2015-04-30,Drumstick,168,Karnataka,29,Bangalore Rural,583,1000,1800,1600
+2015-04-15,Drumstick,168,Karnataka,29,Bangalore Rural,583,1600,1800,1700
+2015-04-08,Drumstick,168,Karnataka,29,Bangalore Rural,583,300,400,350
+2015-01-31,Drumstick,168,Karnataka,29,Bangalore Rural,583,1000,1500,1200

@@ -1,0 +1,13 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-02-28,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,1200,1500,1400
+2021-03-09,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,500,520,510
+2021-02-20,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,1000,1000,1000
+2020-03-05,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,600,800,700
+2020-03-03,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,700,800,750
+2020-03-02,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,600,800,700
+2020-02-28,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,600,800,700
+2020-02-24,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,700,800,750
+2020-02-23,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,600,800,700
+2020-02-20,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,700,800,750
+2020-02-18,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,600,800,700
+2018-02-20,Ber (Zizyphus/Borehannu),357,Uttar Pradesh,9,Kanpur Nagar,164,400,560,500

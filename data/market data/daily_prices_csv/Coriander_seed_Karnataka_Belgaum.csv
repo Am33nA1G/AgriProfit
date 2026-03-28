@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2018-12-28,Coriander seed,108,Karnataka,29,Belgaum,555,7500,7500,7500
+2016-10-04,Coriander seed,108,Karnataka,29,Belgaum,555,3500,3500,3500
+2015-01-23,Coriander seed,108,Karnataka,29,Belgaum,555,6500,6500,6500

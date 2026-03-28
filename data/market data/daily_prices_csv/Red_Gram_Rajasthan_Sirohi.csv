@@ -1,0 +1,9 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2015-07-07,Red Gram,7,Rajasthan,8,Sirohi,117,4000,4075,4050
+2015-06-07,Red Gram,7,Rajasthan,8,Sirohi,117,4000,4075,4050
+2015-06-06,Red Gram,7,Rajasthan,8,Sirohi,117,3900,4050,4000
+2015-04-15,Red Gram,7,Rajasthan,8,Sirohi,117,3200,3275,3250
+2015-03-10,Red Gram,7,Rajasthan,8,Sirohi,117,2850,2950,2900
+2015-03-09,Red Gram,7,Rajasthan,8,Sirohi,117,2725,2775,2750
+2015-01-08,Red Gram,7,Rajasthan,8,Sirohi,117,2700,2750,2725
+2015-01-07,Red Gram,7,Rajasthan,8,Sirohi,117,2575,2625,2600

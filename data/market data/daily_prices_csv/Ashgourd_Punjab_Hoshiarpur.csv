@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-06-07,Ashgourd,83,Punjab,3,Hoshiarpur,38,1000,1200,1100
+2021-06-06,Ashgourd,83,Punjab,3,Hoshiarpur,38,700,1000,800
+2021-06-05,Ashgourd,83,Punjab,3,Hoshiarpur,38,800,1200,1100

@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2017-06-25,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1500,1700,1600
+2017-06-20,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1500,1700,1600
+2017-04-04,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1500,1600,1550
+2015-12-31,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1700,1850,1800
+2015-11-05,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1300,1500,1400
+2015-11-04,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1300,1500,1400
+2015-11-01,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1300,1500,1400
+2015-09-30,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1500,1800,1600
+2015-09-29,Paddy(Dhan)(Common),2,Assam,18,Tinsukia,309,1500,1700,1600

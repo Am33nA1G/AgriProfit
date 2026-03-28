@@ -1,0 +1,17 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-09,Garlic,25,Assam,18,Dhubri,301,3000,3200,3100
+2022-02-07,Garlic,25,Assam,18,Dhubri,301,2800,3200,3000
+2022-02-01,Garlic,25,Assam,18,Dhubri,301,3000,3200,3100
+2016-04-20,Garlic,25,Assam,18,Dhubri,301,9000,9900,9500
+2016-04-05,Garlic,25,Assam,18,Dhubri,301,9000,9800,9500
+2016-03-19,Garlic,25,Assam,18,Dhubri,301,9000,9800,9600
+2016-03-17,Garlic,25,Assam,18,Dhubri,301,9000,9800,9400
+2016-03-08,Garlic,25,Assam,18,Dhubri,301,9000,9500,9400
+2016-02-17,Garlic,25,Assam,18,Dhubri,301,9200,9800,9500
+2016-02-16,Garlic,25,Assam,18,Dhubri,301,9000,9800,9500
+2016-02-05,Garlic,25,Assam,18,Dhubri,301,9000,9700,9500
+2016-02-01,Garlic,25,Assam,18,Dhubri,301,9000,9800,9500
+2015-11-20,Garlic,25,Assam,18,Dhubri,301,6500,7000,7000
+2015-11-19,Garlic,25,Assam,18,Dhubri,301,6500,7000,7000
+2015-02-19,Garlic,25,Assam,18,Dhubri,301,8000,9050,9000
+2015-01-27,Garlic,25,Assam,18,Dhubri,301,7000,9000,8000

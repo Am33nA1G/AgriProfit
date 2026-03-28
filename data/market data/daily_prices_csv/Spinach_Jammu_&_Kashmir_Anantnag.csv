@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-12-04,Spinach,342,Jammu & Kashmir,1,Anantnag,14,4500,5000,4750
+2024-11-29,Spinach,342,Jammu & Kashmir,1,Anantnag,14,4000,4200,4100
+2024-11-27,Spinach,342,Jammu & Kashmir,1,Anantnag,14,3000,3500,3250
+2024-11-25,Spinach,342,Jammu & Kashmir,1,Anantnag,14,3500,3800,3650
+2024-11-21,Spinach,342,Jammu & Kashmir,1,Anantnag,14,3800,4000,3900
+2024-11-20,Spinach,342,Jammu & Kashmir,1,Anantnag,14,4000,4200,4100
+2024-11-14,Spinach,342,Jammu & Kashmir,1,Anantnag,14,3500,4000,3750
+2024-11-12,Spinach,342,Jammu & Kashmir,1,Anantnag,14,4000,4500,4250
+2024-11-09,Spinach,342,Jammu & Kashmir,1,Anantnag,14,4000,4200,4100

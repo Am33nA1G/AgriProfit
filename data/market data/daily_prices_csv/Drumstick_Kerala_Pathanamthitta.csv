@@ -1,0 +1,7 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2025-03-27,Drumstick,168,Kerala,32,Pathanamthitta,599,4000,5200,4600
+2025-03-26,Drumstick,168,Kerala,32,Pathanamthitta,599,2800,3200,3000
+2025-03-25,Drumstick,168,Kerala,32,Pathanamthitta,599,4000,5200,4600
+2025-03-06,Drumstick,168,Kerala,32,Pathanamthitta,599,7000,9000,8100
+2025-02-24,Drumstick,168,Kerala,32,Pathanamthitta,599,9000,10000,9300
+2024-03-29,Drumstick,168,Kerala,32,Pathanamthitta,599,5000,6000,5300

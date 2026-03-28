@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2019-11-21,Groundnut pods (raw),312,Chhattisgarh,22,Raigarh,403,4000,4000,4000
+2019-11-20,Groundnut pods (raw),312,Chhattisgarh,22,Raigarh,403,4000,4000,4000
+2019-01-07,Groundnut pods (raw),312,Chhattisgarh,22,Raigarh,403,4500,4500,4500
+2018-12-15,Groundnut pods (raw),312,Chhattisgarh,22,Raigarh,403,1751,1751,1751
+2018-11-17,Groundnut pods (raw),312,Chhattisgarh,22,Raigarh,403,4500,4500,4500

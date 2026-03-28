@@ -1,0 +1,10 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2021-07-29,Garlic,25,Rajasthan,8,Barmer,115,3900,4000,3950
+2021-07-24,Garlic,25,Rajasthan,8,Barmer,115,4500,5000,4800
+2021-07-13,Garlic,25,Rajasthan,8,Barmer,115,4800,5000,4900
+2021-06-27,Garlic,25,Rajasthan,8,Barmer,115,3800,4000,3900
+2021-06-24,Garlic,25,Rajasthan,8,Barmer,115,3800,4000,3900
+2021-05-30,Garlic,25,Rajasthan,8,Barmer,115,3800,4000,3900
+2021-05-19,Garlic,25,Rajasthan,8,Barmer,115,3800,4000,3900
+2021-02-22,Garlic,25,Rajasthan,8,Barmer,115,3800,4000,3900
+2017-06-23,Garlic,25,Rajasthan,8,Barmer,115,4000,4500,4300

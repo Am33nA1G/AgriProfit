@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-02-28,Copra,129,Tamil Nadu,33,Tiruppur,633,9000,10000,9500
+2021-09-30,Copra,129,Tamil Nadu,33,Tiruppur,633,9000,10500,9500
+2021-08-06,Copra,129,Tamil Nadu,33,Tiruppur,633,1950,2150,2050
+2017-09-13,Copra,129,Tamil Nadu,33,Tiruppur,633,6500,8500,7500

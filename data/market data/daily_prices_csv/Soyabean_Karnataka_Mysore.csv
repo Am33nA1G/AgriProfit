@@ -1,0 +1,6 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2024-05-27,Soyabean,13,Karnataka,29,Mysore,577,5100,5150,5100
+2024-04-06,Soyabean,13,Karnataka,29,Mysore,577,5500,6500,6000
+2022-03-25,Soyabean,13,Karnataka,29,Mysore,577,7600,8000,7800
+2020-02-07,Soyabean,13,Karnataka,29,Mysore,577,3351,3351,3351
+2017-04-04,Soyabean,13,Karnataka,29,Mysore,577,3300,3300,3300

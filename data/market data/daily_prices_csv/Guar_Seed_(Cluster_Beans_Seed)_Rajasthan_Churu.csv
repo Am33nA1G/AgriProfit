@@ -1,0 +1,5 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-12-28,Guar Seed (Cluster Beans Seed),413,Rajasthan,8,Churu,102,5000,5290,5180
+2023-01-28,Guar Seed (Cluster Beans Seed),413,Rajasthan,8,Churu,102,5625,5725,5700
+2022-03-14,Guar Seed (Cluster Beans Seed),413,Rajasthan,8,Churu,102,6621,6651,6621
+2017-11-02,Guar Seed (Cluster Beans Seed),413,Rajasthan,8,Churu,102,1300,1400,1350

@@ -1,0 +1,12 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2022-07-29,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,5100,5300,5235
+2022-06-10,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,2600,2700,2640
+2020-06-18,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,900,1000,950
+2019-06-13,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,1450,1550,1500
+2018-07-21,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,1500,1700,1600
+2018-07-20,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,1475,1575,1525
+2018-07-19,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,1300,1500,1400
+2018-07-09,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,950,1050,1000
+2018-06-29,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,850,950,900
+2018-06-27,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,925,1025,980
+2018-06-26,Mango (Raw-Ripe),172,Uttar Pradesh,9,Mau,192,900,1000,950

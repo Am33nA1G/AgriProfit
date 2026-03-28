@@ -1,0 +1,4 @@
+date,commodity,commodity_id,state,state_id,district,district_id,price_min,price_max,price_modal
+2023-08-08,Ragi (Finger Millet),30,Maharashtra,27,Raigarh,520,3000,4500,3500
+2021-02-16,Ragi (Finger Millet),30,Maharashtra,27,Raigarh,520,2000,4000,3500
+2020-12-09,Ragi (Finger Millet),30,Maharashtra,27,Raigarh,520,3000,4000,3500
